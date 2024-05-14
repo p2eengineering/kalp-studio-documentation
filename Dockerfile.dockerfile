@@ -10,6 +10,7 @@ RUN pip install mkdocs-material
 
 EXPOSE 8000
 
-ENV NAME MkDocsMaterial
+# Build doc by default
 
-CMD ["mkdocs", "serve", "--dev-addr=0.0.0.0:8000"]
+ENTRYPOINT ["mkdocs"]
+CMD ["serve", "--dev-addr", "0.0.0.0:8000"]
