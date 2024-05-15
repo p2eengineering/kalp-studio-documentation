@@ -2,7 +2,7 @@
 
 ENVIRONMENT=$1
 FRONTEND_HOST=$ENVIRONMENT-kalp-studio-documentation
-IMAGE_TAG=kalp-auth-frontend:$ENVIRONMENT-$BUILD_NUMBER
+IMAGE_TAG=kalp-studio-documentation:$ENVIRONMENT-$BUILD_NUMBER
 case $ENVIRONMENT in
   # "dev")
     # SECRET_ARN=xxx
