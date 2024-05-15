@@ -4,18 +4,18 @@ ENVIRONMENT=$1
 FRONTEND_HOST=$ENVIRONMENT-kalp-studio-documentation
 IMAGE_TAG=kalp-studio-documentation:$ENVIRONMENT-$BUILD_NUMBER
 case $ENVIRONMENT in
-  # "dev")
-    # SECRET_ARN=xxx
-    # CLOUDFRONT_ID=xxx
+  "dev")
+    SECRET_ARN=xxx
+    CLOUDFRONT_ID=xxx
     ;;
-  # "qa")
+  "qa")
 
-    # SECRET_ARN=xxx
-    # CLOUDFRONT_ID=xxx
+    SECRET_ARN=xxx
+    CLOUDFRONT_ID=xxx
 
     ;;
   "stg")
-    # SECRET_ARN=xxx
+    SECRET_ARN=xxx
     CLOUDFRONT_ID=E3QG5RU6XX8VQ8
     ;;
   "prod")
