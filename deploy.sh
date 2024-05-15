@@ -1,8 +1,8 @@
 #!/bin/sh -xe
 
 ENVIRONMENT=$1
-FRONTEND_HOST=$ENVIRONMENT-kalp-studio-documentation
-IMAGE_TAG=kalp-studio-documentation:$ENVIRONMENT-$BUILD_NUMBER
+FRONTEND_HOST=$ENVIRONMENT-kalp-studio-doc
+IMAGE_TAG=kalp-studio-doc:$ENVIRONMENT-$BUILD_NUMBER
 case $ENVIRONMENT in
   "dev")
     SECRET_ARN=xxx
