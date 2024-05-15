@@ -1,19 +1,32 @@
 FROM python:3.10-slim
 
+# Set build directory
 WORKDIR /app
 
-COPY . /app
+# Install dependencies
+COPY requirements.txt .
+RUN \
+  pip install -r requirements.txt && \
+  rm requirements.txt
 
-RUN pip install --no-cache-dir -r requirements.txt
+# Copy files necessary for build
+COPY material material
+# COPY MANIFEST.in MANIFEST.in
+# COPY package.json package.json
+# COPY setup.py setup.py
 
-RUN pip install mkdocs-material
+# Perform build and cleanup artifacts
+RUN \
+  python setup.py install && \
+  rm -rf /app/*
 
+# Set working directory
+WORKDIR /docs
+
+# Expose MkDocs development server port
 EXPOSE 8000
 
-# Build doc by default
+# Start development server by default
+ENTRYPOINT ["mkdocs"]
 
-# ENTRYPOINT ["mkdocs"]
-
-# CMD ["serve", "--dev-addr", "0.0.0.0:8000"]
-
-CMD ["mkdocs", "serve"]
+CMD ["serve", "--dev-addr=0.0.0.0:8000"]
