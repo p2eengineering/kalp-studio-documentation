@@ -51,7 +51,7 @@ cleanup () {
 	rm -rf secrets.json
 }
 
-get_secrets
+# get_secrets
 docker_build
 sync_bucket
 cleanup
