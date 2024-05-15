@@ -3,7 +3,7 @@ site_author: Siddhesh Patankar
 copyright: Copyright © 2024 Kalp studio. All rights reserved.
 repo_url: https://github.com/p2eengineering/kalp-studio-documentation
 site_url: http://stg-documentation.p2eppl.com/
-repo_name: Kalp Studio documentation
+repo_name: Kalp-studio-documentation
 
 theme:
   font: 
