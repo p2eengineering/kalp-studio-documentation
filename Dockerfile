@@ -16,9 +16,9 @@ RUN \
 # COPY setup.py setup.py
 
 # Perform build and cleanup artifacts
-RUN \
-  python setup.py install && \
-  rm -rf /app/*
+# RUN \
+#   python setup.py install && \
+#   rm -rf /app/*
 
 # Set working directory
 WORKDIR /docs
