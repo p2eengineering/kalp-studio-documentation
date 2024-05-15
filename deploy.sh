@@ -26,9 +26,9 @@ case $ENVIRONMENT in
     ;;
 esac
 
-get_secrets () {
-	aws secretsmanager get-secret-value --secret-id $SECRET_ARN --region ap-south-1 > secrets.json
-}
+# get_secrets () {
+# 	aws secretsmanager get-secret-value --secret-id $SECRET_ARN --region ap-south-1 > secrets.json
+# }
 
 docker_build () {
 
