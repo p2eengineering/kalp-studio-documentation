@@ -7,7 +7,7 @@ pipeline {
 	environment { 
 	    ENVIRONMENT=''
     	SECRET_ARN=''
-		SLACK_CHANNEL= 'pl-builds-alerts'		
+		// SLACK_CHANNEL= 'pl-builds-alerts'		
     }
 	stages {
 		stage('PRE_CHECK') {
@@ -22,7 +22,7 @@ pipeline {
 					).trim()
 				}
 				echo "Committer Email : '${committerEmail}'"
-				slackSend (color: 'good', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has initiated : #${env.BUILD_NUMBER} by ${committerEmail}")
+				// slackSend (color: 'good', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has initiated : #${env.BUILD_NUMBER} by ${committerEmail}")
 				echo "Removing node_modules and previous build files"
 				sh "rm -rf node_modules build"
 			}
@@ -79,7 +79,7 @@ pipeline {
             	chmod +x deploy.sh
             	./deploy.sh $ENVIRONMENT
           		"""
-				slackSend (color: 'warning', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Build has been completed & uploaded : #${env.BUILD_NUMBER}")
+				// slackSend (color: 'warning', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Build has been completed & uploaded : #${env.BUILD_NUMBER}")
 			}
       	}
 		stage('POST_CHECKS') {
@@ -93,12 +93,12 @@ pipeline {
 				always {
 					echo "ALWAYS test1"
 				}
-				success {
-					slackSend (color: 'good', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has succeeded : #${env.BUILD_NUMBER} in ${currentBuild.durationString.replace(' and counting', '')} \n For more info, please click (<${env.BUILD_URL}|here>)")
-				}
-				failure {
-					slackSend (color: 'danger', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | @channel - Job has failed #${env.BUILD_NUMBER}\nPlease check full info, (<${env.BUILD_URL}|here>)")
-				}
+				// success {
+				// 	slackSend (color: 'good', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has succeeded : #${env.BUILD_NUMBER} in ${currentBuild.durationString.replace(' and counting', '')} \n For more info, please click (<${env.BUILD_URL}|here>)")
+				// }
+				// failure {
+				// 	slackSend (color: 'danger', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | @channel - Job has failed #${env.BUILD_NUMBER}\nPlease check full info, (<${env.BUILD_URL}|here>)")
+				// }
 			}
 		}		
     } // stages
@@ -106,11 +106,11 @@ pipeline {
 		always {
 			echo "ALWAYS test2"
 		}
-		aborted {
-				slackSend (color: '#AEACAC', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has aborted : #${env.BUILD_NUMBER} in ${currentBuild.durationString.replace(' and counting', '')} \n For more info, please click (<${env.BUILD_URL}|here>)")
-		}
-		failure {
-				slackSend (color: 'danger', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | @channel - Job has failed #${env.BUILD_NUMBER}\nPlease check full info, (<${env.BUILD_URL}|here>)")
-		}
+		// aborted {
+		// 		slackSend (color: '#AEACAC', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has aborted : #${env.BUILD_NUMBER} in ${currentBuild.durationString.replace(' and counting', '')} \n For more info, please click (<${env.BUILD_URL}|here>)")
+		// }
+		// failure {
+		// 		slackSend (color: 'danger', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | @channel - Job has failed #${env.BUILD_NUMBER}\nPlease check full info, (<${env.BUILD_URL}|here>)")
+		// }
 	}
 }
