@@ -95,7 +95,7 @@ hide:
         </div>
         <div class="card">
             <h2><span class="material-icons">schedule</span>Getting started with Kalp Studio</h2>
-            <p>Start your Blockchain journey with <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/">Kalp Studio</a> and <a href="/deploy">Deploy</a> your smart contracts and get running in minutes.</p>
+            <p>Start your Blockchain journey with <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/">Kalp Studio</a> and <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/">Deploy</a> your smart contracts and get running in minutes.</p>
             <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/"><span class="octicon octicon-arrow-right"></span> Getting started</a>
         </div>
         <div class="card">
