@@ -90,7 +90,7 @@ hide:
     <div class="grid">
         <div class="card">
             <h2><span class="material-icons">description</span>Introduction</h2>
-            <p>Kalp Studio <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome/">Introduction</a></p>
+            <p>Kalp Studio <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome" >Introduction</a></p>
             <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome/"><span class="octicon octicon-arrow-right"></span> Introduction</a>
         </div>
         <div class="card">
