@@ -176,21 +176,21 @@ extra:
   social:
 
     - icon: fontawesome/brands/github
-      link: https://github.com
+      link: https://github.com/p2eengineering/kalp-studio-documentation
   
     - icon: fontawesome/brands/x-twitter 
-      link: https://x.com/kalpstudio
+      link: https://twitter.com/Kalp_Studio
 
     - icon: fontawesome/brands/facebook 
-      link: https://facebook.com/@kalpstudio
+      link: https://www.facebook.com/people/Kalp-Studio/61558481045861/
 
     - icon: fontawesome/brands/instagram 
-      link: https://instagram.com/@kalpstudio
+      link: https://www.instagram.com/kalpstudio.official/
 
     - icon: fontawesome/brands/linkedin 
-      link: https://linkedin.com/@kalpstudio
+      link: https://www.linkedin.com/company/studio-kalp/
 
     - icon: fontawesome/brands/discord
-      link: https://discord.com/@kalpstudio
+      link: https://discord.com/invite/JhD7GFVvfv
 
   generator: false
