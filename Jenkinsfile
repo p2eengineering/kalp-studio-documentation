@@ -49,7 +49,7 @@ pipeline {
 			}
 			steps {
 				echo "Deploying into '${DEV_ENV}' environment"
-				sh "aws eks --region ap-south-1 update-kubeconfig --name p2epro-stg"
+				sh "aws eks --region ap-south-1 update-kubeconfig --name kalp-studio-prod"
 				sh "sed -i 's/<VERSION>/${BUILD_NUMBER}/g' deployment-'${DEV_ENV}'.yaml"
 				sh "kubectl apply -f deployment-'${DEV_ENV}'.yaml"
 				echo "'${DEV_ENV}' deployment completed: '${env.BUILD_ID}' on '${env.BUILD_URL}'"
@@ -92,7 +92,7 @@ pipeline {
 			}
 			steps {
 				echo "Deploying into '${QA_ENV}' environment"
-				sh "aws eks --region ap-south-1 update-kubeconfig --name p2epro-stg"
+				sh "aws eks --region ap-south-1 update-kubeconfig --name kalp-studio-prod"
 				sh "sed -i 's/<VERSION>/${BUILD_NUMBER}/g' deployment-'${QA_ENV}'.yaml"
 				sh "kubectl apply -f deployment-'${QA_ENV}'.yaml"
 				echo "'${QA_ENV}' deployment completed: '${env.BUILD_ID}' on '${env.BUILD_URL}'"
@@ -135,7 +135,7 @@ pipeline {
 			}
 			steps {
 				echo "Deploying into '${STG_ENV}' environment"
-				sh "aws eks --region ap-south-1 update-kubeconfig --name p2epro-stg"
+				sh "aws eks --region ap-south-1 update-kubeconfig --name kalp-studio-prod"
 				sh "sed -i 's/<VERSION>/${BUILD_NUMBER}/g' deployment-'${STG_ENV}'.yaml"
 				sh "kubectl apply -f deployment-'${STG_ENV}'.yaml"
 				echo "'${STG_ENV}' deployment completed: '${env.BUILD_ID}' on '${env.BUILD_URL}'"
