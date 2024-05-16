@@ -31,7 +31,7 @@ hide:
             font-size: 2.5em;
         }
         .note {
-            background-color: #f4f4f4;
+            background-color: #e0f7fa;
             border-left: 5px solid #00796b;
             margin: 20px auto;
             padding: 15px;
