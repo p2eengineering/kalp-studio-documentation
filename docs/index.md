@@ -1,94 +1,42 @@
-
----
-hide:
-  - navigation
-  - toc
----
-
-<style>
-/* Add your CSS styles here or in a linked stylesheet */
-</style>
-
-<div class="main">
-    <header class="section">
-        <div class="container-global">
-            <div class="section-wrapper">
-                <div class="hero-content-flex">
-                    <div class="hero-left">
-                        <h1 class="hero-heading">Welcome to the Kalp Studio Docs</h1>
-                    </div> <!-- /.hero-left -->
-                </div> <!-- /.hero-content-flex -->
-            </div> <!-- /.section-wrapper -->
-        </div> <!-- /.container-global -->
-    </header> <!-- /header -->
-</div> <!-- /.main -->
-
-!!! note "Dive headfirst into Web 3.0 development with Kalp Studio! Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp Blockchain."
-
-<div class="grid cards" markdown>
-
--   :material-file:{ .lg .middle } **Introduction**
-
-    ---
-
-    Kalp studio [`Introduction`](#)
-
-    [:octicons-arrow-right-24: Introduction](#)
-
--   :material-clock-fast:{ .lg .middle } **Getting started with Kalp Studio**
-
-    ---
-
-    Start your Blockchain journey with [`Kalp Studio`](#) and [`Deploy`](#) your smart contracts and get running in minutes.
-
-    [:octicons-arrow-right-24: Getting started](#)
-
--   :material-keyboard:{ .lg .middle } **Dev documentation**
-
-    ---
-
-    [`Web 3.0`](#) development with Kalp Studio's intuitive tools and resources, designed to empower developers of all skill levels.
-
-    [:octicons-arrow-right-24: Dev documentation](#)
-
--   :material-clipboard:{ .lg .middle } **Release notes**
-
-    ---
-
-    [`Release notes`](#) for Kalp Studio
-
-    [:octicons-arrow-right-24: Release notes](#)
-
--   :material-newspaper:{ .lg .middle } **Kalp Studio Whitepaper**
-
-    ---
-
-    Introducing the [`Kalp Studio`](#) whitepaper
-
-    [:octicons-arrow-right-24: Whitepaper](#)
-
--   :material-comment:{ .lg .middle } **Help Center**
-
-    ---
-
-    [`How to get started`](#) with Kalp Studio
-
-    [:octicons-arrow-right-24: Help center](#)
-
--   :material-format-font:{ .lg .middle } **Blog Posts & Articles**
-
-    ---
-
-    Latest [`Blog Posts & Articles`](#).
-
-    [:octicons-arrow-right-24: Blog Posts & Articles](#)
-
--   :material-video:{ .lg .middle } **Kalp Studio Videos**
-
-    ---
-
-    Kalp Studio [`Video`](#) tutorials
-
-    [:octicons-arrow-right-24: Video tutorials](#)
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalp Studio Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Introduction</a></li>
+                <li><a href="#">Getting Started</a></li>
+                <li><a href="#">Dev Documentation</a></li>
+                <li><a href="#">Release Notes</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="introduction">
+            <h1>Introduction</h1>
+            <p><a href="#">Kalp Studio Introduction</a></p>
+        </section>
+        <section id="getting-started">
+            <h1>Getting Started with Kalp Studio</h1>
+            <p>Start your blockchain journey with <a href="#">Kalp Studio</a> and deploy your smart contracts in minutes.</p>
+            <p><a href="#">Getting Started</a></p>
+        </section>
+        <section id="dev-documentation">
+            <h1>Developer Documentation</h1>
+            <p>Web 3.0 development with Kalp Studio's intuitive tools and resources, designed to empower developers of all skill levels.</p>
+            <p><a href="#">Developer Documentation</a></p>
+        </section>
+        <section id="release-notes">
+            <h1>Release Notes</h1>
+            <p><a href="#">Release notes for Kalp Studio</a></p>
+        </section>
+    </main>
+</body>
+</html>
