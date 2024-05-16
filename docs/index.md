@@ -154,7 +154,7 @@
         <div class="card">
             <h2><span class="material-icons">videocam</span>Kalp Studio videos</h2>
             <p>Kalp Studio <a href="https://www.youtube.com/@Kalp_Studio/videos">Video</a> tutorials</p>
-            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a>
+            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a> 
         </div>
     </div>
 </body>
