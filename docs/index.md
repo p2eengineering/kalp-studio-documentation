@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +13,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/build.css">
     <style>
-        /* Default light theme */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -68,49 +73,6 @@
             padding: 20px 0;
             margin-top: 20px;
         }
-        
-        /* System preference for dark mode */
-        @media (prefers-color-scheme: dark) {
-            body {
-                background-color: #333;
-                color: #ccc;
-            }
-            .header, footer {
-                background-color: #222;
-                color: #fff;
-            }
-            .card {
-                background-color: #444;
-                border-color: #666;
-            }
-            .note {
-                background-color: #424242;
-                border-left-color: #2c6d57;
-            }
-            .card a {
-                color: #4f83cc;
-            }
-        }
-        
-        /* Black and white theme */
-        @media (prefers-color-scheme: light) {
-            body {
-                background-color: white;
-                color: black;
-            }
-            .header, footer {
-                background-color: black;
-                color: white;
-            }
-            .card {
-                background-color: white;
-                border-color: black;
-            }
-            .note {
-                background-color: white;
-                border-left: 5px solid black;
-            }
-        }
     </style>
 </head>
 <body>
@@ -123,13 +85,13 @@
     <div class="grid">
         <div class="card">
             <h2><span class="material-icons">description</span>Introduction</h2>
-            <p>Kalp Studio <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome/">Introduction</a></p>
-            <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome/"><span class="octicon octicon-arrow-right"></span> Introduction</a>
+            <p>Kalp Studio <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome">Introduction</a></p>
+            <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome"><span class="octicon octicon-arrow-right"></span> Introduction</a>
         </div>
         <div class="card">
             <h2><span class="material-icons">schedule</span>Getting started with Kalp Studio</h2>
-            <p>Start your Blockchain journey with <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/">Kalp Studio</a> and Deploy your smart contracts and get running in minutes.
-            <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account"><span class="octicon octicon-arrow-right"></span> Getting started</a>
+            <p>Start your Blockchain journey with <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/">Kalp Studio</a> and <a href="https://example.com/deploy">Deploy</a> your smart contracts and get running in minutes.</p>
+            <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/"><span class="octicon octicon-arrow-right"></span> Getting started</a>
         </div>
         <div class="card">
             <h2><span class="material-icons">keyboard</span>Dev documentation</h2>
@@ -147,14 +109,14 @@
             <a href="https://care.kalp.studio/support/home"><span class="octicon octicon-arrow-right"></span> Help center</a>
         </div>
         <div class="card">
-            <h2><span class="material-icons">article</span>Blog post & Articles</h2>
+            <h2><span the="material-icons">article</span>Blog post & Articles</h2>
             <p>Latest <a href="https://www.kalp.studio/blog">Blog post & Articles</a>.</p>
             <a href="https://www.kalp.studio/blog"><span class="octicon octicon-arrow-right"></span> Blog post & Articles</a>
         </div>
         <div class="card">
-            <h2><span class="material-icons">videocam</span>Kalp Studio videos</h2>
+            <h2><span the="material-icons">videocam</span>Kalp Studio videos</h2>
             <p>Kalp Studio <a href="https://www.youtube.com/@Kalp_Studio/videos">Video</a> tutorials</p>
-            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a> 
+            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a>
         </div>
     </div>
 </body>
