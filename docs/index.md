@@ -109,12 +109,12 @@ hide:
             <a href="https://care.kalp.studio/support/home"><span class="octicon octicon-arrow-right"></span> Help center</a>
         </div>
         <div class="card">
-            <h2><span the="material-icons">article</span>Blog </h2>
+            <h2><span the="material-icons">description</span>Blog </h2>
             <p>Latest <a href="https://www.kalp.studio/blog">Blog </a>.</p>
             <a href="https://www.kalp.studio/blog"><span class="octicon octicon-arrow-right"></span> Blog </a>
         </div>
         <div class="card">
-            <h2><span the="material-icons">videocam</span>Kalp studio videos</h2>
+            <h2><span the="material-icons">video</span>Kalp studio videos</h2>
             <p>Kalp Studio <a href="https://www.youtube.com/@Kalp_Studio/videos">Kalp studio</a> videos</p>
             <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a>
         </div>
