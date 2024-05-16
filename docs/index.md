@@ -84,37 +84,37 @@ hide:
     </div>
     <div class="grid">
         <div class="card">
-            <h2><span class="material-icons"></span>Introduction</h2>
+            <h2><span class="material-icons">description</span>Introduction</h2>
             <p>Kalp Studio <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome">Introduction</a></p>
             <a href="https://stg-documentation.p2eppl.com/Introduction/Welcome"><span class="octicon octicon-arrow-right"></span> Introduction</a>
         </div>
         <div class="card">
-            <h2><span class="material-icons"></span>Getting started with Kalp Studio</h2>
+            <h2><span class="material-icons">schedule</span>Getting started with Kalp Studio</h2>
             <p>Start your Blockchain journey with <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/">Kalp Studio</a> and <a href="https://example.com/deploy">Deploy</a> your smart contracts and get running in minutes.</p>
             <a href="https://stg-documentation.p2eppl.com/Getting%20started/User%20onboarding/Create%20an%20account/"><span class="octicon octicon-arrow-right"></span> Getting started</a>
         </div>
         <div class="card">
-            <h2><span class="material-icons"></span>Dev documentation</h2>
+            <h2><span class="material-icons">keyboard</span>Dev documentation</h2>
             <p><a href="https://stg-documentation.p2eppl.com/Dev%20documentation/Use%20the%20kalp%20SDK/Kalp%20Golang%20SDK/">Web 3.0</a> development with Kalp Studio's intuitive tools and resources, designed to empower developers of all skill levels.</p>
             <a href="https://stg-documentation.p2eppl.com/Dev%20documentation/Use%20the%20kalp%20SDK/Kalp%20Golang%20SDK/"><span class="octicon octicon-arrow-right"></span> Dev documentation</a>
         </div>
         <div class="card">
-            <h2><span class="material-icons"></span>Release notes</h2>
+            <h2><span class="material-icons">assignment</span>Release notes</h2>
             <p><a href="https://stg-documentation.p2eppl.com/Release%20notes/Release%20version%201.0.0/Release%20notes%20version%201.0.0/">Release notes</a> for Kalp Studio</p>
             <a href="https://stg-documentation.p2eppl.com/Release%20notes/Release%20version%201.0.0/Release%20notes%20version%201.0.0/"><span class="octicon octicon-arrow-right"></span> Release notes</a>
         </div>
         <div class="card">
-            <h2><span class="material-icons"></span>Help center</h2>
+            <h2><span class="material-icons">help</span>Help center</h2>
             <p><a href="https://care.kalp.studio/support/home">How to get started</a> with Kalp Studio</p>
             <a href="https://care.kalp.studio/support/home"><span class="octicon octicon-arrow-right"></span> Help center</a>
         </div>
         <div class="card">
-            <h2><span the="material-icons"></span>Blog </h2>
+            <h2><span the="material-icons">article</span>Blog </h2>
             <p>Latest <a href="https://www.kalp.studio/blog">Blog </a>.</p>
             <a href="https://www.kalp.studio/blog"><span class="octicon octicon-arrow-right"></span> Blog </a>
         </div>
         <div class="card">
-            <h2><span the="material-icons"></span>Kalp studio videos</h2>
+            <h2><span the="material-icons">videocam</span>Kalp studio videos</h2>
             <p>Kalp Studio <a href="https://www.youtube.com/@Kalp_Studio/videos">Kalp studio</a> videos</p>
             <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a>
         </div>
