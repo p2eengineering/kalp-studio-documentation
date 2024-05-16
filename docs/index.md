@@ -21,7 +21,7 @@ hide:
             color: #333;
         }
         .header {
-            background-color: #00000;
+            background-color: #3f51b5;
             color: #fff;
             padding: 40px 0;
             text-align: center;
