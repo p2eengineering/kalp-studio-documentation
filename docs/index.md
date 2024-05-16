@@ -1,11 +1,12 @@
+
 ---
 hide:
-- navigation
-- toc
+  - navigation
+  - toc
 ---
 
 <style>
-/* Make sure your CSS styles are placed within this style tag or in a linked stylesheet */
+/* Add your CSS styles here or in a linked stylesheet */
 </style>
 
 <div class="main">
@@ -15,18 +16,18 @@ hide:
                 <div class="hero-content-flex">
                     <div class="hero-left">
                         <h1 class="hero-heading">Welcome to the Kalp Studio Docs</h1>
-                    </div> <!-- Closing tag for .hero-left -->
-                </div> <!-- Closing tag for .hero-content-flex -->
-            </div> <!-- Closing tag for .section-wrapper -->
-        </div> <!-- Closing tag for .container-global -->
-    </header> <!-- Closing tag for header -->
-</div> <!-- Closing tag for .main -->
+                    </div> <!-- /.hero-left -->
+                </div> <!-- /.hero-content-flex -->
+            </div> <!-- /.section-wrapper -->
+        </div> <!-- /.container-global -->
+    </header> <!-- /header -->
+</div> <!-- /.main -->
 
-!!! note "Dive headfirst into Web 3.0 development with Kalp Studio! Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp Blockchain. "
+!!! note "Dive headfirst into Web 3.0 development with Kalp Studio! Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp Blockchain."
 
 <div class="grid cards" markdown>
 
--   :material-file:{ .lg .middle } __Introduction__
+-   :material-file:{ .lg .middle } **Introduction**
 
     ---
 
@@ -34,15 +35,15 @@ hide:
 
     [:octicons-arrow-right-24: Introduction](#)
 
--   :material-clock-fast:{ .lg .middle } __Getting started with kalp studio__
+-   :material-clock-fast:{ .lg .middle } **Getting started with Kalp Studio**
 
     ---
 
-    Start your Blockchain journey with [`kalp Studio`](#) and [`Deploy`](#) your smart contracts and running in minutes.
+    Start your Blockchain journey with [`Kalp Studio`](#) and [`Deploy`](#) your smart contracts and get running in minutes.
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :material-keyboard:{ .lg .middle } __Dev documentation__
+-   :material-keyboard:{ .lg .middle } **Dev documentation**
 
     ---
 
@@ -50,41 +51,43 @@ hide:
 
     [:octicons-arrow-right-24: Dev documentation](#)
 
--   :material-clipboard:{ .lg .middle } __Release notes__
+-   :material-clipboard:{ .lg .middle } **Release notes**
 
     ---
 
-    [`Release notes`](#) for kalp studio 
+    [`Release notes`](#) for Kalp Studio
 
     [:octicons-arrow-right-24: Release notes](#)
 
--   :material-newspaper:{ .lg .middle } __Kalp studio whitepaper__
+-   :material-newspaper:{ .lg .middle } **Kalp Studio Whitepaper**
 
     ---
 
     Introducing the [`Kalp Studio`](#) whitepaper
 
-	[:octicons-arrow-right-24: Whitepaper](#)
+    [:octicons-arrow-right-24: Whitepaper](#)
 
--   :material-comment:{ .lg .middle } __Help Center__
+-   :material-comment:{ .lg .middle } **Help Center**
+
+    ---
 
     [`How to get started`](#) with Kalp Studio
-    
+
     [:octicons-arrow-right-24: Help center](#)
 
--   :material-format-font:{ .lg .middle } __Blog post & Articles__
+-   :material-format-font:{ .lg .middle } **Blog Posts & Articles**
 
     ---
 
-    Latest [`Blog post & Articles`](#).
+    Latest [`Blog Posts & Articles`](#).
 
-    [:octicons-arrow-right-24: Blog post & Articles](#)
+    [:octicons-arrow-right-24: Blog Posts & Articles](#)
 
--   :material-video:{ .lg .middle } __kalp studio videos__
+-   :material-video:{ .lg .middle } **Kalp Studio Videos**
 
     ---
 
-    Kalp studio [`Video`](#) tutorials
+    Kalp Studio [`Video`](#) tutorials
 
     [:octicons-arrow-right-24: Video tutorials](#)
 
