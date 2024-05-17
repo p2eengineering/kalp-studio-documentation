@@ -17,7 +17,7 @@ hide:
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #000000;
+            background-color: #405DE6;
             color: #333;
         }
         .header {
