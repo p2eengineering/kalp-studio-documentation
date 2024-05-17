@@ -17,19 +17,19 @@ hide:
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #ffffff;
             color: #333;
         }
         .header {
-            background-color: ##030303;
-            color: #fff;
+            background-color: #ffffff; /* Changed from ##030303 to white */
+            color: #000000; /* Changed text color to black */
             padding: 40px 0;
             text-align: center;
         }
         .header h1 {
             margin: 0;
             font-size: 2.5em;
-            color: #fff;
+            color: #000000; /* Ensured text color is black */
         }
         .note {
             background-color: #e0f7fa;
@@ -121,7 +121,7 @@ hide:
         <div class="card">
             <h2><span class="material-icons">videocam</span>Kalp Studio videos</h2>
             <p>Kalp Studio <a href="https://www.youtube.com/@Kalp_Studio/videos">Video</a> tutorials</p>
-            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span the="octicon octicon-arrow-right"></span> Video tutorials</a>
+            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a>
         </div>
     </div>
 </body>
