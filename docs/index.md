@@ -21,20 +21,20 @@ hide:
             color: #333;
         }
         .header {
-            background-color: #ffffff; /* Changed from ##030303 to white */
-            color: #000000; /* Changed text color to black */
+            background-color: #ffffff;
+            color: #000000;
             padding: 40px 0;
             text-align: center;
         }
         .header h1 {
             margin: 0;
             font-size: 2.5em;
-            color: #000000; /* Ensured text color is black */
+            color: #000000;
         }
         .note {
             background-color: #e0f7fa;
             border-left: 5px solid #00796b;
-            margin: 20px auto;
+            margin: 40px auto; /* Increased margin to center the note between header and grid */
             padding: 15px;
             max-width: 800px;
             text-align: left;
