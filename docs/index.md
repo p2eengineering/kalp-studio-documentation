@@ -43,14 +43,14 @@ hide:
             display: flex;
             flex-wrap: wrap;
             justify-content: space-around;
-            margin: 20px;
+            margin: 10px; /* Reduced from 20px to tighten the overall grid spacing */
         }
         .card {
             background-color: #fff;
             border: 1px solid #ddd;
             border-radius: 5px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            margin: 10px;
+            margin: 5px; /* Reduced from 10px to decrease the space between cards */
             padding: 20px;
             text-align: left;
             width: 300px;
@@ -121,7 +121,7 @@ hide:
         <div class="card">
             <h2><span class="material-icons">videocam</span>Kalp Studio videos</h2>
             <p>Kalp Studio <a href="https://www.youtube.com/@Kalp_Studio/videos">Video</a> tutorials</p>
-            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span class="octicon octicon-arrow-right"></span> Video tutorials</a>
+            <a href="https://www.youtube.com/@Kalp_Studio/videos"><span the="octicon octicon-arrow-right"></span> Video tutorials</a>
         </div>
     </div>
 </body>
