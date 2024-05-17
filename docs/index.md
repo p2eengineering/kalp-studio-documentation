@@ -82,7 +82,7 @@ hide:
 </head>
 <body>
     <header class="header">
-        <h1>Welcome to the Kalp Studio Docs</h1>
+        <h1>Welcome to the kalp studio documentation</h1>
     </header>
     <div class="note">
         Dive headfirst into Web 3.0 development with Kalp Studio! Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp Blockchain.
