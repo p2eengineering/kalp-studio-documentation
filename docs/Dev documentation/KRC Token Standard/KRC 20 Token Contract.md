@@ -43,7 +43,7 @@ func (s *SmartContract) Initialize(sdk kalpsdk.TransactionContextInterface, name
 
 **Parameters:**
 
--   `**name**` **(string):** The human-readable name of the token (e.g., "MyCoin").
+-   **`name`** **(string):** The human-readable name of the token (e.g., "MyCoin").
     
 -   `**symbol**` **(string):** The abbreviated symbol of the token (e.g., "MYC").
     
