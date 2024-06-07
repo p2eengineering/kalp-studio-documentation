@@ -25,6 +25,7 @@ pipeline {
 				slackSend (	color: 'good', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has initiated : #${env.BUILD_NUMBER} by ${committerEmail}")
 				slackSend (	color: 'warning', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Build is started : #${env.BUILD_NUMBER}")
 				echo "Step: BUILD, initiated..."
+				sh "aws ecr get-login --no-include-email --region ap-south-1 | sh"
 				sh "docker build -t '${STG_ECR_URL}':'${BUILD_NUMBER}' . --no-cache"
 				slackSend ( color: 'warning', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Build has been completed : #${env.BUILD_NUMBER}")
 			}
