@@ -1,5 +1,5 @@
-FROM 408153089286.dkr.ecr.ap-south-1.amazonaws.com/python:3.10-slim
-
+# FROM 408153089286.dkr.ecr.ap-south-1.amazonaws.com/python:3.10-slim
+FROM python:3.10-slim
 WORKDIR /app
 
 COPY . /app
@@ -14,8 +14,4 @@ EXPOSE 8000
 
 ENTRYPOINT ["mkdocs"]
 
-<<<<<<< HEAD
 CMD ["serve", "--dev-addr", "0.0.0.0:8000"] 
-=======
-CMD ["serve", "--dev-addr", "0.0.0.0:8000"]
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454

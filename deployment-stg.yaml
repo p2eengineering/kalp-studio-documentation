@@ -17,18 +17,18 @@ spec:
     spec:
       hostname: kalp-studio-doc-stg
       nodeSelector:
-        noderole:	generic 
+        noderole:	generic
       containers:
         - name: kalp-studio-doc-stg
           image: 408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
           imagePullPolicy: IfNotPresent
           resources:
             requests:
-              memory: '1024Mi'
-              cpu: '500m'
+              memory: '500Mi'
+              cpu: '250m'
             limits:
-              memory: '1024Mi'
-              cpu: '500m'
+              memory: '500Mi'
+              cpu: '250m'
           # readinessProbe:
           #     httpGet:
           #       path: /health-check
