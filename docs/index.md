@@ -14,8 +14,11 @@ hide:
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/build.css">
     <style>
+        .md-ellipsis {
+        font-size: 18px;
+        font-weight: 600;
+        }
         body {
-            font-family: "Source Sans 3", sans-serif;
             margin: 0;
             padding: 0;
             background-color: #F5F5F5;
@@ -27,6 +30,9 @@ hide:
         .md-tabs {
             max-width: 61rem!important;
             margin: 0 auto;
+        }
+        .md-tabs__link {
+            font-size: 14px!important;
         }
         .header {
             color: #000000;
