@@ -15,7 +15,6 @@ hide:
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/build.css">
     <style>
         .md-ellipsis {
-        font-size: 18px;
         font-weight: 600;
         }
         body {
@@ -30,9 +29,6 @@ hide:
         .md-tabs {
             max-width: 61rem!important;
             margin: 0 auto;
-        }
-        .md-tabs__link {
-            font-size: 14px!important;
         }
         .header {
             color: #000000;
