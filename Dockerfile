@@ -1,5 +1,5 @@
-# FROM 408153089286.dkr.ecr.ap-south-1.amazonaws.com/python:3.10-slim
-FROM python:3.10-slim
+FROM 408153089286.dkr.ecr.ap-south-1.amazonaws.com/python:3.10-slim
+# FROM python:3.10-slim
 WORKDIR /app
 
 COPY . /app
