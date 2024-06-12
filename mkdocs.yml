@@ -10,7 +10,6 @@ theme:
     - stylesheets/extra.css
   font:
     text: Source Sans 3, sans-serif
-    code: Source Sans 3, sans-serif
   name: material
   logo: images/PNG.png 
     #- link: Introduction/Welcome.md
@@ -59,7 +58,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       primary: white
       scheme: default
-      accent: deep orange 
+      accent: deep orange
       toggle:
         icon: material/eye
         name: Switch to dark mode

@@ -1,3 +1,6 @@
+<style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
 # KRC721 Token Contract
 
 This guide serves as a roadmap, navigating you through the intricacies of crafting and deploying secure, versatile, and feature-rich KRC-721 tokens that fuel innovation within the Kalp ecosystem.
