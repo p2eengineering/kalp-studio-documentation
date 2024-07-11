@@ -46,16 +46,16 @@ func (s *SmartContract) Initialize(sdk kalpsdk.TransactionContextInterface, name
 
 **Parameters:**
 
--   **`name`** **(string):** The human-readable name of the token (e.g., "MyCoin").
+-   **name** **(string):** The human-readable name of the token (e.g., "MyCoin").
     
--   `**symbol**` **(string):** The abbreviated symbol of the token (e.g., "MYC").
+-   **symbol** **(string):** The abbreviated symbol of the token (e.g., "MYC").
     
--   `**decimals**` **(string):** The number of decimal places the token utilizes (e.g., "18" for 18 decimal places representing cents).
+-   **decimals** **(string):** The number of decimal places the token utilizes (e.g., "18" for 18 decimal places representing cents).
     
 
 **Function Breakdown:**
 
--   `**Initialize (sdk kalpsdk.TransactionContextInterface, name string, symbol string, decimals string) (bool, error)**`**:**
+-   **Initialize (sdk kalpsdk.TransactionContextInterface, name string, symbol string, decimals string) (bool, error)****:**
     
     -   This function accepts four arguments:
         
@@ -74,7 +74,9 @@ func (s *SmartContract) Initialize(sdk kalpsdk.TransactionContextInterface, name
 
 **Authorization:** Yes, only authorized clients (e.g., Deployer) can call the `Initialize` function. This ensures proper control over token creation and prevents unauthorized deployments.
 
-_Authorization checks are crucial and intentionally omitted for brevity. Specific authorization mechanisms depend on the smart contract's design and deployment environment._
+!!!Note
+Authorization checks are crucial and intentionally omitted for brevity. Specific authorization mechanisms depend on the smart contract's design and deployment environment.
+
 
 ## **Token Operations**
 
@@ -103,12 +105,12 @@ func (s *SmartContract) Mint(sdk kalpsdk.TransactionContextInterface, amount int
 
 **Parameters:**
 
--   `**amount**` **(int):** The positive integer value represents the number of tokens to be minted.
+-   **amount** **(int):** The positive integer value represents the number of tokens to be minted.
     
 
 **Return Value:**
 
--   `**error**`**:** This function returns an error object if the minting operation fails. The error message provides details about the encountered issue.
+-   **error****:** This function returns an error object if the minting operation fails. The error message provides details about the encountered issue.
     
 
 ### **Burn Function**
@@ -135,12 +137,12 @@ func (s *SmartContract) Burn(sdk kalpsdk.TransactionContextInterface, amount int
 
 **Parameters:**
 
--   `**amount**` **(int):** The positive integer value represents the number of tokens to be burned.
+-   **amount** **(int):** The positive integer value represents the number of tokens to be burned.
     
 
 **Return Value:**
 
--   `**error**`**:** This function returns an error object if the burning operation fails. The error message provides details about the encountered issue.
+-   **error****:** This function returns an error object if the burning operation fails. The error message provides details about the encountered issue.
     
 
 ### **Transfer Function**
@@ -169,14 +171,14 @@ func (s *SmartContract) Transfer(sdk kalpsdk.TransactionContextInterface, recipi
 
 **Parameters:**
 
--   `**recipient**` **(string):** The unique identifier of the recipient account that will receive the tokens.
+-   **recipient** **(string):** The unique identifier of the recipient account that will receive the tokens.
     
--   `**amount**` **(int):** The positive integer value representing the number of tokens to be transferred.
+-   **amount** **(int):** The positive integer value representing the number of tokens to be transferred.
     
 
 **Return Value:**
 
--   `**error**`**:** This function returns an error object if the transfer operation fails. The error message provides details about the encountered issue, such as insufficient funds or an invalid recipient address.
+-   **error****:** This function returns an error object if the transfer operation fails. The error message provides details about the encountered issue, such as insufficient funds or an invalid recipient address.
     
 
 ### **BalanceOf Function**
@@ -205,14 +207,14 @@ func (s *SmartContract) BalanceOf(sdk kalpsdk.TransactionContextInterface, accou
 
 **Parameters:**
 
--   `**account**` **(string):** The unique identifier of the account whose balance is to be queried.
+-   **account** **(string):** The unique identifier of the account whose balance is to be queried.
     
 
 **Return Value:**
 
--   `**int**`**:** The function returns an integer value representing the token balance of the specified account.
+-   **int****:** The function returns an integer value representing the token balance of the specified account.
     
--   `**error**`**:** If an error occurs during the balance retrieval process, the function returns an error object along with a descriptive error message.
+-   **error****:** If an error occurs during the balance retrieval process, the function returns an error object along with a descriptive error message.
     
 
 ### **Approval Function**
@@ -243,14 +245,14 @@ func (s *SmartContract) Approve(sdk kalpsdk.TransactionContextInterface, spender
 
 **Parameters:**
 
--   `**spender**` **(string):** The unique identifier of the account authorized to withdraw tokens.
+-   **spender** **(string):** The unique identifier of the account authorized to withdraw tokens.
     
--   `**value**` **(int):** The positive integer value representing the **maximum allowable withdrawal amount**.
+-   **value** **(int):** The positive integer value representing the **maximum allowable withdrawal amount**.
     
 
 **Return Value:**
 
--   `**error**`**:** The function returns an error object if the approval process fails. The error message provides details about the encountered issue, such as invalid parameters, permission errors, or issues with underlying SDK functions.
+-   **error****:** The function returns an error object if the approval process fails. The error message provides details about the encountered issue, such as invalid parameters, permission errors, or issues with underlying SDK functions.
     
 
 ### **Allowance Function**
@@ -277,16 +279,16 @@ func (s *SmartContract) Allowance(sdk kalpsdk.TransactionContextInterface, owner
 
 **Parameters:**
 
--   `**owner**` **(string):** The unique identifier of the account that owns the tokens.
+-   **owner** **(string):** The unique identifier of the account that owns the tokens.
     
--   `**spender**` **(string):** The unique identifier of the account authorized to withdraw tokens.
+-   **spender** **(string):** The unique identifier of the account authorized to withdraw tokens.
     
 
 **Return Values:**
 
--   `**int**`**:** The function returns an integer value representing the **remaining number of tokens** that the spender is authorized to withdraw from the owner's account.
+-   **int****:** The function returns an integer value representing the **remaining number of tokens** that the spender is authorized to withdraw from the owner's account.
     
--   `**error**`**:** If an error occurs during the retrieval process, the function returns an error object along with a descriptive message explaining the encountered issue.
+-   **error****:** If an error occurs during the retrieval process, the function returns an error object along with a descriptive message explaining the encountered issue.
     
 
 ### **TransferFrom Function**
@@ -311,16 +313,16 @@ func (s *SmartContract) TransferFrom(sdk kalpsdk.TransactionContextInterface, fr
 
 **Parameters:**
 
--   `**from**` **(string):** The unique identifier of the account owning the tokens to be transferred.
+-   **from** **(string):** The unique identifier of the account owning the tokens to be transferred.
     
--   `**to**` **(string):** The unique identifier of the recipient account that will receive the tokens.
+-   **to** **(string):** The unique identifier of the recipient account that will receive the tokens.
     
--   `**value**` **(int):** The positive integer value representing the number of tokens to be transferred.
+-   **value** **(int):** The positive integer value representing the number of tokens to be transferred.
     
 
 **Return Value:**
 
--   `**error**`**:** The function returns an error object if the transfer process fails. The error message provides details about the encountered issue, such as insufficient allowance, invalid parameters, or other potential errors.
+-   **error****:** The function returns an error object if the transfer process fails. The error message provides details about the encountered issue, such as insufficient allowance, invalid parameters, or other potential errors.
     
 
 ### **Token Information Function**
@@ -343,9 +345,9 @@ func (s *SmartContract) Name(sdk kalpsdk.TransactionContextInterface) (string, e
 
 **Return Values:**
 
--   `**string**`**:** The function returns a string value representing the token's name. This name typically aligns with the token's intended use cases and branding.
+-   **string****:** The function returns a string value representing the token's name. This name typically aligns with the token's intended use cases and branding.
     
--   `**error**`**:** If an error occurs during the retrieval process, the function returns an error object along with a descriptive message explaining the issue, such as potential database errors or invalid access attempts.
+-   **error****:** If an error occurs during the retrieval process, the function returns an error object along with a descriptive message explaining the issue, such as potential database errors or invalid access attempts.
     
 
 ### **Symbol Function**
@@ -368,9 +370,9 @@ func (s *SmartContract) Symbol(sdk kalpsdk.TransactionContextInterface) (string,
 
 **Return Values:**
 
--   `**string**`**:** The function returns a string value representing the token's symbol. This symbol typically adheres to conventional shorthand conventions for clarity and consistency (e.g., "MTK," "KALP").
+-   **string****:** The function returns a string value representing the token's symbol. This symbol typically adheres to conventional shorthand conventions for clarity and consistency (e.g., "MTK," "KALP").
     
--   `**error**`**:** If an error occurs during retrieval, the function returns an error object along with a descriptive message detailing the issue, aiding in troubleshooting and issue resolution.
+-   **error****:** If an error occurs during retrieval, the function returns an error object along with a descriptive message detailing the issue, aiding in troubleshooting and issue resolution.
     
 
 ### **TotalSupply Function**
@@ -397,9 +399,9 @@ func (s *SmartContract) TotalSupply(sdk kalpsdk.TransactionContextInterface) (in
 
 **Return Values:**
 
--   `**int**`**:** The function returns an integer value representing the **total number of tokens** currently in circulation within the Kalp ecosystem.
+-   **int****:** The function returns an integer value representing the **total number of tokens** currently in circulation within the Kalp ecosystem.
     
--   `**error**`**:** If an error occurs during the retrieval process, the function returns an error object along with a descriptive message detailing the encountered issue, such as potential storage errors or invalid access attempts.
+-   **error****:** If an error occurs during the retrieval process, the function returns an error object along with a descriptive message detailing the encountered issue, such as potential storage errors or invalid access attempts.
     
 
 ### **Helper Functions**

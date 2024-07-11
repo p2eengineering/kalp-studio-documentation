@@ -35,21 +35,21 @@ func (s *SmartContract) Initialize(sdk kalpsdk.TransactionContextInterface, name
 
 **Key Parameters:**
 
--   `**name**` **(string):** The chosen title that will gracefully adorn the token collection, defining its unique character within the Kalp ecosystem.
+-   **name** **(string):** The chosen title that will gracefully adorn the token collection, defining its unique character within the Kalp ecosystem.
     
--   `**symbol**` **(string):** A concise and potent emblem that will serve as the collection's identifier, akin to a heraldic crest in the digital realm.
+-   **symbol** **(string):** A concise and potent emblem that will serve as the collection's identifier, akin to a heraldic crest in the digital realm.
     
 
 **Return Values:**
 
--   `**bool**`**:** A boolean value indicating the outcome of the initialization endeavor:
+-   **bool****:** A boolean value indicating the outcome of the initialization endeavor:
     
-    -   `**true**`**:** The initialization process has successfully crafted a solid foundation, and the contract is poised for further interactions.
+    -   **true****:** The initialization process has successfully crafted a solid foundation, and the contract is poised for further interactions.
         
-    -   `**false**`**:** Unexpected challenges have derailed the initialization attempt, requiring attention and corrective measures.
+    -   **false****:** Unexpected challenges have derailed the initialization attempt, requiring attention and corrective measures.
         
     
--   `**error**`**:** If obstacles arose during initialization, an error object emerges, carrying valuable insights into the nature of the difficulty.
+-   **error****:** If obstacles arose during initialization, an error object emerges, carrying valuable insights into the nature of the difficulty.
     
 
 ### **Mint Function**
@@ -66,14 +66,14 @@ func (s *SmartContract) Mint(sdk kalpsdk.TransactionContextInterface, account st
 
 **Parameters:**
 
--   `**account**` **(string):** The blockchain address of the intended recipient who will receive the newly minted NFTs.
+-   **account** **(string):** The blockchain address of the intended recipient who will receive the newly minted NFTs.
     
--   `**id**` **(uint64):** A numerical identifier that serves as a starting point for minting a sequence of NFTs.
+-   **id** **(uint64):** A numerical identifier that serves as a starting point for minting a sequence of NFTs.
     
--   `**amount**` **(uint64):** The precise number of NFTs to be minted and bestowed upon the recipient.
+-   **amount** **(uint64):** The precise number of NFTs to be minted and bestowed upon the recipient.
     
 
-**Return Value:**`**error**`**:** In the event of unforeseen minting obstacles, an error object surfaces, shedding light on the nature of the difficulty. It is important to note that the method signature only explicitly indicates an error return type, implying a successful mint operation wouldn't return anything specific.
+**Return Value:****error****:** In the event of unforeseen minting obstacles, an error object surfaces, shedding light on the nature of the difficulty. It is important to note that the method signature only explicitly indicates an error return type, implying a successful mint operation wouldn't return anything specific.
 
 ### **MintBatch Function**
 
@@ -89,11 +89,11 @@ func (s *SmartContract) MintBatch(sdk kalpsdk.TransactionContextInterface, accou
 
 **Parameters:**
 
--   `**account**` **(string):** The blockchain address of the intended recipient who will receive the minted NFTs.
+-   **account** **(string):** The blockchain address of the intended recipient who will receive the minted NFTs.
     
--   `**ids**` **([]uint64):** An array of numerical identifiers, meticulously assigned to each NFT within the batch, establishing their distinct identities.
+-   **ids** **([]uint64):** An array of numerical identifiers, meticulously assigned to each NFT within the batch, establishing their distinct identities.
     
--   `**amounts**` **([]uint64):** An array of corresponding values, precisely indicating the quantity of NFTs to be minted for each respective identifier within the batch.
+-   **amounts** **([]uint64):** An array of corresponding values, precisely indicating the quantity of NFTs to be minted for each respective identifier within the batch.
     
 
 ### **Burn Function**
@@ -108,11 +108,11 @@ func (s *SmartContract) Burn(sdk kalpsdk.TransactionContextInterface, account st
 
 **Parameters:**
 
--   `**account**` **(string):** The blockchain address of the individual or entity that will relinquish their ownership of the NFTs, triggering their removal.
+-   **account** **(string):** The blockchain address of the individual or entity that will relinquish their ownership of the NFTs, triggering their removal.
     
--   `**id**` **(uint64):** The unique numerical identifier that pinpoints the specific type of NFTs destined for the burning process.
+-   **id** **(uint64):** The unique numerical identifier that pinpoints the specific type of NFTs destined for the burning process.
     
--   `**amount**` **(uint64):** The precise quantity of NFTs to be extracted from the account and irrevocably removed from circulation.
+-   **amount** **(uint64):** The precise quantity of NFTs to be extracted from the account and irrevocably removed from circulation.
     
 
 ### **BurnBatch Function**
@@ -128,11 +128,11 @@ func (s *SmartContract) BurnBatch(sdk kalpsdk.TransactionContextInterface, accou
 
 **Parameters:**
 
--   `**account**` **(string):** The blockchain address of the individual or entity relinquishing ownership of the NFTs, initiating their irreversible removal.
+-   **account** **(string):** The blockchain address of the individual or entity relinquishing ownership of the NFTs, initiating their irreversible removal.
     
--   `**ids**` **([]uint64):** An array of unique numerical identifiers, meticulously pinpointing the distinct types of NFTs destined for the synchronized burning process.
+-   **ids** **([]uint64):** An array of unique numerical identifiers, meticulously pinpointing the distinct types of NFTs destined for the synchronized burning process.
     
--   `**amounts**` **([]uint64):** An array of corresponding values, precisely indicating the quantities of each respective NFT type to be extracted from the account and permanently extinguished.
+-   **amounts** **([]uint64):** An array of corresponding values, precisely indicating the quantities of each respective NFT type to be extracted from the account and permanently extinguished.
     
 
 ### **TransferFrom Function**
@@ -147,13 +147,13 @@ func (s *SmartContract) TransferFrom(sdk kalpsdk.TransactionContextInterface, se
 
 **Parameters:**
 
--   `**sender**` **(string):** The blockchain address of the individual or entity relinquishing ownership of the NFTs, initiating the transfer process.
+-   **sender** **(string):** The blockchain address of the individual or entity relinquishing ownership of the NFTs, initiating the transfer process.
     
--   `**recipient**` **(string):** The blockchain address of the intended recipient who will receive the NFTs and assume ownership.
+-   **recipient** **(string):** The blockchain address of the intended recipient who will receive the NFTs and assume ownership.
     
--   `**id**` **(uint64):** The unique numerical identifier pinpointing the specific type of NFTs to be transferred.
+-   **id** **(uint64):** The unique numerical identifier pinpointing the specific type of NFTs to be transferred.
     
--   `**amount**` **(uint64):** The precise quantity of NFTs to be extracted from the sender's account and bestowed upon the recipient.
+-   **amount** **(uint64):** The precise quantity of NFTs to be extracted from the sender's account and bestowed upon the recipient.
     
 
 ### **BatchTransferFrom Function**
@@ -169,13 +169,13 @@ func (s *SmartContract) BatchTransferFrom(sdk kalpsdk.TransactionContextInterfac
 
 **Parameters:**
 
--   `**sender**` **(string):** The blockchain address of the individual or entity initiating the transfer, relinquishing ownership of the NFTs.
+-   **sender** **(string):** The blockchain address of the individual or entity initiating the transfer, relinquishing ownership of the NFTs.
     
--   `**recipient**` **(string):** The blockchain address of the intended recipient who will assume ownership of the transferred NFTs.
+-   **recipient** **(string):** The blockchain address of the intended recipient who will assume ownership of the transferred NFTs.
     
--   `**ids**` **([]uint64):** An array of unique numerical identifiers, pinpointing the precise types of NFTs to be included in the batch transfer.
+-   **ids** **([]uint64):** An array of unique numerical identifiers, pinpointing the precise types of NFTs to be included in the batch transfer.
     
--   `**amounts**` **([]uint64):** A corresponding array of values, specifying the quantities of each respective NFT type to be transferred.
+-   **amounts** **([]uint64):** A corresponding array of values, specifying the quantities of each respective NFT type to be transferred.
     
 
 ### **SetApprovalForAll Function**
@@ -190,13 +190,13 @@ func (s *SmartContract) SetApprovalForAll(sdk kalpsdk.TransactionContextInterfac
 
 **Parameters:**
 
--   `**operator**` **(string):** The blockchain address of the operator (typically another smart contract) to whom permissions are being granted or revoked.
+-   **operator** **(string):** The blockchain address of the operator (typically another smart contract) to whom permissions are being granted or revoked.
     
--   `**approved**` **(bool):** A boolean value signifying the desired authorization state:
+-   **approved** **(bool):** A boolean value signifying the desired authorization state:
     
-    -   `**true**`**:** Grants the specified operator permission to manage all of the caller's NFTs.
+    -   **true** **:** Grants the specified operator permission to manage all of the caller's NFTs.
         
-    -   `**false**`**:** Revokes any previously granted permission for the operator to manage the caller's NFTs.  
+    -   **false** **:** Revokes any previously granted permission for the operator to manage the caller's NFTs.  
 
 ### **IsApprovedForAll Function**
 
@@ -210,9 +210,9 @@ func (s *SmartContract) IsApprovedForAll(sdk kalpsdk.TransactionContextInterface
 
 **Parameters:**
 
--   `**account**` **(string):** The blockchain address of the NFT owner whose permissions are being queried.
+-   **account** **(string):** The blockchain address of the NFT owner whose permissions are being queried.
     
--   `**operator**` **(string):** The blockchain address of the operator whose authorization status is being investigated.
+-   **operator** **(string):** The blockchain address of the operator whose authorization status is being investigated.
     
 
 ### **BalanceOf Function**
@@ -227,9 +227,9 @@ func (s *SmartContract) BalanceOf(sdk kalpsdk.TransactionContextInterface, accou
 
 **Parameters:**
 
--   `**account**` **(string):** The blockchain address of the account whose NFT balance is being investigated.
+-   **account** **(string):** The blockchain address of the account whose NFT balance is being investigated.
     
--   `**id**` **(uint64):** The unique numerical identifier representing the specific type of NFTs for which the balance is sought.
+-   **id** **(uint64):** The unique numerical identifier representing the specific type of NFTs for which the balance is sought.
     
 
 ### **BalanceOfBatch Function**
@@ -244,9 +244,9 @@ func (s *SmartContract) BalanceOfBatch(sdk kalpsdk.TransactionContextInterface, 
 
 **Parameters:**
 
--   `**accounts**` **([]string):** An array of blockchain addresses representing the accounts for which NFT balances are being queried.
+-   **accounts** **([]string):** An array of blockchain addresses representing the accounts for which NFT balances are being queried.
     
--   `**ids**` **([]uint64):** An array of unique numerical identifiers, each corresponding to a specific type of NFT for which balances are sought.
+-   **ids** **([]uint64):** An array of unique numerical identifiers, each corresponding to a specific type of NFT for which balances are sought.
     
 
 ### **Helper Functions**

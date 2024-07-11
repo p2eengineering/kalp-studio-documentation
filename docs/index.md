@@ -246,6 +246,7 @@ hide:
             }
         }
         .card-wrapper {
+            width: 100%;
             display: flex;
             flex-direction: column;
             padding: 18px 30px 30px 30px;
@@ -376,12 +377,12 @@ hide:
 <body>
     <header class="header-main-wrapper">
         <div class="header">
-         <h1>Dive headfirst into <span class="header-main-text">Web 3.0</span> development with Kalp Studio!</h1>
+         <h1>Simplify <span class="header-main-text">Web 3.0</span> development with the Kalp studio documentation!</h1>
                 <div class="note">
-                Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp Blockchain.
+                Dive headfirst into Web 3.0 development with Kalp Studio! Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp Blockchain.
                 <br />
                 <br />
-                Empowers developers of all skill levels to navigate the exciting realm of Web 3.0 development using the robust Kalp Blockchain. It leverages a low-code approach, enabling both beginners and seasoned Web 2.0 developers to effortlessly create cutting-edge Web 3.0 applications or seamlessly extend existing applications into the decentralized world.
+                Kalp studio empowers developers of all skill levels to navigate the exciting realm of Web 3.0 development using the robust Kalp Blockchain. It leverages a low-code approach, enabling both beginners and seasoned Web 2.0 developers to effortlessly create cutting-edge Web 3.0 applications or seamlessly extend existing applications into the decentralized world.
                 </div>
         </div>
        <img src="images/BannerImage.svg" alt="image-banner" />
@@ -395,7 +396,7 @@ hide:
                                Build
                              </h4>
                              <span>
-                                 Build today using Polygon technology. Select the protocol that best fits your needs.
+                                 Getting started & Building with Kalp Studio.
                               </span>
                           </div>
                       </div>
@@ -408,18 +409,18 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        Start your blockchain journey with our seamless onboarding process designed to get you up and running in no time. KALP Studio provides a user-friendly interface that guides you through every step, ensuring a hassle-free setup.
                         </span>
                     </div>
                      <div class="build-description-card">
                         <div class="build-description-card-title">
-                            Project Management
+                            Dashboard
                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        The KALP Studio Dashboard provides an all-in-one overview of your blockchain projects, giving you real-time insights and control over your operations.
                         </span>
                     </div>
                      <div class="build-description-card">
@@ -430,18 +431,18 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        KALP Studio simplifies the process of writing, deploying, and managing smart contracts, making it accessible to both beginners and experienced developers.
                         </span>
                     </div>
                      <div class="build-description-card">
                         <div class="build-description-card-title">
-                            Kalp Wallet Management
+                            Wallet Management
                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        Manage your digital assets effortlessly with KALP Studio's comprehensive wallet management features.
                         </span>
                     </div>
                      <div class="build-description-card">
@@ -452,7 +453,7 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        KALP Studio's API Gateway Management simplifies the process of generating and managing API endpoints for your smart contracts.
                         </span>
                     </div>
                      <div class="build-description-card">
@@ -463,7 +464,7 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        Stay on top of your blockchain transactions with KALP Studio's advanced transaction monitoring tools.
                         </span>
                     </div>
                     <div class="build-description-card">
@@ -474,7 +475,7 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        Tailor your KALP Studio environment to meet your specific needs with our extensive settings options.
                         </span>
                     </div>
                     <div class="build-description-card">
@@ -485,7 +486,7 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        Choose from a variety of subscription plans designed to fit your needs and scale with your growth.
                         </span>
                     </div>
               </div>
@@ -498,51 +499,44 @@ hide:
                               Learn
                             </h4>
                             <span>
-                                Deep dives only. Further your understanding of Polygon scaling technology.
+                                Further your understanding of entire kalp studio ecosystem.
                              </span>
                          </div>
                      </div>
                  <div class="build-description-card-main">
                     <div class="build-description-card">
                            <div class="build-description-card-title">
-                               What is kalp studio
+                               Kalp studio overview
                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                </svg>
                            </div>
                            <span class="build-description-card-description">
-                                 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-                                  It is a long established fact that a reade.
+                                 Kalp Studio empowers developers of all skill levels to navigate the exciting realm of Web 3.0 development using the robust Kalptantra Blockchain. It leverages a low-code approach, enabling both beginners and seasoned Web 2.0 developers to effortlessly create cutting-edge Web 3.0 applications or seamlessly extend existing applications into the decentralized world.
                             </span>
                        </div>
                         <div class="build-description-card">
                            <div class="build-description-card-title">
-                               What is Kalp Blockchain
+                               Kalp studio ecosystem
                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                </svg>
                            </div>
                             <span class="build-description-card-description">
-                               It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-                                It is a long established fact that a reade.
+                               The KALP Studio ecosystem is a suite of interconnected products, each tailored to specific aspects of blockchain development and management. Together, it provide a seamless experience for building, managing, and scaling blockchain projects. KALP Studio Console is Your central hub for accessing and managing all KALP Studio services. Token Studio Simplifies the process of creating and managing custom tokens with our easy-to-use tools. Wallet Management Securely manages your digital assets across multiple blockchain networks. KALP Instant Deployer Efficiently write, deploy, and manage smart contracts with our high-performance system. Additional tools are for managing subscriptions, generating API keys, and monitoring transactions.
                           </span>
                        </div>
                     <div class="build-description-card">
                        <div class="build-description-card-title">
-                           What is Kalp Studio Ecosystem
+                           Kalp blockchain
                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                            </svg>
                        </div>
                         <span class="build-description-card-description">
-                           It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-                            It is a long established fact that a reade.
+                           The Kalp Decentralized Network (KDN) is a meticulously designed hybrid cross-chain ecosystem that prioritizes secure and compliant tokenization of real-world assets (RWAs). KDN leverages KYC verification and a Distributed Certificate Authority (DCA) to establish a trustworthy environment. High-performance Byzantine Fault Tolerance (BFT) also known as SMART-BFT algorithms ensures optimal transaction processing and consensus across networks.
+                           Key to Kalps proposition is its cross-chain interoperability, facilitated by a comprehensive gateway and Oracle layer protocols, ensuring fluid communication and data integration across blockchain landscapes. The Cross-Chain Layer bridges Kalp with external networks, enhancing the liquidity and market reach of tokenized assets. Kalp decentralized network (KDN) establishing itself as a comprehensive ecosystem driving the future of regulated asset tokenization and cross-chain functionality, all underpinned by the core principles of decentralized peer-to-peer (P2P) blockchain technology.
+                           Positioning itself as a pivotal player in the blockchain space, Kalps Asset Tokenization, called Kalpify, provides a transparent, compliant pathway for transforming RWAs into digital tokens. This opens new avenues for asset management and investment, redefining asset liquidity and accessibility in the modern digital era. 
                       </span>
                    </div>
                        <div class="build-description-card">
@@ -553,10 +547,7 @@ hide:
                              </svg>
                          </div>
                           <span class="build-description-card-description">
-                             It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-                              It is a long established fact that a reade.
+                             The API Gateway in KALP Studio simplifies the process of generating and managing API endpoints for your smart contracts, providing a powerful integration point for your blockchain applications.
                         </span>
                      </div>
                    </div>
@@ -577,17 +568,17 @@ hide:
                             <div class="card-wrapper">
                                  <img src="images/kalpSdk.svg" alt="sdk" />
                                  <h4>Kalp SDK</h4>
-                                <span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span>
+                                <span>The Kalp SDK provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
                             </div>
                             <div class="card-wrapper">
                                 <img src="images/KRCToken.svg" alt="sdk" />
                                 <h4>KRC Token standard</h4>
-                               <span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span>
+                               <span>KRC token standards serve as the foundation for creating a thriving and interoperable tokenized ecosystem on the Kalp blockchain. By adhering to these standards, developers can build tokens that seamlessly integrate with various applications and services, fostering a vibrant environment of innovation and diverse functionalities.</span>
                            </div>
                            <div class="card-wrapper">
                                <img src="images/interaction.svg" alt="sdk" />
                                <h4>Write, Test, Deploy & Interact</h4>
-                              <span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span>
+                              <span>Welcome to your comprehensive guide on building the backbone of decentralized applications – smart contracts. This guide empowers you to take control, from the initial spark of an idea to a fully-fledged blockchain implementation.</span>
                             </div>
                         </div>
                     </div>

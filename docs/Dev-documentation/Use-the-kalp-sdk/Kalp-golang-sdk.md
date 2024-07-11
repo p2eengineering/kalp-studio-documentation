@@ -79,14 +79,14 @@ func (c *MyContract) Invoke(ctx kalpsdk.TransactionContextInterface, data string
 
 To breathe functionality into your smart contract, implement the following crucial methods:
 
--   `**Init**` **Method:**
+-   **Init** **Method:**
     
     -   **Purpose:** Responsible for initializing your contract's state variables and performing any actions required upon first deployment to the blockchain.
         
     -   **Signature:** `func (c *MyContract) Init(ctx kalpsdk.TransactionContextInterface) error`
         
     
--   `**Invoke**` **Method:**
+-   **Invoke** **Method:**
     
     -   **Purpose:** Handles calls made to your contract's functions after deployment. This method orchestrates the execution of the requested actions and interactions with the blockchain.
         

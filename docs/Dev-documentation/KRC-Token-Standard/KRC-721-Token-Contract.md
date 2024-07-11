@@ -47,12 +47,12 @@ func (c *TokenERC721Contract) Initialize(ctx kalpsdk.TransactionContextInterface
 
 **Parameters:**
 
--   `**name**` **(string):** The human-readable name that designates the token collection, often aligning with its intended use cases or branding.
+-   **name** **(string):** The human-readable name that designates the token collection, often aligning with its intended use cases or branding.
     
--   `**symbol**` **(string):** A concise and recognizable symbol that serves as a shorthand identifier for the token collection, typically following conventional naming conventions (e.g., "MTK" or "KALP").
+-   **symbol** **(string):** A concise and recognizable symbol that serves as a shorthand identifier for the token collection, typically following conventional naming conventions (e.g., "MTK" or "KALP").
     
 
-**Return Values:**`**(bool, error)**`**:** The method returns a boolean value indicating success or failure, accompanied by an error object if any issues arise during initialization.
+**Return Values:****(bool, error)****:** The method returns a boolean value indicating success or failure, accompanied by an error object if any issues arise during initialization.
 
 ### MintWithTokenURI Function
 
@@ -74,12 +74,12 @@ func (c *TokenERC721Contract) MintWithTokenURI(ctx kalpsdk.TransactionContextInt
 
 **Parameters:**
 
--   `**tokenId**` **(string):** An unequivocally unique identifier assigned to the NFT, ensuring its individuality and preventing any chance of duplication.
+-   **tokenId** **(string):** An unequivocally unique identifier assigned to the NFT, ensuring its individuality and preventing any chance of duplication.
     
--   `**tokenURI**` **(string):** A Universal Resource Identifier (URI), acting as a digital address that points to a JSON file containing comprehensive metadata about the NFT's attributes, details, and potential functionalities.
+-   **tokenURI** **(string):** A Universal Resource Identifier (URI), acting as a digital address that points to a JSON file containing comprehensive metadata about the NFT's attributes, details, and potential functionalities.
     
 
-**Return Values:**`**(*Nft, error)**`**:** Upon successful minting, the method returns a pointer to the newly created `Nft` object, containing its essential information. It also includes an error object if any issues arise during the process.
+**Return Values:** **(*Nft, error)** **:** Upon successful minting, the method returns a pointer to the newly created `Nft` object, containing its essential information. It also includes an error object if any issues arise during the process.
 
 ### **Burn Function**
 
@@ -99,10 +99,10 @@ func (c *TokenERC721Contract) Burn(ctx kalpsdk.TransactionContextInterface, toke
 
 **Parameters:**
 
--   `**tokenId**` **(string):** The unique identifier that pinpoints the specific NFT destined for elimination.
+-   **tokenId** **(string):** The unique identifier that pinpoints the specific NFT destined for elimination.
     
 
-**Return Values:**`**(bool, error)**`**:** The method indicates its success or failure by returning a boolean value, accompanied by an error object if any issues arise during the burning process.
+**Return Values:****(bool, error)****:** The method indicates its success or failure by returning a boolean value, accompanied by an error object if any issues arise during the burning process.
 
 ### 
 
@@ -127,14 +127,14 @@ func (c *TokenERC721Contract) TransferFrom(ctx kalpsdk.TransactionContextInterfa
 
 **Parameters:**
 
--   `**from**` **(string):** The current owner of the NFT, relinquishing their control.
+-   **from** **(string):** The current owner of the NFT, relinquishing their control.
     
--   `**to**` **(string):** The designated recipient who will assume ownership of the NFT.
+-   **to** **(string):** The designated recipient who will assume ownership of the NFT.
     
--   `**tokenId**` **(string):** The unique identifier that unequivocally designates the specific NFT being transferred.
+-   **tokenId** **(string):** The unique identifier that unequivocally designates the specific NFT being transferred.
     
 
-**Return Values:**`**(bool, error)**`**:** The method signals its success or failure through a boolean value, also returning an error object if any issues arise during the transfer process.
+**Return Values:****(bool, error)****:** The method signals its success or failure through a boolean value, also returning an error object if any issues arise during the transfer process.
 
 ### **Approve Function**
 
@@ -157,12 +157,12 @@ func (c *TokenERC721Contract) Approve(ctx kalpsdk.TransactionContextInterface, o
 
 **Parameters:**
 
--   `**operator**` **(string):** The account designated to receive transfer approval for the specified NFT.
+-   **operator** **(string):** The account designated to receive transfer approval for the specified NFT.
     
--   `**tokenId**` **(string):** The unique identifier that pinpoints the NFT for which authorization is being granted.
+-   **tokenId** **(string):** The unique identifier that pinpoints the NFT for which authorization is being granted.
     
 
-**Return Values:**`**(bool, error)**`**:** The method indicates success or failure through a boolean value, accompanied by an error object if any issues arise during the approval process.
+**Return Values:****(bool, error)****:** The method indicates success or failure through a boolean value, accompanied by an error object if any issues arise during the approval process.
 
 ### **SetApprovalForAll Function**
 
@@ -184,12 +184,12 @@ func (c *TokenERC721Contract) SetApprovalForAll(ctx kalpsdk.TransactionContextIn
 
 **Parameters:**
 
--   `**operator**` **(string):** The account designated to receive approval for managing **all** the caller's NFTs.
+-   **operator** **(string):** The account designated to receive approval for managing **all** the caller's NFTs.
     
--   `**approved**` **(bool):** A flag indicating whether to **grant** (`true`) or **revoke** (`false`) approval for the operator.
+-   **approved** **(bool):** A flag indicating whether to **grant** (`true`) or **revoke** (`false`) approval for the operator.
     
 
-**Return Values:**`**(bool, error)**`**:** The method signals success or failure through a boolean value, along with an error object if any issues arise during the approval process.
+**Return Values:****(bool, error)****:** The method signals success or failure through a boolean value, along with an error object if any issues arise during the approval process.
 
 ### **BalanceOf Function**
 
@@ -212,10 +212,10 @@ func (c *TokenERC721Contract) BalanceOf(ctx kalpsdk.TransactionContextInterface,
 
 **Parameters:**
 
--   `**owner**` **(string):** The account whose NFT holdings you wish to inspect.
+-   **owner** **(string):** The account whose NFT holdings you wish to inspect.
     
 
-**Return Value:**`**int**`**:** A concise integer representing the exact quantity of NFTs owned by the specified account.
+**Return Value:****int****:** A concise integer representing the exact quantity of NFTs owned by the specified account.
 
 ### **OwnerOf Function**
 
@@ -235,7 +235,7 @@ func (c *TokenERC721Contract) OwnerOf(ctx kalpsdk.TransactionContextInterface, t
 
 **Parameters:**
 
--   `**tokenId**` **(string):** The unique identifier that singles out the NFT for which ownership information is sought.
+-   **tokenId** **(string):** The unique identifier that singles out the NFT for which ownership information is sought.
     
 
 **Return Values:**
@@ -262,7 +262,7 @@ func (c *TokenERC721Contract) GetApproved(ctx kalpsdk.TransactionContextInterfac
 
 **Parameters:**
 
--   `**tokenId**` **(string):** The unique identifier that pinpoints the NFT for which authorization information is sought.
+-   **tokenId** **(string):** The unique identifier that pinpoints the NFT for which authorization information is sought.
     
 
 **Return Values:**
@@ -292,16 +292,16 @@ func (c *TokenERC721Contract) IsApprovedForAll(ctx kalpsdk.TransactionContextInt
 
 **Parameters:**
 
--   `**owner**` **(string):** The account whose NFTs are potentially subject to management by an operator.
+-   **owner** **(string):** The account whose NFTs are potentially subject to management by an operator.
     
--   `**operator**` **(string):** The account seeking verification of their blanket approval status.
+-   **operator** **(string):** The account seeking verification of their blanket approval status.
     
 
 **Return Values:**
 
--   `**bool**`**:** A boolean value unequivocally indicating whether the operator holds comprehensive approval to manage the owner's entire NFT collection.
+-   **bool****:** A boolean value unequivocally indicating whether the operator holds comprehensive approval to manage the owner's entire NFT collection.
     
--   `**error**`**:** In the unlikely event of unforeseen challenges, an error object emerges, revealing the nature of the difficulty.
+-   **error****:** In the unlikely event of unforeseen challenges, an error object emerges, revealing the nature of the difficulty.
     
 
 ### **Name Function**
@@ -321,9 +321,9 @@ func (c *TokenERC721Contract) Name(ctx kalpsdk.TransactionContextInterface) (str
 
 **Return Values:**
 
--   `**string**`**:** The collection's carefully chosen name, representing its unique identity.
+-   **string****:** The collection's carefully chosen name, representing its unique identity.
     
--   `**error**`**:** In the unlikely event of retrieval obstacles, an error object surfaces to illuminate the nature of the difficulty.
+-   **error****:** In the unlikely event of retrieval obstacles, an error object surfaces to illuminate the nature of the difficulty.
     
 
 ### **Symbol Function**
@@ -343,9 +343,9 @@ func (c *TokenERC721Contract) Symbol(ctx kalpsdk.TransactionContextInterface) (s
 
 **Return Values:**
 
--   `**string**`**:** The collection's meticulously chosen symbol, acting as its concise identifier and resonant emblem.
+-   **string****:** The collection's meticulously chosen symbol, acting as its concise identifier and resonant emblem.
     
--   `**error**`**:** Should retrieval obstacles arise, an error object emerges to shed light on the nature of the difficulty.
+-   **error****:** Should retrieval obstacles arise, an error object emerges to shed light on the nature of the difficulty.
 
 ### **TokenURI Function**
 
@@ -391,14 +391,14 @@ func (c *TokenERC721Contract) TotalSupply(ctx kalpsdk.TransactionContextInterfac
 
 **Parameters:**
 
--   `**tokenId**` **(string):** The distinct identifier that pinpoints the specific NFT whose secrets await revelation.
+-   **tokenId** **(string):** The distinct identifier that pinpoints the specific NFT whose secrets await revelation.
     
 
 **Return Values:**
 
--   `**string**`**:** The metadata URI, a web address leading to a wellspring of descriptive details, vibrant visuals, and captivating stories.
+-   **string****:** The metadata URI, a web address leading to a wellspring of descriptive details, vibrant visuals, and captivating stories.
     
--   `**error**`**:** In the unlikely event of retrieval obstacles, an error object emerges, casting light on the nature of the difficulty.
+-   **error****:** In the unlikely event of retrieval obstacles, an error object emerges, casting light on the nature of the difficulty.
     
 
 ### **Helper Methods**
@@ -409,14 +409,14 @@ the `checkInitialized` method serves as a vigilant sentinel, safeguarding system
 
 **Returns:**
 
--   `**bool**`**:** A boolean value indicating the initialization status of the contract:
+-   **bool****:** A boolean value indicating the initialization status of the contract:
     
-    -   `**true**`**:** The contract has been successfully initialized and is ready for use.
+    -   **true****:** The contract has been successfully initialized and is ready for use.
         
-    -   `**false**`**:** The contract has not yet undergone initialization and remains inoperable.
+    -   **false****:** The contract has not yet undergone initialization and remains inoperable.
         
     
--   `**error**`**:** If unforeseen challenges arise during the check, an error object surfaces, providing valuable insights into the nature of the difficulty.
+-   **error****:** If unforeseen challenges arise during the check, an error object surfaces, providing valuable insights into the nature of the difficulty.
     
 
 ### **Error Handling**

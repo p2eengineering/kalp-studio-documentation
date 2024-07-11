@@ -198,34 +198,34 @@ The `main.go` file stands as the conductor that orchestrates the initialization 
 
 -   **Necessary Imports:**
     
-    -   `**log**` **package:** This package empowers you to issue logging messages, providing valuable insights into the execution flow and potential errors for debugging purposes.
+    -   **log** **package:** This package empowers you to issue logging messages, providing valuable insights into the execution flow and potential errors for debugging purposes.
         
-    -   `**github.com/p2eengineering/kalp-sdk/kalpsdk**` **package:** This import statement grants access to the essential Kalp SDK functionalities for interacting with the blockchain network and managing your smart contract.
+    -   **github.com/p2eengineering/kalp-sdk/kalpsdk** **package:** This import statement grants access to the essential Kalp SDK functionalities for interacting with the blockchain network and managing your smart contract.
         
     
--   **The** `**main**` **Function:** This function serves as the starting point for your application when it's executed. It undertakes the following crucial tasks:
+-   **The** **main** **Function:** This function serves as the starting point for your application when it's executed. It undertakes the following crucial tasks:
     
 -   **Contract Configuration:**
     
-    -   `**contract := kalpsdk.Contract{IsPayableContract: true}**`**:** This line initializes a new `Contract` object, defining key properties of your smart contract. The `IsPayableContract: true` setting designates that your contract will be capable of receiving payments from users.
+    -   **contract := kalpsdk.Contract{IsPayableContract: true}** **:** This line initializes a new `Contract` object, defining key properties of your smart contract. The `IsPayableContract: true` setting designates that your contract will be capable of receiving payments from users.
         
-    -   `**contract.Logger = kalpsdk.NewLogger()**`**:** This statement creates a new logger instance and assigns it to the contract, enabling you to generate logging messages for tracking events and debugging.
+    -   **contract.Logger = kalpsdk.NewLogger()** **:** This statement creates a new logger instance and assigns it to the contract, enabling you to generate logging messages for tracking events and debugging.
         
     
 -   **Chaincode Instantiation:**
     
-    -   `**chaincode, err := kalpsdk.NewChaincode(&SmartContract{contract})**`**:** This line constructs a new instance of the `KalpContractChaincode` type. It integrates your custom `SmartContract` implementation, effectively bridging your contract logic with the Kalp SDK framework.
+    -   **chaincode, err := kalpsdk.NewChaincode(&SmartContract{contract})** **:** This line constructs a new instance of the `KalpContractChaincode` type. It integrates your custom `SmartContract` implementation, effectively bridging your contract logic with the Kalp SDK framework.
         
-    -   `**contract.Logger.Info("My KAPL SDK sm4")**`**:** This statement logs an informative message using the logger, indicating that the chaincode is initialized and ready to commence operations.
+    -   **contract.Logger.Info("My KAPL SDK sm4")** **:** This statement logs an informative message using the logger, indicating that the chaincode is initialized and ready to commence operations.
         
     
--   **Crucial Error Handling:**`**if err != nil { ... }**` **blocks:** These conditional blocks diligently check for potential errors during chaincode creation and startup. If errors occur, the `panicf` the function is invoked, terminating execution with an informative error message. This assertive error handling safeguards the integrity of your application and facilitates debugging efforts.
+-   **Crucial Error Handling:****if err != nil { ... }** **blocks:** These conditional blocks diligently check for potential errors during chaincode creation and startup. If errors occur, the `panicf` the function is invoked, terminating execution with an informative error message. This assertive error handling safeguards the integrity of your application and facilitates debugging efforts.
     
--   **Chaincode Activation:**`**if err := chaincode.Start(); err != nil { ... }**`**:** This block calls the `Start()` function on the instantiated chaincode, triggering the execution of your smart contract within the Kalp blockchain environment. Once again, error handling is incorporated to gracefully address any issues that might impede chaincode startup.
+-   **Chaincode Activation:** **if err := chaincode.Start(); err != nil { ... }** **:** This block calls the `Start()` function on the instantiated chaincode, triggering the execution of your smart contract within the Kalp blockchain environment. Once again, error handling is incorporated to gracefully address any issues that might impede chaincode startup.
     
 
 !!! Note "Payment Tracking for Payable Contracts" 
-    Pass your contract_ `_struct_` _as an argument to the_ `_NewChaincode_` _function and specify whether the contract is payable or not. 
+    Pass your contract _struct_ _as an argument to the_ _NewChaincode_ _function and specify whether the contract is payable or not. 
     **This places the external dependencies** for your smart contract into a local `vendor` directory.
 
 ``` go 
@@ -279,21 +279,21 @@ This section details the core functionalities available for managing data on the
 
 **Writing to the Blockchain:**
 
--   `**PutStateWithKyc**`**:** This function facilitates writing data onto the blockchain ledger. Crucially, it enforces mandatory KYC (Know Your Customer) verification as part of the write operation, ensuring compliance with regulatory requirements or specific platform policies.
+-   **PutStateWithKyc** **:** This function facilitates writing data onto the blockchain ledger. Crucially, it enforces mandatory KYC (Know Your Customer) verification as part of the write operation, ensuring compliance with regulatory requirements or specific platform policies.
     
--   `**PutStateWithoutKyc**`**:** This function enables writing data to the blockchain ledger. Unlike its counterpart, it bypasses the KYC verification step, potentially catering to situations where regulatory constraints are not applicable or KYC checks have already been performed at an earlier stage.
+-   **PutStateWithoutKyc** **:** This function enables writing data to the blockchain ledger. Unlike its counterpart, it bypasses the KYC verification step, potentially catering to situations where regulatory constraints are not applicable or KYC checks have already been performed at an earlier stage.
     
 
 **Reading from the Blockchain:**
 
--   `**GetState**`**:** This function retrieves the data from the blockchain ledger. It allows querying the current state of the ledger to obtain information relevant to your application's needs.
+-   **GetState** **:** This function retrieves the data from the blockchain ledger. It allows querying the current state of the ledger to obtain information relevant to your application's needs.
     
 
 **Deleting from the Blockchain:**
 
--   `**DelStateWithKyc**`**:** This function enables deleting data from the blockchain ledger. Similar to `PutStateWithKyc`, it enforces mandatory KYC verification before proceeding with the deletion operation.
+-   **DelStateWithKyc** **:** This function enables deleting data from the blockchain ledger. Similar to `PutStateWithKyc`, it enforces mandatory KYC verification before proceeding with the deletion operation.
     
--   `**DelStateWithoutKyc**`**:** This function allows the deleting data from the blockchain ledger. Just as with `PutStateWithoutKyc`, it bypasses the KYC verification step, potentially catering to specific scenarios where deletion is permitted without additional verification.
+-   **DelStateWithoutKyc** **:** This function allows the deleting data from the blockchain ledger. Just as with `PutStateWithoutKyc`, it bypasses the KYC verification step, potentially catering to specific scenarios where deletion is permitted without additional verification.
     
 
 ## Sample Code Examples
