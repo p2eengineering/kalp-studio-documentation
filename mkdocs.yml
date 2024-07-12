@@ -167,13 +167,12 @@ nav:
           - Deploy the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
           - Interacting with smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
   - Release notes:
-      - Release version 1.0.0:
-          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'
-      - Release version 1.1.0:  
-          - Release notes version 1.1.0: 'Release-notes/release-version-1.1.0/release-notes-version-1.1.0.md'
       - Release version 1.1.1:
           - Release notes version 1.1.1: 'Release-notes/release-version-1.1.1/release-notes-version-1.1.1.md'
-
+      - Release version 1.1.0:  
+          - Release notes version 1.1.0: 'Release-notes/release-version-1.1.0/release-notes-version-1.1.0.md'
+      - Release version 1.0.0:
+          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'    
 extra:
   social:
 
