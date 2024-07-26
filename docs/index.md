@@ -120,6 +120,11 @@ hide:
              padding: 0 10px;
          }
          .quick-start-wrapper-main-wrapper {
+         .quick-link{
+          display: flex !important;
+          justify-content: center;
+          align-items: center;
+         }
             justify-content: center!important;
              a {
                 width: 100%
@@ -130,12 +135,25 @@ hide:
           }
         }
         @media only screen and (max-width: 600px) {
+        .quick-start-wrapper{
+          .quick-start-wrapper-main-wrapper{
+             .quick-start-wrapper-card {
+                max-width: unset;
+                min-width: unset;
+                margin: 0 15px;
+             }
+          }
+        }
           .second-section, .developer-resource-card-wrapper{
              display: flex;
              flex-direction: column;
              align-items: center;
              justify-content: center;
          }
+          .dev-res {
+             display: grid;
+             grid-template-columns: none !important;
+          }
          .developer-resource-card-wrapper {
           margin: 0 20px;
         }
@@ -265,6 +283,7 @@ hide:
         }
         .card-wrapper {
             width: 100%;
+            height: 100%;
             display: flex;
             flex-direction: column;
             padding: 18px 30px 30px 30px;
@@ -286,8 +305,10 @@ hide:
             }
         }
         .developer-resource-card-wrapper {
-            display: flex;
+            display: grid;
+            grid-template-columns: auto auto auto;
             max-width: 61rem;
+            width: 100%;
             gap: 22px;
             a {
             color: black;
@@ -338,7 +359,9 @@ hide:
             display: flex;
             flex-direction: column;
             gap: 10px;
-            max-width: 392px;
+            max-width: 320px;
+            height: 100%;
+            min-width: 392px;
             width: 100%;
             padding: 30px;
             box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.02);
@@ -652,7 +675,7 @@ hide:
                         For developers who know what they want to build and are ready to go.
                         </span>
                     </div>
-                    <div class="developer-resource-card-wrapper">
+                    <div class="developer-resource-card-wrapper dev-res">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
                         <a href="https://stg-documentation.p2eppl.com/Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/">
@@ -684,7 +707,7 @@ hide:
                  Are you ready to start building?
                  </span>
                  <div class="quick-start-wrapper-main-wrapper">
-                      <a href="https://stg-documentation.p2eppl.com/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+                      <a href="https://stg-documentation.p2eppl.com/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                              <div class="kalp-icon">
                              <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -699,7 +722,7 @@ hide:
                              </div>
                          </div>
                          </a>
-                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/">
+                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
                               <div class="quick-start-wrapper-card">
                                   <div class="kalp-icon">
                                   <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -714,7 +737,7 @@ hide:
                                   </div>
                               </div>
                              </a>
-                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
+                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
                                  <div class="quick-start-wrapper-card">
                                      <div class="kalp-icon">
                                      <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -729,7 +752,7 @@ hide:
                                      </div>
                                  </div>
                                  </a>
-                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
+                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                                  <div class="kalp-icon">
                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -744,7 +767,7 @@ hide:
                                  </div>
                              </div>
                              </a>
-                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
+                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                               <div class="kalp-icon">
                               <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -759,7 +782,7 @@ hide:
                               </div>
                          </div>
                         </a>
-                         <a href="https://stg-documentation.p2eppl.com/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
+                         <a href="https://stg-documentation.p2eppl.com/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                           <div class="kalp-icon">
                           <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
