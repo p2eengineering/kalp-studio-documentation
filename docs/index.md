@@ -428,7 +428,7 @@ hide:
                       </div>
                   </div>
                   <div class="build-description-card-main">
-                      <a href="https://stg-documentation.p2eppl.com/">
+                      <a href="https://stg-documentation.p2eppl.com/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
@@ -441,7 +441,7 @@ hide:
                           </span>
                           </div>
                      </a>
-                     <a href="https://www.youtube.com/">
+                     <a href="https://stg-documentation.p2eppl.com/Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Dashboard
@@ -454,7 +454,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://www.youtube.com/">
+                     <a  href="https://stg-documentation.p2eppl.com/Getting-started/Billing/How-does-a-new-user-access-billing/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Billing
@@ -467,7 +467,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a href="https://www.youtube.com/">
+                     <a href="https://stg-documentation.p2eppl.com/Getting-started/Credits/How-to-Add-Credit/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Credits
@@ -480,7 +480,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://www.youtube.com/">
+                     <a  href="https://stg-documentation.p2eppl.com/Getting-started/Wallets/How-to-Navigate-To-Wallet/">
                      <div class="build-description-card">
                      <div class="build-description-card-title">
                          Wallet
@@ -493,7 +493,7 @@ hide:
                      </span>
                     </div>
                      </a>
-                     <a  href="https://www.youtube.com/">
+                     <a  href="https://stg-documentation.p2eppl.com/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp instant deployer
@@ -506,7 +506,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                        <a  href="https://www.youtube.com/">
+                        <a  href="https://stg-documentation.p2eppl.com/Getting-started/User-Management/How-to-Navigate-User-Management-on-Kalp-Studio/">
                          <div class="build-description-card">
                             <div class="build-description-card-title">
                                 User management
@@ -519,7 +519,7 @@ hide:
                             </span>
                         </div>
                         </a>
-                          <a  href="https://www.youtube.com/">
+                          <a  href="https://stg-documentation.p2eppl.com/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
                              <div class="build-description-card">
                                   <div class="build-description-card-title">
                                       API Gateway
@@ -532,7 +532,7 @@ hide:
                                   </span>
                               </div>
                           </a>
-                          <a  href="https://www.youtube.com/">
+                          <a  href="https://stg-documentation.p2eppl.com/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
                            <div class="build-description-card">
                                 <div class="build-description-card-title">
                                     Transaction monitoring
@@ -545,7 +545,7 @@ hide:
                                 </span>
                             </div>
                         </a>
-                        <a  href="https://www.youtube.com/">
+                        <a  href="https://stg-documentation.p2eppl.com/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
                          <div class="build-description-card">
                               <div class="build-description-card-title">
                                   API Key generation
@@ -573,7 +573,7 @@ hide:
                          </div>
                      </div>
                  <div class="build-description-card-main">
-                 <a  href="https://www.youtube.com/">
+                 <a  href="https://stg-documentation.p2eppl.com/Introduction/Kalp-studio-overview/">
                      <div class="build-description-card">
                         <div class="build-description-card-title">
                             Kalp studio overview
@@ -586,7 +586,7 @@ hide:
                          </span>
                     </div>
                    </a>
-                       <a  href="https://www.youtube.com/">
+                       <a  href="https://stg-documentation.p2eppl.com/Introduction/Kalp-studio-ecosystem/">
                        <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp studio ecosystem
@@ -599,7 +599,7 @@ hide:
                         </span>
                      </div>
                      </a>
-                       <a  href="https://www.youtube.com/">
+                       <a  href="https://stg-documentation.p2eppl.com/Introduction/Kalp-blockchain/">
                         <div class="build-description-card">
                              <div class="build-description-card-title">
                                  Kalp blockchain
@@ -614,29 +614,29 @@ hide:
                             </span>
                          </div>
                      </a>
-                   <a  href="https://www.youtube.com/">
+                   <a  href="https://stg-documentation.p2eppl.com/Introduction/What-is-kalp-instant-deployer/">
                     <div class="build-description-card">
                     <div class="build-description-card-title">
-                        What is API Gateway
+                        Kalp instant deployer
                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                         </svg>
                     </div>
                      <span class="build-description-card-description">
-                        The API Gateway in KALP Studio simplifies the process of generating and managing API endpoints for your smart contracts, providing a powerful integration point for your blockchain applications.
+                        Kalp Instant Deployer (KID) is a service designed to handle the deployment of smart contracts and track their status post-deployment.
                    </span>
                     </div>
                     </a>
-                     <a  href="https://www.youtube.com/">
+                     <a  href="https://stg-documentation.p2eppl.com/Introduction/What-is-wallet/">
                         <div class="build-description-card">
                         <div class="build-description-card-title">
-                            What is API Gateway
+                            Wallet
                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                             </svg>
                         </div>
                          <span class="build-description-card-description">
-                            The API Gateway in KALP Studio simplifies the process of generating and managing API endpoints for your smart contracts, providing a powerful integration point for your blockchain applications.
+                            Kalp Wallet is a versatile cryptocurrency wallet service that supports multiple blockchain networks and offers various wallet types to cater to different user needs and security preferences. This document provides a detailed technical overview of the Kalp Wallet architecture, features, and implementation.
                        </span>
                         </div>
                     </a>
@@ -655,21 +655,21 @@ hide:
                     <div class="developer-resource-card-wrapper">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
-                        <a href="https://www.youtube.com/">
+                        <a href="https://stg-documentation.p2eppl.com/Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
                              <h4>Kalp SDK</h4>
                             <span>The Kalp SDK provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
                         </div>
                         </a>
-                             <a href="https://www.youtube.com/">
+                             <a href="https://stg-documentation.p2eppl.com/Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>KRC Token standard</h4>
                                   <span>KRC token standards serve as the foundation for creating a thriving and interoperable tokenized ecosystem on the Kalp blockchain. By adhering to these standards, developers can build tokens that seamlessly integrate with various applications and services, fostering a vibrant environment of innovation and diverse functionalities.</span>
                               </div>
                                 </a>
-                             <a href="https://www.youtube.com/">
+                             <a href="https://stg-documentation.p2eppl.com/Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/">
                                 <div class="card-wrapper">
                                   <img src="images/interaction.svg" alt="sdk" />
                                   <h4>Write, Test, Deploy & Interact</h4>
@@ -684,7 +684,7 @@ hide:
                  Are you ready to start building?
                  </span>
                  <div class="quick-start-wrapper-main-wrapper">
-                      <a href="https://www.youtube.com/">
+                      <a href="https://stg-documentation.p2eppl.com/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
                          <div class="quick-start-wrapper-card">
                              <div class="kalp-icon">
                              <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -692,14 +692,14 @@ hide:
                              </svg>
                              </div>
                              <div class="quick-start-wrapper-sub-wrapper">
-                                <span>Create an account and KYC on Kalp Studio</span>
+                                <span>How to Sign Up and Log In to Kalp Studio Platform</span>
                                  <svg width="16" height="16" viewBox="0 0 16 16" class="arrow-wrapper" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                  </svg>
                              </div>
                          </div>
                          </a>
-                              <a href="https://www.youtube.com/">
+                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/">
                               <div class="quick-start-wrapper-card">
                                   <div class="kalp-icon">
                                   <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -707,14 +707,14 @@ hide:
                                   </svg>
                                   </div>
                                   <div class="quick-start-wrapper-sub-wrapper">
-                                  <span>Create, Manage & Edit Kalp Studio project</span>
+                                  <span>How to Create and Connect Wallet to Kalp Studio</span>
                                   <svg width="16" height="16" viewBox="0 0 16 16" class="arrow-wrapper" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                   </svg>
                                   </div>
                               </div>
                              </a>
-                              <a href="https://www.youtube.com/">
+                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
                                  <div class="quick-start-wrapper-card">
                                      <div class="kalp-icon">
                                      <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -722,14 +722,14 @@ hide:
                                      </svg>
                                      </div>
                                      <div class="quick-start-wrapper-sub-wrapper">
-                                     <span>Write, Test, Deploy & Interact with Kalp Studio</span>
+                                     <span>How to Deploy a Smart Contract on Kalp Studio</span>
                                      <svg width="16" height="16" viewBox="0 0 16 16" class="arrow-wrapper" fill="none" xmlns="http://www.w3.org/2000/svg">
                                      <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                      </svg>
                                      </div>
                                  </div>
                                  </a>
-                          <a href="https://www.youtube.com/">
+                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
                              <div class="quick-start-wrapper-card">
                                  <div class="kalp-icon">
                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -737,14 +737,14 @@ hide:
                                  </svg>
                                  </div>
                                  <div class="quick-start-wrapper-sub-wrapper">
-                                 <span>How to manage funds in Kalp Studio</span>
+                                 <span>How to generate API endpoints</span>
                                  <svg width="16" height="16" class="arrow-wrapper" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                  </svg>
                                  </div>
                              </div>
                              </a>
-                          <a href="https://www.youtube.com/">
+                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
                              <div class="quick-start-wrapper-card">
                               <div class="kalp-icon">
                               <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -752,14 +752,14 @@ hide:
                               </svg>
                               </div>
                               <div class="quick-start-wrapper-sub-wrapper">
-                              <span>View & Edit kalp studio settings</span>
+                              <span>How to generate API key</span>
                                   <svg width="16" height="16" class="arrow-wrapper" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                   </svg>
                               </div>
                          </div>
                         </a>
-                         <a href="https://www.youtube.com/">
+                         <a href="https://stg-documentation.p2eppl.com/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
                          <div class="quick-start-wrapper-card">
                           <div class="kalp-icon">
                           <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -767,7 +767,7 @@ hide:
                           </svg>
                           </div>
                           <div class="quick-start-wrapper-sub-wrapper">
-                          <span>View & Edit kalp studio settings</span>
+                          <span>How can I monitor all my transactions</span>
                               <svg width="16" height="16" class="arrow-wrapper" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                               <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                               </svg>

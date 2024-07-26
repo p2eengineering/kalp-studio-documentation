@@ -36,8 +36,6 @@ The KALP Studio Console is the central hub for accessing and managing all servic
     
 -   **Credits:** Displays available credits and transaction history.
     
--   **User Management:** Allows adding and managing users with different roles.
-    
 -   **Help & Support:** Offers resources for troubleshooting and contacting support.
     
 
