@@ -428,7 +428,7 @@ hide:
                       </div>
                   </div>
                   <div class="build-description-card-main">
-                      <a href="https://www.youtube.com/">
+                      <a href="https://stg-documentation.p2eppl.com/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
