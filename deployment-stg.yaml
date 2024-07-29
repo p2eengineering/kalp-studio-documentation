@@ -1,41 +1,34 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-<<<<<<< HEAD
-  namespace: kalp-studio-prod
-=======
-  namespace: prod
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454
-  name: kalp-studio-doc-prod-deployment
+  namespace: stg
+  name: kalp-studio-doc-stg-deployment
   labels:
-    app: kalp-studio-doc-prod
+    app: kalp-studio-doc-stg
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: kalp-studio-doc-prod
+      app: kalp-studio-doc-stg
   template:
     metadata:
       labels:
-        app: kalp-studio-doc-prod
+        app: kalp-studio-doc-stg
     spec:
-      hostname: kalp-studio-doc-prod
-<<<<<<< HEAD
-=======
+      hostname: kalp-studio-doc-stg
       nodeSelector:
-        noderole:	generic 
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454
+        noderole:	generic
       containers:
-        - name: kalp-studio-doc-prod
+        - name: kalp-studio-doc-stg
           image: 408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
           imagePullPolicy: IfNotPresent
           resources:
             requests:
-              memory: '1024Mi'
-              cpu: '500m'
+              memory: '500Mi'
+              cpu: '250m'
             limits:
-              memory: '1024Mi'
-              cpu: '500m'
+              memory: '500Mi'
+              cpu: '250m'
           # readinessProbe:
           #     httpGet:
           #       path: /health-check
@@ -59,19 +52,15 @@ spec:
           #     valueFrom:
           #       secretKeyRef:
           #         key: LOG_LEVEL
-          #         name: prod-kalp-studio-doc 
+          #         name: stg-kalp-studio-doc 
 ---
 apiVersion: v1
 kind: Service
 metadata:
-<<<<<<< HEAD
-  namespace: kalp-studio-prod
-=======
-  namespace: prod
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454
-  name: kalp-studio-doc-prod-svc
+  namespace: stg
+  name: kalp-studio-doc-stg-svc
   labels:
-    svc: kalp-studio-doc-prod
+    svc: kalp-studio-doc-stg
 spec:
   type: ClusterIP
   ports:
@@ -79,4 +68,4 @@ spec:
       port: 80
       targetPort: 8000
   selector:
-    app: kalp-studio-doc-prod
+    app: kalp-studio-doc-stg
