@@ -1,11 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-<<<<<<< HEAD
   namespace: kalp-studio-prod
-=======
-  namespace: prod
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454
   name: kalp-studio-doc-prod-deployment
   labels:
     app: kalp-studio-doc-prod
@@ -20,11 +16,6 @@ spec:
         app: kalp-studio-doc-prod
     spec:
       hostname: kalp-studio-doc-prod
-<<<<<<< HEAD
-=======
-      nodeSelector:
-        noderole:	generic 
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454
       containers:
         - name: kalp-studio-doc-prod
           image: 408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
@@ -64,11 +55,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-<<<<<<< HEAD
   namespace: kalp-studio-prod
-=======
-  namespace: prod
->>>>>>> 575436103fa28861f3af0208a2ca8bc9d0d8c454
   name: kalp-studio-doc-prod-svc
   labels:
     svc: kalp-studio-doc-prod
