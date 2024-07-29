@@ -2,69 +2,65 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Overview
+# Kalp Instant Deployer (KID) Overview
 
-Kalp Instant Deployer (KID) is a service designed to handle the deployment of smart contracts and track their status post-deployment. This documentation outlines the key processes involved in the deployment and tracking, including token and subscription validation, contract identification, request sending, and status tracking via a cron job.
+Kalp Instant Deployer (KID) is a powerful service designed to streamline and automate the deployment of smart contracts across multiple blockchain networks. KID simplifies the deployment process, providing real-time status tracking and ensuring secure and efficient contract management. This overview highlights the key features, processes, and benefits of the Kalp Instant Deployer.
 
-## Key Processes
+## Key Features
+
+### Simplified Deployment Process
+KID abstracts the complexities of smart contract deployment, making it accessible for both technical and non-technical users. By automating the deployment steps, users can focus on their contract logic without worrying about the deployment intricacies.
+
+### Multi-Blockchain Support
+KID supports deploying smart contracts on various blockchain networks, including:
+- Ethereum
+- Polygon
+- Avalanche
+- Optimism
+- Arbitrum
+- Fantom
+- Solana
+- Binance Smart Chain (BSC)
+- Kalptantra (proprietary blockchain)
+
+### Real-Time Status Tracking
+After initiating a deployment, users can track the status of their smart contracts in real time. A transaction hash is provided, which is used to monitor the progress and confirm the successful deployment of the contract.
 
 ### Token and Subscription Validation
+Each deployment request includes a bearer token. KID validates the token and checks the user's subscription status to ensure they have the necessary permissions and active subscriptions to use the service.
 
-Each request to the KID service includes a bearer token. The following steps are performed for validation:
+## Detailed Process
 
-1.  **Token Reception**: The bearer token is received with the request.
-    
-2.  **Validation Service**: The token is sent to a validation service to check:
-    
-    -   The validity of the token.
-        
-    -   The user's subscription status.
-        
-3.  **Proceed or Reject**:
-    
-    -   If the token is valid and the subscription is sufficient for the KID service, the request proceeds.
-        
-    -   If the token is invalid or the subscription is insufficient, the request is rejected.
-        
+### Token and Subscription Validation
+Each deployment request must include a bearer token. The validation process involves:
+- **Token Reception**: The bearer token is received with the deployment request.
+- **Validation Service**: The token is sent to a validation service to verify its validity and the user's subscription status.
+- **Proceed or Reject**: If the token is valid and the subscription is sufficient, the request proceeds. Otherwise, it is rejected.
 
-### Identify Contract
+### Contract Identification
+After validating the token and subscription, the service identifies the type of smart contract:
+- **Contract Verification**: Determines whether the uploaded smart contract is EVM-based (Ethereum Virtual Machine) or Kalptantra-based.
+- **Contract Handling**: Handles the contract appropriately based on its type for deployment.
 
-Upon successful token and subscription validation, the type of smart contract is verified:
+### Sending Deployment Request
+Once the contract type is identified, the deployment process begins:
+- **Request Formation**: Formulates a request to the wallet service with the contract details.
+- **Deployment Request**: Sends the request to the wallet service for deployment.
+- **Transaction Hash**: The wallet service deploys the smart contract and provides a transaction hash for tracking.
 
-1.  **Contract Verification**: Determine whether the uploaded smart contract is:
-    
-    -   EVM (Ethereum Virtual Machine) based.
-        
-    -   Kalptantra based.
-        
-2.  **Contract Handling**: Based on the type, handle the contract accordingly for deployment.
-    
+### Status Tracking via Cron Job
+KID includes a cron job mechanism for regular status updates:
+- **Cron Job Execution**: A cron job runs at specified intervals (e.g., every minute).
+- **Fetch Status**: The cron job fetches the status of all pending smart contracts using the transaction hash.
+- **Update Response**: Updates the status information in the response database or system accordingly.
 
-### Send Request
+## Benefits
 
-Once the contract type is identified, the deployment process is initiated:
+- **Efficiency**: Automates and simplifies the deployment process, saving time and reducing manual errors.
+- **Accessibility**: Makes smart contract deployment accessible to a wider audience, including those with limited technical expertise.
+- **Security**: Ensures secure deployment through token validation and secure communication channels.
+- **Real-Time Updates**: Provides real-time status updates, keeping users informed about the progress of their deployments.
 
-1.  **Request Formation**: Formulate a request to the wallet service with the contract details.
-    
-2.  **Deployment Request**: Send the request to the wallet service for deployment.
-    
-3.  **Transaction Hash**:
-    
-    -   The wallet service deploys the smart contract.
-        
-    -   A transaction hash is provided to track the status of the deployment.
-        
+## Conclusion
 
-### Cron Job for Status Tracking
-
-KID includes a cron job mechanism to ensure the status of pending smart contracts is updated regularly:
-
-1.  **Cron Job Execution**: A cron job runs every minute.
-    
-2.  **Fetch Status**:
-    
-    -   The cron job fetches the status of all pending smart contracts.
-        
-    -   The transaction hash provided during deployment is used to check the status.
-        
-3.  **Update Response**: The status information is updated accordingly in the response database or system.
+Kalp Instant Deployer (KID) is a robust tool that enhances the efficiency and accessibility of deploying smart contracts. By automating the deployment process, supporting multiple blockchain networks, and providing real-time status tracking, KID offers a comprehensive solution for developers and users seeking to deploy smart contracts quickly and securely.
