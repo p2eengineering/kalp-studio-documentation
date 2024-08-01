@@ -101,19 +101,19 @@ Kalp Studio Console is a comprehensive dashboard designed to streamline the mana
 
 The Kalp Wallet interface within Kalp Studio is designed to offer a seamless and user-friendly experience for managing digital assets. Here is a combined overview based on the provided screenshots:
 
-#### Initial Connection
+**Initial Connection**
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F5ef8IZYl7i6HOVxNASS5%252Fimage.png%3Falt%3Dmedia%26token%3Dd75e96cb-5745-41d3-9d6f-df49c71f9a54&width=768&dpr=4&quality=100&sign=6b4ec125&sv=1)
 
 Upon accessing the wallet section, users are prompted to connect a wallet to reflect their balance. A prominent "+ Connect Wallet" button is displayed, guiding users to establish a connection with their preferred wallet to start managing their assets.
 
-#### Wallet Selection
+**Wallet Selection**
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FCXDBM2nDd7b7T4P1fiRy%252Fimage.png%3Falt%3Dmedia%26token%3D307a08c6-3cc1-4ac8-9c1a-de7a99808fe3&width=768&dpr=4&quality=100&sign=66a34896&sv=1)
 
 When connecting a wallet, users are presented with a selection interface that includes options to choose from popular wallet providers such as "Socials," "MetaMask," and "Kalp Studio Wallet." There is also an option to create a new wallet by clicking the "+ Create New Wallet" button. This flexibility ensures that users can integrate the wallet service that best suits their needs.
 
-#### Wallet Management Dashboard
+**Wallet Management Dashboard**
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FaPP4aIgbxamFitcBVof6%252Fimage.png%3Falt%3Dmedia%26token%3D885271a0-78ff-4f44-8172-f578058d0bd5&width=768&dpr=4&quality=100&sign=7e3d2ac0&sv=1)
 
@@ -125,7 +125,7 @@ Once a wallet is connected, users are taken to the wallet management dashboard, 
 -   **All Created Wallets**: Users can access a tab that displays all wallets they have created, enhancing the organization and accessibility of multiple wallets.
 -   **Create New Wallet**: The option to create a new wallet is always available via a button at the top of the dashboard, enabling users to add and manage multiple wallets within Kalp Studio.
 
-#### Additional Features
+**Additional Features**
 
 -   **Open API**: An "Open API" button suggests advanced functionality for developers or users needing to interact programmatically with their wallet.
 -   **Help and Support**: There is a "Help and Support" section to assist users with any issues or questions they may have while using the wallet interface.
