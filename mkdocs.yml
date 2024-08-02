@@ -2,7 +2,7 @@ site_name: kalp-studio-documentation
 site_author: Siddhesh Patankar
 copyright: Copyright © 2024 Kalp studio. All rights reserved.
 repo_url: https://github.com/p2eengineering/kalp-studio-documentation
-site_url: http://stg-documentation.p2eppl.com/
+site_url: https://doc.kalp.studio/
 repo_name: Kalp-studio-documentation
 
 theme:
