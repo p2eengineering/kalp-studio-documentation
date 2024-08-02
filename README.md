@@ -43,4 +43,3 @@ The site comes up at http://127.0.0.1:8000/
 - Siddhesh Patankar 
 - Vaishnavi Rana 
 - Ravi ranjan
-- 
