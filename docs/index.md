@@ -665,7 +665,7 @@ hide:
                     <div class="developer-resource-card-wrapper dev-res">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
-                        <a href="https://doc.kalp.studio/Use-the-kalp-sdk/Kalp-golang-sdk/">
+                        <a href="https://doc.kalp.studio//Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
                              <h4>Kalp SDK</h4>
