@@ -154,8 +154,6 @@ nav:
           - How to Create and Connect Wallet to Kalp Studio: 'Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
       - Kalp Instant Deployer:
           - How to Deploy a Smart Contract on Kalp Studio: 'Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
-      - User Management:
-          - How to Navigate User Management on Kalp Studio: 'Getting-started/User-Management/How-to-Navigate-User-Management-on-Kalp-Studio.md'
       - API Gateway:
           - How to generate API endpoints: 'Getting-started/API-Gateway/How-to-generate-API-endpoints.md'
           - How to navigate to the list of smart contract: 'Getting-started/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract.md'
