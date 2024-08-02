@@ -451,7 +451,7 @@ hide:
                       </div>
                   </div>
                   <div class="build-description-card-main">
-                      <a href="https://stg-documentation.p2eppl.com/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+                      <a href="https://doc.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
@@ -464,7 +464,7 @@ hide:
                           </span>
                           </div>
                      </a>
-                     <a href="https://stg-documentation.p2eppl.com/Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
+                     <a href="https://doc.kalp.studio/Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Dashboard
@@ -477,7 +477,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://stg-documentation.p2eppl.com/Getting-started/Billing/How-does-a-new-user-access-billing/">
+                     <a  href="https://doc.kalp.studio/Getting-started/Billing/How-does-a-new-user-access-billing/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Billing
@@ -490,7 +490,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a href="https://stg-documentation.p2eppl.com/Getting-started/Credits/How-to-Add-Credit/">
+                     <a href="https://doc.kalp.studio/Getting-started/Credits/How-to-Add-Credit/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Credits
@@ -503,7 +503,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://stg-documentation.p2eppl.com/Getting-started/Wallets/How-to-Navigate-To-Wallet/">
+                     <a  href="https://doc.kalp.studio/Getting-started/Wallets/How-to-Navigate-To-Wallet/">
                      <div class="build-description-card">
                      <div class="build-description-card-title">
                          Kalp Wallet
@@ -516,7 +516,7 @@ hide:
                      </span>
                     </div>
                      </a>
-                     <a  href="https://stg-documentation.p2eppl.com/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
+                     <a  href="https://doc.kalp.studio//Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp instant deployer
@@ -529,7 +529,7 @@ hide:
                          </span>
                      </div>
                         </a>
-                          <a  href="https://stg-documentation.p2eppl.com/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
+                          <a  href="https://doc.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
                              <div class="build-description-card">
                                   <div class="build-description-card-title">
                                       API Gateway
@@ -542,7 +542,7 @@ hide:
                                   </span>
                               </div>
                           </a>
-                          <a  href="https://stg-documentation.p2eppl.com/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
+                          <a  href="https://doc.kalp.studio/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
                            <div class="build-description-card">
                                 <div class="build-description-card-title">
                                     Transaction monitoring
@@ -555,7 +555,7 @@ hide:
                                 </span>
                             </div>
                         </a>
-                        <a  href="https://stg-documentation.p2eppl.com/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
+                        <a  href="https://doc.kalp.studio/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
                          <div class="build-description-card">
                               <div class="build-description-card-title">
                                   API Key generation
@@ -583,7 +583,7 @@ hide:
                          </div>
                      </div>
                  <div class="build-description-card-main">
-                 <a  href="https://stg-documentation.p2eppl.com/Introduction/Kalp-studio-overview/">
+                 <a  href="https://doc.kalp.studio/Introduction/Kalp-studio-overview/">
                      <div class="build-description-card">
                         <div class="build-description-card-title">
                             Kalp studio overview
@@ -596,7 +596,7 @@ hide:
                          </span>
                     </div>
                    </a>
-                       <a  href="https://stg-documentation.p2eppl.com/Introduction/Kalp-studio-ecosystem/">
+                       <a  href="https://doc.kalp.studio/Introduction/Kalp-studio-ecosystem/">
                        <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp studio console dashboard
@@ -609,7 +609,7 @@ hide:
                         </span>
                      </div>
                      </a>
-                       <a  href="https://stg-documentation.p2eppl.com/Introduction/Kalp-blockchain/">
+                       <a  href="https://doc.kalp.studio/Introduction/Kalp-blockchain/">
                         <div class="build-description-card">
                              <div class="build-description-card-title">
                                  Kalp blockchain
@@ -624,7 +624,7 @@ hide:
                             </span>
                          </div>
                      </a>
-                   <a  href="https://stg-documentation.p2eppl.com/Introduction/What-is-kalp-instant-deployer/">
+                   <a  href="https://doc.kalp.studio/Introduction/What-is-kalp-instant-deployer/">
                     <div class="build-description-card">
                     <div class="build-description-card-title">
                         Kalp instant deployer
@@ -637,7 +637,7 @@ hide:
                    </span>
                     </div>
                     </a>
-                     <a  href="https://stg-documentation.p2eppl.com/Introduction/What-is-kalp-wallet/">
+                     <a  href="https://doc.kalp.studio/Introduction/What-is-kalp-wallet/">
                         <div class="build-description-card">
                         <div class="build-description-card-title">
                             What is kalp wallet
@@ -665,21 +665,21 @@ hide:
                     <div class="developer-resource-card-wrapper dev-res">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
-                        <a href="https://stg-documentation.p2eppl.com/Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/">
+                        <a href="https://doc.kalp.studio/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
                              <h4>Kalp SDK</h4>
                             <span>The Kalp SDK provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
                         </div>
                         </a>
-                             <a href="https://stg-documentation.p2eppl.com/Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract/">
+                             <a href="https://doc.kalp.studio/Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>KRC Token standard</h4>
                                   <span>KRC token standards serve as the foundation for creating a thriving and interoperable tokenized ecosystem on the Kalp blockchain. By adhering to these standards, developers can build tokens that seamlessly integrate with various applications and services, fostering a vibrant environment of innovation and diverse functionalities.</span>
                               </div>
                                 </a>
-                             <a href="https://stg-documentation.p2eppl.com/Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/">
+                             <a href="https://doc.kalp.studio/Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/">
                                 <div class="card-wrapper">
                                   <img src="images/interaction.svg" alt="sdk" />
                                   <h4>Write, Test, Deploy & Interact</h4>
@@ -694,7 +694,7 @@ hide:
                  Are you ready to start building?
                  </span>
                  <div class="quick-start-wrapper-main-wrapper">
-                      <a href="https://stg-documentation.p2eppl.com/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
+                      <a href="https://doc.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                              <div class="kalp-icon">
                              <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -709,7 +709,7 @@ hide:
                              </div>
                          </div>
                          </a>
-                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
+                              <a href="https://doc.kalp.studio/Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
                               <div class="quick-start-wrapper-card">
                                   <div class="kalp-icon">
                                   <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -724,7 +724,7 @@ hide:
                                   </div>
                               </div>
                              </a>
-                              <a href="https://stg-documentation.p2eppl.com/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
+                              <a href="https://doc.kalp.studio/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
                                  <div class="quick-start-wrapper-card">
                                      <div class="kalp-icon">
                                      <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -739,7 +739,7 @@ hide:
                                      </div>
                                  </div>
                                  </a>
-                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
+                          <a href="https://doc.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                                  <div class="kalp-icon">
                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -754,7 +754,7 @@ hide:
                                  </div>
                              </div>
                              </a>
-                          <a href="https://stg-documentation.p2eppl.com/Getting-started/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
+                          <a href="https://doc.kalp.studio/Getting-started/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                               <div class="kalp-icon">
                               <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -769,7 +769,7 @@ hide:
                               </div>
                          </div>
                         </a>
-                         <a href="https://stg-documentation.p2eppl.com/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
+                         <a href="https://doc.kalp.studio/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                           <div class="kalp-icon">
                           <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
