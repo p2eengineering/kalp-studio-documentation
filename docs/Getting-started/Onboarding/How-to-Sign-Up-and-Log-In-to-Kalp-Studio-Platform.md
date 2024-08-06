@@ -4,8 +4,6 @@
 
 # **How to Sign Up and Log In to Kalp Studio Platform**
 
-Hi User,
-
 We acknowledge your self-reliance, but we're excited to stand by your side throughout your Kalp Studio experience. In addition, we'll provide you with valuable tips and information about how to make the most of Kalp Studio functionalities. Kalp Studio provides a streamlined process for signing up and logging into their platform. Follow the steps below to create an account and access the features of Kalp Studio.
 
 So, let’s begin with your onboarding process on the Kalp Studio platform. 

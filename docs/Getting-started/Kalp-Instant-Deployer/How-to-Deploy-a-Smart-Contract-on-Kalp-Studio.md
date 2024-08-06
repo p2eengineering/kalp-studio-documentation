@@ -4,7 +4,6 @@
 
 # **How to Deploy a Smart Contract on Kalp Studio**
 
-Hi User,  
 Deploying a smart contract on KALP Studio is a streamlined process that involves a few simple steps. This guide will walk you through the entire procedure, using the screenshots provided as visual aids.
 
 ### Step 1: Access the Kalp Studio

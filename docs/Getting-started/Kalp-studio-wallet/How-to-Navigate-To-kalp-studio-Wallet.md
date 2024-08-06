@@ -3,14 +3,11 @@
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
-# **How to Navigate To Wallet**
-
-
-Hi User,
+# How to Navigate To Kalp studio Wallet
 
 Efficient digital asset management is crucial, and Kalp Studio offers a professional, user-friendly wallet feature. This guide will help you navigate and use the wallet interface, allowing you to connect, view, and manage your wallets with ease.
 
-### **Step-by-Step Guide to Navigate to Wallet**
+### **Step-by-Step Guide to Navigate to Kalp studio Wallet**
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FSab1RNz9RIqOwQr7G73f%252Fimage.png%3Falt%3Dmedia%26token%3D770ae67a-7302-426d-9397-28c310623a1f&width=768&dpr=4&quality=100&sign=99c6cb55&sv=1)
 
@@ -30,7 +27,7 @@ Efficient digital asset management is crucial, and Kalp Studio offers a professi
 -   On the left-hand side, you will see the main menu with several options.
     
 
-3 .  **Navigate to Wallet Section**:
+3 .  **Navigate to Kalp studio Wallet Section**:
     
 
 -   In the main menu, locate the "Wallet" option. It is represented by an icon of a wallet.
@@ -90,4 +87,4 @@ Once you have added your wallet, you can view and manage it efficiently. Here's 
 -   If you need to disconnect a wallet, click on the "Disconnect" button next to the wallet balance.
     
 
-By following these steps, you can easily navigate to and manage your wallet within Kalp Studio, keeping track of your balances and transactions with ease.
+By following these steps, you can easily navigate to and manage your kalp studio wallet within Kalp Studio dashboard, keeping track of your balances and transactions with ease.

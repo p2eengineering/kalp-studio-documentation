@@ -4,8 +4,6 @@
 
 # **How to Change the Password**
 
-Hi User,
-
 The "Forgot Password" feature is an essential component of any website or platform that allows users to recover access to their accounts when they have forgotten their passwords.
 
 Resetting a password successfully is a seamless and straightforward process through the Kalp Studio. User(s) cannot enter Kalp Studio without logging in with the individual’s email and a correct password, matching with the database.

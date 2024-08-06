@@ -1,4 +1,4 @@
-site_name: kalp-studio-documentation
+site_name: Kalp Studio Documentation
 site_author: Siddhesh Patankar
 copyright: Copyright © 2024 Kalp studio. All rights reserved.
 repo_url: https://github.com/p2eengineering/kalp-studio-documentation
@@ -133,8 +133,8 @@ nav:
           - Kalp studio overview: 'Introduction/Kalp-studio-overview.md'
           - Kalp studio ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
           - What is smart contract deployer: 'Introduction/What-is-kalp-instant-deployer.md'
-          - What is kalp wallet: 'Introduction/What-is-kalp-wallet.md'
-          - Kalp blockchain: 'Introduction/Kalp-blockchain.md'
+          - What is kalp studio wallet: 'Introduction/What-is-kalp-studio-wallet.md'
+          - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Getting started:
       - Onboarding:
           - How to Sign Up and Log In to Kalp Studio Platform: 'Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform.md'
@@ -149,9 +149,9 @@ nav:
       - Credits:
           - How to Add Credit: 'Getting-started/Credits/How-to-Add-Credit.md'
           - Navigate to the credit section: 'Getting-started/Credits/Navigate-to-the-Credit-Section.md'
-      - Wallets:
-          - How to Navigate To Wallet: 'Getting-started/Wallets/How-to-Navigate-To-Wallet.md'
-          - How to Create and Connect Wallet to Kalp Studio: 'Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
+      - Kalp-studio-wallet:
+          - How to Navigate To kalp studio Wallet: 'Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet.md'
+          - How to Create and Connect Wallet to Kalp Studio: 'Getting-started/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
       - Kalp Instant Deployer:
           - How to Deploy a Smart Contract on Kalp Studio: 'Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
       - API Gateway:
@@ -162,7 +162,7 @@ nav:
       - Transaction monitoring:
           - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
       - Settings:
-          - How to Customize Notifications KYC and Templates: 'Getting-started/Settings/How-to-Customize-Notifications-KYC-and-Templates.md'
+          - How to Process KYC and get purchased template list: 'Getting-started/Settings/How-to-Process-KYC-and-get-purchased-template-list.md'
   - Dev documentation:
       - Use the kalp SDK:
           - Kalp Golang SDK: 'Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk.md'
@@ -188,7 +188,7 @@ extra:
   social:
 
     - icon: fontawesome/brands/github
-      link: https://github.com/p2eengineering/kalp-studio-documentation
+      link: https://github.com/thekalpstudio/
   
     - icon: fontawesome/brands/x-twitter 
       link: https://twitter.com/Kalp_Studio

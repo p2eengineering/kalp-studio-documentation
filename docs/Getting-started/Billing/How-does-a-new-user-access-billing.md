@@ -4,8 +4,6 @@
 
 # **How does a new user access billing**
 
-Hi User,
-
 When a new user logs into the Kalp Studio platform, they are greeted with a user-friendly billing screen designed to provide clarity and ease of use. Below is a detailed description of how this screen appears and functions for a new user:
 
 ### Layout and Navigation
@@ -76,15 +74,35 @@ Users can search for specific products using the search bar and sort the product
 
 ### Subscription Plans for New Users
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FFKWYYyUeO9Fm97kSp9ap%252Fimage.png%3Falt%3Dmedia%26token%3D20fec196-faa7-4c9a-9de5-78a6a657effa&width=768&dpr=4&quality=100&sign=6d06e8fe&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FIF2l8nvFT8G8iyoEfyAX%252Fimage.png%3Falt%3Dmedia%26token%3D95961f64-87f1-4539-95ba-f2a39b3bbcb9&width=768&dpr=4&quality=100&sign=d0499dc4&sv=1)
 
-A new user on Kalp Studio starts with a **Personal Plan**. The Personal Plan is designed for individual users or small-scale projects. Users can easily upgrade their plans to suit their growing needs. The available plans include:
 
--   **Professional Plan**: For professional users requiring more resources and features.
+1.  **Starter Plan**
     
--   **Business Plan**: Ideal for small to medium-sized businesses.
+    -   **Price**: $7.00/month
+        
+    -   **API Requests**: 5,000
+        
+    -   **Status**: Active (this is the currently active plan for the user)
+        
+2.  **Developer Plan**
     
--   **Enterprise Plan**: Tailored for large enterprises with extensive needs.
+    -   **Price**: $15.00/month
+        
+    -   **API Requests**: 15,000
+        
+    -   **Status**: Available for upgrade
+        
+3.  **Enterprise Plan**
+    
+    -   **Price**: $30.00/month
+        
+    -   **API Requests**: 50,000
+        
+    -   **Status**: Available for upgrade
+        
+
+Each plan offers a different number of API requests per month, with higher-priced plans offering more requests. The user can upgrade from the current plan (Starter) to either the Developer or Enterprise plan.
     
 
 ### Upgrading Plans

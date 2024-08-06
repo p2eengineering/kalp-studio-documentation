@@ -5,7 +5,6 @@
 
 # **How to Navigate Kalp Studio Platform as a New User**
 
-Hi User,  
 Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. As a new user, this guide will help you navigate the platform efficiently.
 
 As the new user logs in to the dashboard, a total credit of $500 will be credited to the account.

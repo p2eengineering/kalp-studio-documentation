@@ -4,8 +4,6 @@
 
 # **How does Billing work on the Kalp Studio Platform**
 
--
-
 ## Introduction
 
 Kalp Studio offers a flexible and transparent billing system designed to cater to a wide range of user needs. The platform employs a pay-as-you-go pricing model, ensuring that users only pay for the services they consume without the burden of long-term contracts or complex licensing agreements. This article will delve into the specifics of how billing works on Kalp Studio, highlighting key aspects such as service selection, subscription plans, and the pay-as-you-go model.

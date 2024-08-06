@@ -5,8 +5,6 @@
 
 # **How can I monitor all my transactions**
 
-Hi User,
-
 Monitoring transactions is crucial for managing and auditing financial activities, especially when dealing with blockchain and smart contracts. KALP Studio provides a comprehensive platform for monitoring transactions effectively.
 
 **Access the Dashboard:**

@@ -4,8 +4,6 @@
 
 # **How to generate API Key**
 
-Hi User,
-
 Generating an API key is a crucial step for integrating and utilizing the features provided by Kalp Studio. API keys are used to authenticate requests associated with your project, ensuring secure and streamlined access to various services.
 
 ### **Access the API Gateway**

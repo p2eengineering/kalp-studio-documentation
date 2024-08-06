@@ -13,7 +13,7 @@
 
   
 
-Kalp Studio Console is a comprehensive dashboard designed to streamline the management and development of blockchain applications within the Kalp ecosystem. It provides an intuitive and user-friendly interface that allows users to efficiently access, manage, and subscribe to various products and services offered by Kalp Studio. This overview delves into the features and functionalities of the Kalp Studio Console, showcasing its role in enhancing the blockchain development experience.
+Kalp studio console is a comprehensive dashboard designed to streamline the management and development of blockchain applications within the Kalp ecosystem. It provides an intuitive and user-friendly interface that allows users to efficiently access, manage, and subscribe to various products and services offered by Kalp Studio. This overview delves into the features and functionalities of the Kalp Studio Console, showcasing its role in enhancing the blockchain development experience.
 
   
 

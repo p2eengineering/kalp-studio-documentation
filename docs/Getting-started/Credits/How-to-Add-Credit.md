@@ -4,8 +4,6 @@
 
 # **How to Add Credit**
 
-Hi User,
-
 Kalp Studio provides a seamless platform for managing your credits and transactions efficiently. Adding credits to your KALP Studio wallet is crucial for accessing various services and features offered by the platform.
 
 As a new user, you will receive a complimentary $500 onboarding credit. This credit allows you to explore and utilize the full capabilities of the platform right from the start.
