@@ -111,4 +111,4 @@ Users can upgrade their plans directly from the billing screen. The process is s
 
 ### Conclusion
 
-The billing screen in Kalp Studio is designed with user convenience in mind, offering a clear and efficient way to manage subscriptions and services. New users will find it easy to navigate, understand the pricing model, and make informed decisions about their service needs. The ability to start with a Personal Plan and upgrade as needed provides flexibility and scalability, catering to users at different stages of their journey.
+The billing screen in Kalp Studio is designed with user convenience in mind, offering a clear and efficient way to manage subscriptions and services. New users will find it easy to navigate, understand the pricing model, and make informed decisions about their service needs.

@@ -65,5 +65,6 @@ Welcome to the latest release of the Kalp Studio Console Dashboard. This update 
 - **Responsive Design**: Improved responsiveness for better usability across different devices and screen sizes.
 - **Visual Consistency**: Consistent visual elements and icons across all modules for a cohesive look and feel.
 
-## Conclusion
-Kalp Studio Console dashboard is designed to simplify the management of blockchain applications and networks, offering an array of features that enhance user interaction with the Kalp ecosystem. With intuitive modules for Wallets, billing, credits, documentation and support, Kalp Studio Console improves the user experience making it easier to build, manage, and scale decentralized applications
+We value your feedback and encourage you to share any suggestions or report any issues you encounter, Raise a ticket at - [**care@kalp.studio**](https://care.kalp.studio/support/home).
+
+We look forward to your continued support as we work towards a stable and feature-rich release.
