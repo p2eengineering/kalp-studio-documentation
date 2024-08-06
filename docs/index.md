@@ -707,7 +707,7 @@ hide:
                              </div>
                          </div>
                          </a>
-                              <a href="https://doc.kalp.studio/Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
+                              <a href="https://doc.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
                               <div class="quick-start-wrapper-card">
                                   <div class="kalp-icon">
                                   <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
