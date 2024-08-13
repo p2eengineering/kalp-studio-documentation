@@ -12,7 +12,7 @@ Welcome to the latest release of the Kalp Studio Console Dashboard. This update 
 
 ### Onboarding
 - **Streamlined Sign-Up Process**: New users can now enjoy a more intuitive and faster registration process with clear instructions and prompts.
-- **$50 Onboarding Credit**: Every new user receives a complimentary $500 credit to explore and utilize Kalp Studio’s features.
+- **$50 Onboarding Credit**: Every new user receives a complimentary $50 credit to explore and utilize Kalp Studio’s features.
 - **Verification Steps**: Enhanced email verification and OTP validation for secure account setup.
 
 ### Dashboard
