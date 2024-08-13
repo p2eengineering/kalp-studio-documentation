@@ -9,7 +9,7 @@ Efficient digital asset management is crucial, and Kalp Studio offers a professi
 
 ### **Step-by-Step Guide to Navigate to Kalp studio Wallet**
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FSab1RNz9RIqOwQr7G73f%252Fimage.png%3Falt%3Dmedia%26token%3D770ae67a-7302-426d-9397-28c310623a1f&width=768&dpr=4&quality=100&sign=99c6cb55&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FmOr0hGTP0qt8dGyk3uhI%252Fimage.png%3Falt%3Dmedia%26token%3D7788b6bc-2385-4c2e-b3fe-c5fc94fbaeca&width=768&dpr=4&quality=100&sign=50eb17cb&sv=1)
 
 1 .  **Log in to Kalp Studio**:
     
@@ -36,7 +36,7 @@ Efficient digital asset management is crucial, and Kalp Studio offers a professi
 
 ### **Adding a Wallet**
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F2tVUnj4TDZeT1VnYd7Qd%252Fimage.png%3Falt%3Dmedia%26token%3D55ff9681-e08b-4e87-9bce-3395e553cb17&width=768&dpr=4&quality=100&sign=3195a68b&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FAlRp1MwgtiJFKWB9HEWg%252Fimage.png%3Falt%3Dmedia%26token%3D4a14c61e-9c24-4749-98a1-1193d4fe11d3&width=768&dpr=4&quality=100&sign=b8745d1e&sv=1)
 
 **Connect Wallet**:
 
@@ -64,13 +64,10 @@ Once you have added your wallet, you can view and manage it efficiently. Here's 
 -   On the right side, there is a section titled "All Wallets" where you can see all the connected wallets along with their respective balances.
 
 3 .  **Transactions**:
-    
 
 -   Below the wallet balance, you will find the "Transactions" section.
-    
 -   This section lists all your transactions, including details such as Transaction ID, Amount/Fee, Time, Network, and Status.
-    
--   You can filter the transactions by Network (e.g., Kalp Main Net, Ethereum Main Net) or by type (e.g., Main Net, Test Net).
+-   You can filter the transactions by Network or by type (e.g., Main Net, Test Net).
     
 
 4 .  **Network and Blockchain Tabs**:

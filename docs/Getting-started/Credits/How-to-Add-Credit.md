@@ -4,15 +4,15 @@
 
 # **How to Add Credit**
 
-Kalp Studio provides a seamless platform for managing your credits and transactions efficiently. Adding credits to your KALP Studio wallet is crucial for accessing various services and features offered by the platform.
+Kalp Studio provides a seamless platform for managing your credits and transactions efficiently. Adding credits to your Kalp Studio wallet is crucial for accessing various services and features offered by the platform.
+ 
+As a new user, you will receive a complimentary $50 onboarding credit. This credit allows you to explore and utilize the full capabilities of the platform right from the start.
 
-As a new user, you will receive a complimentary $500 onboarding credit. This credit allows you to explore and utilize the full capabilities of the platform right from the start.
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FTzhv21C62D1YpiBPUVjg%252Fimage.png%3Falt%3Dmedia%26token%3D12b17d55-33f5-4840-8677-eb6e84634697&width=768&dpr=4&quality=100&sign=9ebd296e&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FkSgiBjVbeinPvmpXjpru%252Fimage.png%3Falt%3Dmedia%26token%3D48b32131-4a69-42c3-918d-8f856933b9b4&width=768&dpr=4&quality=100&sign=e4350e35&sv=1)
 
 ### Step 1: Access the Credits Section
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F8gsurnXkaR1BYHVT43Fw%252Fimage.png%3Falt%3Dmedia%26token%3Db57af809-e887-49a6-a5f0-1b0f2ba033c6&width=768&dpr=4&quality=100&sign=f1c73648&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FHE2YhggHC8cEUe5XADjt%252Fimage.png%3Falt%3Dmedia%26token%3D22bb471d-6b87-4cc2-a386-f824deb136a8&width=768&dpr=4&quality=100&sign=17222dba&sv=1)
 
 1.  **Login to KALP Studio**: Enter your credentials and log into your account.
     
@@ -21,7 +21,7 @@ As a new user, you will receive a complimentary $500 onboarding credit. This cre
 
 ### Step 2: Initiate Adding Credits
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F1bojLLjqnO7osyiePrni%252Fimage.png%3Falt%3Dmedia%26token%3De87e01af-25ca-43f6-872d-725edb92f328&width=768&dpr=4&quality=100&sign=890beac&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FkCJzsrLm9FyeupU0oBT2%252Fimage.png%3Falt%3Dmedia%26token%3Dc97c5899-af1b-41ae-8639-ce836ed295d7&width=768&dpr=4&quality=100&sign=7163dadb&sv=1)
 
 1.  **Click on "Add Credits"**: On the Credits page, you will see a button labeled "Add Credits". Click on it to proceed.
 

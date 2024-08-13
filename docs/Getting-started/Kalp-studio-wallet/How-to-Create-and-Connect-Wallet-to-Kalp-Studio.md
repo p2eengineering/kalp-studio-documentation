@@ -11,14 +11,14 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 #### 1. Access the Wallet Section
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FrUqJvLEMa6kmEyjAvavP%252Fimage.png%3Falt%3Dmedia%26token%3D80fc6b45-4e9d-4816-8a3e-e4dedded733d&width=768&dpr=4&quality=100&sign=869a882b&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FAlRp1MwgtiJFKWB9HEWg%252Fimage.png%3Falt%3Dmedia%26token%3D4a14c61e-9c24-4749-98a1-1193d4fe11d3&width=768&dpr=4&quality=100&sign=b8745d1e&sv=1)
 
 -   **Navigate to the Wallet Section**: After logging into Kalp Studio, go to the sidebar menu and click on the 'Wallet' option.
     
 
 #### 2. Add a New Wallet
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FkYlI7bYETIht54BiLWvC%252Fimage.png%3Falt%3Dmedia%26token%3Df62946d5-075e-4ac2-88a9-3b7e7bc202cd&width=768&dpr=4&quality=100&sign=1a631b36&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FT8uZiQECY0d4aW2vyr8p%252Fimage.png%3Falt%3Dmedia%26token%3D12d80406-61ab-45fa-ac51-db4d823cb6a2&width=768&dpr=4&quality=100&sign=879bf85&sv=1)
 
 **Initiate Wallet Creation**: Click on the "+ Connect Wallet" button. This will open the wallet creation interface.
 
