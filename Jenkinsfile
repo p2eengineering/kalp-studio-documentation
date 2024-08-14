@@ -27,7 +27,7 @@ pipeline {
 				sh "aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin 408153089286.dkr.ecr.ap-south-1.amazonaws.com"
 				echo "Step: BUILD, initiated..."
 				sh "pip install mkdocs mkdocs-material"
-				sh "mkdocs build"
+				sh "which mkdocs && mkdocs build"
 				sh "aws ecr get-login --no-include-email --region ap-south-1 | sh"
 				sh "docker build -t '${STG_ECR_URL}':'${BUILD_NUMBER}' . --no-cache"
 				slackSend ( color: 'warning', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Build has been completed : #${env.BUILD_NUMBER}")
