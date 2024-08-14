@@ -7,7 +7,7 @@ pipeline {
 	environment {
 		STG_ECR_URL = '408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg'
 		STG_ENV = 'stg'
-		SLACK_CHANNEL = 'pl-builds-alertss'
+		SLACK_CHANNEL = 'pl-builds-alerts'
     }
 	stages {
 		stage('STG_BUILD') {
