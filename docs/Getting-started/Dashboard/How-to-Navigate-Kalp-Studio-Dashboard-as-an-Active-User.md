@@ -80,6 +80,6 @@ For an active user, managing your wallet is essential. Your connected wallet's a
 
 Engage with the Kalp community through various social media platforms listed on the dashboard. For any assistance, the "Help and Support" section provides access to FAQs, support tickets, and other resources to resolve your queries efficiently.
 
-### **Conclusion**
+### **Conclusion** 
 
 Kalp Studio offers a user-friendly interface with powerful features for blockchain developers and enthusiasts. By familiarizing yourself with the Dashboard, navigation menu, and available products, you can leverage the platform to build and manage your decentralized applications effectively, ensuring a seamless and productive experience.
