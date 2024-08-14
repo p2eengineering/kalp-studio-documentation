@@ -18,7 +18,7 @@ Kalp Studio offers a comprehensive billing screen that provides subscribed users
 
   Upon accessing the billing screen, users are presented with a well-organized interface. The screen is divided into several sections for ease of navigation and use:
 
-1.  **Sidebar Navigation**:
+-   **Sidebar Navigation**:
     
 
 -   **Dashboard**: Overview of the user's account.
@@ -32,10 +32,6 @@ Kalp Studio offers a comprehensive billing screen that provides subscribed users
 -   **Wallet**: Manage wallet and payment methods.
     
 -   **Help and Support**: Get assistance for any queries or issues.
-    
-
-1.  **Main Content Area**:
-    
 
 -   **Header**: Includes the user profile icon, notifications, help, and wallet connection options.
 
@@ -47,24 +43,21 @@ Kalp Studio offers a comprehensive billing screen that provides subscribed users
 Below the Billing Summary, the "Your Subscription" section provides detailed information about the user's current subscriptions:
 
 -   **Service Name**: The name of the subscribed service.
-    
 -   **Status**: Indicates whether the service is active or inactive.
-    
 -   **Plan Details**:
-    
-
-→ Starter Plan
 
 → Developer Plan
+
+→ Business Plan
 
 → Enterprise Plan
 
 -   **Actions**:
-    
 
 **→ Upgrade**: Allows users to upgrade their plan.
 
 **→ Renew**: Option to renew the subscription.
+
 
 ### Product Listings
 

@@ -74,32 +74,25 @@ Users can search for specific products using the search bar and sort the product
 
 ### Subscription Plans for New Users
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FIF2l8nvFT8G8iyoEfyAX%252Fimage.png%3Falt%3Dmedia%26token%3D95961f64-87f1-4539-95ba-f2a39b3bbcb9&width=768&dpr=4&quality=100&sign=d0499dc4&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FEqZJxDI5qHVRBqWcuSwf%252Fimage.png%3Falt%3Dmedia%26token%3D73eff513-a32f-4065-b0e6-86df8c2adb6b&width=768&dpr=4&quality=100&sign=16452f43&sv=1)
 
+1.  **Developer Plan - $0.00/Monthly**
 
-1.  **Starter Plan**
-    
-    -   **Price**: $7.00/month
-        
-    -   **API Requests**: 5,000
-        
-    -   **Status**: Active (this is the currently active plan for the user)
-        
-2.  **Developer Plan**
-    
-    -   **Price**: $15.00/month
-        
-    -   **API Requests**: 15,000
-        
-    -   **Status**: Available for upgrade
-        
-3.  **Enterprise Plan**
-    
-    -   **Price**: $30.00/month
-        
-    -   **API Requests**: 50,000
-        
-    -   **Status**: Available for upgrade
+-   Smart Contract: 100
+-   Blockchain: KALP DLT & EVM Chain
+-   Networks: Testnet & Mainnet
+
+2.  **Business Plan - $ 19.00/ Monthly**
+    -   Smart Contract: 5000
+    -   Blockchain: KALP DLT & EVM Chain
+    -   Networks: Testnet & Mainnet
+
+3.  **Enterprise Plan - $49.00/Monthly**
+    -   Smart Contract: Unlimited
+    -   Blockchain: KALP DLT & EVM Chain
+    -   Networks: Testnet & Mainnet
+
+The user can upgrade from the current plan (Debeloper) to either the Business or Enterprise plan.
         
 
 Each plan offers a different number of API requests per month, with higher-priced plans offering more requests. The user can upgrade from the current plan (Starter) to either the Developer or Enterprise plan.

@@ -7,15 +7,15 @@
 
 Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. As a new user, this guide will help you navigate the platform efficiently.
 
-As the new user logs in to the dashboard, a total credit of $500 will be credited to the account.
+As the new user logs in to the dashboard, a total credit of $50 will be credited to the account.
 
-![Credits Added](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FMzQRhwKPWuTpvYnNLex1%252Fimage.png%3Falt%3Dmedia%26token%3Dfcc6b8fb-1a4d-4940-b3cf-0e41b8315ba2&width=768&dpr=4&quality=100&sign=c7ab6ed4&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FrkNy19y2ZMGacli5F2iD%252Fimage.png%3Falt%3Dmedia%26token%3Dc78d64e4-ae4e-4498-bc37-01c39fbf6514&width=768&dpr=4&quality=100&sign=4f89a46c&sv=1)
 
 !!! Note
     Credits are one-time rewards. Users can use those credits to subscribe to the Kalp Studio services. Credits will be reflected in the profile segment. 
 
 
-![My Credit](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FxmxpYOVZkjME4M9fle1o%252Fimage.png%3Falt%3Dmedia%26token%3D58bb9dbb-7624-4334-bc0c-8d486f68a3ea&width=768&dpr=4&quality=100&sign=f407a9b0&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fzhca1FutgnVBHo1WM6G7%252Fimage.png%3Falt%3Dmedia%26token%3D11584170-21ac-4c2a-88cb-620cf625f44c&width=768&dpr=4&quality=100&sign=ba87b24d&sv=1)
 
 ### **Dashboard Overview**
 
@@ -83,9 +83,9 @@ In the upper-right corner, there is an "Apps" icon that, when clicked, displays 
 
 ### **Connecting Your Wallet**
 
-![Connect wallet](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FyaGQtiWD06RFgF3B6MGE%252Fimage.png%3Falt%3Dmedia%26token%3D712a324a-b4a7-4be9-8421-116fcd033669&width=768&dpr=4&quality=100&sign=cb2782db&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FyaGQtiWD06RFgF3B6MGE%252Fimage.png%3Falt%3Dmedia%26token%3D712a324a-b4a7-4be9-8421-116fcd033669&width=768&dpr=4&quality=100&sign=cb2782db&sv=1)
 
-![Types of wallets supported](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FxaODtTdekAYWwQfQEQb9%252Fimage.png%3Falt%3Dmedia%26token%3D8e9aa227-b643-46a4-8801-32ea0852bf13&width=768&dpr=4&quality=100&sign=9b9f1961&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FhCQYXt03dQ3CfiRAkzWP%252Fimage.png%3Falt%3Dmedia%26token%3Ded763d35-197d-4f88-a1de-5238ee6f09a3&width=768&dpr=4&quality=100&sign=de8219d9&sv=1)
 
 To fully utilize Kalp Studio’s features, you need to connect your wallet. Click the "Connect now" button on the dashboard to link or connect your Kalp wallet or other wallets mentioned above. This connection is crucial for accessing decentralized applications and handling transactions securely.
 
