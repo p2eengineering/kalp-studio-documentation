@@ -473,7 +473,7 @@ hide:
                              </svg>
                          </div>
                          <span class="build-description-card-description">
-                         The kALP studio dashboard provides an all-in-one overview of your smart contract projects, giving you real-time insights and control over your operations.
+                         The Kalp studio dashboard provides an all-in-one overview of your smart contract projects, giving you real-time insights and control over your operations.
                          </span>
                      </div>
                      </a>
