@@ -12,7 +12,7 @@ Once you log into KALP Studio, you'll be greeted by the dashboard, which serves 
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FtVGOJaSBLcoP8zLsuJpp%252F11.png%3Falt%3Dmedia%26token%3D7e9cf074-c7a8-4236-80be-30ca9d326163&width=768&dpr=4&quality=100&sign=1e5701fc&sv=1)
 
-#### Step 2: Navigate to the Smart Contract Section 
+#### Step 2: Navigate to the Smart Contract Section
 
 On the right-hand side of the dashboard, you'll see a menu. Click on the "Smart Contract" option to start the process of creating and deploying a new smart contract. This will take you to the Smart Contract management page, where you can view and manage all your existing contracts.
 
