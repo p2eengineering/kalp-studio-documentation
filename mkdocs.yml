@@ -161,6 +161,8 @@ nav:
           - How to generate API Key: 'Getting-started/API-Key-Generation/How-to-generate-API-Key.md'
       - Transaction monitoring:
           - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
+      - Faucets:
+          - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
       - Settings:
           - How to Process KYC and get purchased template list: 'Getting-started/Settings/How-to-Process-KYC-and-get-purchased-template-list.md'
   - Dev documentation:
@@ -183,7 +185,7 @@ nav:
       - Release version 1.1.0:  
           - Release notes version 1.1.0: 'Release-notes/release-version-1.1.0/release-notes-version-1.1.0.md'
       - Release version 1.0.0:
-          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'    
+          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'
 extra:
   social:
 

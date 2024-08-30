@@ -429,10 +429,8 @@ hide:
         <div class="header">
          <h1>Welcome to <span class="header-main-text">Kalp Studio</span> Documentation!</h1>
                 <div class="note">
-                Dive headfirst into Web 3.0 development with Kalp Studio! Our user-friendly documentation equips you with everything you need to unlock the potential of the Kalp DLT.
                 <br />
-                <br />
-                Kalp studio empowers developers of all skill levels to navigate the exciting realm of Web 3.0 development using the robust Kalp DLT. It leverages a low-code approach, enabling both beginners and seasoned Web 2.0 developers to effortlessly create cutting-edge Web 3.0 applications or seamlessly extend existing applications into the decentralized world.
+                Kalp Studio is a decentralized infrastructure platform designed to build, manage, and scale blockchain applications and networks. It serves as a comprehensive ecosystem for developers, offering a wide range of tools and services that simplify the complexities of blockchain technology, making it more accessible and efficient.
                 </div>
         </div>
        <img src="images/BannerImage.svg" alt="image-banner" />
@@ -654,7 +652,7 @@ hide:
              <div class="developer-resource">
                     <div class="developer-resource-sub-wrapper">
                         <h1>
-                         Kalp DLT developer resources
+                        Developer Resources
                         </h1>
                         <span>
                         For developers who know what they want to build and are ready to go with kalp DLT.

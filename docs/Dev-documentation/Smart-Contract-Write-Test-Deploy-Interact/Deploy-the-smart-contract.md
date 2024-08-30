@@ -2,116 +2,67 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
+# How to Deploy a Smart Contract on KALP Studio
 
-# Deploy the Smart Contract
+KALP Studio provides a streamlined and user-friendly interface for deploying smart contracts on the blockchain. In this guide, we’ll walk through the steps involved in creating and deploying a smart contract using KALP Studio. The images provided will serve as visual references to help you follow along with each step.
 
-Hey Users! Welcome to the Kalp Studio Platform.
+#### Step 1: Access KALP Studio Dashboard
 
-Tired of complex coding and deployment hassles? Building a Smart Contract shouldn't feel like climbing Mount Everest. This guide is here to empower you with a clear and smooth path to creating your Smart Contract. We'll break down the process into easy-to-follow steps, ensuring you have the confidence and knowledge to bring your ideas to life on the blockchain.
+Once you log into KALP Studio, you'll be greeted by the dashboard, which serves as the central hub for all your blockchain-related activities. Here, you can navigate to various sections such as Smart Contract, API Gateway, Transactions, and more.
 
-> _Smart contracts are digital agreements coded on a blockchain that automatically execute or enforce the terms of a contract when predefined conditions are met. They enable secure, transparent, and decentralized transactions without the need for intermediaries._
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FtVGOJaSBLcoP8zLsuJpp%252F11.png%3Falt%3Dmedia%26token%3D7e9cf074-c7a8-4236-80be-30ca9d326163&width=768&dpr=4&quality=100&sign=1e5701fc&sv=1)
 
-So, let’s begin with the Smart Contract creation on Kalp Studio.
+#### Step 2: Navigate to the Smart Contract Section
 
-!!! Note 
-    To deploy a Smart Contract, a project is needed. Let's understand how a project is created first.
+On the right-hand side of the dashboard, you'll see a menu. Click on the "Smart Contract" option to start the process of creating and deploying a new smart contract. This will take you to the Smart Contract management page, where you can view and manage all your existing contracts.
 
-**Step 1: Project Initialization**
+#### Step 3: Start Creating a New Smart Contract
 
-Direct your attention to the 'Projects' segment within the Kalp Studio interface. This serves as the commencement point for smart contract creation and deployment.
+In the Smart Contract section, click on the "+ Deploy New" button to start the creation process. This action will guide you to a form where you can input the necessary details for your smart contract.
 
-![Figure 1: List of Projects](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007151281%2Foriginal%2FKGzkGeunZPyk_TfDogm8UKZifQV2TRSX2w.png%3F1708684054&width=768&dpr=4&quality=100&sign=0be84fdc3c72757415979b256aeee1c2f61ef706c8af90d7182bbbc0ceff72f2)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FyLZUfUHMWuaD48aNtKGd%252F12.png%3Falt%3Dmedia%26token%3D2d9e90e8-85f1-4ebf-bd8f-ba00481a44c6&width=768&dpr=4&quality=100&sign=4f9a669b&sv=1)
 
+#### Step 4: Fill in Smart Contract Details
 
-**Step 2: Create a New Project**
+You'll need to provide various details about your smart contract:
 
-In the absence of an existing project, initiate a new project by selecting the corresponding option. Enter the requisite details including project name, description, and any additional specifications to accurately define the project's scope.
+-   **Name:** Enter the name of your smart contract (e.g., "Test").
+-   **Category:** Select the appropriate category from the dropdown (e.g., "Mining/Farming").
+-   **Description:** Provide a brief description of your smart contract's purpose.
 
-![Figure 2: Projects](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007151283%2Foriginal%2FQoo85ZAwz5eCw4aFHw9hnxY6TLIFWmpeyQ.png%3F1708684054&width=768&dpr=4&quality=100&sign=45e24fe8a6b0d5d7861826f20c521ac08c9d75a5ed2710ea71477f2ad3e57f5e)
+Make sure to select the right blockchain network (e.g., TESTNET) and review all details carefully.
 
-**Step 3: Project Creation Successful**
-
-Upon successful project setup, it will be cataloged within your Kalp Studio portfolio, signaling readiness for smart contract development.
-
-![Figure 3: Project Created](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007151282%2Foriginal%2FX5pAbUHysUX0tUcnon6R06g-GNHJe47PIw.png%3F1708684054&width=768&dpr=4&quality=100&sign=25c7ee4a18de38fc7e961de0193d74ccb5a602850dbe66339b8d6dc5a7c32224)
-
-### **Smart Contract Creation**
-
-**Step 1: Initiating Smart Contract Creation**: For first-time users, the screen with no Smart Contract list will be displayed.
-
-![Figure 1: Initiate Smart Contract](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007099505%2Foriginal%2FfTOUulRvmohekT-8l-FofFhsn5V8-kQ1Tw.png%3F1708596919&width=768&dpr=4&quality=100&sign=e7407ad4352143b89c3e8743b5f994939d647bcc90e5354f2f47d7fc40157348)
-
-To create a Smart Contract you have to agree to Kalp Studio's Terms and Conditions.
-
-![Figure 2: Kalp Studio Terms and Conditions](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007099603%2Foriginal%2FKCngMGHUcoltk4sVvRqZ1xNSxapAsOGpRA.png%3F1708597037&width=768&dpr=4&quality=100&sign=2cb9e217c68cb1abe0c136ce5f6b7646fc10374f0fa6cf2b570547637b1c36e1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F50qXjNYKFZjKUkShnXtu%252F13.png%3Falt%3Dmedia%26token%3Dafb49b7c-8111-462d-ba05-8c8e4c9765a5&width=768&dpr=4&quality=100&sign=9f3d95e7&sv=1)
 
 
-After you agree to the terms and conditions, you can start creating the Smart Contract. Click on **Create Smart Contract**.
+#### Step 5: Choose or Upload a Smart Contract Template
 
-![Figure 3: Create Smart Contract](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007152927%2Foriginal%2FRZm9SFMj_vXhDLu16u14rYjQJWDCBWoCjg.png%3F1708685456&width=768&dpr=4&quality=100&sign=55cec295e9625e32cb64bcccbfe50a3deaf06683dfc8bfcd36897fd3f12dadb8)
+KALP Studio offers ready-to-use templates to make the deployment process faster and easier. You can select a template from the KALP Library (e.g., KRC721 for NFTs). If you have a custom smart contract, you can upload it using the "Upload Smart Contract" option. This flexibility allows you to either use a predefined template or deploy a contract that you have already developed.
 
-Access the "Smart Contract" section via the left panel bar on Kalp Studio.
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FRp7hbJT9ioRNM1DDX3kW%252Fimage.png%3Falt%3Dmedia%26token%3Da4cc48f2-d3c8-46b7-81a4-b0da50f072c5&width=768&dpr=4&quality=100&sign=63a3fcb4&sv=1)
 
-![Figure 4: Contract Details](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006858815%2Foriginal%2Fi5yUtBq0va5r2-gQ6JRsJQ6CYT49W0bSog.png%3F1708067769&width=768&dpr=4&quality=100&sign=96330e65177feba85c13f300c6e56fd74c6e800b61e444e2fcf9cdad51d5222d)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FpoZDY6EfHdHLU82z9P6H%252Fimage%2520%281%29.png%3Falt%3Dmedia%26token%3Dd8ee1a44-5f62-4039-aea6-a02e22409510&width=768&dpr=4&quality=100&sign=93320e33&sv=1)
 
+#### Step 6: Review the Smart Contract
 
-Select the "Create Smart Contract" button. Alternatively, this can also be achieved through the "Create Smart Contract" option on the Dashboard.
+Before finalizing, KALP Studio will present a review screen showing all the details of your smart contract. This is your last chance to ensure everything is accurate before deployment. Double-check the selected template, category, and all other information.
 
-**Step 2: Detailing the Smart Contract**:
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FNuLndM3iq66rKpss0LnP%252Fimage%2520%282%29.png%3Falt%3Dmedia%26token%3D32326c62-c3d8-4416-baea-6c9ad0240549&width=768&dpr=4&quality=100&sign=a04c09a2&sv=1)
 
-![Figure 5: Smart Contract Details](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006858846%2Foriginal%2F3GY6tz6UR2uH2MRKOS77svds8GH7z2VeOw.png%3F1708067791&width=768&dpr=4&quality=100&sign=49b7a4330430994352a7659783cf99f3ee9ea7f9e7195ed58fc63ca794f3f93c)
+#### Step 7: Deploy the Smart Contract
 
+After reviewing, click the "Continue" button to deploy your smart contract. KALP Studio will process the deployment, and within a few moments, you'll receive a confirmation message indicating that your smart contract has been created successfully.
 
--   **Name**: Assign a distinctive name to the Smart Contract.
-    
--   **Project**: Identify the overarching project or system the Smart Contract integrates with.
-    
--   **Description**: Offer a concise description outlining the contract's functionality.
-    
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fj0fQwYmDyOIRsCegiHr8%252Fimage%2520%284%29.png%3Falt%3Dmedia%26token%3D8e690be7-d602-47a9-81f6-586f9d847bab&width=768&dpr=4&quality=100&sign=8664a2d0&sv=1)
 
-**Step 3: Environment Selection**:
+#### Step 8: Manage Your Deployed Contracts
 
-![Figure 6: Setup Environment](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006858950%2Foriginal%2Ft6JYUSk2twIUfZtH-_1N-Dvdlrza9oYTcw.png%3F1708067928&width=768&dpr=4&quality=100&sign=4397f084ebba0e1224165e82c533be7d7c6b66555de792dc4d0d10ad5954bc7d)
+Once deployed, your smart contract will appear in the list of active contracts on the Smart Contract management page. Here, you can monitor the status, make edits, or interact with your contract via the provided API endpoints.
 
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FQJfdimTfW3qPfEY5JGAr%252Fimage%2520%286%29.png%3Falt%3Dmedia%26token%3Dae482347-8fbf-4bb0-b2a6-8f4f48bc62af&width=768&dpr=4&quality=100&sign=9ff3c812&sv=1)
 
-Opt for the appropriate environment for deployment: "Development", "Staging", or "Production".
+### Conclusion
 
-**Step 4: Network Selection**:
-
-![Figure 7: Network Selection](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006859007%2Foriginal%2F6DQd_b0mBEj8yGXiRk_DcctdaxKkLYLLZA.png%3F1708068027&width=768&dpr=4&quality=100&sign=341cb45ebfaca47536f0de8e99f7ade3c585a9adf692dcc6dc51cfb04d940a41)
-
-Determine the deployment network - "TestNet".
-
-**Step 5: Template Utilization and Submission**:
-
-![Figure 8: Extension File/Template](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006859043%2Foriginal%2FLAzGoJUkxi0jx32pj7bu_IobucqXpF1z7w.png%3F1708068062&width=768&dpr=4&quality=100&sign=a72fcf0ff05250e2b5e425b02edf43d57e72bbe29fa775a058070db3dde7a264)
-
-Kalp Studio provides ERC token templates. Select the relevant template for your needs.
-
-![Figure 9: Kalp Templates](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006859072%2Foriginal%2F2uA2Kpu_xycOwm-83aZARN92E7m7PYkL7A.png%3F1708068084&width=768&dpr=4&quality=100&sign=b796b0f87015b48c6dddbd6fc1c2180c12383510c789bc03095e2d53294e0ee1)
-
-Download, complete, and upload the filled template to Kalp Studio for review and subsequent actions.
-
-**Step 6: Final Review and Publication**:
-
-![Figure 10: Review](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060006859135%2Foriginal%2FgCdsk4ePce2E53FZBgFXE0amjGqjKV89JA.png%3F1708068156&width=768&dpr=4&quality=100&sign=c37c676e6df3b630dcaf99f7496e028ec48fc2f860a1cfc3e7c8e2e6e457e84e)
-
-**Save Draft**
-
-If you want to pause the Smart Contract creation and would like to visit it later then Save Draft is a great option!
-
-In this option, all fields are editable and can be modified at a later point.
-
-**Save & Publish**
-
-After you **Save & Publish** the Smart Contract gets deployed on the Kalp blockchain. You can still edit the Smart Contract Name and Description. All other fields are non-editable.
-
-> The published Smart Contract gets added to the list of Smart Contracts. If the user wants to make some changes in Smart Contract, Save Draft option can be used. The saved draft can be edited anytime by the user.
-
-**List of Smart Contracts**
-
-Adhering to these steps will ensure the professional and efficient creation of a Smart Contract on Kalp Studio, streamlining your project's development process. You can view the list of newly created Smart Contract after Save and Publish.
-
-![Figure 11: List of Smart Contacts](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2Fs3-ap-south-1.amazonaws.com%2Find-cdn.freshdesk.com%2Fdata%2Fhelpdesk%2Fattachments%2Fproduction%2F1060007100616%2Foriginal%2FWgACETBxAN-E6hqecxXGfUsVcvPRS_ZDxA.png%3F1708597981&width=768&dpr=4&quality=100&sign=a1d0b2e56e611b5d1aa2cc2e618ac608c5930fbfc895617c1aad2dc0b0de9563)
+Deploying a smart contract on KALP Studio is a straightforward process, thanks to its intuitive interface and ready-to-use templates. By following these steps, you can efficiently deploy and manage your blockchain contracts, whether you’re using a predefined template or a custom-built contract.
 
 Hope this article helped with beginning your journey on the Kalp Studio platform.
