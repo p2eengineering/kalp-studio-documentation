@@ -177,6 +177,8 @@ nav:
           - Test the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract.md'
           - Deploy the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
           - Interacting with smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
+  - API Reference:
+          - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'         
   - Release notes:
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
