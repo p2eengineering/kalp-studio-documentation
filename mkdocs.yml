@@ -166,17 +166,25 @@ nav:
       - Settings:
           - How to Process KYC and get purchased template list: 'Getting-started/Settings/How-to-Process-KYC-and-get-purchased-template-list.md'
   - Dev documentation:
-      - Use the kalp SDK:
-          - Kalp Golang SDK: 'Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk.md'
-      - KRC Token Standard:
-          - KRC 20 Token Contract: 'Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract.md'
-          - KRC 721 Token Contract: 'Dev-documentation/KRC-Token-Standard/KRC-721-Token-Contract.md'
-          - KRC 1155 Token Contract: 'Dev-documentation/KRC-Token-Standard/KRC-1155-Token-Contract.md'
-      - Smart Contract Write,Test, Deploy & Interact:
-          - Write the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract.md'
-          - Test the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract.md'
-          - Deploy the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
-          - Interacting with smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
+      - Kalp DLT:
+          - Use the kalp SDK:
+              - Kalp Golang SDK: 'Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk.md'
+          - KRC Token Standard:
+              - KRC 20 Token Contract: 'Dev-documentation/Kalp-DLT/KRC-Token-Standard/KRC-20-Token-Contract.md'
+              - KRC 721 Token Contract: 'Dev-documentation/Kalp-DLT/KRC-Token-Standard/KRC-721-Token-Contract.md'
+              - KRC 1155 Token Contract: 'Dev-documentation/Kalp-DLT/KRC-Token-Standard/KRC-1155-Token-Contract.md'
+          - Smart Contract Write,Test, Deploy & Interact:
+              - Write the smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract.md'
+              - Test the smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract.md'
+              - Deploy the smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
+              - Interacting with smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
+          - Kalp DLT Go Lang Template:
+              - Lottery smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Lottery-smart-contract.md'
+              - Soulbound smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Soulbound-token-smart-contract.md'
+              - Splitwise smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Splitwise-smart-contract.md'
+              - Supply chain smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Supply-chain-smart-contract.md'   
+      - EVM & Smart Contract:
+              - EVM-SmartContract: 'Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity.md'
   - API Reference:
           - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'         
   - Release notes:

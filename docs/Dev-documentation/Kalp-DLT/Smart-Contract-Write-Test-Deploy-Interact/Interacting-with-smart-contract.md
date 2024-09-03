@@ -12,7 +12,7 @@
 2 .  Kalp Studio automatically generates API endpoints that directly map to the functionalities of your smart contracts. These endpoints simplify integration by providing a well-defined interface for your front-end application to interact with the underlying smart contract logic.
     
 
-![](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2F1878384301-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FzAA5Z6u1ZyGAxXbYfExA%252Fuploads%252F4eFcGDZUhlmBIxX7Yhe0%252Fimage.png%3Falt=media%26token=7c749d34-9630-49db-a3b3-4f97f5be6e74&width=768&dpr=4&quality=100&sign=280db35a01fda00599887f23fa10c2c417c294dd1ecf8c4d37aedb8a8f7762b8)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FqiwHL2upkYXuK1J5hOkj%252Fimage.png%3Falt%3Dmedia%26token%3D62ae86a4-be33-4967-ba27-10d53c83cc06&width=768&dpr=4&quality=100&sign=37894c01&sv=1)
 
 **Steps to Deploy and test the smart contract API endpoints:**
 

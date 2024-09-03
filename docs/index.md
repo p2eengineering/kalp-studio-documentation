@@ -655,31 +655,31 @@ hide:
                         Developer Resources
                         </h1>
                         <span>
-                        For developers who know what they want to build and are ready to go with kalp DLT.
+                        For developers who know what they want to build and are ready to go with kalp DLT & EVM based blockchains.
                         </span>
                     </div>
                     <div class="developer-resource-card-wrapper dev-res">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
-                        <a href="https://doc.kalp.studio//Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/">
+                        <a href="https://doc.kalp.studio/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
-                             <h4>Kalp SDK</h4>
-                            <span>The Kalp SDK provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
+                             <h4>Kalp DLT</h4>
+                            <span>The Kalp DLT provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
                         </div>
                         </a>
-                             <a href="https://doc.kalp.studio/Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract/">
+                             <a href="https://doc.kalp.studio/API-Reference/Kalp-wallet-OpenAPI/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
-                                   <h4>KRC Token standard</h4>
-                                  <span>KRC token standards serve as the foundation for creating a thriving and interoperable tokenized ecosystem on the Kalp DLT. By adhering to these standards, developers can build tokens that seamlessly integrate with various applications and services, fostering a vibrant environment of innovation and diverse functionalities.</span>
+                                   <h4>Kalp Wallet OpenAPI</h4>
+                                  <span>Kalp Wallet OpenAPI provides an API that allows users to create and manage different types of wallets programmatically. The API supports the creation of Self-custodial, MPC (Multi-Party Computation), and Custodial wallets.</span>
                               </div>
                                 </a>
-                             <a href="https://doc.kalp.studio/Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/">
+                             <a href="https://doc.kalp.studio/Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity/">
                                 <div class="card-wrapper">
                                   <img src="images/interaction.svg" alt="sdk" />
-                                  <h4>Write, Test, Deploy & Interact</h4>
-                                 <span>Welcome to your comprehensive guide on building the backbone of decentralized applications – smart contracts. This guide empowers you to take control, from the initial spark of an idea to a fully-fledged blockchain implementation.</span>
+                                  <h4>EVM based chains deployment</h4>
+                                 <span>This guide provides an overview of the essential steps involved in deploying a smart contract on EVM-based chains, from setting up the development environment to deploying and verifying your contract on the network and managing your deployment journey on kalp studio.</span>
                                </div>
                             </a>
                         </div>

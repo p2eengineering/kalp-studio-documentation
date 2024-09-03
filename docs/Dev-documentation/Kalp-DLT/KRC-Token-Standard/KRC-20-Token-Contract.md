@@ -77,8 +77,8 @@ func (s *SmartContract) Initialize(sdk kalpsdk.TransactionContextInterface, name
 
 **Authorization:** Yes, only authorized clients (e.g., Deployer) can call the `Initialize` function. This ensures proper control over token creation and prevents unauthorized deployments.
 
-!!!Note
-Authorization checks are crucial and intentionally omitted for brevity. Specific authorization mechanisms depend on the smart contract's design and deployment environment.
+!!!Note 
+    Authorization checks are crucial and intentionally omitted for brevity. Specific authorization mechanisms depend on the smart contract's design and deployment environment.
 
 
 ## **Token Operations**
