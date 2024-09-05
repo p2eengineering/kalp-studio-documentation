@@ -310,4 +310,4 @@ Authorization: BEARER_YOUR_API_KEY
 
 ## API Reference
 
-[Visit our API Reference](https://mai-labs.stoplight.io/docs/kalp-wallet/09rj9ks6uzpoz-create-mnemonics){ .md-button }  
+[Visit our API Reference](https://kalp-studio.redocly.app/untitled-1.yaml){ .md-button }  

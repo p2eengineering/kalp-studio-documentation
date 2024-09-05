@@ -186,7 +186,23 @@ nav:
       - EVM & Smart Contract:
               - EVM-SmartContract: 'Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity.md'
   - API Reference:
-          - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'         
+          - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'
+  - Usecases:
+          - Automotive supply chain: 'Usecases/Automotive-supply-chain.md'
+          - Organic Farming supply chain: 'Usecases/Organic-farming-supply-chain.md'
+          - Pharma supply chain: 'Usecases/Pharmaceutical-supply-chain.md'
+          - Beverage supply chain: 'Usecases/Beverage-supply-chain.md'
+          - Artifacts supply chain: 'Usecases/Artifacts-supply-chain.md'
+          - Resume NFT Marketplace: 'Usecases/Resume-NFT-Marketplace.md'
+          - Carbon credits & Water credits: 'Usecases/Carbon-credits-and-Water-credits.md'
+  - Video Tutorials:         
+          - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
+          - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
+          - Create wallet on Kalp studio: 'Video-Tutorials/Create-wallet-on-Kalp-studio.md'
+          - Connect wallet on Kalp studio: 'Video-Tutorials/Connect-wallet-on-Kalp-studio.md'
+          - Deploy smart contract on Kalp studio: 'Video-Tutorials/Deploy-a-smart-contract-on-Kalp-studio.md'
+          - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
+          - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
   - Release notes:
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
