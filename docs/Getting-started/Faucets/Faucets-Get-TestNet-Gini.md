@@ -59,4 +59,7 @@ Remember, the Gini tokens you have received are test tokens for the Kalp DLT Tes
 
 ## **Conclusion**
 
-Using the Kalp Studio faucet is a straightforward process for developers looking to test their decentralized applications on the Kalp DLT Test Net. By following these steps, you can easily obtain free Gini tokens to enhance your development and testing activities. Remember, these tokens are strictly for testing purposes and have no real-world value. Enjoy experimenting on the Kalp platform!
+Using the Kalp Studio faucet is a straightforward process for developers looking to test their decentralized applications on the Kalp DLT Test Net. By following these steps, you can easily obtain free Gini tokens to enhance your development and testing activities. Remember, these tokens are strictly for testing purposes and have no real-world value. Enjoy experimenting on the Kalp studio platform!
+
+!!! Warning
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

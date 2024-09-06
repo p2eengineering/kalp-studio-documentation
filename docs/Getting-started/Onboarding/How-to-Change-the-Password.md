@@ -54,3 +54,6 @@ Click on **Login Now** to log in to the Kalp Studio application.
 ![Reset password](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FPJmShyBTm5fp81OVcIlz%252Fimage.png%3Falt%3Dmedia%26token%3Dac7bfbd0-4b7f-4169-a382-ce96602405e0&width=768&dpr=4&quality=100&sign=73cd245c&sv=1)
 
 Hope this article helped with beginning your journey on the Kalp Studio platform.
+
+!!! Warning
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

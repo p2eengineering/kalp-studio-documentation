@@ -273,3 +273,7 @@ Remember, all initial values and parameters must be set within the contract code
 
 !!!Note  
     The smart contract will deploy to the network only which the wallet is connected to.
+
+
+!!! Warning
+    If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

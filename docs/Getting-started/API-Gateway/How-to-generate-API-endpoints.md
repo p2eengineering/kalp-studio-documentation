@@ -52,3 +52,6 @@ After generating the endpoints, you can view and manage them. The status of each
 Click on "Check Params" to view the details and parameters for each API endpoint. This will help you understand how to integrate and use these endpoints in your applications.
 
 By following these steps, you can efficiently generate and manage API endpoints for your smart contracts on Kalp Studio, enhancing your blockchain development process.
+
+!!! Warning
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

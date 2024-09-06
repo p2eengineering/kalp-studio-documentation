@@ -419,3 +419,6 @@ if err != nil {
 The Kalp-SDK offers a robust set of tools for developers building decentralized applications on the Kalp blockchain network. By leveraging the SDK's functionalities, developers can efficiently manage data, transactions, and compliance requirements, facilitating a streamlined development process.
 
 Happy coding with the Kalp-SDK on the Kalp blockchain network!
+
+!!! Warning
+    If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

@@ -180,7 +180,9 @@ nav:
               - Lottery smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Lottery-smart-contract.md'
               - Soulbound smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Soulbound-token-smart-contract.md'
               - Splitwise smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Splitwise-smart-contract.md'
-              - Supply chain smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Supply-chain-smart-contract.md'   
+              - Supply chain smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Supply-chain-smart-contract.md'
+          - Kush Library: 
+              - Kush Library: 'Dev-documentation/Kalp-DLT/Kush-Library/Kush-Library.md'   
       - EVM & Smart Contract:
               - EVM-SmartContract: 'Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity.md'
   - API Reference:

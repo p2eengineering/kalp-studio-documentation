@@ -198,3 +198,6 @@ All functions within the contract include comprehensive error handling to ensure
 ### Conclusion
 
 This Soulbound Token (SBT) smart contract provides a robust framework for creating, storing, and querying non-transferable tokens using the KalpSDK. The contract enforces the unique and soulbound nature of the tokens, ensuring that they remain permanently attached to their original owner. This documentation outlines the key functionalities and provides guidance on how to interact with the contract.
+
+!!! Warning
+    If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

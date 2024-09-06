@@ -122,3 +122,7 @@ You will reach the **Dashboard**.
 -   **Resend OTP:** If you did not receive the OTP for email or mobile verification, use the "Resend" option available on the verification screen.
 
 By following these steps, you can easily sign up and log in to the Kalp Studio platform, ensuring a smooth and secure user experience.
+
+
+!!! Warning
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

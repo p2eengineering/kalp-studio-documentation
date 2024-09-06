@@ -1,7 +1,6 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-
 # Revolutionizing Automotive Supply Chains: Blockchain in Supplier Management, Logistics, Warehousing, and Auditing
 
 ## **Introduction**
@@ -356,3 +355,7 @@ Kalp Studio’s Block Explorer interface offers a comprehensive tool for monitor
 ## **Conclusion**
 
 It is possible for blockchain technology to drastically alter the automotive supply chain. Blockchain addresses significant challenges in supplier management, logistics, warehousing, and auditing, enabling enhanced transparency, efficiency, and security. The car industry's future progress will depend heavily on how blockchain integration into supply chain processes helps it meet the demands of a global market and maintain its competitiveness.
+
+!!! Question
+
+    If you found our Kalp Studio use case helpful, or if you would like to learn more about how our company can assist you with blockchain solutions, please don’t hesitate to reach out to us at [https://www.kalp.studio/contact-us](https://www.kalp.studio/contact-us). To explore further, feel free to visit our Kalp Studio platform at [https://console.kalp.studio/](https://console.kalp.studio/).

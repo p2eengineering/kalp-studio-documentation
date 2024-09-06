@@ -117,3 +117,7 @@ This tool simplifies the process of creating and managing tokens for various sta
 ## **Conclusion**
 
 Employee background checks are revolutionized by blockchain technology, as used in the InCVerify platform, which solves major issues with the conventional hiring process. Blockchain makes the hiring process safer, more effective, and more transparent for both companies and candidates by offering immutable records, automating verification through smart contracts, and giving candidates ownership over their personal information. Adopting blockchain for background checks will be essential to creating confidence and dependability in the employment process as the workforce continues to change.
+
+!!! Question
+
+    If you found our Kalp Studio use case helpful, or if you would like to learn more about how our company can assist you with blockchain solutions, please don’t hesitate to reach out to us at [https://www.kalp.studio/contact-us](https://www.kalp.studio/contact-us). To explore further, feel free to visit our Kalp Studio platform at [https://console.kalp.studio/](https://console.kalp.studio/).

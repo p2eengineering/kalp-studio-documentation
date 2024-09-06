@@ -56,3 +56,6 @@ Templates in Kalp Studio are useful for standardizing contracts and other projec
 Completing KYC and managing templates in Kalp Studio are straightforward processes that enhance your control over your projects. By following the steps outlined in this guide, you can tailor the platform to suit your specific needs, ensuring a more efficient and personalized experience.
 
 For any further assistance or detailed walkthroughs, you can always reach out to the **Help and Support** section within Kalp Studio.
+
+!!! Warning
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

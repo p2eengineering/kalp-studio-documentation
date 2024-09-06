@@ -66,3 +66,6 @@ Once deployed, your smart contract will appear in the list of active contracts o
 Deploying a smart contract on KALP Studio is a straightforward process, thanks to its intuitive interface and ready-to-use templates. By following these steps, you can efficiently deploy and manage your blockchain contracts, whether you’re using a predefined template or a custom-built contract.
 
 Hope this article helped with beginning your journey on the Kalp Studio platform.
+
+!!! Warning
+    If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

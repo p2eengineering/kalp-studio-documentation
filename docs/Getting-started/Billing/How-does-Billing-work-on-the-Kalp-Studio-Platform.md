@@ -76,3 +76,7 @@ Kalp Studio ensures complete transparency in its billing process. Users can view
 Kalp Studio’s billing system is designed to offer maximum flexibility, transparency, and cost efficiency. Whether you are a small developer or a large enterprise, the pay-as-you-go model ensures that you only pay for the services you need and use. By providing a wide range of service options and flexible subscription plans, Kalp Studio empowers users to manage their expenses effectively and adapt to changing business needs seamlessly.
 
 With Kalp Studio, you can focus on leveraging the platform’s robust services to drive your business forward, confident in the knowledge that your billing is both fair and transparent.
+
+
+!!! Warning
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

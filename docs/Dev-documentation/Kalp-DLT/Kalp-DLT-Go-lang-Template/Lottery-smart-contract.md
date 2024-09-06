@@ -147,3 +147,6 @@ The contract logs events for significant actions such as ticket purchases and wi
 ### Conclusion
 
 This Lottery Smart Contract implemented in Go provides a framework for creating and managing lotteries on a blockchain network using the KalpSDK. The contract includes functionalities for initializing lotteries, allowing participants to buy tickets, and selecting a random winner. With built-in event logging and strict access control, this contract ensures secure and transparent lottery operations.
+
+!!! Warning
+    If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

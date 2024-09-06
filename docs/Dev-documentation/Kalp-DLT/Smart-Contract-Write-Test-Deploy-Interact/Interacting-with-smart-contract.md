@@ -51,3 +51,6 @@ Kalp Studio empowers developers to perform  **write operations**, which involve 
 ### Conclusion
 
 You're now ready to begin your journey as a Kalp blockchain developer. Experiment with different types of smart contracts, explore the functionalities offered by the Kalp SDK, and start building innovative DApps on the Kalp blockchain.
+
+!!! Warning
+    If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

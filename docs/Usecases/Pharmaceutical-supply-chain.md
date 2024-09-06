@@ -582,3 +582,7 @@ The Block Explorer interface in Kalp Studio provides a thorough tool for trackin
 ## Conclusion
 
 The integrity of the pharmaceutical sector and global health are seriously threatened by the counterfeit drug epidemic. Blockchain technology, however, presents a viable remedy. Drug supply chain security and transparency can be improved by using platforms like as Kalp Studio, which make sure that every phase—from customer verification to manufacturing—is closely watched over and verified. By implementing these cutting-edge technology, we can preserve patient confidence in our healthcare systems and better safeguard the public's health by making sure that only legitimate, safe pharmaceuticals are given to patients.
+
+!!! Question
+
+    If you found our Kalp Studio use case helpful, or if you would like to learn more about how our company can assist you with blockchain solutions, please don’t hesitate to reach out to us at [https://www.kalp.studio/contact-us](https://www.kalp.studio/contact-us). To explore further, feel free to visit our Kalp Studio platform at [https://console.kalp.studio/](https://console.kalp.studio/).
