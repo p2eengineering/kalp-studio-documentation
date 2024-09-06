@@ -163,8 +163,6 @@ nav:
           - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
       - Faucets:
           - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
-      - Settings:
-          - How to Process KYC and get purchased template list: 'Getting-started/Settings/How-to-Process-KYC-and-get-purchased-template-list.md'
   - Dev documentation:
       - Kalp DLT:
           - Use the kalp SDK:
