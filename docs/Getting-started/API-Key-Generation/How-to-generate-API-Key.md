@@ -64,5 +64,5 @@ After filling in the details, click on the **Create Now** button to generate the
 
 Generating an API key in Kalp Studio enhances your ability to integrate and utilize various services securely. By following the steps outlined in this guide, you can easily create and manage your API keys, ensuring that your project runs smoothly with authenticated access to the necessary APIs.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

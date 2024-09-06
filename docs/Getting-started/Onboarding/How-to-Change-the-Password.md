@@ -55,5 +55,5 @@ Click on **Login Now** to log in to the Kalp Studio application.
 
 Hope this article helped with beginning your journey on the Kalp Studio platform.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

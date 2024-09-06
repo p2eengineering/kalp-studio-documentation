@@ -450,5 +450,5 @@ Security remains paramount within the Kalp NFT ecosystem. To safeguard the contr
 
 This KRC721 token contract provides a comprehensive set of functionalities for managing NFTs, including the creation, transfer, and querying of ownership and metadata. The above documentation offers a detailed guide for developers to effectively interact with and integrate these capabilities within their applications or platforms.
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

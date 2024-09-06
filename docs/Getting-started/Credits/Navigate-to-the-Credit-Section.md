@@ -68,5 +68,5 @@ The credit screen is designed to provide a comprehensive view of your credits an
 Navigating to the Credits section in Kalp Studio is straightforward, thanks to the intuitive design of the platform. Understanding the components of the credit screen is essential for effectively managing your financial transactions. By following the steps outlined above, you can easily access and utilize the Credits section, ensuring a smooth and efficient experience with Kalp Studio.
 
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

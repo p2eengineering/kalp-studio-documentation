@@ -290,5 +290,5 @@ The contract prioritizes **security**, implementing robust mechanisms to protect
 
 This KRC1155 contract documentation provides a comprehensive overview for developers to interact with, including minting, burning, transferring, and managing tokens. Adherence to the KRC1155 standard enables efficient multi-token management within a single contract, supporting a wide range of use cases in digital assets.
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

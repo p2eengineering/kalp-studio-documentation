@@ -81,5 +81,5 @@ User needs to renew the product and plan to have an uninterrupted blockchain exp
 
 The billing screen in Kalp Studio is designed to provide subscribed users with a clear, detailed view of their subscriptions and billing status. It offers a comprehensive summary of billing details, easy access to subscription management, and options for upgrading plans. This user-centric design ensures that managing subscriptions and billing is efficient, allowing users to focus on leveraging the platform's services for their needs.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

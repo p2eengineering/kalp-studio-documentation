@@ -85,5 +85,5 @@ If you have numerous smart contracts, use the pagination controls at the bottom 
 
 By following these steps, you can efficiently navigate to the smart contract list within Kalp Studio, manage your smart contracts, and utilize the platform's full potential.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

@@ -84,5 +84,5 @@ Engage with the Kalp community through various social media platforms listed on 
 
 Kalp Studio offers a user-friendly interface with powerful features for blockchain developers and enthusiasts. By familiarizing yourself with the Dashboard, navigation menu, and available products, you can leverage the platform to build and manage your decentralized applications effectively, ensuring a seamless and productive experience.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

@@ -55,5 +55,5 @@ A pop-up window will open where users can see their entered amount in USD conver
 
 By following these steps, you can easily add credits to your KALP Studio wallet, enabling you to utilize various services and features on the platform.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

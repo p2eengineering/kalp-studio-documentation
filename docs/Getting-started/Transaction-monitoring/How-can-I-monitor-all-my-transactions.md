@@ -67,5 +67,5 @@ This detailed view allows you to track the status of each transaction, ensuring 
 
 KALP Studio provides a user-friendly and efficient way to monitor all your transactions. By subscribing to the Transaction Monitoring service, you can access detailed information about each smart contract and its associated transactions. This ensures that you have complete visibility and control over your financial activities, helping you maintain transparency and accountability in your operations.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

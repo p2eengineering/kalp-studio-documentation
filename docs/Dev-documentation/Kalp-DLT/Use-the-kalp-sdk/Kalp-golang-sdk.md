@@ -420,5 +420,5 @@ The Kalp-SDK offers a robust set of tools for developers building decentralized 
 
 Happy coding with the Kalp-SDK on the Kalp blockchain network!
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

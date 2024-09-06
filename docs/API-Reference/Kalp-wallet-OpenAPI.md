@@ -313,5 +313,5 @@ Authorization: BEARER_YOUR_API_KEY
 [Visit our API Reference](https://kalp-studio.redocly.app/untitled-1.yaml){ .md-button } 
 
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

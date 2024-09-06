@@ -144,5 +144,5 @@ After jotting down the seed phrase, you need to arrange the words accordingly.
 By following the steps outlined in this guide, you can set up various types of wallets, including Self Custody, Custodial, and MPC wallets. Each wallet type offers unique benefits tailored to different needs and preferences.
 
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

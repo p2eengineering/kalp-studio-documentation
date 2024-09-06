@@ -432,5 +432,5 @@ The contract emits events for significant actions such as transfers and approval
 
 This KRC20 token contract implemented in Go, utilizing the KalpSDK, provides a comprehensive suite of functionalities for managing digital assets on a blockchain network. The documentation outlined above offers a detailed guide for developers to integrate and leverage these capabilities within their applications.
 
-!!! Warning
+!!! Note 
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

@@ -86,5 +86,5 @@ Once you have added your wallet, you can view and manage it efficiently. Here's 
 
 By following these steps, you can easily navigate to and manage your kalp studio wallet within Kalp Studio dashboard, keeping track of your balances and transactions with ease.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

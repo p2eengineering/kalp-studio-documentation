@@ -198,5 +198,5 @@ Each function in the contract includes comprehensive error handling to ensure cl
 
 The Splitwise Smart Contract provides a decentralized and transparent way to manage shared expenses and debts among participants. With functionalities for creating expenses, splitting costs, and settling debts, it offers a complete solution for managing financial obligations on the blockchain. This documentation serves as a comprehensive guide to interacting with the contract.
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

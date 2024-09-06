@@ -229,5 +229,5 @@ smartContractChaincode, err := contractapi.NewChaincode(smartContract)
 
 The KUSH-Go Library is a robust and flexible solution for developers looking to build decentralized applications on the Kalp Blockchain using Go. By offering ERC20, ERC721, and ERC1155 token standards, KUSH-Go provides familiar yet high-performance tools for creating and managing both fungible and non-fungible tokens. Seamless integration with the Kalp SDK, combined with modular and reusable components, ensures a smooth development experience, while built-in security features like role-based access control further enhance the reliability of smart contracts. Whether you're building DeFi platforms, gaming applications, or tokenized marketplaces, KUSH-Go is an ideal library that simplifies the development process on the Kalp Chain.
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

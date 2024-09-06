@@ -81,7 +81,7 @@ Finally, click on "Continue" to deploy your smart contract. You will receive a c
 
 Deploying a smart contract on Kalp Studio is a user-friendly process that involves subscribing to the smart contract deployer, entering contract details, uploading the necessary files, selecting a template, and reviewing before deploying. Follow these steps, and you'll have your smart contract deployed in no time.
 
-!!! Warning
+!!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
 
 

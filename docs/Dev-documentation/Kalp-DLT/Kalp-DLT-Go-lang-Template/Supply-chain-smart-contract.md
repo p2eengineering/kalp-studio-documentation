@@ -419,5 +419,5 @@ All functions within the contract include comprehensive error handling to ensure
 The Supply Chain Smart Contract provides a decentralized and transparent way to manage participants, assets, and their movements within a supply chain. With functionalities for creating participants and assets, moving assets, updating statuses, and querying data, it offers a complete solution for managing supply chain processes on the blockchain. This documentation serves as a comprehensive guide to interacting with the contract.
 
 
-!!! Warning
+!!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
