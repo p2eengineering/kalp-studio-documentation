@@ -9,7 +9,7 @@ Kalp Studio is a comprehensive platform designed to facilitate blockchain and de
 
 As the new user logs in to the dashboard, a total credit of $50 will be credited to the account.
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FrkNy19y2ZMGacli5F2iD%252Fimage.png%3Falt%3Dmedia%26token%3Dc78d64e4-ae4e-4498-bc37-01c39fbf6514&width=768&dpr=4&quality=100&sign=4f89a46c&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fi4Y1MgNpmPMV4SFgbydf%252Fimage.png%3Falt%3Dmedia%26token%3D9a7bb293-7168-4e3a-acb4-f0ed5e708835&width=768&dpr=4&quality=100&sign=a2451848&sv=1)
 
 !!! Note
     Credits are one-time rewards. Users can use those credits to subscribe to the Kalp Studio services. Credits will be reflected in the profile segment. 
