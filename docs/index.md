@@ -642,7 +642,7 @@ hide:
                             </svg>
                         </div>
                          <span class="build-description-card-description">
-                            Kalp studio wallet is a versatile cryptocurrency wallet that supports multiple blockchain networks and offers various wallet types to cater to different user needs and security preferences.
+                            Kalp wallet is a versatile cryptocurrency wallet that supports multiple blockchain networks and offers various wallet types to cater to different user needs and security preferences.
                        </span>
                         </div>
                     </a>
