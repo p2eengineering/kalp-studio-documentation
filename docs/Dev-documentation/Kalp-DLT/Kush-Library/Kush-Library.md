@@ -13,34 +13,34 @@
 ## Key Features of KUSH-Go Library:
 
   
-1.  Go-based Token Standard Implementations:
+**Go-based Token Standard Implementations**: 
 -   The KUSH-Go Library implements token standards like ERC20, ERC721, and ERC1155 using Go, providing a robust and high-performance solution for building smart contracts on the Kalp Blockchain.
 
-2.  ERC20 – Fungible Token Support:
+**ERC20 – Fungible Token Support**:
    -   Create and manage fungible tokens (tokens where all units are identical, like cryptocurrencies). Includes functionalities like transferring tokens, querying balances, and minting new tokens.
    -   Key Functions: `Transfer()`, `BalanceOf()`, `Mint()`, and `Approve()`.
 
-3.  ERC721 – Non-Fungible Token (NFT) Support:
+**ERC721 – Non-Fungible Token (NFT) Support**:
  -   Build and manage non-fungible tokens (NFTs), allowing unique assets like digital art, collectibles, and game items to be tokenized on the Kalp Blockchain.
  -   Key Functions: `MintTokenWithUri()`, `TransferFrom()`, `OwnerOf()`.
 
-4.  ERC1155 – Multi-Token Standard:
+**ERC1155 – Multi-Token Standard**:
 -   Manage multiple types of tokens (both fungible and non-fungible) within a single smart contract. Perfect for applications where multiple asset types are needed, like gaming platforms or collectibles.
 -   Key Functions: `Mint()`,`MintBatch()`,`Transfer() ,TransferBatch()`.
 
-5.  Seamless Kalp SDK Integration:
+**Seamless Kalp SDK Integration**:
  -   The library integrates with the Kalp SDK, ensuring easy interaction with the Kalp Blockchain. Developers can create and manage tokens that are stored and executed securely on the Kalp Chain, without needing to worry about low-level blockchain interactions.
 
-6.  Modular and Reusable Components:
+**Modular and Reusable Components**:
    -   KUSH-Go is designed to be modular, allowing developers to easily plug in and extend functionality according to their needs. The token standards and utilities are built as reusable components for easier contract management and scalability.
 
-7.  Familiar OpenZeppelin-like Structure:
+**Familiar OpenZeppelin-like Structure**:
    -   The library mirrors the functionality and structure of OpenZeppelin contracts, making it easier for developers familiar with Ethereum and Solidity to quickly adapt to the Kalp Chain environment using Go.
 
-8.  Security Features:
+**Security Features**:
    -   Includes built-in security features like AccessControl for role-based permissions and Pausable contracts to allow administrators to halt contract activity in case of emergencies or vulnerabilities.
 
-9.  Ideal for Decentralized Applications (dApps):
+**Ideal for Decentralized Applications (dApps)**:
 
 -   Whether you’re building DeFi platforms, gaming applications, or tokenized marketplaces, KUSH-Go provides the foundational building blocks to create smart contracts for decentralized applications.
 
@@ -95,7 +95,7 @@ The project is structured to mirror the OpenZeppelin contract functionality, wit
 
 Two structs have to be defined here:
 
-1.Define a Go struct to represent your contract and embed contracts.TokenERC721Contract for base functionalities
+Define a Go struct to represent your contract and embed contracts.TokenERC721Contract for base functionalities
 
 For example let's create a MyTokenContract structure which inherits  the type of token you need to use direct from Kush Library.
 
@@ -120,7 +120,7 @@ To leverage the core functionalities provided by the library, embed the token.To
   
   
 
-2. Define a Go struct to represent your contract and embed `kalpsdk.Contract` for base functionalities
+Define a Go struct to represent your contract and embed `kalpsdk.Contract` for base functionalities
 
 ```Go
 type SmartContract struct {

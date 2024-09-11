@@ -5,20 +5,31 @@
 
 # Interacting with smart contract
 
-## Interacting with Your Smart Contract
+### Interacting with Your Smart Contract
 
-1 .  Establish a connection to the relevant blockchain network, enabling your application to interact with the deployed smart contracts.
+Establish a connection to the relevant blockchain network, enabling your application to interact with the deployed smart contracts. To establish connection to the blockchain network click on API gateway and see the deployed smart contract list.
+
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F41oNtUEB9pHNhmjHIBzi%252Fimage.png%3Falt%3Dmedia%26token%3D29a067ab-7860-4e08-b387-b1b4a8f0493e&width=768&dpr=4&quality=100&sign=aed9de5&sv=1)
+
+Click on the genearate endoints of the required smart contract which you want to connect with blockchain.
+
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FBM738DPTG7KLUUE7MO7L%252Fimage.png%3Falt%3Dmedia%26token%3Dddc7b577-8ec7-4b5a-a8c8-6580bcefb009&width=768&dpr=4&quality=100&sign=ed091bb7&sv=1)
+
+Once endpoints are generated kalp studio will show you the API endponts functionalities related to smart contract. Kalp Studio automatically generates API endpoints that directly map to the functionalities of your smart contracts. These endpoints simplify integration by providing a well-defined interface for your front-end application to interact with the underlying smart contract logic.
     
-2 .  Kalp Studio automatically generates API endpoints that directly map to the functionalities of your smart contracts. These endpoints simplify integration by providing a well-defined interface for your front-end application to interact with the underlying smart contract logic.
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fb9kpxfohU6l5swc3EO7t%252Fimage.png%3Falt%3Dmedia%26token%3Db190fcc9-7b2b-4907-ae32-173ceff98570&width=768&dpr=4&quality=100&sign=fdeb5685&sv=1)
+
+### **Steps to Deploy and test the smart contract API endpoints:**
+
+-  **Deployment of Smart Contract through Kalp Studio:**  Utilize the  **generated API endpoints**  directly within your front-end application (e.g., React.js, Next.js). This approach seamlessly integrates smart contract functionalities into your user interface, enabling dynamic interactions and data retrieval.
+
+!!! Help 
     
+    **Useful Links** 
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FqiwHL2upkYXuK1J5hOkj%252Fimage.png%3Falt%3Dmedia%26token%3D62ae86a4-be33-4967-ba27-10d53c83cc06&width=768&dpr=4&quality=100&sign=37894c01&sv=1)
+    - [How to deploy a Smart Contract?](https://doc.kalp.studio/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/)
 
-**Steps to Deploy and test the smart contract API endpoints:**
-
--   **Deployment of Smart Contract through Kalp Studio:**  Utilize the  **generated API endpoints**  directly within your front-end application (e.g., React.js, Next.js). This approach seamlessly integrates smart contract functionalities into your user interface, enabling dynamic interactions and data retrieval.
-
-_**Check out the Freshdesk Article: How to deploy a Smart Contract? or How Can I Perform Transactions using API Endpoints?**_
+    - [How Can I Perform Transactions using API Endpoints?](https://doc.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/)
 
 -   **Checking and Testing API Endpoints:**  Employ  **Postman**, a popular API testing tool, to send requests to the generated API endpoints. This method facilitates individual function testing, allowing you to verify their behavior and outputs in a controlled environment before integrating them into your front-end application.
 

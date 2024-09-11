@@ -4,7 +4,7 @@
 
 # Kalp Instant Deployer (KID) Overview
 
-Kalp Instant Deployer (KID) is a powerful service designed to streamline and automate the deployment of smart contracts across multiple blockchain networks. KID simplifies the deployment process, providing real-time status tracking and ensuring secure and efficient contract management. This overview highlights the key features, processes, and benefits of the Kalp Instant Deployer.
+Kalp Instant Deployer (KID) is a powerful service designed to automate the deployment of smart contracts across multiple blockchain networks. KID simplifies the deployment process, providing real-time status tracking and ensuring secure and efficient contract management. This overview highlights the key features, processes, and benefits of the Kalp Instant Deployer.
 
 ## Key Features
 

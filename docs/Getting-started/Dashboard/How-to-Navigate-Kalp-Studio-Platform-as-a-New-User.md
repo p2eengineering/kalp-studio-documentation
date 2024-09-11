@@ -19,7 +19,7 @@ As the new user logs in to the dashboard, a total credit of $50 will be credited
 
 ### **Dashboard Overview**
 
-![Dashboard overview](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FuhRPEBsI6jTRobnZdHM1%252Fimage.png%3Falt%3Dmedia%26token%3D62dbffeb-58fa-408c-8a9e-ef62ea3843b7&width=768&dpr=4&quality=100&sign=5997c1bc&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fi4Y1MgNpmPMV4SFgbydf%252Fimage.png%3Falt%3Dmedia%26token%3D9a7bb293-7168-4e3a-acb4-f0ed5e708835&width=768&dpr=4&quality=100&sign=a2451848&sv=1)
 
 Upon logging into Kalp Studio, you are greeted by the Dashboard, which serves as your control center. The key components of the Dashboard include:
 
@@ -27,11 +27,11 @@ Upon logging into Kalp Studio, you are greeted by the Dashboard, which serves as
 
 -   **Connect Wallet:** A prominent call-to-action button on the dashboard encourages you to connect your wallet to access decentralized applications and services.
 
-![Build Smart Contract](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FeqSe3EKKHhZiWv6WDnam%252Fimage.png%3Falt%3Dmedia%26token%3D966c3dee-d6e9-4cae-83e6-d2ec4fc36e56&width=768&dpr=4&quality=100&sign=ed1bcab3&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F0m2X9COIsDYgGRJD0tWc%252Fimage.png%3Falt%3Dmedia%26token%3D318a61d0-6158-4edd-8168-0b9e9a271063&width=768&dpr=4&quality=100&sign=11d41700&sv=1)
 
 -   **Build Smart Contracts:** This feature allows you to get started with building smart contracts using Kalp’s instant deployer.
 
-![Join kalp community](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F5tQQLOps9I03y90IUNa9%252Fimage.png%3Falt%3Dmedia%26token%3Dd60ab28f-8d9c-49c2-a9c7-bcb8901f6be1&width=768&dpr=4&quality=100&sign=abe8af8&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FkTgoQny1ZDbkE4GrF48G%252Fimage.png%3Falt%3Dmedia%26token%3D2cca1001-90fc-4c9a-bd1f-935cc94c3454&width=768&dpr=4&quality=100&sign=a311847e&sv=1)
 
 -   **Kalp Community:** This section provides information about the vibrant Kalp community, showcasing the number of active members.
 
@@ -39,7 +39,7 @@ Upon logging into Kalp Studio, you are greeted by the Dashboard, which serves as
 
 On the left side of the screen, you will find the primary navigation menu, which includes the following options:
 
-![Leftmenu](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FcJFAnb1e4jMuzsdjwg6O%252Fimage.png%3Falt%3Dmedia%26token%3D9fdd5f65-2a31-4503-8f20-9c698a1e846a&width=768&dpr=4&quality=100&sign=f9bda2f9&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F0ihUiPX6AOjwMpCibdsY%252Fimage.png%3Falt%3Dmedia%26token%3Dd9bc5593-4b9c-4d6c-a779-7f432a95305d&width=768&dpr=4&quality=100&sign=8d9fa8f1&sv=1)
 
 1 .  **Dashboard:** This option returns you to the main dashboard view.
     
@@ -50,12 +50,14 @@ On the left side of the screen, you will find the primary navigation menu, which
 4 .  **Docs:** Access documentation and resources to assist you with development.
     
 5 .  **Wallet:** Manage your connected wallets and view transaction histories.
+
+6.  **Faucet:** Provides free testnet tokens for developers to test blockchain operations. The Kalp Studio faucet offers tokens for web3 developers to deploy and test smart contracts on the Kalp DLT Chain.
     
-6 .  **Help and Support:** Obtain assistance and support for any issues or queries.
+7.  **Help and Support:** Obtain assistance and support for any issues or queries.
 
 ### **Our Products**
 
-![Kalp studio products](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FuNMglCZecBX5Y3jHjtxk%252Fimage.png%3Falt%3Dmedia%26token%3Da3ee0d6d-4853-4b07-ad03-1d54f87588f8&width=768&dpr=4&quality=100&sign=ebc07acd&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fvn55oJTVlMxy7bMhJuEX%252Fimage.png%3Falt%3Dmedia%26token%3D11976fed-0614-42c2-8b4c-255705ea3ead&width=768&dpr=4&quality=100&sign=fcb91e22&sv=1)
 
 !!! Note - Upcoming features
 
@@ -77,13 +79,13 @@ On the left side of the screen, you will find the primary navigation menu, which
 
 ### **Accessing Kalp Apps**
 
-![Kalp apps](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FPM4UgQpfXrP052Tz5Pyt%252Fimage.png%3Falt%3Dmedia%26token%3D5eccee6d-fe6f-4bca-b012-469e9103fa8b&width=768&dpr=4&quality=100&sign=23dc26e7&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F2CE8FfouIAjdpdvf0b3R%252Fimage.png%3Falt%3Dmedia%26token%3D1b57a1ad-033c-464d-99d2-9c1e39f57d1f&width=768&dpr=4&quality=100&sign=92bc9bdd&sv=1)
 
 In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of available Kalp apps.
 
 ### **Connecting Your Wallet**
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FyaGQtiWD06RFgF3B6MGE%252Fimage.png%3Falt%3Dmedia%26token%3D712a324a-b4a7-4be9-8421-116fcd033669&width=768&dpr=4&quality=100&sign=cb2782db&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F03xNh3IqAlb7zwEsefkr%252Fimage.png%3Falt%3Dmedia%26token%3Db5ae55a2-499b-4cae-9560-6c941aa7fc63&width=768&dpr=4&quality=100&sign=9fdd88f8&sv=1)
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FhCQYXt03dQ3CfiRAkzWP%252Fimage.png%3Falt%3Dmedia%26token%3Ded763d35-197d-4f88-a1de-5238ee6f09a3&width=768&dpr=4&quality=100&sign=de8219d9&sv=1)
 
@@ -91,7 +93,7 @@ To fully utilize Kalp Studio’s features, you need to connect your wallet. Clic
 
 ### **Help and Support**
 
-![Help & Support](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FGrbQSXWKmH8P4b9m8tcM%252Fimage.png%3Falt%3Dmedia%26token%3Da609f387-4941-49ab-87d1-d5dad894c2c5&width=768&dpr=4&quality=100&sign=99081944&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F9R51yT8yrD8T77RCuiUj%252Fimage.png%3Falt%3Dmedia%26token%3De7feaab2-6261-4203-9b8b-e360a3aa41dd&width=768&dpr=4&quality=100&sign=1ddfe8f4&sv=1)
 
 Engage with the Kalp community through various social media platforms listed on the dashboard. For any assistance, the "Help and Support" section provides access to FAQs, support tickets, and other resources to resolve your queries.
 

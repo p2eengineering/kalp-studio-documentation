@@ -35,31 +35,49 @@ Make sure to select the right blockchain network (e.g., TESTNET) and review all 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F50qXjNYKFZjKUkShnXtu%252F13.png%3Falt%3Dmedia%26token%3Dafb49b7c-8111-462d-ba05-8c8e4c9765a5&width=768&dpr=4&quality=100&sign=9f3d95e7&sv=1)
 
 
-#### Step 5: Choose or Upload a Smart Contract Template
+#### Step 5: Upload your Smart Contract Template
 
-KALP Studio offers ready-to-use templates to make the deployment process faster and easier. You can select a template from the KALP Library (e.g., KRC721 for NFTs). If you have a custom smart contract, you can upload it using the "Upload Smart Contract" option. This flexibility allows you to either use a predefined template or deploy a contract that you have already developed.
+ If you have a custom smart contract, you can upload it using the "Upload Smart Contract" option. 
+
+!!! Note
+    Supported Smart Contract File Formats
+
+    Please note that we only support the following file formats for uploading custom smart contracts:
+
+    - `.tar.gz`
+    - `.tar.xz`
+    - `.zip`
+
+    Ensure that your smart contract files are compressed in one of the above formats before uploading. Files in other formats will not be accepted.
+
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FRp7hbJT9ioRNM1DDX3kW%252Fimage.png%3Falt%3Dmedia%26token%3Da4cc48f2-d3c8-46b7-81a4-b0da50f072c5&width=768&dpr=4&quality=100&sign=63a3fcb4&sv=1)
 
+#### Step 6: Choose existing Smart Contract Template
+
+KALP Studio offers ready-to-use templates to make the deployment process faster and easier. You can select a template from the KALP Library (e.g., KRC721 for NFTs).
+
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FpoZDY6EfHdHLU82z9P6H%252Fimage%2520%281%29.png%3Falt%3Dmedia%26token%3Dd8ee1a44-5f62-4039-aea6-a02e22409510&width=768&dpr=4&quality=100&sign=93320e33&sv=1)
 
-#### Step 6: Review the Smart Contract
+#### Step 7: Review the Smart Contract
 
 Before finalizing, KALP Studio will present a review screen showing all the details of your smart contract. This is your last chance to ensure everything is accurate before deployment. Double-check the selected template, category, and all other information.
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FNuLndM3iq66rKpss0LnP%252Fimage%2520%282%29.png%3Falt%3Dmedia%26token%3D32326c62-c3d8-4416-baea-6c9ad0240549&width=768&dpr=4&quality=100&sign=a04c09a2&sv=1)
 
-#### Step 7: Deploy the Smart Contract
+#### Step 8: Deploy the Smart Contract
 
 After reviewing, click the "Continue" button to deploy your smart contract. KALP Studio will process the deployment, and within a few moments, you'll receive a confirmation message indicating that your smart contract has been created successfully.
 
 ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fj0fQwYmDyOIRsCegiHr8%252Fimage%2520%284%29.png%3Falt%3Dmedia%26token%3D8e690be7-d602-47a9-81f6-586f9d847bab&width=768&dpr=4&quality=100&sign=8664a2d0&sv=1)
 
-#### Step 8: Manage Your Deployed Contracts
+#### Step 9: Manage Your Deployed Contracts
 
 Once deployed, your smart contract will appear in the list of active contracts on the Smart Contract management page. Here, you can monitor the status, make edits, or interact with your contract via the provided API endpoints.
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FQJfdimTfW3qPfEY5JGAr%252Fimage%2520%286%29.png%3Falt%3Dmedia%26token%3Dae482347-8fbf-4bb0-b2a6-8f4f48bc62af&width=768&dpr=4&quality=100&sign=9ff3c812&sv=1)
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FLfSzXR8aeFORzNwv4SFz%252Fimage.png%3Falt%3Dmedia%26token%3Ddcf4b723-c013-4ffd-aea8-cc9b2140fb6a&width=768&dpr=4&quality=100&sign=b713a1ee&sv=1)
+
+![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FBM738DPTG7KLUUE7MO7L%252Fimage.png%3Falt%3Dmedia%26token%3Dddc7b577-8ec7-4b5a-a8c8-6580bcefb009&width=768&dpr=4&quality=100&sign=ed091bb7&sv=1)
 
 ### Conclusion
 
