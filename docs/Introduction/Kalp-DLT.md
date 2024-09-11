@@ -65,7 +65,7 @@ The tokenization of real-world assets (RWAs) is a complex process that requires 
 - **Permissioned Architecture and Strict KYC/AML Compliance:** Implementing a permissioned blockchain architecture can help in meeting regulatory requirements, including Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance. This setup restricts access to authorized participants only, enabling more controlled and compliant transaction processes.
 - **Embedded Applicable Laws:** The tokenization process must incorporate the applicable laws directly within the smart contracts governing the tokens. This ensures that all transactions automatically comply with the relevant legal requirements, providing a seamless legal framework for token issuance and transfer.
 
-#### 💰 Liquidity
+#### Liquidity
 
 Out of all the hurdles that exist, the most significant one in the tokenization of RWAs is the fragmentation of users across different blockchain networks, which can hinder liquidity. Enhancing liquidity for tokenized RWAs involves several strategic approaches:
 

@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Kalp Studio Wallet Overview
+# Kalp Wallet Overview
 
 Kalp studio wallet is an advanced, versatile cryptocurrency wallet designed to support multiple blockchain networks and cater to a wide range of user needs and security preferences. It provides users with seamless and secure management of their digital assets through various wallet types, including Self-Custodial, Custodial, and MPC (Multi-Party Computation) wallets. This overview highlights the key features, supported networks, wallet types, and core functionalities of the Kalp studio wallet.
 
