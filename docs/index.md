@@ -449,7 +449,7 @@ hide:
                       </div>
                   </div>
                   <div class="build-description-card-main">
-                      <a href="https://doc.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+                      <a href="https://docs.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
@@ -462,7 +462,7 @@ hide:
                           </span>
                           </div>
                      </a>
-                     <a href="https://doc.kalp.studio/Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
+                     <a href="https://docs.kalp.studio/Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Dashboard
@@ -475,7 +475,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://doc.kalp.studio/Getting-started/Billing/How-does-a-new-user-access-billing/">
+                     <a  href="https://docs.kalp.studio/Getting-started/Billing/How-does-a-new-user-access-billing/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Billing
@@ -488,7 +488,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a href="https://doc.kalp.studio/Getting-started/Credits/How-to-Add-Credit/">
+                     <a href="https://docs.kalp.studio/Getting-started/Credits/How-to-Add-Credit/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Credits
@@ -501,7 +501,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://doc.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/">
+                     <a  href="https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/">
                      <div class="build-description-card">
                      <div class="build-description-card-title">
                          Kalp studio wallet
@@ -514,7 +514,7 @@ hide:
                      </span>
                     </div>
                      </a>
-                     <a  href="https://doc.kalp.studio//Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
+                     <a  href="https://docs.kalp.studio//Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp instant deployer
@@ -527,7 +527,7 @@ hide:
                          </span>
                      </div>
                         </a>
-                          <a  href="https://doc.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
+                          <a  href="https://docs.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/">
                              <div class="build-description-card">
                                   <div class="build-description-card-title">
                                       API gateway
@@ -540,7 +540,7 @@ hide:
                                   </span>
                               </div>
                           </a>
-                          <a  href="https://doc.kalp.studio/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
+                          <a  href="https://docs.kalp.studio/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
                            <div class="build-description-card">
                                 <div class="build-description-card-title">
                                     Transaction monitoring
@@ -553,7 +553,7 @@ hide:
                                 </span>
                             </div>
                         </a>
-                        <a  href="https://doc.kalp.studio/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
+                        <a  href="https://docs.kalp.studio/Getting-started/API-Key-Generation/How-to-generate-API-Key/">
                          <div class="build-description-card">
                               <div class="build-description-card-title">
                                   API key generation
@@ -581,7 +581,7 @@ hide:
                          </div>
                      </div>
                  <div class="build-description-card-main">
-                 <a  href="https://doc.kalp.studio/Introduction/Kalp-studio-overview/">
+                 <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-overview/">
                      <div class="build-description-card">
                         <div class="build-description-card-title">
                             Kalp studio overview
@@ -594,7 +594,7 @@ hide:
                          </span>
                     </div>
                    </a>
-                       <a  href="https://doc.kalp.studio/Introduction/Kalp-studio-ecosystem/">
+                       <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-ecosystem/">
                        <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp studio console dashboard
@@ -607,7 +607,7 @@ hide:
                         </span>
                      </div>
                      </a>
-                       <a  href="https://doc.kalp.studio/Introduction/Kalp-DLT/">
+                       <a  href="https://docs.kalp.studio/Introduction/Kalp-DLT/">
                         <div class="build-description-card">
                              <div class="build-description-card-title">
                                  Kalp DLT
@@ -620,7 +620,7 @@ hide:
                             </span>
                          </div>
                      </a>
-                   <a  href="https://doc.kalp.studio/Introduction/What-is-kalp-instant-deployer/">
+                   <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-instant-deployer/">
                     <div class="build-description-card">
                     <div class="build-description-card-title">
                         Kalp instant deployer
@@ -633,7 +633,7 @@ hide:
                    </span>
                     </div>
                     </a>
-                     <a  href="https://doc.kalp.studio/Introduction/What-is-kalp-wallet/">
+                     <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-wallet/">
                         <div class="build-description-card">
                         <div class="build-description-card-title">
                             What is kalp wallet
@@ -661,21 +661,21 @@ hide:
                     <div class="developer-resource-card-wrapper dev-res">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
-                        <a href="https://doc.kalp.studio/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
+                        <a href="https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
                              <h4>Kalp DLT</h4>
                             <span>The Kalp DLT provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
                         </div>
                         </a>
-                             <a href="https://doc.kalp.studio/API-Reference/Kalp-wallet-OpenAPI/">
+                             <a href="https://docs.kalp.studio/API-Reference/Kalp-wallet-OpenAPI/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>Kalp Wallet OpenAPI</h4>
                                   <span>Kalp Wallet OpenAPI provides an API that allows users to create and manage different types of wallets programmatically. The API supports the creation of Self-custodial, MPC (Multi-Party Computation), and Custodial wallets.</span>
                               </div>
                                 </a>
-                             <a href="https://doc.kalp.studio/Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity/">
+                             <a href="https://docs.kalp.studio/Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity/">
                                 <div class="card-wrapper">
                                   <img src="images/interaction.svg" alt="sdk" />
                                   <h4>EVM based chains deployment</h4>
@@ -690,7 +690,7 @@ hide:
                  Are you ready to start building with kalp studio?
                  </span>
                  <div class="quick-start-wrapper-main-wrapper">
-                      <a href="https://doc.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
+                      <a href="https://docs.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                              <div class="kalp-icon">
                              <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -705,7 +705,7 @@ hide:
                              </div>
                          </div>
                          </a>
-                              <a href="https://doc.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
+                              <a href="https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
                               <div class="quick-start-wrapper-card">
                                   <div class="kalp-icon">
                                   <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -720,7 +720,7 @@ hide:
                                   </div>
                               </div>
                              </a>
-                              <a href="https://doc.kalp.studio/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
+                              <a href="https://docs.kalp.studio/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
                                  <div class="quick-start-wrapper-card">
                                      <div class="kalp-icon">
                                      <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -735,7 +735,7 @@ hide:
                                      </div>
                                  </div>
                                  </a>
-                          <a href="https://doc.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
+                          <a href="https://docs.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                                  <div class="kalp-icon">
                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -750,7 +750,7 @@ hide:
                                  </div>
                              </div>
                              </a>
-                          <a href="https://doc.kalp.studio/Getting-started/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
+                          <a href="https://docs.kalp.studio/Getting-started/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                               <div class="kalp-icon">
                               <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -765,7 +765,7 @@ hide:
                               </div>
                          </div>
                         </a>
-                         <a href="https://doc.kalp.studio/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
+                         <a href="https://docs.kalp.studio/Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                           <div class="kalp-icon">
                           <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
