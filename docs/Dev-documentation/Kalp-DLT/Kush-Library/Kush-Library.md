@@ -225,6 +225,198 @@ smartContractChaincode, err := contractapi.NewChaincode(smartContract)
 
 ```
 
+## Initialize method for SmartContract:
+
+  
+
+```Go
+func (s *SmartContract) Initialize(ctx *kalpsdk.TransactionContext, name string, symbol string) (bool, error) {
+    // Initialize the contract
+    success, err := s.MyTokenContract.Initialize(ctx, name, symbol)
+    if err != nil || !success {
+        log.Panicf("Error initializing contract: %v", err)
+    }
+    s.isInitialized = true
+
+    return true, nil
+}
+
+
+
+```
+
+  
+
+## Modules:
+
+  
+
+The ERC20 module provides functionalities similar to the ERC20 standard in Solidity but here for the Kalp Chain this is defined in go.
+
+Example usage:
+
+```Go
+
+// Mint creates new tokens and assigns them to an address
+func (s *SmartContract) Mint(ctx *kalpsdk.TransactionContext, amount int, recipient string) error {
+    // Check if the contract is initialized
+    if !s.isInitialized {
+        return fmt.Errorf("contract options need to be set before calling any function, call Initialize() to initialize contract")
+    }
+
+    // Mint new tokens using the ERC-20 contract's Mint method
+    err := s.MyTokenContract.Mint(ctx, amount, recipient)
+    if err != nil {
+        return fmt.Errorf("error minting tokens: %v", err)
+    }
+
+    log.Printf("Minted %d tokens to %s\n", amount, recipient)
+    return nil
+}
+
+
+```
+
+### ERC721
+
+The ERC721 module provides functionalities similar to the ERC721 standard, enabling the creation and management of non-fungible tokens (NFTs) on the Kalp Chain.
+
+Example usage:
+
+```Go
+
+// TokenCreate method for SmartContract
+func (s *SmartContract) TokenCreate(ctx *kalpsdk.TransactionContext, tokenId string, tokenURI string) error {
+    // Check if the contract is initialized
+    if !s.isInitialized {
+        return fmt.Errorf("contract options need to be set before calling any function, call Initialize() to initialize contract")
+    }
+
+    // Example mint operation
+    token, err := s.MyTokenContract.MintWithTokenURI(ctx, tokenId, tokenURI)
+    if err != nil {
+        return err
+    }
+    log.Printf("Minted NFT: %+v\n", token)
+    return nil
+}
+
+
+
+// Balanceof checks the balance of a specific owner
+func (s *SmartContract) Balanceof(ctx *kalpsdk.TransactionContextInterface, owner string) int {
+    // Check if the contract is initialized
+    if !s.isInitialized {
+        return 0
+    }
+    // Check the balance using the MyTokenContract's BalanceOf method
+    balance := s.MyTokenContract.BalanceOf(*ctx, owner)    
+
+    // Return the balance
+    return balance
+}
+
+
+
+
+
+
+```
+
+  
+
+### ERC1155:
+
+The ERC1155 module provides functionalities for multi-token standards, allowing the management of multiple token types within a single contract on the Kalp Chain.
+
+Example usage:
+
+  
+
+```Go
+package main
+
+import (
+    "fmt"
+    "log"
+
+    "github.com/thekalpstudio/kush-go/contracts/token"
+    "github.com/hyperledger/fabric-contract-api-go/contractapi"
+    "github.com/p2eengineering/kalp-sdk-public/kalpsdk"
+)
+
+// MintBatch mints multiple tokens (batch) and assigns them to a recipient
+func (s *SmartContract) MintBatch(ctx *kalpsdk.TransactionContext, ids []string, amounts []int, recipient string) error {
+    // Check if the contract is initialized
+    if !s.isInitialized {
+        return fmt.Errorf("contract options need to be set before calling any function, call Initialize() to initialize contract")
+    }
+
+    // Mint multiple tokens using the ERC-1155 MintBatch function
+    err := s.MyTokenContract.MintBatch(ctx, ids, amounts, recipient)
+    if err != nil {
+        return fmt.Errorf("error minting batch tokens: %v", err)
+    }
+
+    log.Printf("Minted batch tokens with ids %v and amounts %v to %s\n", ids, amounts, recipient)
+    return nil
+}
+
+
+```
+
+## Modules and Functions:
+
+   `ERC20`:
+
+-   func (s *SmartContract) Mint (ctx *kalpsdk.TransactionContext, amount int, recipient string) error: Creates a new ERC20 token.
+
+-   func (s *SmartContract) Transfer (ctx *kalpsdk.TransactionContext, recipient string, amount int) error: Transfers tokens to a specified address.
+
+-   func (s *SmartContract) BalanceOf(ctx *kalpsdk.TransactionContext, owner string) uint256: Returns the balance of a specified account.
+
+   `ERC721`:
+     
+-   func (s *SmartContract) MintNFT(ctx *kalpsdk.TransactionContext, tokenId string, tokenURI string, recipient string) error: Creates a new ERC721 token.
+-   func (s *SmartContract) TransferNFT(ctx *kalpsdk.TransactionContext, from string, to string, tokenId string) error: Transfers tokens to a specified address.
+-   func (s *SmartContract) BalanceOfNFT(ctx *kalpsdk.TransactionContext, owner string) uint256: Returns the balance of a specified account.
+
+   `ERC1155`:
+
+-   func (s *SmartContract) MintBatch(ctx *kalpsdk.TransactionContext, ids [] string, amounts []int, recipient string) error: Mints the nft in batch.
+
+-   func (s *SmartContract) TransferBatch(ctx *kalpsdk.TransactionContext, from string, to string, ids [] string, amounts []int) error: Transfers tokens to a specified address.
+
+  
+  
+
+## Architecture:
+
+This architecture provides a high-level understanding of how the KUSH-Go Library interacts with the Kalp SDK and the Kalp Blockchain to facilitate the creation and management of Tokens using ERC satndards like smart contracts. 
+
+![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FzGFpq2IY3RNXdqnvRKqW%252F333.png%3Falt%3Dmedia%26token%3D9ad2c676-48a8-4934-b97c-cdcf64777f07&width=768&dpr=4&quality=100&sign=af84a339&sv=1)
+
+### Flow of Operations
+
+1.  Smart Contract Layer (ERC20,721,1155 modules)
+   -   When you use the KUSH-Go library to create or manage NFTs, you interact with the ERC721 Module.
+    -   Example: Calling `MintTokenWithUri()` triggers the process of minting a new NFT, which is passed to the Kalp SDK for blockchain execution.
+2.  Kalp SDK
+   -   The Kalp SDK facilitates communication between the KUSH-Go library and the Kalp Blockchain.
+    -   It ensures that the smart contract operations (like minting and transferring NFTs) are securely executed on the blockchain and that the token data is stored properly.
+3.  Kalp Blockchain
+   -   The Kalp Blockchain processes and records the transactions, maintaining the ledger of token ownership, minting, and transfers.
+
+  
+
+## License:
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+This documentation provides a comprehensive overview of the KUSH-Go Library, guiding users through the setup, installation, and usage of the library in their projects. For more detailed examples and usage scenarios please refer to the modules and example usage
+
+This architecture provides a high-level understanding of how the KUSH-Go Library interacts with the Kalp SDK and the Kalp Blockchain to facilitate the creation and management of Tokens using ERC satndards like smart contracts. 
+
 ## Conclusion
 
 The KUSH-Go Library is a robust and flexible solution for developers looking to build decentralized applications on the Kalp Blockchain using Go. By offering ERC20, ERC721, and ERC1155 token standards, KUSH-Go provides familiar yet high-performance tools for creating and managing both fungible and non-fungible tokens. Seamless integration with the Kalp SDK, combined with modular and reusable components, ensures a smooth development experience, while built-in security features like role-based access control further enhance the reliability of smart contracts. Whether you're building DeFi platforms, gaming applications, or tokenized marketplaces, KUSH-Go is an ideal library that simplifies the development process on the Kalp Chain.

@@ -1,10 +1,13 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="https://fonts.solidityogleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.solidityogleapis.com/icon?family=Material+Icons">
+
 
 
 # How To Write Smart Contract in Solidity
 
-## 5-Step Tutorial: How to Write a Smart Contract in Solidity
+## 
+
+5-Step Tutorial: How to Write a Smart Contract in Solidity
 
 In the following sections, we’ll show you how to write a smart contract in Solidity in five straightforward steps:
 
@@ -21,8 +24,9 @@ In the following sections, we’ll show you how to write a smart contract in Sol
 
 The Solidity smart contract you’ll write is really straightforward, allowing you to store and retrieve an unsigned integer. Consequently, this tutorial is intended for developers with little to no experience in Ethereum development.
 
+## 
 
-## **Step 1: Set Up Remix**
+**Step 1: Set Up Remix**
 
 You have many options for writing a smart contract in Solidity. However, to make this tutorial as beginner-friendly as possible, we’ll use Remix. Remix is a web-based integrated development environment (IDE) for developing EVM-compatible smart contracts.
 
@@ -30,19 +34,19 @@ It’s straightforward and supports several features you need for this tutorial,
 
 Clicking on the link above takes you to the following page, where you’ll find a workspace called ”default_workspace”:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FeXfyTQW9K85TQxwXLIuu%252Fimage.png%3Falt%3Dmedia%26token%3Db1d77a2b-756a-4567-a6fe-003344250529&width=768&dpr=4&quality=100&sign=3a675c56&sv=1)
-
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252FuySEEHCKh7yxshO18V7U%252Fimage.png%3Falt%3Dmedia%26token%3D4ab84270-20f0-4605-a297-b48137652d9b&width=768&dpr=4&quality=100&sign=e9cc6445&sv=1)
 
 From there, open the ”contracts” folder, delete all the default files, and create a new one called ”Storage.sol”:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FICHF8TfFeXqzSyzYXwri%252Fimage.png%3Falt%3Dmedia%26token%3Db7a8d1e9-3372-4675-80c5-7fcee4cb11cc&width=768&dpr=4&quality=100&sign=bb91cd7e&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252F89yZueTNy2YAiBy2fce7%252Fimage.png%3Falt%3Dmedia%26token%3Deb2da1a5-f094-4544-8f1b-c85cde5589ce&width=768&dpr=4&quality=100&sign=ef3eb5c9&sv=1)
 
 ## Step 2: Write the Smart Contract Code in Solidity
 
-For the second step, we’ll show you how to write the smart contract code in Solidity. As such, go ahead and open the ”Storage.sol” file and input the following code:
+For the second step, we’ll show you how to write the smart contract code in Solidity. As such, solidity ahead and open the ”Storage.sol” file and input the following code:
+
+
 
 ``` solidity
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -63,7 +67,7 @@ The code above is the complete contract, and we’ll now break down each row, st
     
 
 
-``` solidity
+```solidity
 // SPDX-License-Identifier: MIT
 ```
 
@@ -73,7 +77,8 @@ The third line of the code declares which Solidity compiler you want to use. In 
     
 
 
-``` solidity
+
+```solidity
 contract Storage 
 ```
 
@@ -82,7 +87,7 @@ contract Storage
 
 
 
-``` solidity
+```solidity
 uint data;
 ```
 
@@ -91,7 +96,7 @@ uint data;
 
 
 
-``` solidity
+```solidity
 function set(uint x) public {data = x;}
 ```
 
@@ -100,7 +105,7 @@ function set(uint x) public {data = x;}
 
 
 
-``` solidity
+```solidity
 function get() public view returns (uint) {return data;}
 ```
 
@@ -112,39 +117,39 @@ In the next step, we’ll show you how to set up MetaMask, which you’ll need t
 
 Now that you’re done writing the code for your Solidity smart contract, the next thing you’ll need is a Web3 wallet. And for this tutorial, we’ll be using MetaMask. As such, if you haven’t already, head on over to “[_metamask.io_](http://metamask.io/)” and hit the ”Download” button at the bottom left:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FiJp4sy1PRPgiQV0gDK5V%252Fimage.png%3Falt%3Dmedia%26token%3Ddc61508f-cedd-4fba-9cbc-22134142054a&width=768&dpr=4&quality=100&sign=f8aa0d28&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252Faumj2OFNckyKIipGWy3i%252Fimage.png%3Falt%3Dmedia%26token%3D186bfd2b-9d65-408a-abb0-dedc11b9a570&width=768&dpr=4&quality=100&sign=c9aea0fe&sv=1)
 
-Next, add MetaMask as a browser extension:
+## Next, add MetaMask as a browser extension:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FTKSg1uPNKkJZva0uhJhn%252Fimage.png%3Falt%3Dmedia%26token%3D96e1565d-769a-4d56-b25d-78b0baaf05b4&width=768&dpr=4&quality=100&sign=1aad3a1f&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252FiYv6CaAJdgkpo5MVtrYx%252Fimage.png%3Falt%3Dmedia%26token%3Dfbf20622-60f6-477b-9b10-913612f59012&width=768&dpr=4&quality=100&sign=4ec89c50&sv=1)
 
 Once you add MetaMask to your browser, you’ll be taken to the following page, where you can either set up a new wallet or import an existing one:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F9WwTcf6L3cwEBVvJAmNP%252Fimage.png%3Falt%3Dmedia%26token%3D4e1802dc-251d-444b-bfed-84e675f00433&width=768&dpr=4&quality=100&sign=74d6588b&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252FqhpaPx2cqui94oGKiGxo%252Fimage.png%3Falt%3Dmedia%26token%3D1724ac19-c830-40a2-8674-6468fe63da23&width=768&dpr=4&quality=100&sign=12920045&sv=1)
 
 After you create a new or import a wallet, you should find yourself on a page looking something like this:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FaFMlN5ROKS69Sml1COMQ%252Fimage.png%3Falt%3Dmedia%26token%3Df28f12b3-917f-4861-b146-3e830cbe9fbe&width=768&dpr=4&quality=100&sign=472b99b4&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252FBbDSRldLA3jvrWIthq5K%252Fimage.png%3Falt%3Dmedia%26token%3Df50803b6-f794-45a1-8728-967a0cefbcc2&width=768&dpr=4&quality=100&sign=93a95b81&sv=1)
 
 In addition to setting up a MetaMask account, you must add Ethereum’s Sepolia testnet to your wallet. The reason for doing this is that we don’t want to immediately commit to the Ethereum mainnet. Instead, you should deploy your smart contract to Sepolia so you can test it in a safe and secure environment.
 
-To add and switch to the Sepolia testnet, go ahead and hit the networks drop-down menu at the top right of your MetaMask interface, click on the ”Show test networks” button, and select Sepolia:
+To add and switch to the Sepolia testnet, solidity ahead and hit the networks drop-down menu at the top right of your MetaMask interface, click on the ”Show test networks” button, and select Sepolia:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FF8GcrSrVXTSsId4kJjlP%252Fimage.png%3Falt%3Dmedia%26token%3Dee7685a2-3bfd-435a-98ad-e350eb18f3ab&width=768&dpr=4&quality=100&sign=23581fb7&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252F7aUOmnG2Nvs6tyb37gDx%252Fimage.png%3Falt%3Dmedia%26token%3D24038cd6-10bb-4a6e-8667-2636aaa021f6&width=768&dpr=4&quality=100&sign=fc01c096&sv=1)
 
 Afterwards, it should now look something like this:
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FruWPWCWaLBa7231UXgVu%252Fimage.png%3Falt%3Dmedia%26token%3De1e72d27-df60-449a-9dd4-3684f3de0175&width=768&dpr=4&quality=100&sign=2bea56f7&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252Fi9Lg0mbWpNrg3zkkhVC2%252Fimage.png%3Falt%3Dmedia%26token%3D5f13ce6c-f6d7-4cbb-a5af-f99b0456c13f&width=768&dpr=4&quality=100&sign=aeb586d1&sv=1)
 
 ## Step 4: Get Testnet Tokens
 
-Deploying a smart contract to a blockchain requires a network transaction, meaning you must pay a gas fee. Consequently, in order to deploy your Solidity smart contract, you need to load up on some Sepolia ETH. Fortunately, since Sepolia is a testnet, you can leverage a faucet to get free tokens. And the easiest way to find a legit faucet is to visit the [Google Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+Deploying a smart contract to a blockchain requires a network transaction, meaning you must pay a gas fee. Consequently, in order to deploy your Solidity smart contract, you need to load up on some Sepolia ETH. Fortunately, since Sepolia is a testnet, you can leverage a faucet to get free tokens. And the easiest way to find a legit faucet is to visit the [solidityogle Faucet](https://cloud.solidityogle.com/application/web3/faucet/ethereum/sepolia)
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Ff913taX4YFurgkisqi1R%252Fimage.png%3Falt%3Dmedia%26token%3D9fb33304-6b2d-4707-a195-02a7a066ee78&width=768&dpr=4&quality=100&sign=4f96d747&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252F7BuGxn5WRDUhxZoxM7fB%252FScreenshot%25202024-09-03%2520at%25208.31.06%25E2%2580%25AFAM.png%3Falt%3Dmedia%26token%3D82c4bb94-7d27-4fec-a03f-7777333fe4d5&width=768&dpr=4&quality=100&sign=a7cbead6&sv=1)
 
 Clicking this takes you to the following page where you need to input your MetaMask wallet address and click on "Receive 0.05 sepolia ETH"(It has max Testnet Tokens limit of 0.05 sepolia For 24 hr )
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FL6EyfDSxXdcH06ZBWmKu%252Fimage.png%3Falt%3Dmedia%26token%3D7072772f-2454-407c-a03c-1c8653a76a0d&width=768&dpr=4&quality=100&sign=18e7ec43&sv=1)
+![](https://prabalparihar95.gitbook.io/~gitbook/image?url=https%3A%2F%2F636979743-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrCdFVkYyOmhTqhPOYEsY%252Fuploads%252Fcrh1xX4B2n8IIkvjUzJB%252Fimage.png%3Falt%3Dmedia%26token%3Dcee08044-2316-48af-a27a-8b396729b658&width=768&dpr=4&quality=100&sign=f428ba0e&sv=1)
 
 As soon as you claim them, the balance in your MetaMask wallet should update:
 
@@ -152,19 +157,19 @@ From here, you can now use these testnet tokens to pay for transactions on the S
 
 ## Step 5: Compile and Deploy the Solidity Smart Contract
 
-#### Requirements
+## Requirements
 
 1.  **Solidity Version**: Your smart contract must use Solidity version 0.8.0 or greater.
     
 2.  **Hardcoded Deploy Parameters**: All deploy parameters should be hardcoded in the contract. Kalp Studio does not support passing parameters during deployment.
     
 
-#### Smart Contract Structure
+## Smart Contract Structure
+
 
 Your smart contract should follow this general structure:
 
 ``` solidity
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -190,9 +195,9 @@ function setValue(uint256 _newValue) public {
 
 // Other functions...
 }
-```
+``` 
 
-#### Key Points
+## Key Points
 
 1.  Start with the SPDX license identifier.
     
@@ -207,9 +212,10 @@ function setValue(uint256 _newValue) public {
 6.  Implement functions to interact with your contract.
     
 
-#### Example: Token Contract
+## Example: Token Contract
 
 Here's an example of a simple token contract that would be compatible with Kalp Studio:
+
 
 ``` solidity
 // SPDX-License-Identifier: MIT
@@ -239,9 +245,10 @@ function transfer(address _to, uint256 _value) public returns (bool success) {
     return true;
 }
 }
+
 ```
 
-#### Deployment Process
+## Deployment Process
 
 1.  Write your smart contract following the structure and requirements above.
     
@@ -251,29 +258,28 @@ function transfer(address _to, uint256 _value) public returns (bool success) {
     
 4.  In Kalp Studio, navigate to the smart contract deployment section.
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FYLvSvRmE3amxtuBsOO0o%252Fimage.png%3Falt%3Dmedia%26token%3Df03e2328-e1d5-4e23-ad60-f898104047bb&width=768&dpr=4&quality=100&sign=a556870c&sv=1)
+![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fxx75xipVgTS4EHsHINlR%252Fimage.png%3Falt%3Dmedia%26token%3D843628e4-bf66-4b27-9c9c-30beaada6599&width=768&dpr=4&quality=100&sign=eac11d7b&sv=1)
 
-5. Add Smart Contract name and Description to deploy the smart contract. 
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FVYqjgncvTcM13Y7cJaWG%252Fimage.png%3Falt%3Dmedia%26token%3Dd9044870-aa51-432b-9ef5-fbe8c741be08&width=768&dpr=4&quality=100&sign=45541317&sv=1)
+5.  Add Smart Contract name and Description to deploy the smart contract
 
-6. Drag & Drop your compiled contract code into the designated area.
+![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FXyRbSlJU1jQL5Z5GSCyc%252Fimage.png%3Falt%3Dmedia%26token%3Dccee828b-a756-4fa7-ac37-f481fd6b58cd&width=768&dpr=4&quality=100&sign=3a52709e&sv=1)
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FlL5OQkvMQUAvWlkCbzdJ%252Fimage.png%3Falt%3Dmedia%26token%3D4e5c775f-5b4d-4631-b338-17f7174d0c6a&width=768&dpr=4&quality=100&sign=e71b44f9&sv=1)
+6.  Drag & Drop your compiled contract code into the designated area.
+
+![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FFmgdepYi2JcjS0nfsYq5%252Fimage.png%3Falt%3Dmedia%26token%3D015f18f5-53d4-4b37-a3a9-5496d6bd78c3&width=768&dpr=4&quality=100&sign=78a3832&sv=1)
 
 7.  Click the "Continue" button to deploy your contract to the blockchain.
     
 8.  Wait for the transaction to be confirmed on the blockchain.
     
-9. Once confirmed, Kalp Studio will provide you with the deployed contract address and transaction details.
-
- ![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FF95khzb26sG7mpxd5XXv%252Fimage.png%3Falt%3Dmedia%26token%3D963da4a9-f786-4f55-b5ca-8e6740a29892&width=768&dpr=4&quality=100&sign=2c45c93e&sv=1)
+9.  Once confirmed, Kalp Studio will provide you with the deployed contract address and transaction details.
+ ![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FUSFpLHj6i8Gzx3eZVxjn%252Fimage.png%3Falt%3Dmedia%26token%3D312a1ebe-46ea-4beb-85d7-292ba4b57af1&width=768&dpr=4&quality=100&sign=fe95dee1&sv=1)
 
 Remember, all initial values and parameters must be set within the contract code itself, as Kalp Studio does not support passing parameters during deployment.
 
-!!!Note  
+!!! Note 
     The smart contract will deploy to the network only which the wallet is connected to.
-
 
 !!! Note
     If you encounter any issues during development related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
