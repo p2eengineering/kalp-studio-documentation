@@ -132,7 +132,7 @@ nav:
   - Introduction: 
           - Kalp studio overview: 'Introduction/Kalp-studio-overview.md'
           - Kalp studio ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
-          - What is smart contract deployer: 'Introduction/What-is-kalp-instant-deployer.md'
+          - What is kalp instant deployer: 'Introduction/What-is-kalp-instant-deployer.md'
           - What is kalp wallet: 'Introduction/What-is-kalp-wallet.md'
           - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Getting started:

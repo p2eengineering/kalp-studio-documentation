@@ -3,93 +3,39 @@
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
   
-  
+# Kalp Studio Console Dashboard Overview
 
-# Kalp studio console dashboard
+The **Kalp Studio Console Dashboard** is a centralized platform that helps users efficiently manage their blockchain based smart contracts deployment and helps in managing your overall blockchain based application development platform. This document provides an overview of key features and functionalities available on the dashboard.
 
-  
+## 1. User Onboarding and Access
+- **Sign-Up and Login**: New users can quickly sign up for the platform through a simple registration process, which includes setting up login credentials and email verification. For existing users, logging in is a straightforward process. Once logged in, users can access all available tools and features within the dashboard.
+- **Password Management**: Changing passwords is easily done from the account settings section. The platform emphasizes security by providing a quick way to update passwords and improve account protection.
 
-### Introduction
+## 2. Dashboard Navigation
+- **For New Users**: The dashboard is designed to be intuitive, especially for first-time users. It provides a clean layout with guidance to help new users understand the platform’s structure, enabling them to locate tools such as wallet management, smart contract deployment, and billing.
+- **For Active Users**: Regular users can navigate the dashboard efficiently with quick access to their most-used features. The platform is structured to enhance workflow for experienced users, ensuring smooth management of tasks like deploying smart contracts or viewing transaction history.
 
-  
+## 3. Billing and Credits
+- **Billing Access**: New users can easily access their billing details and payment settings through a dedicated billing section on the dashboard. For subscribed users, additional billing management options are available, such as reviewing past invoices and updating payment methods.
+- **Billing Overview**: The platform provides a detailed billing system that helps users track their usage, invoices, and payments. The billing section is transparent, giving users a clear understanding of their spending on the platform.
+- **Credits Management**: Users can add credits to their account directly from the dashboard. These credits are used to fund activities such as smart contract deployments and transactions, helping users avoid delays due to insufficient funds.
 
-Kalp studio console is a comprehensive dashboard designed to streamline the management and development of blockchain applications within the Kalp ecosystem. It provides an intuitive and user-friendly interface that allows users to efficiently access, manage, and subscribe to various products and services offered by Kalp Studio. This overview delves into the features and functionalities of the Kalp Studio Console, showcasing its role in enhancing the blockchain development experience.  
+## 4. Wallet Integration
+- **Wallet Access**: The platform includes a wallet management tool that allows users to monitor and manage their digital assets. Through the dashboard, users can track balances and transactions.
+- **Wallet Creation and Connection**: For users who do not yet have a wallet, the dashboard provides a simple process for creating and connecting a new wallet to their account. This ensures users have a fully functional wallet for storing and using digital assets on the platform.
 
-**Dashboard Features:**
+## 5. Kalp Instant Deployer (KID)
+- **Smart Contract Deployment**: The Kalp Instant Deployer, also known as KID, simplifies the process of deploying smart contracts. Users can easily set up, configure, and deploy smart contracts on the blockchain without needing advanced technical skills. The deployment process is broken down into clear steps, guiding users through the entire procedure.
 
-Upon successful login, users land on the dashboard where they receive $50 worth of credits for subscribing to various products within the ecosystem.
+## 6. API Gateway
+- **API Key and Endpoint Generation**: The platform offers an API Gateway that allows users to generate API keys and create API endpoints. These APIs enable external applications to interact with smart contracts, providing a robust integration point for developers.
+- **Smart Contract API Access**: Users can access a list of deployed smart contracts and generate API endpoints to interact with them, facilitating smooth external communication and integration of blockchain functionality into other software.
 
-!!! Note
-    Credits are one-time rewards. Users can use those credits to subscribe to the Kalp Studio services. Credits will be reflected in the profile segment.
+## 7. Transaction Monitoring
+- **Real-Time Transaction Monitoring**: Users can view and track their transactions in real-time using the transaction monitoring tool. This feature gives users transparency over their blockchain activities, allowing them to keep an eye on the status of transactions, from initiation to confirmation on the blockchain.
 
+## 8. TestNet Faucets
+- **Access to TestNet Gini Tokens**: The platform provides a faucet service for obtaining test tokens (Gini) that users can utilize in the TestNet environment. These test tokens are useful for developers who want to simulate blockchain transactions without spending real currency, making it a valuable tool for testing and development.
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fzhca1FutgnVBHo1WM6G7%252Fimage.png%3Falt%3Dmedia%26token%3D11584170-21ac-4c2a-88cb-620cf625f44c&width=768&dpr=4&quality=100&sign=ba87b24d&sv=1)
-
-### **Dashboard Overview**
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fi4Y1MgNpmPMV4SFgbydf%252Fimage.png%3Falt%3Dmedia%26token%3D9a7bb293-7168-4e3a-acb4-f0ed5e708835&width=768&dpr=4&quality=100&sign=a2451848&sv=1)
-
-Upon logging into Kalp Studio, you are greeted by the Dashboard, which serves as your control center. The key components of the Dashboard include:
-
-![Connect wallet](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FdPY0WBvfkzo5tUlzMKoS%252Fimage.png%3Falt%3Dmedia%26token%3D7cd5b4e6-7e48-440a-97f2-55e88ec7685c&width=768&dpr=4&quality=100&sign=d3ab28bb&sv=1)
-
--   **Connect Wallet:** A prominent call-to-action button on the dashboard encourages you to connect your wallet to access decentralized applications and services.
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F0m2X9COIsDYgGRJD0tWc%252Fimage.png%3Falt%3Dmedia%26token%3D318a61d0-6158-4edd-8168-0b9e9a271063&width=768&dpr=4&quality=100&sign=11d41700&sv=1)
-
--   **Build Smart Contracts:** This feature allows you to get started with building smart contracts using Kalp’s instant deployer.
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FkTgoQny1ZDbkE4GrF48G%252Fimage.png%3Falt%3Dmedia%26token%3D2cca1001-90fc-4c9a-bd1f-935cc94c3454&width=768&dpr=4&quality=100&sign=a311847e&sv=1)
-
--   **Kalp Community:** This section provides information about the vibrant Kalp community, showcasing the number of active members.
-
-### **Navigation Menu**
-
-On the left side of the screen, you will find the primary navigation menu, which includes the following options:
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F0ihUiPX6AOjwMpCibdsY%252Fimage.png%3Falt%3Dmedia%26token%3Dd9bc5593-4b9c-4d6c-a779-7f432a95305d&width=768&dpr=4&quality=100&sign=8d9fa8f1&sv=1)
-
-1 .  **Dashboard:** This option returns you to the main dashboard view.
-    
-2 .  **Billing:** Here you can manage your billing information and payment methods.
-    
-3 .  **Credits:** This section allows you to view and manage your credits within the Kalp ecosystem.
-    
-4 .  **Docs:** Access documentation and resources to assist you with development.
-    
-5 .  **Wallet:** Manage your connected wallets and view transaction histories.
-
-6.  **Faucet:** Provides free testnet tokens for developers to test blockchain operations. The Kalp Studio faucet offers tokens for web3 developers to deploy and test smart contracts on the Kalp DLT Chain.
-    
-7.  **Help and Support:** Obtain assistance and support for any issues or queries.
-
-### **Our Products**
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fvn55oJTVlMxy7bMhJuEX%252Fimage.png%3Falt%3Dmedia%26token%3D11976fed-0614-42c2-8b4c-255705ea3ead&width=768&dpr=4&quality=100&sign=fcb91e22&sv=1)
-
-### **Accessing Kalp Apps**
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F2CE8FfouIAjdpdvf0b3R%252Fimage.png%3Falt%3Dmedia%26token%3D1b57a1ad-033c-464d-99d2-9c1e39f57d1f&width=768&dpr=4&quality=100&sign=92bc9bdd&sv=1)
-
-In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of available Kalp apps.
-
-### **Connecting Your Wallet**
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F03xNh3IqAlb7zwEsefkr%252Fimage.png%3Falt%3Dmedia%26token%3Db5ae55a2-499b-4cae-9560-6c941aa7fc63&width=768&dpr=4&quality=100&sign=9fdd88f8&sv=1)
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FhCQYXt03dQ3CfiRAkzWP%252Fimage.png%3Falt%3Dmedia%26token%3Ded763d35-197d-4f88-a1de-5238ee6f09a3&width=768&dpr=4&quality=100&sign=de8219d9&sv=1)
-
-To fully utilize Kalp Studio’s features, you need to connect your wallet. Click the "Connect now" button on the dashboard to link or connect your Kalp wallet or other wallets mentioned above. This connection is crucial for accessing decentralized applications and handling transactions securely.
-
-### **Help and Support**
-
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F9R51yT8yrD8T77RCuiUj%252Fimage.png%3Falt%3Dmedia%26token%3De7feaab2-6261-4203-9b8b-e360a3aa41dd&width=768&dpr=4&quality=100&sign=1ddfe8f4&sv=1)
-
-Engage with the Kalp community through various social media platforms listed on the dashboard. For any assistance, the "Help and Support" section provides access to FAQs, support tickets, and other resources to resolve your queries.
-
-### **Conclusion**
-
-Kalp Studio offers a user-friendly interface with robust features for blockchain developers and enthusiasts. By familiarizing yourself with the dashboard, navigation menu, and available products, you can leverage the platform to build and manage your decentralized applications effectively.
-
-!!! Note
-    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
+## Conclusion
+The **Kalp Studio Console Dashboard** is a powerful tool that streamlines blockchain management for both new and experienced users. By combining features such as wallet integration, billing management, smart contract deployment, and transaction monitoring, the dashboard enables users to efficiently manage their blockchain operations. Its intuitive interface, comprehensive tools, and real-time monitoring make it an essential platform for navigating the complexities of blockchain technology.

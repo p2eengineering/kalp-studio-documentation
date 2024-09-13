@@ -117,7 +117,7 @@ The Kalp ecosystem leverages a multi-chain architecture, incorporating both publ
 
 Complementing the Kalp ecosystem's internal interoperability is its sophisticated cross-chain communication protocol. This protocol is architected to facilitate the movement of messages and assets not only within the Kalp network but also across popular permissionless chains. By leveraging a combination of state-of-the-art cryptographic algorithms, address whitelisting mechanisms and smart contract interfaces, the protocol ensures that cross-chain interactions are both secure and efficient. This encompasses a broad spectrum of functionalities, from asset transfer and smart contract invocation to data sharing and verification across blockchain boundaries.
 
-![Kalp Network](https://kalp-network.gitbook.io/~gitbook/image?url=https%3A%2F%2F3744084565-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxGg15nXCjwKpQs1NgVMP%252Fuploads%252FkfMOCnrglK9CG2IWWMZ2%252FUntitled.png%3Falt%3Dmedia%26token%3D64362198-dc4d-4e7c-a344-623fd20d1337&width=768&dpr=4&quality=100&sign=f170d8f7&sv=1)
+![Kalp Network](https://kalp-network.gitbook.io/~gitbook/image?url=https%3A%2F%2F3744084565-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxGg15nXCjwKpQs1NgVMP%252Fuploads%252FkfMOCnrglK9CG2IWWMZ2%252FUntitled.png%3Falt%3Dmedia%26token%3D64362198-dc4d-4e7c-a344-623fd20d1337&width=768&dpr=4&quality=100&sign=f170d8f7&sv=1) 
 
 #### ⛓️ Kalp Public and Permissioned Multi-Chain Network
 

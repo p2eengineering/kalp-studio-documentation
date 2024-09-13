@@ -5,33 +5,148 @@
 
 # Interacting with smart contract
 
-### Interacting with Your Smart Contract
+Interacting with blockchain through smart contract is possible generating API endpoints and kalp studio helps you in creating it and also help you navigate the list of smart contracts.
 
-Establish a connection to the relevant blockchain network, enabling your application to interact with the deployed smart contracts. To establish connection to the blockchain network click on API gateway and see the deployed smart contract list.
+## How to generate API endpoints?
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252F41oNtUEB9pHNhmjHIBzi%252Fimage.png%3Falt%3Dmedia%26token%3D29a067ab-7860-4e08-b387-b1b4a8f0493e&width=768&dpr=4&quality=100&sign=aed9de5&sv=1)
+API endpoints are essential for integrating and automating various processes in blockchain development. Kalp Studio provides a robust platform that allows developers to efficiently create, manage, and generate API endpoints for their smart contracts.
 
-Click on the genearate endoints of the required smart contract which you want to connect with blockchain.
+### Login to Kalp Studio
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FBM738DPTG7KLUUE7MO7L%252Fimage.png%3Falt%3Dmedia%26token%3Dddc7b577-8ec7-4b5a-a8c8-6580bcefb009&width=768&dpr=4&quality=100&sign=ed091bb7&sv=1)
+Navigate to the Kalp Studio login page and enter your credentials to access your dashboard. Click on Build Smart Contract.
 
-Once endpoints are generated kalp studio will show you the API endponts functionalities related to smart contract. Kalp Studio automatically generates API endpoints that directly map to the functionalities of your smart contracts. These endpoints simplify integration by providing a well-defined interface for your front-end application to interact with the underlying smart contract logic.
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/1.png)
+
+### **Access the API Gateway Section**
+
+On the left-hand menu, select "API Gateway."
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/2.png)
+
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/3.png)
+
+If you haven't subscribed to any API Gateway, you'll see a message prompting you to subscribe.
+
+!!! Note 
+    To create and manage API endpoints, you need to subscribe to one of the plans  
+    offered by Kalp Studio. Ensure you upgrade your plan if you're currently on the free  
+    tier to access more features and higher limits.
+
+### **Create or Select a Smart Contract**
+
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/4.png)
+
+Once subscribed, you can manage and generate API endpoints for your smart contracts. Select the desired smart contract from the list or create a new one.
+
+### **Generate Endpoints**
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/5.png)
+
+For the selected smart contract, click "Generate Endpoints." This action will create the necessary API endpoints.
+
+### Endpoint Generated
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/6.png)
+
+Once you select generate endpoint, a pop-up will appear, notifying that the endpoint has been generated.
+
+#### View and Manage Endpoints
+
+After generating the endpoints, you can view and manage them. The status of each endpoint (success or failure) will be displayed, along with details like the network and blockchain used.
+
+#### Check and Use API Parameters
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/7.png)
+
+Click on "Check Params" to view the details and parameters for each API endpoint. This will help you understand how to integrate and use these endpoints in your applications.
+
+## How to Navigate to the List of Smart Contract?
+
+Navigating the Kalp Studio platform to access the smart contract list is a straightforward process. Follow these steps to seamlessly move through the dashboard and find the information you need.
+
+#### Step-by-Step Guide
+
+**Access the Dashboard:**
+
+Upon logging into Kalp Studio, you will land on the **Dashboard**. The dashboard provides an overview of your activities and quick access to essential features.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/8.png)
+
+**Locate the Sidebar Menu:**  
+On the left-hand side, you will find a vertical sidebar menu. This menu contains various options including:
+
+-   Dashboard
     
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252Fb9kpxfohU6l5swc3EO7t%252Fimage.png%3Falt%3Dmedia%26token%3Db190fcc9-7b2b-4907-ae32-173ceff98570&width=768&dpr=4&quality=100&sign=fdeb5685&sv=1)
-
-### **Steps to Deploy and test the smart contract API endpoints:**
-
--  **Deployment of Smart Contract through Kalp Studio:**  Utilize the  **generated API endpoints**  directly within your front-end application (e.g., React.js, Next.js). This approach seamlessly integrates smart contract functionalities into your user interface, enabling dynamic interactions and data retrieval.
-
-!!! Help 
+-   Credits
     
-    **Useful Links** 
+-   Docs
+    
+-   Wallet
+    
+-   Faucet
+    
+-   Help and Support
+    
 
-    - [How to deploy a Smart Contract?](https://doc.kalp.studio/Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/)
+**Select the 'Smart Contract' Option:**
 
-    - [How Can I Perform Transactions using API Endpoints?](https://doc.kalp.studio/Getting-started/API-Gateway/How-to-generate-API-endpoints/)
+Click on the **Smart Contract** tab in the sidebar. This will redirect you to the section dedicated to managing and deploying smart contracts.
 
--   **Checking and Testing API Endpoints:**  Employ  **Postman**, a popular API testing tool, to send requests to the generated API endpoints. This method facilitates individual function testing, allowing you to verify their behavior and outputs in a controlled environment before integrating them into your front-end application.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/9.png)
+
+**Navigate to API Gateway:**
+
+Within the Smart Contract section, look for the **API Gateway** tab. Clicking on this will bring you to the page where you can manage API endpoints related to your smart contracts.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/10.png)
+
+**View Smart Contract List:**
+
+The API Gateway page will display a list of smart contracts you have created. This list includes details such as:
+
+-   ID
+    
+-   Name
+    
+-   Category
+    
+-   Status
+    
+-   Network
+    
+-   Blockchain
+    
+-   Creation Date
+    
+-   Actions available (e.g., Generate Endpoint, Re-Generate Endpoint)
+    
+
+#### Key Features on the Smart Contract List Page
+
+-   **Search and Filter:**
+    
+
+Use the search bar and filters to quickly find specific smart contracts.
+
+-   **Actions:**
+    
+
+Perform actions such as generating or re-generating endpoints for your smart contracts.
+
+-   **Status Monitoring:**
+    
+
+Easily monitor the status of your smart contracts to ensure they are active and functioning correctly.
+
+-   **Pagination:**
+    
+
+If you have numerous smart contracts, use the pagination controls at the bottom to navigate through the pages.
+
+By following these steps, you can efficiently navigate to the smart contract list within Kalp Studio, manage your smart contracts, and utilize the platform's full potential.
 
 ### Postman Testing for Kalp Smart Contract API Endpoints
 
@@ -45,7 +160,7 @@ Kalp Studio enables efficient data retrieval from deployed smart contracts using
 
 By leveraging read-only methods, you can access crucial information from the blockchain without altering its state, ensuring data integrity and facilitating various application functionalities.
 
-![](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2F1878384301-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FzAA5Z6u1ZyGAxXbYfExA%252Fuploads%252FNATG3RRR7caPNDnYHXR7%252Fimage.png%3Falt=media%26token=6d668021-fdbd-4411-a2c8-e3f386942e0c&width=768&dpr=4&quality=100&sign=b76bc179a9ccf97d5e05eb20111a1800b0b5710b06a4e37f9f8bcde2fedf8c3d)
+![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FoidLFI4i6wlDiKyMbXjL%252F111.png%3Falt%3Dmedia%26token%3Dd7aaa9f2-288a-41ef-9a96-a7a7c87e0436&width=768&dpr=4&quality=100&sign=b2314d0e&sv=1)
 
 2 .  **Writing to the Smart Contract**
 
@@ -53,7 +168,7 @@ Kalp Studio empowers developers to perform  **write operations**, which involve 
 
 **Example:**  To transfer tokens, you would utilize the appropriate function (e.g.,  `Transfer`) through the generated API endpoint. This function would initiate a transaction on the blockchain, deducting tokens from the sender's account and crediting them to the recipient's account.
 
-![](https://docs.kalp.studio/~gitbook/image?url=https:%2F%2F1878384301-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FzAA5Z6u1ZyGAxXbYfExA%252Fuploads%252F1fBniQn95GWxLjvZZWx6%252Fimage.png%3Falt=media%26token=83f316de-10ef-493d-ad30-c90c3c1a65e1&width=768&dpr=4&quality=100&sign=ef568bc9a851d7f8b9d061d290f6e747b2cde5283aa36d080a5915ee7f93e2aa)
+![](https://kalpstudio.gitbook.io/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FNpNtivQVUvB79jOutbkv%252F222.png%3Falt%3Dmedia%26token%3D39375330-d28e-4d11-b9d4-5d7639c93246&width=768&dpr=4&quality=100&sign=5e31dd3f&sv=1)
 
 3 .  **Transaction Management:**  With the Kalp SDK, developers can efficiently manage transactions on the blockchain network. It provides functions for submitting transactions, querying transaction information, and retrieving transaction history. This simplifies the process of interacting with the blockchain and ensures the integrity of transactional operations.
 
