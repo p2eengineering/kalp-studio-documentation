@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How does Billing work on the Kalp Studio Platform**
+# How does Billing work on the Kalp Studio Platform?
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Kalp Studio offers a flexible and transparent billing system designed to cater t
 
 ## How Kalp Studio Pricing Works
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FzV8HVajZqEAtEA7MjV3B%252Fimage.png%3Falt%3Dmedia%26token%3D00b89006-c830-4cd5-8120-ea494d8a1f13&width=768&dpr=4&quality=100&sign=f238ed96&sv=1)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/9.png)
 
 ### Pay-as-You-Go Model
 
@@ -69,14 +69,12 @@ Kalp Studio ensures complete transparency in its billing process. Users can view
 -   **Flexibility**: The ability to scale services up or down based on current needs allows users to adapt quickly to changing business environments.
     
 -   **Transparency**: Detailed billing statements provide users with clear insights into their usage and expenses, promoting better financial management.
-    
 
 ## Conclusion
 
 Kalp Studio’s billing system is designed to offer maximum flexibility, transparency, and cost efficiency. Whether you are a small developer or a large enterprise, the pay-as-you-go model ensures that you only pay for the services you need and use. By providing a wide range of service options and flexible subscription plans, Kalp Studio empowers users to manage their expenses effectively and adapt to changing business needs seamlessly.
 
 With Kalp Studio, you can focus on leveraging the platform’s robust services to drive your business forward, confident in the knowledge that your billing is both fair and transparent.
-
 
 !!! Note
     If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.

@@ -43,7 +43,7 @@ This command utilizes the `go get` package management tool within Go to download
 Done! The Kalp SDK is ready to be imported and utilized within your Go project, empowering you to interact with Kalp smart contracts and leverage the platform's functionalities.
 
 !!!Note 
-    The SDK is compatible with_ _**Go version 1.19**__. For newer versions of Go, update your_ `_go.mod_` _file to specify version 1.19._
+    The SDK is compatible with_ _**Go version 1.20**__. For newer versions of Go, update your_ `_go.mod_` _file to specify version 1.20._
 
 ## **Examples**
 
