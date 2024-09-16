@@ -185,6 +185,10 @@ nav:
               - Kush Library: 'Dev-documentation/Kalp-DLT/Kush-Library/Kush-Library.md'   
       - EVM & Smart Contract:
               - EVM-SmartContract: 'Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity.md'
+      - Buildthon Articles:
+              - Buildthon Freshmen challenge 1: 'Dev-documentation/Buildthon-Articles/Buildthon-Freshmen-Challenge-1.md'
+              - Buildthon Freshmen challenge 2: 'Dev-documentation/Buildthon-Articles/Buildthon-Freshmen-Challenge-2.md'
+              - Buildthon Freshmen challenge 3: 'Dev-documentation/Buildthon-Articles/Buildthon-Freshmen-Challenge-3.md'
   - API Reference:
           - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'
   - Video Tutorials:         
@@ -195,6 +199,8 @@ nav:
           - Deploy smart contract on Kalp studio: 'Video-Tutorials/Deploy-a-smart-contract-on-Kalp-studio.md'
           - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
           - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
+  - Webinars:
+          - Buildthon Day 1: 'Webinars/Buildthon-Day1.md'
   - Release notes:
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'

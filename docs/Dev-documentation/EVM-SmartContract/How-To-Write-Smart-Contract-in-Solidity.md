@@ -1,13 +1,9 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
-<link href="https://fonts.solidityogleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.solidityogleapis.com/icon?family=Material+Icons">
-
-
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 # How To Write Smart Contract in Solidity
 
-## 
-
-5-Step Tutorial: How to Write a Smart Contract in Solidity
+## 5-Step Tutorial: How to Write a Smart Contract in Solidity
 
 In the following sections, we’ll show you how to write a smart contract in Solidity in five straightforward steps:
 
@@ -24,9 +20,7 @@ In the following sections, we’ll show you how to write a smart contract in Sol
 
 The Solidity smart contract you’ll write is really straightforward, allowing you to store and retrieve an unsigned integer. Consequently, this tutorial is intended for developers with little to no experience in Ethereum development.
 
-## 
-
-**Step 1: Set Up Remix**
+## **Step 1: Set Up Remix**
 
 You have many options for writing a smart contract in Solidity. However, to make this tutorial as beginner-friendly as possible, we’ll use Remix. Remix is a web-based integrated development environment (IDE) for developing EVM-compatible smart contracts.
 
