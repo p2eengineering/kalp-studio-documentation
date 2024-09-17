@@ -137,7 +137,7 @@ func (c *SmartContract) Init(ctx kalpsdk.TransactionContextInterface) error {
 
 }
 ```
-For detailed guidelines on writing smart contracts, please refer [https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/](https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
+For detailed guidelines on writing smart contracts, please refer [Smart Contract Write,Test,Deploy&Interact](https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
 
 ### EXAMPLE USAGE-
 
@@ -215,7 +215,7 @@ Folder name
 
 ### How to Deploy-
 
-For deployment after building the smart contract please refer -[https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract/](https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract/)
+For deployment after building the smart contract please refer -[Smart Contract Write,Test,Deploy&Interact](https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
 
 ## Ready to use Smart Contract Templates:
   
