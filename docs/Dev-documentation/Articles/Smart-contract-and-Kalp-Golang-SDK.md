@@ -2,14 +2,14 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Smart contract and Kalp Golang SDK
+# Smart contract and KALP Golang SDK
 
 
-## A Guide to Smart Contracts and Kalp Golang SDK
+## A Guide to Smart Contracts and KALP Golang SDK
 
 Smart contracts are revolutionizing the way we manage agreements and transactions. Just like traditional contracts, they lay out the terms of a deal. But what makes smart contracts different—and "smart"—is that they don’t rely on paper or lawyers. Instead, they exist as code running on a blockchain. This means they can securely automate virtually any kind of deal or transaction, with no need for a middleman like a bank or a lawyer.
 
-Let’s explore how smart contracts work and how the Kalp Golang SDK can help you build powerful decentralized applications (dApps) using smart contracts.
+Let’s explore how smart contracts work and how the KALP Golang SDK can help you build powerful decentralized applications (dApps) using smart contracts.
 
 ### What is a Smart Contract?
 
@@ -30,7 +30,7 @@ Once a smart contract is on the blockchain, anyone can inspect its code and see 
 
 ### How Smart Contracts Work
 
-Smart contracts are written in programming languages like **Solidity** (for Ethereum) or **Golang** (for Kalp blockchain). When you deploy a smart contract, its code is stored on the blockchain and is executed by every node (or computer) on the network. This decentralized execution ensures that smart contracts operate without any single authority controlling them.
+Smart contracts are written in programming languages like **Solidity** (for Ethereum) or **Golang** (for KALP blockchain). When you deploy a smart contract, its code is stored on the blockchain and is executed by every node (or computer) on the network. This decentralized execution ensures that smart contracts operate without any single authority controlling them.
 
 Here’s how it works:
 
@@ -39,53 +39,53 @@ Here’s how it works:
 3.  **Consensus:** Every node reaches an agreement on the contract’s output, making the process tamper-proof.
 
 
-### Introducing the Kalp Golang SDK
+### Introducing the KALP Golang SDK
 
-If you’re ready to build your own smart contracts, the Kalp Golang SDK provides everything you need to interact with the Kalp blockchain. Whether you’re developing financial tools or games, the Kalp SDK streamlines the development process.
+If you’re ready to build your own smart contracts, the KALP Golang SDK provides everything you need to interact with the KALP blockchain. Whether you’re developing financial tools or games, the KALP SDK streamlines the development process.
 
-#### Why Use the Kalp Golang SDK?
+#### Why Use the KALP Golang SDK?
 
-The Kalp SDK simplifies smart contract development by providing tools to:
+The KALP SDK simplifies smart contract development by providing tools to:
 
 -   **Manage Transactions:** Submit and track blockchain transactions easily.
 -   **Integrate KYC Checks:** Make sure users comply with regulations.
 -   **Track Payments:** Monitor payments in real-time for payable contracts.
 -   **Debug Contracts:** Use enhanced logging features to troubleshoot issues.
 
-#### Getting Started with Kalp SDK
+#### Getting Started with KALP SDK
 
 Before diving in, you’ll need the following:
 
-1.  Go Programming Language: Since the Kalp SDK is written in Go, you’ll need to have Go installed on your system. Download it from [Go’s official site](https://golang.org/dl/).
-2.  Install the SDK: You can install the Kalp SDK using this command: bash
+1.  Go Programming Language: Since the KALP SDK is written in Go, you’ll need to have Go installed on your system. Download it from [Go’s official site](https://golang.org/dl/).
+2.  Install the SDK: You can install the KALP SDK using this command: bash
 ```
-`go get -u github.com/p2eengineering/kalp-sdk-public/kalpsdk`
+`go get -u github.com/p2eengineering/KALP-sdk-public/KALPsdk`
 ```
-Once installed, you can start building your smart contract by defining a Go struct and embedding the kalpsdk.Contract for key blockchain functionalities.
+Once installed, you can start building your smart contract by defining a Go struct and embedding the KALPsdk.Contract for key blockchain functionalities.
 
-### Building a Smart Contract with Kalp SDK
+### Building a Smart Contract with KALP SDK
 
-Here’s a quick guide to creating a smart contract with the Kalp SDK:
+Here’s a quick guide to creating a smart contract with the KALP SDK:
 
 1. Define the contract
 
 ```go
 type  MyContract  struct  {
 
-kalpsdk.Contract
+KALPsdk.Contract
 
 }
 ```
 This simple structure forms the foundation of your contract, allowing you to store data, manage transactions, and interact with the blockchain.
 
-2.  Key Features of Kalp SDK:
+2.  Key Features of KALP SDK:
 
    -   **Data Management:** Store and retrieve data on the blockchain using key-value storage.
    -   **Transaction Handling:** Easily submit, query, and track transactions.
    -   **Payment Tracking:** Keep tabs on payments made through the contract.
    -   **KYC Integration:** Ensure regulatory compliance by embedding KYC checks.
 
-### How to write Smart Contract with Kalp SDK on Kalp Blockchain:
+### How to write Smart Contract with KALP SDK on KALP Blockchain:
 
   Creating and Starting Chaincode:
 
@@ -98,10 +98,10 @@ This simple structure forms the foundation of your contract, allowing you to sto
 ```go
 $ go mod init my-smart-contract
 ```
-3. Getting Started with Kalp-SDK: Use the `go get` command to download and install the Kalp SDK library:
+3. Getting Started with KALP-SDK: Use the `go get` command to download and install the KALP SDK library:
 
 ```go
-$ go get -u github.com/p2eengineering/kalp-sdk-public/kalp
+$ go get -u github.com/p2eengineering/KALP-sdk-public/KALP
 ```
 
 4. Now create a new Go source file`.go` within your project directory. This file will house the core logic of your smart contract.
@@ -113,13 +113,13 @@ import (
 
 "fmt"
 
-"github.com/p2eengineering/kalp-sdk-public/kalpsdk"
+"github.com/p2eengineering/KALP-sdk-public/KALPsdk"
 
 )
 
 type SmartContract struct {
 
-kalpsdk.Contract
+KALPsdk.Contract
 
 }
 
@@ -131,13 +131,13 @@ fmt.Println("Executing transaction...")
 
 }
 
-func (c *SmartContract) Init(ctx kalpsdk.TransactionContextInterface) error {
+func (c *SmartContract) Init(ctx KALPsdk.TransactionContextInterface) error {
 
 // Initialization logic return nil
 
 }
 ```
-For detailed guidelines on writing smart contracts, please refer [Smart Contract Write,Test,Deploy&Interact](https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
+For detailed guidelines on writing smart contracts, please refer [Smart Contract Write,Test,Deploy&Interact](https://docs.KALP.studio/Dev-documentation/KALP-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
 
 ### EXAMPLE USAGE-
 
@@ -150,25 +150,25 @@ import (
 
 "fmt"
 
-"github.com/p2eengineering/kalp-sdk-public/kalpsdk"
+"github.com/p2eengineering/KALP-sdk-public/KALPsdk"
 
 )
 
 type HelloWorldContract struct {
 
-kalpsdk.Contract
+KALPsdk.Contract
 
 }
 
 // SetHelloWorld stores the "Hello World" message on the blockchain
 
-func (h *HelloWorldContract) SetHelloWorld(ctx kalpsdk.TransactionContextInterface, messageID string, message string) error {
+func (h *HelloWorldContract) SetHelloWorld(ctx KALPsdk.TransactionContextInterface, messageID string, message string) error {
 
 // Convert message to bytes for storage
 
 messageAsBytes := []byte(message)
 
-// Store message in the world state using the Kalp SDK
+// Store message in the world state using the KALP SDK
 
 err := ctx.PutStateWithoutKYC(messageID, messageAsBytes)
 
@@ -215,23 +215,23 @@ Folder name
 
 ### How to Deploy-
 
-For deployment after building the smart contract please refer -[Smart Contract Write,Test,Deploy&Interact](https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
+For deployment after building the smart contract please refer -[Smart Contract Write,Test,Deploy&Interact](https://docs.KALP.studio/Dev-documentation/KALP-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/)
 
 ## Ready to use Smart Contract Templates:
   
 
-**KRC20 token contract:** implemented(hlink) in Go, utilizing the KalpSDK, provides a comprehensive suite of functionalities for managing digital assets on a blockchain network. The contract leverages the Kalp SDK for operations within a blockchain network, providing a framework for issuing, transferring, and managing tokenized assets compliant with the KRC20 standard.
+**KRC20 token contract:** implemented(hlink) in Go, utilizing the KALPSDK, provides a comprehensive suite of functionalities for managing digital assets on a blockchain network. The contract leverages the KALP SDK for operations within a blockchain network, providing a framework for issuing, transferring, and managing tokenized assets compliant with the KRC20 standard.
 
-**KRC721 token contract:**  implemented in Go. This contract utilizes the Kalp SDK to facilitate operations within a blockchain network, enabling the creation, management, and transfer of non-fungible tokens (NFTs).
+**KRC721 token contract:**  implemented in Go. This contract utilizes the KALP SDK to facilitate operations within a blockchain network, enabling the creation, management, and transfer of non-fungible tokens (NFTs).
 
-**KRC1155 token contract:**  implemented in Go, utilizing the Kalp SDK for blockchain operations. The KRC1155 standard enables efficient multi-token transactions and interactions, supporting both fungible and non-fungible token types within a single contract.
+**KRC1155 token contract:**  implemented in Go, utilizing the KALP SDK for blockchain operations. The KRC1155 standard enables efficient multi-token transactions and interactions, supporting both fungible and non-fungible token types within a single contract.
 
 
 ### Conclusion:
 
 #### Smart Contracts and the Future of Decentralized Applications (DApps)
 
-Smart contracts make it possible to automate complex transactions without needing banks or other third parties. With the help of the Kalp SDK, developers can build powerful, secure dApps that can handle everything from finance to gaming.
+Smart contracts make it possible to automate complex transactions without needing banks or other third parties. With the help of the KALP SDK, developers can build powerful, secure dApps that can handle everything from finance to gaming.
 
 As you continue your journey into blockchain development, remember that smart contracts:
 
@@ -239,4 +239,4 @@ As you continue your journey into blockchain development, remember that smart co
 -   **Offer security:** Running on tamper-proof blockchain networks.
 -   **Power DApps:** Enabling new forms of decentralized finance, gaming, and more.
 
-With tools like the Kalp Golang SDK, you’re equipped to start building your own smart contracts and bring your innovative ideas to life on the blockchain!
+With tools like the KALP Golang SDK, you’re equipped to start building your own smart contracts and bring your innovative ideas to life on the blockchain!

@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# What is Kalp studio Wallet 
+# Wallets in KALP studio
 
 ### What is a Crypto Wallet?🪙
 
@@ -39,41 +39,41 @@ If you're new to the world of cryptocurrency, it’s important to understand tha
 
 ---
 
-## Kalp studio wallet Features: A New Level of Flexibility and Security🌟
+## KALP studio wallet Features: A New Level of Flexibility and Security🌟
 
-1. **Multi-Blockchain Support:** [Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/) supports major blockchain networks such as Ethereum, Polygon, Avalanche, Optimism, Arbitrum, Fantom, Solana, Binance Smart Chain (BSC), and its own proprietary Kalp DLT. This multi-chain compatibility makes it easier for users to manage their assets across various platforms. 🌐
+1. **Multi-Blockchain Support:** [KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/) supports major blockchain networks such as Ethereum, Polygon, Avalanche, Optimism, Arbitrum, Fantom, Solana, Binance Smart Chain (BSC), and its own proprietary KALP DLT. This multi-chain compatibility makes it easier for users to manage their assets across various platforms. 🌐
 
-2. **Diverse Wallet Options:** [Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/) offers three types of wallets
+2. **Diverse Wallet Options:** [KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/) offers three types of wallets
 
       -  **Self-Custodial Wallet:** Gives users full control over their private keys and digital assets. This wallet is ideal for users who understand the responsibilities of managing their own private keys. 🔓
 
-      -  **Custodial Wallet:** Designed for users who prefer convenience. In this wallet, Kalp studio wallet manages the private keys for you, making it easier for users new to the crypto world. 📲
+      -  **Custodial Wallet:** Designed for users who prefer convenience. In this wallet, KALP studio wallet manages the private keys for you, making it easier for users new to the crypto world. 📲
 
-      -  **MPC (Multi-Party Computation) Wallet:** Balances security and usability. The private key is divided into multiple parts and managed securely by both the user and Kalp studio wallet. 🛡️🔐
+      -  **MPC (Multi-Party Computation) Wallet:** Balances security and usability. The private key is divided into multiple parts and managed securely by both the user and KALP studio wallet. 🛡️🔐
 
-3. **Secure Transaction Signing:** [Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/)
+3. **Secure Transaction Signing:** [KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/)
  allows users to sign transactions securely, ensuring that all blockchain interactions are protected. This feature supports various transaction types, ensuring flexibility and security. ✍️
 
-4. **Smart Contract Deployment:** Developers can deploy smart contracts directly through [Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/)
+4. **Smart Contract Deployment:** Developers can deploy smart contracts directly through [KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/)
 , making it easier to build decentralized applications on supported blockchains. ⚙️
 
-5. **API Integration:** Developers can integrate Kalp studio wallet into their applications through its Open API system. With API key management, developers can securely interact with wallet services programmatically. 🔗
+5. **API Integration:** Developers can integrate KALP studio wallet into their applications through its Open API system. With API key management, developers can securely interact with wallet services programmatically. 🔗
 
 ---
 
 ### How Do Cryptocurrency Wallets Work?💻
 
-When you send cryptocurrency using a wallet, you’re not actually “sending” the tokens from your phone to someone else’s phone. Instead, the transaction is **signed with your private key** and broadcast to the blockchain, where the public ledger is updated to reflect the new balances in both the sender's and recipient's addresses. [Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/)
+When you send cryptocurrency using a wallet, you’re not actually “sending” the tokens from your phone to someone else’s phone. Instead, the transaction is **signed with your private key** and broadcast to the blockchain, where the public ledger is updated to reflect the new balances in both the sender's and recipient's addresses. [KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/)
  simplifies this process while ensuring that the transaction remains secure. 🛠️
 
 ---
 
-### Why Kalp studio wallet is Essential for Storing Crypto Assets🔐
+### Why KALP studio wallet is Essential for Storing Crypto Assets🔐
 
-Your cryptocurrency is only as safe as the method you use to store it. While some users leave their crypto on exchanges, this isn't advisable for large amounts due to security risks. [Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/) ensures that you have control over your private keys, giving you full power over your digital assets. 🔑
+Your cryptocurrency is only as safe as the method you use to store it. While some users leave their crypto on exchanges, this isn't advisable for large amounts due to security risks. [KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/) ensures that you have control over your private keys, giving you full power over your digital assets. 🔑
 
 ---
 
 ## Conclusion 🏁 
 
-[Kalp Studio Wallet](https://docs.kalp.studio/Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/) is more than just a tool for managing digital assets; it’s a powerful platform that supports multiple blockchains, offers different wallet types to suit user needs, and ensures top-notch security. Whether you’re an experienced crypto user or a beginner, Kalp studio wallet gives you the flexibility and confidence to navigate the world of cryptocurrencies. 🌐🔐
+[KALP Studio Wallet](https://docs.KALP.studio/Getting-started/KALP-studio-wallet/How-to-Navigate-To-KALP-studio-Wallet/) is more than just a tool for managing digital assets; it’s a powerful platform that supports multiple blockchains, offers different wallet types to suit user needs, and ensures top-notch security. Whether you’re an experienced crypto user or a beginner, KALP studio wallet gives you the flexibility and confidence to navigate the world of cryptocurrencies. 🌐🔐

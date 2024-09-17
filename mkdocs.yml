@@ -187,8 +187,8 @@ nav:
               - EVM-SmartContract: 'Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity.md'
       - Articles:
               - Understanding Web3 & Blockchain: 'Dev-documentation/Articles/Understanding-Web3-and-blockchain.md'
-              - Kalp Studio and Kalp Instant Deployer: 'Dev-documentation/Articles/Kalp-studio-and-kalp-instant-deployer.md'
-              - What is Kalp studio wallet: 'Dev-documentation/Articles/What-is-Kalp-studio-wallet.md'
+              - Kalp Studio and Kalp DLT: 'Dev-documentation/Articles/Kalp-studio-and-kalp-DLT.md'
+              - Wallets in kalp studio: 'Dev-documentation/Articles/Wallets-in-kalp-studio.md'
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
           - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'
