@@ -18,15 +18,15 @@ By offering a seamless and scalable environment, [Kalp Studio](https://console.k
 
 ### Kalp Studio vs. Kalp DLT: A Complete Blockchain Ecosystem🧑‍🏫
 
-While [Kalp Studio](https://console.kalp.studio/) is the development platform, **Kalp DLT** (Decentralized Ledger Technology) is the fully regulated blockchain where your applications can thrive. Kalp DLT is a unique blockchain designed specifically for **Real-World Asset (RWA) tokenization**, which involves turning tangible assets like real estate or fine art into digital tokens on the blockchain. 🏛️🎨
+While [Kalp Studio](https://console.kalp.studio/) is the development platform, **Kalp DLT** (Decentralized Ledger Technology) is the fully regulated blockchain where your applications can thrive. [Kalp DLT](https://docs.kalp.studio//Introduction/Kalp-DLT/) is a unique blockchain designed specifically for **Real-World Asset (RWA) tokenization**, which involves turning tangible assets like real estate or fine art into digital tokens on the blockchain. 🏛️🎨
 
-Kalp DLT stands out as the first fully regulated blockchain that focuses on compliance for real-world use cases. This makes it ideal for businesses and industries that need to adhere to strict regulatory standards while leveraging the power of blockchain technology. Through Kalp DLT, developers can build secure, compliant decentralized applications (dApps) that connect the traditional financial world with the rapidly growing Web3 ecosystem. 🌐
+[Kalp DLT](https://docs.kalp.studio//Introduction/Kalp-DLT/) stands out as the first fully regulated blockchain that focuses on compliance for real-world use cases. This makes it ideal for businesses and industries that need to adhere to strict regulatory standards while leveraging the power of blockchain technology. Through [Kalp DLT](https://docs.kalp.studio//Introduction/Kalp-DLT/), developers can build secure, compliant decentralized applications (dApps) that connect the traditional financial world with the rapidly growing Web3 ecosystem. 🌐
 
 ---
 
 ### The Kalp Ecosystem: Who is it For?🧑‍🏫
 
-[Kalp Studio](https://console.kalp.studio/) and Kalp DLT together form a powerful ecosystem that caters to a wide range of users, from students to enterprises:
+[Kalp Studio](https://console.kalp.studio/) and [Kalp DLT](https://docs.kalp.studio//Introduction/Kalp-DLT/)together form a powerful ecosystem that caters to a wide range of users, from students to enterprises:
 
 -   **Students and Blockchain Enthusiasts**: For those new to blockchain, [Kalp Studio](https://console.kalp.studio/) provides a drag-and-drop UI builder and pre-built components, making it easy to experiment and learn without needing extensive coding knowledge. 🎓
 -   **Blockchain Developers**: Experienced developers will benefit from audited smart contract libraries, APIs, and SDKs, allowing them to build complex, secure applications quickly and efficiently. 💡
@@ -75,6 +75,6 @@ Using KID, you can focus on your contract’s logic and let the tool handle the 
 
 ### Conclusion 🏁
 
-[Kalp Studio](https://console.kalp.studio/) and Kalp DLT together form an innovative and comprehensive ecosystem designed to simplify the development of decentralized applications while ensuring they are secure, scalable, and compliant with regulatory standards. Whether you're a student exploring blockchain for the first time or a large enterprise looking to tokenize real-world assets, [Kalp Studio](https://console.kalp.studio/) offers the tools and infrastructure you need to succeed in the Web3 era. 🌍
+[Kalp Studio](https://console.kalp.studio/) and [Kalp DLT](https://docs.kalp.studio//Introduction/Kalp-DLT/)together form an innovative and comprehensive ecosystem designed to simplify the development of decentralized applications while ensuring they are secure, scalable, and compliant with regulatory standards. Whether you're a student exploring blockchain for the first time or a large enterprise looking to tokenize real-world assets, [Kalp Studio](https://console.kalp.studio/) offers the tools and infrastructure you need to succeed in the Web3 era. 🌍
 
 With [Kalp Studio](https://console.kalp.studio/), the future of blockchain development is at your fingertips. Embrace the power of decentralization with an ecosystem built for innovation, compliance, and scale. 🚀
