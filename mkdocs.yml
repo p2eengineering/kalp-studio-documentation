@@ -201,7 +201,8 @@ nav:
           - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
           - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
   - Webinars:
-          - Webinar Day 1: 'Webinars/Buildthon-Day1.md'
+          - Webinar Day 1: 'Webinars/Webinar-Day1.md'
+          - Webinar Day 2: 'Webinars/Webinar-Day2.md'
   - Release notes:
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
