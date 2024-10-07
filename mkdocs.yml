@@ -186,9 +186,6 @@ nav:
       - EVM & Smart Contract:
               - EVM-SmartContract: 'Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity.md'
       - Articles:
-              - Understanding Web3 & Blockchain: 'Dev-documentation/Articles/Understanding-Web3-and-blockchain.md'
-              - Kalp Studio and Kalp DLT: 'Dev-documentation/Articles/Kalp-studio-and-kalp-DLT.md'
-              - Wallets in kalp studio: 'Dev-documentation/Articles/Wallets-in-kalp-studio.md'
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
           - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'
@@ -200,9 +197,6 @@ nav:
           - Deploy smart contract on Kalp studio: 'Video-Tutorials/Deploy-a-smart-contract-on-Kalp-studio.md'
           - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
           - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
-  - Webinars:
-          - Webinar Day 1: 'Webinars/Webinar-Day1.md'
-          - Webinar Day 2: 'Webinars/Webinar-Day2.md'
   - Release notes:
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
