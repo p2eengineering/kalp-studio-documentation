@@ -664,15 +664,15 @@ hide:
                         <a href="https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
-                             <h4>Kalp DLT</h4>
-                            <span>The Kalp DLT provides a robust set of tools and functionalities designed to streamline your development journey. Whether you're a seasoned blockchain developer or just starting your Web 3.0 exploration, the Kalp SDK offers a comprehensive solution to simplify building, deploying, and managing your decentralized applications (DApps).</span>
+                             <h4>Kalp DLT & EVM Chain based deployments</h4>
+                            <span>This guide provides an overview of the essential steps involved in deploying a smart contract on Kalp DLT & EVM-based chains, from setting up the development environment to deploying and verifying your contract on the network and managing your deployment journey on kalp studio.</span>
                         </div>
                         </a>
                              <a href="https://docs.kalp.studio/API-Reference/Kalp-wallet-OpenAPI/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
-                                   <h4>Kalp Wallet OpenAPI</h4>
-                                  <span>Kalp Wallet OpenAPI provides an API that allows users to create and manage different types of wallets programmatically. The API supports the creation of Self-custodial, MPC (Multi-Party Computation), and Custodial wallets.</span>
+                                   <h4>Kalp studio OpenAPI Reference</h4>
+                                  <span>Welcome to the Kalp Studio OpenAPI Reference, where you’ll find a comprehensive guide to all the endpoints and services offered by the Kalp Studio platform. This API allows developers to integrate with Kalp Studio's suite of tools, providing seamless interaction with our core features.</span>
                               </div>
                                 </a>
                              <a href="https://docs.kalp.studio/Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity/">

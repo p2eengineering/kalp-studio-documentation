@@ -188,7 +188,10 @@ nav:
       - Articles:
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
-          - Kalp-wallet-OpenAPI Reference: 'API-Reference/Kalp-wallet-OpenAPI.md'
+          - Kalp Wallet API Reference: 'API-Reference\Kalp-wallet-OpenAPI-Reference.md'
+          - Kalp studio Pay API Reference: 'API-Reference\Kalp-studio-Pay-OpenAPI-Reference.md'
+          - IPFS API Reference: 'API-Reference\IPFS-OpenAPI-Reference.md'
+          - NFT Creator API Reference: 'API-Reference\NFT-Creator-OpenAPI-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
@@ -205,7 +208,7 @@ nav:
       - Release version 1.1.0:  
           - Release notes version 1.1.0: 'Release-notes/release-version-1.1.0/release-notes-version-1.1.0.md'
       - Release version 1.0.0:
-          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'
+          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'   
 extra:
   social:
 
