@@ -166,7 +166,7 @@ nav:
       - Kalp studio storage:
           - How to get started with kalp storage: 'Getting-started/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
           - FAQ: 'Getting-started/Kalp-Studio-Storage/FAQ.md'
-          - API Documentation: 'Getting-started/Kalp-Studio-Storage/API-Documentation.md'
+          - IPFS OpenAPI Documentation: 'Getting-started/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
   - Dev documentation:
       - Kalp DLT:
           - Use the kalp SDK:

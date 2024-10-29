@@ -3,7 +3,7 @@
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
-# How to get started with kalp studio storage
+# **How to get started with kalp studio storage**
 
 Here is a step-by-step user manual guide based on the screenshots provided, illustrating how to use Kalp Studio for KS Storage. Follow these steps in order to navigate through the platform and utilize its features.
 
@@ -34,7 +34,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 2.  -   Here, you will see different subscription plans: **Developer Plan**, **Business Plan**, and **Enterprises Plan**.
         
-    -    Select the **Developer Plan** (free plan with 100 MB storage) and click **Subscribe**.
+    -    Select the **Free Plan** (Developer plan with 100 MB storage) and click **Subscribe**.
         
 3.  **Confirmation**: A pop-up will appear asking you to confirm your subscription to the Developer Plan.
     
