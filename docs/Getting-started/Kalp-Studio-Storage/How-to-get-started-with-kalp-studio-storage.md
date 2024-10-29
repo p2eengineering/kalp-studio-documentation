@@ -195,28 +195,6 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
     3.  Once dates are selected, only the buckets or folders created or last used within this range will be displayed.
         
     4.  To remove the filter, clear the selected date range by clicking “Done” without selecting dates.
-        
-
-####  4. **Deleting a Bucket**
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/21.png)
-
--   **Purpose**: To permanently remove a storage bucket and all associated files and folders within it.
-    
--   **Steps**:
-    
-    1.  Navigate to the **Storage Buckets** section on the dashboard.
-        
-    2.  Locate the bucket you wish to delete.
-        
-    3.  Click the **Delete (trash can) icon** next to the bucket name.
-        
-    4.  A confirmation prompt will appear asking, "Are you sure you want to move files and delete the folder?"
-        
-    5.  Choose **Yes** to confirm and delete the bucket, or **Back** if you want to cancel the action.
-        
-
-**Note**: Deleting a bucket is irreversible. Ensure that all necessary files are backed up before proceeding.
 
 #### 5. **Deleting a Folder within a Bucket**
 
@@ -234,24 +212,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
         
     4.  A prompt will appear asking if you are sure you want to delete the folder. Click **Yes** to proceed or **Back** to cancel.
         
-
-**Note**: Deleting a folder will also delete all files within that folder. Make sure that no important files are stored in the folder before deletion.
-
-#### 6. **Deleting a File within a Folder**
-
--   **Purpose**: To remove a specific file within a folder without affecting other files or folders.
-    
--   **Steps**:
-    
-    1.  Click on the bucket containing the folder where the file is located.
-        
-    2.  In the **Folders** tab, select the desired folder to view its files.
-        
-    3.  Locate the file you want to delete and click the **Delete (trash can) icon** next to it.
-        
-    4.  Confirm the deletion when prompted by choosing **Yes**.
-        
-#### 7. Deleting a Bucket in Kalp Studio Storage
+#### 5. Deleting a Bucket in Kalp Studio Storage
 
 **Purpose**:
 
@@ -292,7 +253,7 @@ This guide explains the process of deleting a bucket in Kalp Studio Storage and 
     -   Verify that the files have been successfully transferred to the destination bucket by checking its contents.
 
 
-#### 8. **Remove tags**
+#### 6. **Remove tags**
 
 **Purpose**:
 
