@@ -196,7 +196,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
         
     4.  To remove the filter, clear the selected date range by clicking “Done” without selecting dates.
 
-#### 5. **Deleting a Folder within a Bucket**
+#### 4. **Deleting a Folder within a Bucket**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/22.png)
 
