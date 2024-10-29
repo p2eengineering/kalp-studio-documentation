@@ -197,7 +197,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
     4.  To remove the filter, clear the selected date range by clicking “Done” without selecting dates.
         
 
-#### **Deleting a Bucket**
+####  4. **Deleting a Bucket**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/21.png)
 
@@ -218,7 +218,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 **Note**: Deleting a bucket is irreversible. Ensure that all necessary files are backed up before proceeding.
 
-#### 2. **Deleting a Folder within a Bucket**
+#### 5. **Deleting a Folder within a Bucket**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/22.png)
 
@@ -237,7 +237,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 **Note**: Deleting a folder will also delete all files within that folder. Make sure that no important files are stored in the folder before deletion.
 
-#### 3. **Deleting a File within a Folder**
+#### 6. **Deleting a File within a Folder**
 
 -   **Purpose**: To remove a specific file within a folder without affecting other files or folders.
     
@@ -252,13 +252,13 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
     4.  Confirm the deletion when prompted by choosing **Yes**.
         
 
-#### Remove tags
+#### 7. **Remove tags**
 
-#### **Purpose**:
+**Purpose**:
 
 Tags are used to categorize and organize files, making them easier to locate. This guide will help you remove a tag from a file if it’s no longer relevant or needed.
 
-#### **Steps to Remove a Tag from a File**
+**Steps to Remove a Tag from a File**
 
 1.  **Navigate to the File**:
     
