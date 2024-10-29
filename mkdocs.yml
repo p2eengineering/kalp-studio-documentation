@@ -164,7 +164,7 @@ nav:
       - Faucets:
           - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
       - Kalp studio storage:
-          - How to get started with kalp storage: 'Getting-started\Kalp-Studio-Storage\How-to-get-started-with-kalp-studio-storage.md'
+          - How to get started with kalp storage: 'Getting-started/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
           - FAQ: 'Getting-started/Kalp-Studio-Storage/FAQ.md'
   - Dev documentation:
       - Kalp DLT:
