@@ -163,6 +163,9 @@ nav:
           - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
       - Faucets:
           - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
+      - Kalp studio storage:
+          - How to get started with kalp storage: 'Getting-started\Kalp-Studio-Storage\How-to-get-started-with-kalp-studio-storage.md'
+          - FAQ: 'Getting-started/Kalp-Studio-Storage/FAQ.md'
   - Dev documentation:
       - Kalp DLT:
           - Use the kalp SDK:
@@ -188,10 +191,7 @@ nav:
       - Articles:
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
-          - Kalp Wallet API Reference: 'API-Reference/Kalp-wallet-OpenAPI-Reference.md'
-          - Kalp studio Pay API Reference: 'API-Reference/Kalp-studio-Pay-OpenAPI-Reference.md'
           - IPFS API Reference: 'API-Reference/IPFS-OpenAPI-Reference.md'
-          - NFT Creator API Reference: 'API-Reference/NFT-Creator-OpenAPI-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
