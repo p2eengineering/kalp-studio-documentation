@@ -251,8 +251,48 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
         
     4.  Confirm the deletion when prompted by choosing **Yes**.
         
+### 7. Deleting a Bucket in Kalp Studio Storage
 
-#### 7. **Remove tags**
+#### **Purpose**:
+
+This guide explains the process of deleting a bucket in Kalp Studio Storage and how the platform manages files within the deleted bucket by moving them to a specified parent bucket.
+
+#### **Steps to Delete a Bucket**
+
+1.  **Access the Storage Buckets Section**:
+    
+    -   Log in to your Kalp Studio Storage account and navigate to the **Storage Buckets** section on the left panel.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+1.png)
+    
+2.  **Locate the Bucket to Delete**:
+    
+    -   Find the bucket you want to delete from the list.
+    -   Click on the **Delete (trash can) icon** located to the right of the bucket name.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+2.png)
+
+    
+3.  **Choose a Destination for Files**:
+    
+    -   If the bucket contains files, a prompt will appear asking you to **move the files to a different bucket** before deletion.
+    -   You will see a list of available buckets where the files can be relocated.
+    -   Select the desired bucket from the list to serve as the new location for the files.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Ks+3.png)
+
+4.  **Confirm Deletion and File Transfer**:
+    
+    -   After selecting the destination bucket, a confirmation prompt will appear, stating, “Are you sure you want to move files and delete the folder?”
+    -   Click **Yes** to confirm both the file transfer and the deletion of the original bucket, or **Back** if you wish to cancel.
+
+5.  **Completion**:
+    
+    -   The files from the deleted bucket will be moved to the selected parent bucket, and the original bucket will be permanently deleted.
+    -   Verify that the files have been successfully transferred to the destination bucket by checking its contents.
+
+
+#### 8. **Remove tags**
 
 **Purpose**:
 
