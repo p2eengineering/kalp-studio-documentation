@@ -251,13 +251,13 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
         
     4.  Confirm the deletion when prompted by choosing **Yes**.
         
-### 7. Deleting a Bucket in Kalp Studio Storage
+#### 7. Deleting a Bucket in Kalp Studio Storage
 
-#### **Purpose**:
+**Purpose**:
 
 This guide explains the process of deleting a bucket in Kalp Studio Storage and how the platform manages files within the deleted bucket by moving them to a specified parent bucket.
 
-#### **Steps to Delete a Bucket**
+**Steps to Delete a Bucket**
 
 1.  **Access the Storage Buckets Section**:
     
