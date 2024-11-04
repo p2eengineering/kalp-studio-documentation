@@ -167,6 +167,15 @@ nav:
           - How to get started with kalp storage: 'Getting-started/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
           - FAQ: 'Getting-started/Kalp-Studio-Storage/FAQ.md'
           - IPFS OpenAPI Documentation: 'Getting-started/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
+      - NFT Creator:
+          - How to connect wallet: 'Getting-started/NFT-Creator/How-to-connect-wallet.md'
+          - How to create NFT: 'Getting-started/NFT-Creator/How-to-create-NFT.md'
+          - How to create a Catalog Only for EVM chains: 'Getting-started/NFT-Creator/How-to-create-a-catalog-only-for-EVM-chains.md'
+          - Deleting an NFT: 'Getting-started/NFT-Creator/Deleting-an-NFT.md'
+          - How to view all your NFTs Grid and List views: 'Getting-started/NFT-Creator/How-to-view-all-your-NFT-Grids-and-List-Views.md'
+          - How to view your Catalog: 'Getting-started/NFT-Creator/How-to-view-your-catalog.md'
+          - Where can you see your asset details: 'Getting-started/NFT-Creator/Where-can-you-see-your-asset-details.md'
+          - API Documentation: 'Getting-started/NFT-Creator/API-Documentation.md'
   - Dev documentation:
       - Kalp DLT:
           - Use the kalp SDK:
@@ -193,6 +202,7 @@ nav:
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
           - IPFS API Reference: 'API-Reference/IPFS-OpenAPI-Reference.md'
+          - NFT Creator API Reference: 'API-Reference/NFT-Creator-OpenAPI-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
