@@ -209,7 +209,6 @@ nav:
   - API Reference:
           - IPFS API Reference: 'API-Reference/IPFS-OpenAPI-Reference.md'
           - NFT Creator API Reference: 'API-Reference/NFT-Creator-OpenAPI-Reference.md'
-          - Token creator API Reference: 'API-Reference/Token-Creator-API-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
@@ -219,6 +218,8 @@ nav:
           - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
           - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
   - Release notes:
+      - Release version 2.8.0:
+          - Release version 2.8.0: 'Release-notes/release-version-2.8.0/release-notes-version-2.8.0.md'
       - Release version 2.7.0:
           - Release notes version 2.7.0: 'Release-notes/release-version-2.7.0/release-notes-version-2.7.0.md'
       - Release version 2.6.0:

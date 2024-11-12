@@ -49,4 +49,6 @@ Below are the key enhancements listed :
 
 These enhancements are designed to provide a more efficient and user-friendly experience within the KS Storage module of Kalp Studio. We encourage users to explore these new features to optimize their storage management workflows.
 
-For detailed guidance on utilizing these features, please refer to our updated documentation.
+We value your feedback and encourage you to share any suggestions or report any issues you encounter, Raise a ticket at - [**care@kalp.studio**](https://care.kalp.studio/support/home).
+
+We look forward to your continued support as we work towards a stable and feature-rich release.
