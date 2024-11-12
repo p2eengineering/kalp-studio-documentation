@@ -176,6 +176,12 @@ nav:
           - How to view your Catalog: 'Getting-started/NFT-Creator/How-to-view-your-catalog.md'
           - Where can you see your asset details: 'Getting-started/NFT-Creator/Where-can-you-see-your-asset-details.md'
           - API Documentation: 'Getting-started/NFT-Creator/API-Documentation.md'
+      - Token Creator:
+          - How to get started with token creator: 'Getting-started/Token-Creator/How-to-get-started-with-token-creator.md'
+          - How to connect wallet: 'Getting-started/Token-Creator/How-to-connect-wallet.md'
+          - How to create token: 'Getting-started/Token-Creator/How-to-create-token.md'
+          - How to view list of token created: 'Getting-started/Token-Creator/How-to-view-list-of-token-created.md'
+          - How to view subscription details: 'Getting-started/Token-Creator/How-to-view-subscription-details.md'
   - Dev documentation:
       - Kalp DLT:
           - Use the kalp SDK:
@@ -203,6 +209,7 @@ nav:
   - API Reference:
           - IPFS API Reference: 'API-Reference/IPFS-OpenAPI-Reference.md'
           - NFT Creator API Reference: 'API-Reference/NFT-Creator-OpenAPI-Reference.md'
+          - Token creator API Reference: 'API-Reference/Token-Creator-API-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
