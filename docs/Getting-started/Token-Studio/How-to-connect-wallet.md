@@ -1,21 +1,21 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Connect Your Wallet to Get Started with Token Creator on Kalp Studio
+# How to Connect Your Wallet to Get Started with Token Studio on Kalp Studio
 
-Connecting your wallet is a necessary step to start creating tokens on Kalp Studio’s **Token Creator**. The wallet connection allows you to securely interact with blockchain features and manage your assets directly. Here’s a detailed guide on how to connect your wallet to begin using the Token Creator tool.
+Connecting your wallet is a necessary step to start creating tokens on Kalp Studio’s **Token Studio**. The wallet connection allows you to securely interact with blockchain features and manage your assets directly. Here’s a detailed guide on how to connect your wallet to begin using the Token studio tool.
 
 ## Step 1: Access the Kalp Token Studio Dashboard
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
 
-Once you’re logged in, navigate to the **Dashboard** within Kalp Studio and click on  explore **Token Creator**. Here, you’ll see options for **Token Creation Wizard**, **List of Tokens Created**, and **Subscription**. Select the **Create New Token** option to begin the token creation process.
+Once you’re logged in, navigate to the **Dashboard** within Kalp Studio and click on  explore **Token studio**. Here, you’ll see options for **Token Creation Wizard**, **List of Tokens Created**, and **Subscription**. Select the **Create New Token** option to begin the token creation process.
 
 ## Step 2: Trigger the Wallet Connection
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/8.png)
 
-If you haven’t connected a wallet yet, clicking **Create New Token** will prompt a popup message asking you to connect your wallet. This is necessary as the Token Creator requires access to your wallet to deploy tokens on the blockchain.
+If you haven’t connected a wallet yet, clicking **Create New Token** will prompt a popup message asking you to connect your wallet. This is necessary as the Token studio requires access to your wallet to deploy tokens on the blockchain.
 
 ## Step 3: Select a Wallet Provider
 
@@ -46,7 +46,7 @@ Once you select MetaMask, the MetaMask extension or application (if installed) w
 
 ## Step 5: Verify Connection
 
-After confirming the connection, you’ll see your wallet connected on the Kalp Token Studio interface. Now, you are ready to use the Token Creator to create and deploy your tokens.
+After confirming the connection, you’ll see your wallet connected on the Kalp Token Studio interface. Now, you are ready to use the Token studio to create and deploy your tokens.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/17.png)
 
@@ -63,4 +63,4 @@ Now that your wallet is connected, go back to **Dashboard** and click **Create N
 
 ## Conclusion
 
-By following these steps, you can easily connect your wallet to Kalp Studio and start creating tokens. Wallet integration makes the Token Creator feature fully operational, enabling a seamless experience in deploying and managing blockchain tokens. Whether you're using MetaMask or another supported wallet, the process is straightforward and secure.
+By following these steps, you can easily connect your wallet to Kalp Studio and start creating tokens. Wallet integration makes the Token studio feature fully operational, enabling a seamless experience in deploying and managing blockchain tokens. Whether you're using MetaMask or another supported wallet, the process is straightforward and secure.

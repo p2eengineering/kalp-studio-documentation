@@ -1,13 +1,13 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Getting Started with Token Creation Using Kalp Studio’s Token Creator
+# Getting Started with Token Creation Using Kalp Studio’s Token Studio
 
-Kalp Studio's **Token Creator** tool provides a easy way to create and manage blockchain tokens through kalp studio console, enabling both beginners and experienced users to design tokens with customizable parameters. This guide will walk you through the steps to create a token using the Token Creator on Kalp Studio.
+Kalp Studio's **Token Studio** tool provides a easy way to create and manage blockchain tokens through kalp studio console, enabling both beginners and experienced users to design tokens with customizable parameters. This guide will walk you through the steps to create a token using the Token Studio on Kalp Studio.
 
-## Step 1: Access the Token Creator
+## Step 1: Access the Token Studio
 
-Once you’ve logged into Kalp Studio and connected your wallet, navigate to the **Dashboard**. Under **Our Products**, locate **Token Creator** and click **Explore** to access the token creation interface.
+Once you’ve logged into Kalp Studio and connected your wallet, navigate to the **Dashboard**. Under **Our Products**, locate **Token Studio** and click **Explore** to access the token creation interface.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
 
@@ -43,7 +43,7 @@ The Token Creation Wizard provides fields for you to define the fundamental attr
 
 -  **Owner (Wallet Address)**: Input the owner’s wallet address, which will hold the initial token supply and control token management features.
 
-Kalp Studio’s Token Creator offers several optional features to enhance token functionality:
+Kalp Studio’s Token Studio offers several optional features to enhance token functionality:
   
 
 -  **Burnable**: Enables the option to burn (destroy) tokens, reducing the total supply.
@@ -72,4 +72,4 @@ After successfully creating your token, navigate to **List of Token Created** in
 
 ## Conclusion
 
-Kalp Studio’s **Token Creator** provides a powerful and user-friendly interface for creating tokens with customizable options. By following these steps, you can quickly deploy a new token and start utilizing it within your blockchain applications. Whether for asset management, rewards programs, or utility purposes, Kalp Studio enables you to bring your tokenization ideas to life efficiently and securely.
+Kalp Studio’s **Token Studio** provides a powerful and user-friendly interface for creating tokens with customizable options. By following these steps, you can quickly deploy a new token and start utilizing it within your blockchain applications. Whether for asset management, rewards programs, or utility purposes, Kalp Studio enables you to bring your tokenization ideas to life efficiently and securely.
