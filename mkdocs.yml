@@ -208,7 +208,6 @@ nav:
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
           - IPFS API Reference: 'API-Reference/IPFS-OpenAPI-Reference.md'
-          - NFT Creator API Reference: 'API-Reference/NFT-Creator-OpenAPI-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'

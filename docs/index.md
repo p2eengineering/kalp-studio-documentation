@@ -668,11 +668,11 @@ hide:
                             <span>This guide provides an overview of the essential steps involved in deploying a smart contract on Kalp DLT & EVM-based chains, from setting up the development environment to deploying and verifying your contract on the network and managing your deployment journey on kalp studio.</span>
                         </div>
                         </a>
-                             <a href="https://docs.kalp.studio/API-Reference/Kalp-wallet-OpenAPI/">
+                             <a href="https://docs.kalp.studio/API-Reference/IPFS-OpenAPI-Reference/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
-                                   <h4>Kalp studio OpenAPI Reference</h4>
-                                  <span>Welcome to the Kalp Studio OpenAPI Reference, where you’ll find a comprehensive guide to all the endpoints and services offered by the Kalp Studio platform. This API allows developers to integrate with Kalp Studio's suite of tools, providing seamless interaction with our core features.</span>
+                                   <h4>Kalp storage OpenAPI Reference</h4>
+                                  <span>Kalp Studio's KS Storage API's offers a decentralized, secure, and scalable solution for file and folder management. Built on IPFS (InterPlanetary File System), KS Storage API Suits allows users to create and organize buckets (top-level containers) and folders (sub-directories) and efficiently upload or manage files, ensuring data resilience and ownership. With decentralized storage, files are stored across a distributed network, reducing dependency on centralized servers and enhancing data security.</span>
                               </div>
                                 </a>
                              <a href="https://docs.kalp.studio/Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity/">
