@@ -23,7 +23,7 @@ Kalp Studio offers different subscription plans for the Token Studio, based on y
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/2.png)
 
--  **Starter Plan**: $20 per day, with a token creation limit of 1 per day.
+-  **Starter Plan**: $20 per day, with a token creation limit of 100 per day.
 
 -  **Developer Plan**: $45 per month, with a token creation limit of 200 tokens.
 
