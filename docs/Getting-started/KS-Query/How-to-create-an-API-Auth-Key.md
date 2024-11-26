@@ -37,7 +37,7 @@ An API authentication key is essential for securely accessing the features and f
 ## Step 2: Open the API Key Generation Page
 1. From the left-hand side menu, select **API Key Generation**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/21.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%283%29.png)
 
 2.You will be redirected to the API key creation interface, where you can set up a new key.
 
@@ -69,6 +69,12 @@ An API authentication key is essential for securely accessing the features and f
 
 - Copy the generated key securely and use it for API requests.
 - Ensure you do not share the key publicly to prevent unauthorized access.
+
+## Step 6: How to view your API Key
+
+- On the API Key Generation page, You can view your generated API key.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/23.png)
 
 ---
 

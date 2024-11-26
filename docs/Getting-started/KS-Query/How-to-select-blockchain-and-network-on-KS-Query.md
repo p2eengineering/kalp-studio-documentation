@@ -31,7 +31,7 @@ Using **KS Query** effectively begins with selecting the right blockchain and ne
 
 ## Step 2: Blockchain & Network Selection
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/17.png)     
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%283%29.png)
 
 After clicking **Select Now**, the **Blockchain & Network** selection window will appear:
 
