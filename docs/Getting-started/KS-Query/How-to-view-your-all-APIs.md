@@ -4,6 +4,14 @@
 
 # How to View All APIs in KS Query
 
+!!! Tip
+   
+    To proceed with the flow, one must first select the Blockchain and network, then create or select an active API authentication key, and finally retrieve all APIs.
+
+!!! Info
+   
+    Users can currently select only the KALP DLT chain and the Test Net network. Support for other options, such as Ethereum and Binance, will be introduced in upcoming releases.
+
 The KS Query platform allows users to easily access and explore various APIs. Here’s a step-by-step guide to viewing all available APIs in KS Query:
 
 ----------

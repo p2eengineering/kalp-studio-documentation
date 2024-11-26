@@ -4,6 +4,14 @@
 
 # How to Select a Blockchain and Network in KS Query
 
+!!! Tip
+   
+    To proceed with the flow, one must first select the Blockchain and network, then create or select an active API authentication key, and finally retrieve all APIs.
+
+!!! Info
+   
+    Users can currently select only the KALP DLT chain and the Test Net network. Support for other options, such as Ethereum and Binance, will be introduced in upcoming releases.
+
 Using **KS Query** effectively begins with selecting the right blockchain and network. This guide walks you through the steps to choose your desired blockchain and network within the KS Query interface.
 
 ---
@@ -47,7 +55,7 @@ After clicking **Select Now**, the **Blockchain & Network** selection window wil
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/20.png)     
 
-2. Click **Yes** to confirm your choice.
+2.Click **Yes** to confirm your choice.
 
 ---
 
@@ -74,8 +82,6 @@ Selecting the right blockchain and network is a crucial step to leveraging the f
 
 !!! Note
 
-   If you encounter any issues related to Kalp Studio, please raise a support ticket at  
-   [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist  
-   you in finding the best possible solution.
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at[care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
 
 

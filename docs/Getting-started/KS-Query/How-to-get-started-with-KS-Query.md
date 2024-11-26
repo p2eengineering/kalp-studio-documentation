@@ -4,6 +4,14 @@
 
 # Getting Started with KS Query: A Step-by-Step Guide
 
+!!! Tip
+   
+    To proceed with the flow, one must first select the Blockchain and network, then create or select an active API authentication key, and finally retrieve all APIs.
+
+!!! Info
+   
+    Users can currently select only the KALP DLT chain and the Test Net network. Support for other options, such as Ethereum and Binance, will be introduced in upcoming releases.
+
 **KS Query** by Kalp Studio allows users to access real-time and historical blockchain data through various interfaces, such as GraphQL APIs, SQL, and WebSockets. Whether you want to create blockchain explorers or analyze blockchain data, KS Query is the ideal solution. In this article, we’ll guide you through the process of getting started with KS Query.
 
 ---
@@ -23,9 +31,9 @@
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/1.png)
 
-2. Here, you’ll see a list of Kalp Studio’s products, including **KS Storage**, **KS Query**, and more.
+2.You’ll see a list of Kalp Studio’s products, including **KS Storage**, **KS Query**, and more.
 
-3. Find **KS Query** and click **Get Started** or **Try Now** under KS Query in the **Our Products** section to proceed.  
+3.Find **KS Query** and click **Get Started** or **Try Now** under KS Query in the **Our Products** section to proceed.  
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/2.png)
 
 ---
@@ -90,20 +98,19 @@ To use KS Query, you’ll need to subscribe to one of the available plans. Follo
 
 3. You'll Navigate to the **Billing** section while choosing subscription.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/6.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
 
-4. Choose a plan that suits your needs:
+4.Choose a plan that suits your needs:
 
-   -**Starter Plan**: $10.00 per day (1 API request).
-   -**Developer Plan**: $25.00 per month (20,000 API requests).
-   -**Enterprise Plan**: $50.00 per month (50,000 API requests).
+- **Starter Plan**: $10.00 per day (10000 API request).
+- **Developer Plan**: $25.00 per month (20,000 API requests).
+- **Enterprise Plan**: $50.00 per month (50,000 API requests).
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/7.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
 
+5.Click **Subscribe** under your desired plan and confirm your subscription. A pop-up will appear asking you to confirm your choice.
 
-5. Click **Subscribe** under your desired plan and confirm your subscription. A pop-up will appear asking you to confirm your choice.
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/7.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/8.png)
 

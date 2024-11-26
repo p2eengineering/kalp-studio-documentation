@@ -4,6 +4,16 @@
 
 # How to Create an API Authentication Key in KS Query
 
+
+!!! Tip
+   
+    To proceed with the flow, one must first select the Blockchain and network, then create or select an active API authentication key, and finally retrieve all APIs.
+
+!!! Info
+   
+    Users can currently select only the KALP DLT chain and the Test Net network. Support for other options, such as Ethereum and Binance, will be introduced in upcoming releases.
+    
+
 An API authentication key is essential for securely accessing the features and functionalities provided by KS Query. Follow the steps below to create an API auth key.
 
 ---
