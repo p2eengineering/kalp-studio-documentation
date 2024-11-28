@@ -175,6 +175,30 @@ nav:
           - Test the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract.md'
           - Deploy the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
           - Interacting with smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
+  - Products:
+      - Kalp-Wallet-Extension:
+          - How-to-add-user-to-addresslist: 'Products\Kalp-Wallet-Extension\How-to-add-user-to-addresslist.md'
+          - How-to-change-password: 'Products\Kalp-Wallet-Extension\How-to-change-password.md'
+          - How-to-connect-Dapp: 'Products\Kalp-Wallet-Extension\How-to-connect-Dapp.md'
+          - How-to-create-new-wallet: 'Products\Kalp-Wallet-Extension\How-to-create-new-wallet.md'
+          - How-to-import-tokens: 'Products\Kalp-Wallet-Extension\How-to-import-tokens.md'
+          - How-to-import-wallet: 'Products\Kalp-Wallet-Extension\How-to-import-wallet.md'
+          - How-to-search-token: 'Products\Kalp-Wallet-Extension\How-to-search-token.md'
+          - How-to-see-transactions: 'Products\Kalp-Wallet-Extension\How-to-see-transactions.md'
+          - How-to-send-token: 'Products\Kalp-Wallet-Extension\How-to-send-token.md'
+          - How-to-view-seedphrase: 'Products\Kalp-Wallet-Extension\How-to-view-seedphrase.md'
+      - Kalp-Wallet-Mobile:
+          - Create-a-new-wallet: 'Products\Kalp-Wallet-Mobile\Create-a-new-wallet.md'
+          - How-can-I-view-Seed-Phrase: 'Products\Kalp-Wallet-Mobile\How-can-I-view-Seed-Phrase.md'
+          - How-to-add-users-to-the-address-list: 'Products\Kalp-Wallet-Mobile\How-to-add-users-to-the-address-list.md'
+          - How-to-change-password: 'Products\Kalp-Wallet-Mobile\How-to-change-password.md'
+          - How-to-connect-DAPP: 'Products\Kalp-Wallet-Mobile\How-to-connect-DAPP.md'
+          - How-to-disconnect-DAPP: 'Products\Kalp-Wallet-Mobile\How-to-disconnect-DAPP.md'
+          - How-to-import-wallet: 'Products\Kalp-Wallet-Mobile\How-to-import-wallet.md'
+          - How-to-receive-tokens: 'Products\Kalp-Wallet-Mobile\How-to-receive-tokens.md'
+          - How-to-reset-wallet: 'Products\Kalp-Wallet-Mobile\How-to-reset-wallet.md'
+          - How-to-search-a-token-on-Wallet-Application: 'Products\Kalp-Wallet-Mobile\How-to-search-a-token-on-Wallet-Application.md'
+          - How-to-send-tokens-from-Kalp-Wallet: 'Products\Kalp-Wallet-Mobile\How-to-send-tokens-from-Kalp-Wallet.md'
   - Release notes:
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
