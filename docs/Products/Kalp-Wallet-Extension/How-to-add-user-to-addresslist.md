@@ -17,10 +17,10 @@ To add user to the **address list** in the Kalp Wallet extension, follow these s
 2.  Select **"Address Book"** from the options.
     
 
-Open image-20241122-101425.png
+![Open image-20241122-101425.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I1.png)
 
 
-Open image-20241122-101513.png
+![Open image-20241122-101513.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I2.png)
 
 ### **Step 3: Add a New Address**
 
@@ -29,7 +29,7 @@ Open image-20241122-101513.png
 2.  A form will appear where you can input the user's details.
     
 
-Open image-20241122-101730.png
+![Open image-20241122-101730.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I3.png)
 
 ### **Step 4: Enter User Details**
 
@@ -44,9 +44,9 @@ Open image-20241122-101730.png
 2.  Click on **Add Member.**
     
 
-Open
+![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I4.png)
 
-Open
+![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I5.png)
 
 ### **Step 6: Verify the Entry**
 
@@ -55,7 +55,7 @@ Open
 2.  Test the entry by attempting a mock transaction (without confirming) to confirm the wallet recognizes the address.
     
 
-Open
+![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I6.png)
 
 ### **Tips:**
 
