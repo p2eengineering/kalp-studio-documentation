@@ -3,10 +3,10 @@
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __NFT Creator API Documentation__
+-   :material-clock-fast:{ .lg .middle } __Token Creator API Documentation__
 
     ---
 
-    [:octicons-arrow-right-24: Check API Reference](#)
+    [:octicons-arrow-right-24: Check API Reference]()
 
 </div>
