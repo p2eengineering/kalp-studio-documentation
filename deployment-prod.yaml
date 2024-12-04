@@ -16,6 +16,7 @@ spec:
         app: kalp-studio-doc-prod
     spec:
       hostname: kalp-studio-doc-prod
+      automountServiceAccountToken: false
       containers:
         - name: kalp-studio-doc-prod
           image: 408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
