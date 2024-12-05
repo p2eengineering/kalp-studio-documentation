@@ -1,3 +1,8 @@
+<style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+# How to Add Users to the Address List?
+
 To add user to the **address list** in the Kalp Wallet Application, follow these steps:
 
 ### **Step 1: Open Kalp Wallet**
@@ -12,13 +17,9 @@ To add user to the **address list** in the Kalp Wallet Application, follow these
 1.  On the wallet's main interface, look for the profile icon.
     
 2.  Select **"Address Book"** from the options.
-    
 
-Open image-20241126-044355.png
 
 ![image-20241126-044355.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/8.How+to+add+users+to+the+address+list/AL+1.png)
-
-Open image-20241126-045157.png
 
 ![image-20241126-045157.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/8.How+to+add+users+to+the+address+list/AL+2.png)
 
@@ -27,9 +28,6 @@ Open image-20241126-045157.png
 1.  In the Address Book, click the **"Add Recipient"** or **"+"** button to create a new entry.
     
 2.  A form will appear where you can input the user's details.
-    
-
-Open image-20241126-045228.png
 
 ![image-20241126-045228.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/8.How+to+add+users+to+the+address+list/AL+3.png)
 
@@ -44,9 +42,6 @@ Open image-20241126-045228.png
     
 
 2.  Click on **Add Member.**
-    
-
-Open image-20241126-045308.png
 
 ![image-20241126-045308.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/8.How+to+add+users+to+the+address+list/AL+4.png)
 
@@ -55,13 +50,10 @@ Open image-20241126-045308.png
 1.  Review the Address Book to ensure the user's details are listed correctly.
     
 2.  Test the entry by attempting a mock transaction (without confirming) to confirm the wallet recognizes the address.
-    
-
-Open image-20241126-045338.png
 
 ![image-20241126-045338.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/8.How+to+add+users+to+the+address+list/AL+5.png)
 
-Open image-20241126-045354.png
+
 
 ![image-20241126-045354.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/8.How+to+add+users+to+the+address+list/AL+6.png)
 

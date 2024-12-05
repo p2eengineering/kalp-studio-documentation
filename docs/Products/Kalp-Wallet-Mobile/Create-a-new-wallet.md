@@ -1,10 +1,11 @@
-## Introduction
+<style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+# How to Create a New Wallet?
 
 Creating a new digital wallet is an essential process for securely managing your digital assets. In this guide, we'll walk you through the steps to set up a new wallet using the Kalp Wallet interface. Follow these instructions to create a new wallet and start managing your assets.
 
 ### Step 1: Start the Wallet Setup
-
-Open CW 1.jpg
 
 ![CW 1.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+1.jpg)
 
@@ -13,16 +14,12 @@ Open CW 1.jpg
 -   **Options Available**: You can either create a new wallet or import an existing one. Since we're focusing on creating a new wallet, tap on the "Create A New Wallet" button.
     
 
-Open CW 2.jfif
-
 ![CW 2.jfif](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+2.jpg)
 
 -   Click on “Create A New Wallet” Option.
     
 
 ### Step 2: Create a Password
-
-Open CW 3.jpg
 
 ![CW 3.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+3.jpg)
 
@@ -37,8 +34,6 @@ Open CW 3.jpg
 
 ### Step 3: Verify Your Password
 
-Open CW 4.jpg
-
 ![CW 4.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+4.jpg)
 
 -   **Password Confirmation**: If your password meets all the necessary criteria, you’ll proceed to the next step. If there's an issue, such as mismatched passwords, you'll be prompted to correct it.
@@ -46,16 +41,11 @@ Open CW 4.jpg
 
 Unlock with biometric will only appear if the device supports biometrics.
 
-Open CW 5.jpg
-
 ![CW 5.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+5.jpg)
 
 ### Step 4: Seed Phrase Introduction
 
 -   **Seed Phrase Explanation**: The app will now introduce you to the concept of a seed phrase. This phrase is critical for recovering your wallet if you ever lose access to your device.
-    
-
-Open CW 6.jpg
 
 ![CW 6.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+6.jpg)
 
@@ -63,8 +53,6 @@ Open CW 6.jpg
     
 
 ### Step 5: Write Down Your Seed Phrase
-
-Open CW 7.jpg
 
 ![CW 7.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+7.jpg)
 
@@ -77,8 +65,6 @@ Open CW 7.jpg
 
 ### Step 6: Confirm Your Seed Phrase
 
-Open CW 8.jpg
-
 ![CW 8.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+8.jpg)
 
 -   **Seed Phrase Verification**: The app will now ask you to confirm your seed phrase by entering specific words from the sequence in the correct order.
@@ -87,8 +73,6 @@ Open CW 8.jpg
     
 
 ### Step 7: Wallet Created
-
-Open CW 9.jpg
 
 ![CW 9.jpg](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/1.+How+to+create+a+new+wallet/CW+9.jpg)
 

@@ -1,4 +1,7 @@
 <style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+# How to Import a Wallet?
 
 Importing your Kalp Wallet into the Kalp Wallet Extension is a simple process. Follow the steps below to securely access your existing wallet:
 

@@ -1,3 +1,8 @@
+<style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+# How to Send a Token from Kalp Wallet?
+
 To send tokens using the **Kalp Wallet Mobile**, follow these step-by-step instructions:
 
 ### **Step 1: Open Kalp Wallet**
@@ -5,14 +10,10 @@ To send tokens using the **Kalp Wallet Mobile**, follow these step-by-step instr
 1.  Launch your browser and click on the **Kalp Wallet icon** in your toolbar.
     
 2.  Enter your **password** to unlock the wallet.
-    
 
 ### **Step 2: Select the Token**
 
 1.  Click on the token you wish to send.
-    
-
-Open image-20241125-165139.png
 
 ![image-20241125-165139.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+1.png)
 
@@ -21,13 +22,10 @@ Open image-20241125-165139.png
 1.  Within the token's details page, locate and click the **"Send"** button.
     
 2.  A transfer form will appear.
-    
-
-Open image-20241125-165204.png
 
 ![image-20241125-165204.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+2.png)
 
-Open image-20241125-165416.png
+
 
 ![image-20241125-165416.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+3.png)
 
@@ -50,9 +48,7 @@ Enter Recipient Address, there are 4 ways to enter address
 -   Double-check the address to ensure accuracy.
     
 -   Ensure the recipient's wallet is compatible with the token's blockchain network (e.g., Kalp Chain or Ethereum-compatible chain).
-    
 
-Open image-20241125-165545.png
 
 ![image-20241125-165545.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+4.png)
 
@@ -61,9 +57,7 @@ Open image-20241125-165545.png
 1.  In the **"Amount"** field, enter the number of tokens you want to send.
     
 2.  Ensure you have sufficient token balance to cover the transfer and any transaction fees (e.g., GINI tokens on Kalp Chain).
-    
 
-Open image-20241125-165705.png
 
 ![image-20241125-165705.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+5.png)
 
@@ -76,9 +70,6 @@ Open image-20241125-165705.png
     
 -   Confirm the estimated gas fees (if applicable).
     
-
-Open image-20241125-165727.png
-
 ![image-20241125-165727.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+6.png)
 
 ### **Step 7: Approve the Transaction**
@@ -88,11 +79,9 @@ Open image-20241125-165727.png
 2.  If prompted, enter your **wallet password** or authenticate using your preferred method.
     
 
-Open image-20241125-165811.png
-
 ![image-20241125-165811.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+7.png)
 
-Open image-20241125-165852.png
+
 
 ![image-20241125-165852.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+8.png)
 
@@ -101,9 +90,7 @@ Open image-20241125-165852.png
 1.  The wallet will show a notification once the transaction is submitted.
     
 2.  Check the **transaction status** on the wallet dashboard or the blockchain explorer linked to the token's network.
-    
 
-Open image-20241125-165921.png
 
 ![image-20241125-165921.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+9.png)
 
