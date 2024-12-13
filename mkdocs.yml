@@ -238,6 +238,7 @@ nav:
           - How-to-send-tokens-from-Kalp-Wallet: 'Products/Kalp-Wallet-Mobile/How-to-send-tokens-from-Kalp-Wallet.md'
   - API Reference:
           - IPFS API Reference: 'API-Reference/IPFS-OpenAPI-Reference.md'
+          - Kalp Wallet API Reference: 'API-Reference/Kalp-wallet-OpenAPI-Reference.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
