@@ -1,13 +1,13 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Kalp Wallet OpenAPI Reference
+# **Kalp Wallet OpenAPI Reference**
 
-## General Usage
+## **General Usage**
 
 Kalp Wallet OpenAPI provides an API that allows users to create and manage different types of wallets programmatically. The API supports the creation of self-custodial, MPC (Multi-Party Computation), and custodial wallets.
 
-## Request, Response & Error codes 
+## **Request, Response & Error codes** 
 
 ### Request Payloads
 
@@ -109,7 +109,7 @@ Authorization: Bearer YOUR_API_KEY
 
 ```
 
-## FAQ
+## **FAQ**
 
 ### General FAQ
 
@@ -216,9 +216,9 @@ A32: This error (Error Code: 101020) means that the social auth credential enter
 **Q33: Why am I getting the "Invalid credentials or access denied" error?**  
 A33: This error (Error Code: 101021) indicates that the credentials are invalid or access is denied. Check your credentials and try again.
 
-## API Reference
+## **API Reference**
 
-### **Generate mnemonics**
+### 1. **Generate mnemonics**
 
 #### API Method & URL
 
