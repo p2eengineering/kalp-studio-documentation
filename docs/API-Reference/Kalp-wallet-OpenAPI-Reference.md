@@ -237,7 +237,7 @@ A unique API key assigned to the user for authentication and authorization of AP
 
 Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
 
-#### Body
+#### Body Parameters
 
 **blockchain**
 
@@ -296,3 +296,707 @@ Example: `"SELF_CUSTODIAL"`
     "result": "key better reunion pact real soap cream fish basic crumble globe diagram"
 }
 ~~~
+
+
+### 2. **Create Wallet**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/wallet/create-wallet
+
+
+#### **Description**
+
+This endpoint allows users to create a new wallet. Users can choose between self-custodial, MPC, and custodial wallets. The request must include necessary details such as the wallet type and user information.
+
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+#### Body Parameters
+
+**blockchain**
+
+Specifies the blockchain on which the wallet will be created. Example values include `ETH` for Ethereum.
+
+Example: `"ETH"`
+
+**mnemonics**
+
+A seed phrase used for generating a self-custodial wallet. This should be kept secure and confidential.
+
+Example: `"draw double tape end sibling rug armed have feed dumb mail latin"`
+
+**network**
+
+Specifies the network of the blockchain to be used. Example values include `testnet`, which is a test network for blockchain.
+
+Example: `"testnet "`
+
+**walletType**
+
+Specifies the type of wallet to be created. Example values include `SELF_CUSTODIAL` for a self-custodial wallet where the user controls the private keys.
+
+Example: `"SELF_CUSTODIAL"`
+
+#### Request example
+
+Here update the network blockchain & wallet type as per your need
+
+Following is the kalp MPC wallet request example
+~~~
+{
+
+"network" : "TESTNET",
+
+"blockchain" : "KALP",
+
+"walletType" : "MPC",
+
+// "mnemonic" : "badge dinner nephew version staff keen candy thank primary loop edge gun",
+
+"userId" : "709d7259-5b09-4252-9fa9-2a1f1ddae5b8"
+
+}
+~~~
+
+#### Response example
+
+**Kalp custodial**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "address": "e1fc14fa8faff3880395a65773db47b577fc04ca",
+        "CSRcertificate": "-----BEGIN CERTIFICATE-----\nMIIDYTCCAwigAwIBAgIUbAt0PKD+xAHvMnFsrqBh4g1PGEQwCgYIKoZIzj0EAwIw\ngbIxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhEZWxhd2FyZTFQME4GA1UEBxNHUDJF\nIExBQlMgTExDICAxMDA3IE4gT3JhbmdlIFN0LiA0dGggRmxvb3IgU3RlIDEzODIg\nV2lsbWluZ3RvbiBVLlMgMTk4MDExETAPBgNVBAoTCE1BSSBMYWJzMQ8wDQYDVQQL\nEwZjbGllbnQxGjAYBgNVBAMTEW1haWxhYnMtaW50LWFkbWluMB4XDTI0MDUyNzEy\nMDcwMFoXDTI1MDgzMDEwMTQwMFowgb0xCzAJBgNVBAYTAklOMRYwFAYDVQQIEw1Z\nb3VyIFByb3ZpbmNlMRYwFAYDVQQHEw1Zb3VyIExvY2FsaXR5MRowGAYDVQQKExFZ\nb3VyIE9yZ2FuaXphdGlvbjEvMA0GA1UECxMGY2xpZW50MA4GA1UECxMHY2xpZW50\nczAOBgNVBAsTB21haWxhYnMxMTAvBgNVBAMTKGUxZmMxNGZhOGZhZmYzODgwMzk1\nYTY1NzczZGI0N2I1NzdmYzA0Y2EwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAST\nb4iHSrR+17A0OUlHcuonrpGZ0shdOeu/vloVKsWCpVD9q0R9KIlXCd2kl3K44Pjo\nklJPcPy9kY9i6Hsax17eo4HuMIHrMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8E\nAjAAMB0GA1UdDgQWBBTfnTC78EeZiIyp3i06h01nKQw4+TAfBgNVHSMEGDAWgBQP\nomAYvecJRvp4yFWVdUYay/PaaTCBigYIKgMEBQYHCAEEfnsiYXR0cnMiOnsiaGYu\nQWZmaWxpYXRpb24iOiJtYWlsYWJzLmNsaWVudHMiLCJoZi5FbnJvbGxtZW50SUQi\nOiJlMWZjMTRmYThmYWZmMzg4MDM5NWE2NTc3M2RiNDdiNTc3ZmMwNGNhIiwiaGYu\nVHlwZSI6ImNsaWVudCJ9fTAKBggqhkjOPQQDAgNHADBEAiBVZH739bXWNLQP1js5\nnkexdg6lSzyix9Qi+GO85/cX4gIgcyeJE3jMMb/547/Sa5yMCEJnlZxWJmSa+V+O\ngcogayI=\n-----END CERTIFICATE-----\n",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEk2+Ih0q0ftewNDlJR3LqJ66RmdLIXTnrv75aFSrFgqVQ/atEfSiJVwndpJdyuOD46JJST3D8vZGPYuh7Gsde3g==\n-----END PUBLIC KEY-----\n"
+    }
+}
+~~~
+
+**ETH Custodial**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "address": "0xa0a3367ef9A9f8A956B57AC77723538d302F2fbE",
+        "balance": "0.0",
+        "publicKey": "0x04b1b526984c10efc45568f153182677eaf7bf2b52446bd6e83f3e15a67ffddd2f95ba100128277cf7e7064b011cb78a4dd409cef29583521f0ee1c8d039367011"
+    }
+}
+~~~
+
+**ETH Self-Custodial**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "address": "0xB9833da5f14F8E9D22e8BEB9a7a27c758827a8b9",
+        "privateKey": "0xa7b5e77d3776b8f73390a1e32d6e9febabe2e7147c3eb554ef3368f3ae4054b0",
+        "balance": "0.0",
+        "publicKey": "0x0424b672e0080d09ffdad238ca34cb1c640a75deae9c5510ca14b1e1660544a5a82d543e30895b85014e25f7229a5ec67dd4a5b0e75092def27a330d6327092cd7"
+    }
+}
+~~~
+
+**Kalp Self-Custodial**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "address": "77a1b6e7e250f5fe22082ace1e5ce88eadee1439",
+        "CSRcertificate": "-----BEGIN CERTIFICATE-----\nMIIDYjCCAwigAwIBAgIUQuEY1t1KvtW8+GRWi5tu0+4z6O4wCgYIKoZIzj0EAwIw\ngbIxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhEZWxhd2FyZTFQME4GA1UEBxNHUDJF\nIExBQlMgTExDICAxMDA3IE4gT3JhbmdlIFN0LiA0dGggRmxvb3IgU3RlIDEzODIg\nV2lsbWluZ3RvbiBVLlMgMTk4MDExETAPBgNVBAoTCE1BSSBMYWJzMQ8wDQYDVQQL\nEwZjbGllbnQxGjAYBgNVBAMTEW1haWxhYnMtaW50LWFkbWluMB4XDTI0MDUyNzEy\nMDcwMFoXDTI1MDgzMDEwMTgwMFowgb0xCzAJBgNVBAYTAklOMRYwFAYDVQQIEw1Z\nb3VyIFByb3ZpbmNlMRYwFAYDVQQHEw1Zb3VyIExvY2FsaXR5MRowGAYDVQQKExFZ\nb3VyIE9yZ2FuaXphdGlvbjEvMA0GA1UECxMGY2xpZW50MA4GA1UECxMHY2xpZW50\nczAOBgNVBAsTB21haWxhYnMxMTAvBgNVBAMTKDc3YTFiNmU3ZTI1MGY1ZmUyMjA4\nMmFjZTFlNWNlODhlYWRlZTE0MzkwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQL\nh9oY2EMm5zUf8omsfsh8Vb0wZpPyKertfh9oNVPLK7ch10WKQbHg6cKQeVTKR2Oo\nDhM4mkpHwseyw01LIQBTo4HuMIHrMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8E\nAjAAMB0GA1UdDgQWBBQctJcjndzm3M0AMq6ymwACKGMgIzAfBgNVHSMEGDAWgBQP\nomAYvecJRvp4yFWVdUYay/PaaTCBigYIKgMEBQYHCAEEfnsiYXR0cnMiOnsiaGYu\nQWZmaWxpYXRpb24iOiJtYWlsYWJzLmNsaWVudHMiLCJoZi5FbnJvbGxtZW50SUQi\nOiI3N2ExYjZlN2UyNTBmNWZlMjIwODJhY2UxZTVjZTg4ZWFkZWUxNDM5IiwiaGYu\nVHlwZSI6ImNsaWVudCJ9fTAKBggqhkjOPQQDAgNIADBFAiEAjD5HuOVfEM7DNEjw\nW6EZMtWxFiy52lTjlLSXbzwDFoUCIA42NyhrMqk6lLP3mqdHciG1BEQE19M8TCWQ\nvri58dtJ\n-----END CERTIFICATE-----\n",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC4faGNhDJuc1H/KJrH7IfFW9MGaT8inq7X4faDVTyyu3IddFikGx4OnCkHlUykdjqA4TOJpKR8LHssNNSyEAUw==\n-----END PUBLIC KEY-----\n",
+        "pemPrivateKey": "-----BEGIN PRIVATE KEY-----\r\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCA5P45UoCw+EI4BCj55\r\n5MmHSUJXL99DTQH+h5ArrDjhYw==\r\n-----END PRIVATE KEY-----\r\n"
+    }
+}
+~~~
+
+**KALP MPC Wallet**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "address": "57c1dcf7688ae0945de233e750d56c65d3108a16",
+        "userShard": "CAFUVRQ4YmQjoBb0qxVbE/1pq4gHg/0jLsR7INzbhTWY7ar511s59ApwNBY6E+etdRuFEWogEpodInQyplLHA1IQ09+tzTXdcANVlueorsaQ4mbEyZuWH0Xg6pWigMZBzRK8AxIHGLXeG97A/Y3iCleSz7lJ0Hs3S07dxZ5Qh2BVuduV5pudLGuNtLCq85aQVizdajWyMejJ1bjJyQHs//TYW7zhLhbmeUjg1B72jFMOnHrQ6F9lJOLECzf3xKa55BMgbfWwCK7P4Go3XUBuTdSKWCUPKNn6+b0u6MoPd4/fgMCbrQ+iDcrVMGeRpWDSilnVZuZtpKAu7EdTdOjCbd1JygjtsdW3NkcUHQpR05nJrznBynVkx7x1YvrpvmD4BMXTbnWg/qGpQw8JWwruSFadAMG1x+JgGsV7Kp+UhIf4ig==",
+        "CSRcertificate": "-----BEGIN CERTIFICATE-----\nMIIDYTCCAwigAwIBAgIUTqmH3QRGmHHf7UUs4AOiSqkTIxIwCgYIKoZIzj0EAwIw\ngbIxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhEZWxhd2FyZTFQME4GA1UEBxNHUDJF\nIExBQlMgTExDICAxMDA3IE4gT3JhbmdlIFN0LiA0dGggRmxvb3IgU3RlIDEzODIg\nV2lsbWluZ3RvbiBVLlMgMTk4MDExETAPBgNVBAoTCE1BSSBMYWJzMQ8wDQYDVQQL\nEwZjbGllbnQxGjAYBgNVBAMTEW1haWxhYnMtaW50LWFkbWluMB4XDTI0MDUyNzEy\nMDcwMFoXDTI1MDgzMDEwMjIwMFowgb0xCzAJBgNVBAYTAklOMRYwFAYDVQQIEw1Z\nb3VyIFByb3ZpbmNlMRYwFAYDVQQHEw1Zb3VyIExvY2FsaXR5MRowGAYDVQQKExFZ\nb3VyIE9yZ2FuaXphdGlvbjEvMA0GA1UECxMGY2xpZW50MA4GA1UECxMHY2xpZW50\nczAOBgNVBAsTB21haWxhYnMxMTAvBgNVBAMTKDU3YzFkY2Y3Njg4YWUwOTQ1ZGUy\nMzNlNzUwZDU2YzY1ZDMxMDhhMTYwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATb\nCOH7H5rNoKMB+8cjMsYypzJxXRxW1souGpKbOikqmoqabzkpDapFPN4iZyJmNRZP\nJcvP4YTwA0kgalrgKMHKo4HuMIHrMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8E\nAjAAMB0GA1UdDgQWBBR3TN7Mn1nQ/RAAdaBvFIBkdmCujzAfBgNVHSMEGDAWgBQP\nomAYvecJRvp4yFWVdUYay/PaaTCBigYIKgMEBQYHCAEEfnsiYXR0cnMiOnsiaGYu\nQWZmaWxpYXRpb24iOiJtYWlsYWJzLmNsaWVudHMiLCJoZi5FbnJvbGxtZW50SUQi\nOiI1N2MxZGNmNzY4OGFlMDk0NWRlMjMzZTc1MGQ1NmM2NWQzMTA4YTE2IiwiaGYu\nVHlwZSI6ImNsaWVudCJ9fTAKBggqhkjOPQQDAgNHADBEAiAisX+8xMTr8ftiv/Nx\naNDHfAWBuu54G/FiK4cw2cG56AIgTHolExB6QaL+Vo9+Bmsns7WOlX6t7ydnnJu6\n2UJz0/c=\n-----END CERTIFICATE-----\n",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2wjh+x+azaCjAfvHIzLGMqcycV0cVtbKLhqSmzopKpqKmm85KQ2qRTzeImciZjUWTyXLz+GE8ANJIGpa4CjByg==\n-----END PUBLIC KEY-----\n"
+    }
+}
+~~~
+
+**ETH MPC Wallet**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "address": "0x65A0fA104d569Bc1f6955784C02bA0ca9c9Ee081",
+        "userShard": "CAGAoT8lCi8X85CS9XUUsIRP7WnShfmKDc77WqTCMyn9ZWhJN+GvBFqGVk8dMvEQD0mWkUUzjhcTkdUs0ReYXLAIBao9Mr/i8LHxNgwupY5bEdaMmjSQMQG8yMKkf3WovYCsBWHpVMykueLaKxU/wYEC1ko0Rb/7e5BleY4ykPA+Kvf7lWyx4cCmZ9C/ma1qllw=",
+        "balance": "0.0",
+        "publicKey": "0x04eaa83117f36750f18f10c7118472f2dfef7ba148b5431a70148f15d316fa202c0f466bf54c49f0b38e788b90dfe424aeff6c578ec55c65ca22f1f9103d012481"
+    }
+}
+~~~
+
+
+
+### 3. **MPC O Auth Verify**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/auth/google/verify
+
+#### **Description**
+This endpoint is used to verify user details through the MPC (Multi-Party Computation) OAuth process. It ensures that the user's identity and permissions are validated before proceeding with wallet creation or other sensitive operations.
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+
+#### Body Parameters
+
+**subId**
+
+The subscription ID associated with the MPC O Auth verification request.
+
+Example: `"sdjdafnaknffdafdafdafdafda"`
+
+**userId**
+
+The unique identifier for the user making the MPC O Auth verification request.
+
+Example: `"9c1d4102-650f-47f5-bc34-222960cdad7d"`
+
+#### Request Example
+
+~~~
+{
+
+"subId" : "sdjjkhgjkgjjfdafnaknffdafdafddgdgdgdafdafda",
+
+"userId" : "ee818885-3962-4018-91cd-67c92070ce5b",
+
+"type" : "verify"
+
+}
+~~~
+
+#### Response Example
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "message": "o_auth is verified"
+        }
+    }
+}
+~~~
+
+
+### 4. **Send email OTP**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/auth/email/send
+
+#### **Description**
+
+This endpoint sends a One-Time Password (OTP) to the specified email address. The OTP is used for verifying the user's email during the registration or authentication process.
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+
+#### Body parameters
+
+**email**
+
+The email address to which the OTP will be sent.
+
+Example: `"jayantk7722@gmail.com"`
+
+**userId**
+
+The unique identifier for the user requesting the OTP.
+
+Example: `"709d7259-5b09-4252-9fa9-2a1f1ddae5b6"`
+
+**otp**
+
+The OTP code sent to the user's email that needs to be verified.
+
+Example: `"998707"`
+
+
+#### Request Example
+
+~~~
+
+{
+
+"email" : "jayantk7722@gmail.com",
+
+"userId" : "709d7259-5b09-4252-9fa9-2a1f1ddae5b6",
+
+"type" : "verify"
+
+}
+~~~
+
+#### Response Example
+
+**Send email OTP**
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "message": "Email OTP is sent"
+        }
+    }
+}
+~~~
+
+**MPC Wallet** 
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "message": "Email OTP is sent"
+        }
+    }
+}
+~~~
+
+
+### 5. **Verify email OTP**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/auth/email/verify
+
+#### **Description**
+
+This endpoint verifies the OTP that was sent to the user's email. It ensures that the email address is valid and belongs to the user, completing the email verification process.
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+#### Body parameters
+
+**email**
+
+The email address to which the OTP was sent and is being verified.
+
+Example: `"jayantk7722@gmail.com"`
+
+**otp**
+
+The OTP code sent to the user's email that needs to be verified.
+
+Example: `"913707"`
+
+**userId**
+
+The unique identifier for the user whose email is being verified.
+
+Example: `"709d7259-5b09-4252-9fa9-2a1f1ddae5b6"`
+
+#### Request Example
+
+~~~
+{
+
+"email" : "jayantk7722@gmail.com",
+
+"otp" : "5881",
+
+"userId" : "709d7259-5b09-4252-9fa9-2a1f1ddae5b6",
+
+"type" : "verify"
+
+}
+
+~~~
+
+#### Response Example
+
+**Verify Email OTP**
+~~~
+
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "message": "Email OTP is verified"
+        }
+    }
+}
+
+~~~
+
+### 6. **Send phone SMS**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/auth/phone/send
+
+#### **Description**
+
+This endpoint sends a One-Time Password (OTP) via SMS to the specified phone number. The OTP is used for verifying the user's phone number during the registration or authentication process.
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+#### Body parameters
+
+**countryCode**
+
+The country code for the phone number, without the '+' sign.
+
+Example: `"91"`
+
+**phone**
+
+The phone number to which the SMS will be sent.
+
+Example: `"7011094328"`
+
+**userId**
+
+The unique identifier for the user requesting the SMS.
+
+Example: `"aac40ea5-8218-4634-8a85-9446236d47ce"`
+
+#### Request Example
+
+~~~
+{
+
+"countryCode": "91",
+
+"phone": "7011094328",
+
+"userId": "aac40ea5-8218-4634-8a85-9446236d47ce"
+
+}
+~~~
+
+#### Response Example
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "message": "Phone OTP is sent"
+        }
+    }
+}
+~~~
+
+### 7. **Verify phone OTP**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/auth/phone/verify
+
+#### **Description**
+
+This endpoint verifies the OTP that was sent to the user's phone number via SMS. It ensures that the phone number is valid and belongs to the user, completing the phone verification process.
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+#### Body parameters
+
+
+**countryCode**
+
+The country code for the phone number, without the '+' sign.
+
+Example: `"91"`
+
+**otp**
+
+The OTP code sent to the user's phone that needs to be verified.
+
+Example: `"319239"`
+
+**phone**
+
+The phone number to which the OTP was sent and is being verified.
+
+Example: `"7011094328"`
+
+**userId**
+
+The unique identifier for the user whose phone number is being verified.
+
+Example: `"aac40ea5-8218-4634-8a85-9446236d47ce"`
+
+
+#### Request Example
+
+~~~
+{
+    "countryCode": "91",
+    "phone": "7011094328",
+    "otp" : "0917",
+    "userId": "aac40ea5-8218-4634-8a85-944665756d47ce",
+     "type" : "verify"
+}
+~~~
+
+#### Response Example
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "message": "Phone OTP is verified"
+        }
+    }
+}
+~~~
+
+### 8. **MPC Verify**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/auth/mpc/verify
+
+#### **Description**
+
+This endpoint verifies user details necessary for MPC (Multi-Party Computation) wallet operations. It ensures that the user's identity and permissions are validated, enabling secure and authorized interactions with the MPC wallet.
+
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+#### Body parameters
+
+
+
+
+**isInternalWallet**
+
+A flag indicating whether the wallet is an internal wallet (true) or an external wallet (false).
+
+Example: `false`
+
+**userId**
+
+The unique identifier for the user requesting the MPC verification.
+
+Example: `"e4ccf0d3-5db9-4d65-a8dc-d48a2611781a"`
+
+**userIndentifier**
+
+A unique identifier associated with the user for the MPC verification process.
+
+Example: `"sdjdafnaknffddeafdafdafdafda"`
+
+
+#### Request Example
+
+~~~
+{
+
+"userIndentifier" : "sdjdafnaknffddeafdafdafdafda",
+
+  
+
+"userId": "e4ccf0d3-5db9-4d65-a8dc-d48a2611781a",
+
+  
+
+"isInternalWallet" : false
+
+}
+~~~
+
+#### Response Example
+
+~~~
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "status": {
+            "success": true,
+            "userShard": "CAENX3j7ccEeg25p9GfxGaIe/UQFcg1NdIHGEhYLQViU4cxTWsF6FE+Ckpd0xUKksEozaewYRUAlDuhcATkRg8MV1wDl8eM/P3oB78spEBJab6Z4ZOlE0ZEtkcSISXEU6Fzvl/tNG3TalNGevlyaVTJgD//3uVUhh0z/rA7o7GtpPR5Aw9a4dxJJnqWryFhrsFM=",
+            "userIndentifier": "sdjdafnaknffddeafdafdafdafda",
+            "AuthType": "GOOGLE"
+        }
+    }
+}
+~~~
+
+### 9. **Send Contract Deploy Request**
+
+#### API Method & URL
+
+**Method** - POST
+
+**URL** - https://wallet-api.kalp.studio/wallet/send-contract-deploy-request
+
+
+#### **Description**
+
+This API endpoint is used to deploy a smart contract to a specified blockchain network. It accepts the contract file and deployment details as input parameters.
+
+#### Header parameters
+
+**apikey** 
+
+A unique API key assigned to the user for authentication and authorization of API requests.
+
+Example: `"31a057fa-a9eb-4527-b3df-b7a6f79fab6c"`
+
+**contentype**
+
+Specifies the content type
+
+Example: `"multipart/form-data"`
+
+#### Body parameters
+
+
+**blockchain**
+
+The blockchain network to deploy the contract on (e.g., `POLY`, `ETH`).
+
+**address**
+
+The wallet address used for deploying the contract.
+
+**solFile**
+
+The Solidity file containing the smart contract code to be deployed.
+
+**userShard**
+
+A unique shard identifier for the user.
+
+**userIdentity**
+
+An optional identity string for the user.
+
+#### Request Example
+
+~~~
+"Authorization: Bearer YOUR_ACCESS_TOKEN" 
+"Content-Type: multipart/form-data" 
+"blockchain=POLY"
+"address=0xb4295b46DA1d9460419a1487b838CBA..."  "solFile=@MultiContractFunc.sol" "userShard=CAG26qxJo/WnzfqI8POPeEILG4ieRyUm..." "userIdentity=sdjdafnaknfffdafdafdafda"
+
+~~~
+
+#### Response Example
+
+~~~
+
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "blockchain": "POLY",
+        "transactionType": "CONTRACT_DEPLOYMENT",
+        "fromAddress": "0xb4295b46DA1d9460419a1487b838CB776b5B2068",
+        "toAddress": "0x240fADAdD962171E7633Fa4EE4b0da5E0Ea0529A",
+        "transactionHash": "0xd1aecffc30b47d5a5e3807440783f597f55325ee7161242c1f4f6581825dc8a4",
+        "blockchainUrl": "https://www.oklink.com/amoy/tx/0xd1aecffc30b47d5a5e3807440783f597f55325ee7161242c1f4f6581825dc8a4",
+        "network": "AMOY",
+        "status": "COMPLETED",
+        "gasUsed": 407396,
+        "gasPrice": 25.000000015,
+        "contractAddress": "0x240fADAdD962171E7633Fa4EE4b0da5E0Ea0529A",
+        "contractName": "MultiFunctionContract"
+    }
+}
+
+~~~
+
+## Feedback
+
+We value your feedback and encourage you to share any suggestions or report any issues you encounter, Raise a ticket at - [**care@kalp.studio**](https://care.kalp.studio/support/home).
