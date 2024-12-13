@@ -218,9 +218,12 @@ A33: This error (Error Code: 101021) indicates that the credentials are invalid 
 
 ## API Reference
 
-### Generate mnemonics
+### **Generate mnemonics**
 
-**Method** - **POST**
+#### API Method & URL
+
+**Method** - POST
+
 **URL** - https://wallet-api.kalp.studio/wallet/create-mnemonics
 
 #### **Description**
