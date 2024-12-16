@@ -188,6 +188,13 @@ nav:
          - How to create an API Auth Key: 'Getting-started/KS-Query/How-to-create-an-API-Auth-Key.md'
          - How to view all your API's: 'Getting-started/KS-Query/How-to-view-your-all-APIs.md'
          - How to view your Dashboard & Subscription details: 'Getting-started/KS-Query/How-to-view-your-Dashboard-and-subscription-details.md'
+      - KS Wallet:
+         - How to get started with KS Wallet: 'Getting-started/KS-Wallet/How-to-get-started-with-ks-wallet.md'
+         - How to view transaction details for wallets: 'Getting-started/KS-Wallet/How-to-view-transaction-details-for-wallets.md'
+         - How to view all wallets: 'Getting-started/KS-Wallet/How-to-view-all-wallets.md'
+         - How to view your KS wallet subscription details: 'Getting-started/KS-Wallet/How-to-view-your-ks-wallet-subscription-details.md'
+         - How to use connect widget feature in KS wallet: 'Getting-started/KS-Wallet/How-to-use-connect-widget-feature-in-ks-wallet.md'
+         - How to use embed widget feature in KS wallet: 'Getting-started/KS-Wallet/How-to-use-embed-widget-feature-in-ks-wallet.md'
   - Dev documentation:
       - Kalp DLT:
           - Use the kalp SDK:
