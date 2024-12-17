@@ -137,12 +137,12 @@ The **Code** option allows you to embed the Connect Widget into your application
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/31.png)
 
-#### **Theme Color:**
+#### **1. Theme Color:**
 
 -   Adjust the **Background Color** and **Text Color** to match your brand or application theme.
 -   Use the color picker to set the desired color, or input the HEX code manually.
 
-#### **Example:**
+#### **2. Example:**
 
 -   In the screenshot, the button background is set to a bold red color `#CD0606`, creating a prominent "Continue" button.
 
