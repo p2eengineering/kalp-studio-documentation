@@ -176,4 +176,4 @@ KS Wallet by **KALP Studio** is a powerful **Wallet-as-a-Service** solution for 
 
 !!! Note
 
-If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
+    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
