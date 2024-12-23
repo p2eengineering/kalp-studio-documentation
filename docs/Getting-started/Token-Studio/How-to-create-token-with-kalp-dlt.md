@@ -137,8 +137,6 @@ This guide will walk you through the process of creating your own digital tokens
 1.  Navigate to **List of Token Created** tab from the navigation menu on the left.
     
 2.  You will see the newly created token pending.
-    
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+15.png)
      
 
 If you are on a limited tier plan, you may encounter a message at the top saying "You've reached the limit for creating tokens on your current plan". In that case you can choose to upgrade your plan by clicking on the **Upgrade** button.If you are on a limited tier plan, you may encounter a message at the top saying "You've reached the limit for creating tokens on your current plan". In that case you can choose to upgrade your plan by clicking on the **Upgrade** button.
