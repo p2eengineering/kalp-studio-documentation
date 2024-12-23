@@ -1,6 +1,8 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+# How to create token with kalp DLT
+
 This guide will walk you through the process of creating your own digital tokens using the Kalp DLT within the Kalp Studio platform. Kalp Studio provides an easy-to-use interface for developers and creators to get started with their digital assets.
 
 ### **Prerequisites**
