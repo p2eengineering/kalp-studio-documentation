@@ -1,4 +1,5 @@
 site_name: Kalp Studio Documentation
+site_description: Kalp Studio's documentation provides developers with essential tools and resources to build, manage, and scale blockchain networks efficiently.
 site_author: Siddhesh Patankar
 copyright: Copyright © 2024 Kalp studio. All rights reserved.
 repo_url: https://github.com/p2eengineering/kalp-studio-documentation

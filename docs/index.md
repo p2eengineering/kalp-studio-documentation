@@ -8,7 +8,7 @@ hide:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kalp Studio Landing Page</title>
+    <title aria-describedby="Kalp Studio's documentation provides developers with essential tools and resources to build, manage, and scale blockchain networks efficiently.">Kalp Studio Landing Page</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -24,14 +24,24 @@ hide:
             background-color: #F5F5F5;
             color: #333;
         }
-        .md-header__inner {
-            max-width: 61rem!important;
-             font-family: "Source Sans 3", sans-serif;
-        }
-        .md-tabs {
-            max-width: 61rem!important;
-            margin: 0 auto;
-        }
+         .material-icons, .octicon {
+                vertical-align: middle;
+                margin-right: 8px;
+            }
+                    .md-grid {
+                max-width: unset;
+            }
+            .md-content__inner {
+                margin: 0;
+            }
+                    .md-header__inner {
+                max-width: 61rem!important;
+                 font-family: "Source Sans 3", sans-serif;
+            }
+            .md-tabs {
+                max-width: 61rem!important;
+                margin: 0 auto;
+            }
         .header {
             color: #000000;
             padding: 40px 0;
@@ -52,23 +62,6 @@ hide:
         .note {
             text-align: left;
         }
-        .grid {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            margin: 10px; /* Reduced from 20px to tighten the overall grid spacing */
-        }
-        .card {
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            margin: 5px; /* Reduced from 10px to decrease the space between cards */
-            padding: 20px;
-            text-align: left;
-            width: 300px;
-            box-sizing: border-box;
-        }
         .card h2 {
             margin-top: 0;
             font-size: 1.5em;
@@ -79,10 +72,6 @@ hide:
         }
         .card a:hover {
             text-decoration: underline;
-        }
-        .material-icons, .octicon {
-            vertical-align: middle;
-            margin-right: 8px;
         }
         footer {
             background-color: #333;
@@ -179,7 +168,7 @@ hide:
             flex-direction: column;
             gap: 0;
         }
-        .build-title-sub-wrapper h4 {
+        .build-title-sub-wrapper h2 {
             font-weight: 700;
             font-size: 24px;
             line-height: 120%;
@@ -242,18 +231,12 @@ hide:
             align-items: center;
             overflow: hidden;
         }
-        .md-grid {
-            max-width: unset;
-        }
-        .md-content__inner {
-            margin: 0;
-        }
         .developer-resource-sub-wrapper {
             display: flex;
             align-items: center;
             flex-direction: column;
         }
-        .developer-resource-sub-wrapper h1 {
+        .developer-resource-sub-wrapper h3 {
             margin: 0;
             font-size: 36px;
             font-style: normal;
@@ -348,7 +331,7 @@ hide:
             justify-content: center;
             max-width: 61rem;
             flex-direction: column;
-            h1 {
+            h3 {
                 font-weight: 700;
                 margin: 0;
                 color: black;
@@ -423,6 +406,36 @@ hide:
             rotate: 30deg;
           }
     </style>
+    <script type="application/ld+json"> 
+    { 
+      "@context": "https://schema.org/", 
+      "@type": "WebSite", 
+      "name": "KalpStudio", 
+      "url": "https://www.kalp.studio/", 
+      "potentialAction": { 
+        "@type": "SearchAction", 
+        "target": "https://docs.kalp.studio/{search_term_string}", 
+        "query-input": "required name=search_term_string" 
+      } 
+    } 
+    </script> 
+    <script type="application/ld+json"> 
+    { 
+      "@context": "https://schema.org/",  
+      "@type": "BreadcrumbList",  
+      "itemListElement": [{ 
+        "@type": "ListItem",  
+        "position": 1,  
+        "name": "KalpStudio", 
+        "item": "https://www.kalp.studio/"   
+      },{ 
+        "@type": "ListItem",  
+        "position": 2,  
+        "name": "Kalp Documentation", 
+        "item": "https://docs.kalp.studio/"   
+      }] 
+    }
+    </script> 
 </head>
 <body>
     <header class="header-main-wrapper">
@@ -440,9 +453,9 @@ hide:
                   <div class="build-wrapper-header">
                      <img src="images/setting.svg" alt="setting-img" />
                       <div class="build-title-sub-wrapper">
-                         <h4>
+                         <h2>
                            Build
-                         </h4>
+                         </h2>
                          <span>
                              Getting started with Kalp Studio.
                           </span>
@@ -458,7 +471,7 @@ hide:
                               </svg>
                           </div>
                           <span class="build-description-card-description">
-                          The onboarding process in kalp studio dashboard is designed to be seamless and user-friendly, guiding new users through the necessary steps to set up their accounts and begin using the platform effectively..
+                          The onboarding process in kalp studio dashboard is designed to be seamless and user-friendly, guiding new users through the necessary steps to set up their accounts and begin using the platform effectively.
                           </span>
                           </div>
                      </a>
@@ -572,9 +585,9 @@ hide:
                      <div class="build-wrapper-header">
                         <img src="images/learn.svg" alt="setting-img" />
                          <div class="build-title-sub-wrapper">
-                            <h4>
+                            <h2>
                               Learn
-                            </h4>
+                            </h2>
                             <span>
                                 Further your understanding of entire kalp studio ecosystem.
                              </span>
@@ -651,9 +664,9 @@ hide:
              </div>
              <div class="developer-resource">
                     <div class="developer-resource-sub-wrapper">
-                        <h1>
+                        <h3>
                         Developer Resources
-                        </h1>
+                        </h3>
                         <span>
                         For developers who know what they want to build and are ready to go with kalp DLT & EVM based blockchains.
                         </span>
@@ -685,7 +698,7 @@ hide:
                         </div>
                     </div>
              <div class="quick-start-wrapper">
-                 <h1>Quick Start</h1>
+                 <h3>Quick Start</h3>
                  <span>
                  Are you ready to start building with kalp studio?
                  </span>
@@ -782,6 +795,5 @@ hide:
                     </a>
                  </div>                            
              </div>
-
 </body>
 </html>
