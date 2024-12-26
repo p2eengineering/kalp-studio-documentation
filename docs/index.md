@@ -685,7 +685,7 @@ hide:
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>Kalp storage OpenAPI Reference</h4>
-                                  <span>Kalp Studio's KS Storage API's offers a decentralized, secure, and scalable solution for file and folder management. Built on IPFS (InterPlanetary File System), KS Storage API Suits allows users to create and organize buckets (top-level containers) and folders (sub-directories) and efficiently upload or manage files, ensuring data resilience and ownership. With decentralized storage, files are stored across a distributed network, reducing dependency on centralized servers and enhancing data security.</span>
+                                  <span>Kalp Studio's Storage API's offers a decentralized, secure, and scalable solution for file and folder management.KS Storage API Suits allows users to create and organize buckets and folders & efficiently upload or manage files, ensuring data resilience and ownership.</span>
                               </div>
                                 </a>
                              <a href="https://docs.kalp.studio/Dev-documentation/EVM-SmartContract/How-To-Write-Smart-Contract-in-Solidity/">
