@@ -786,7 +786,7 @@ hide:
                           </svg>
                           </div>
                           <div class="quick-start-wrapper-sub-wrapper">
-                          <span>How can I monitor all my transactions</span>
+                          <span>How can I monitor all my transactions </span>
                               <svg width="16" height="16" class="arrow-wrapper" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                               <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                               </svg>
