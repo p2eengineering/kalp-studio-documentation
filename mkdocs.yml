@@ -183,7 +183,6 @@ nav:
           - How to create token: 'Getting-started/Token-Studio/How-to-create-token.md'
           - How to view list of token created: 'Getting-started/Token-Studio/How-to-view-list-of-token-created.md'
           - How to view subscription details: 'Getting-started/Token-Studio/How-to-view-subscription-details.md'
-          - How to create token with Kalp DLT: 'Getting-started/Token-Studio/How-to-create-token-with-kalp-dlt.md'
       - KS Query:
          - How to get started with KS Query: 'Getting-started/KS-Query/How-to-get-started-with-KS-Query.md'
          - How to select blockchain and network on KS Query: 'Getting-started/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
