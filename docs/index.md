@@ -681,7 +681,7 @@ hide:
                             <span>This guide provides an overview of the essential steps involved in deploying a smart contract on Kalp DLT & EVM-based chains, from setting up the development environment to deploying and verifying your contract on the network and managing your deployment journey on kalp studio.</span>
                         </div>
                         </a>
-                             <a href="https://docs.kalp.studio/API-Reference/IPFS-OpenAPI-Reference/">
+                             <a href="https://docs.kalp.studio/API-Reference/Kalp-storage-OpenAPI-Reference/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>Kalp storage OpenAPI Reference</h4>
