@@ -18,7 +18,7 @@
 
 ## Step 1: Log in to Kalp Studio
 
-1. Visit the [Kalp Studio website](https://accounts.kalp.studio/login).
+1. Log into Kalp Studio (https://accounts.kalp.studio/login).
 2. Log in to your account using your credentials. If you don’t have an account, sign up to create one.
 3. Once logged in, you’ll be redirected to the **Dashboard**, where you can explore various products and features.
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Step 3: Accessing KS Query as a Free Trial
+## Step 3: Accessing KS Query as a New User
 
 From the **Dashboard**, scroll down to the **Our Products** section.
 

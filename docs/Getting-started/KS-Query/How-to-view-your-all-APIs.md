@@ -18,12 +18,10 @@ The KS Query platform allows users to easily access and explore various APIs. He
 
 ## Step 1: Navigate to the Dashboard
 
-1. Visit the [Kalp Studio website](https://accounts.kalp.studio/login).
+1. Log into Kalp Studio platform (https://accounts.kalp.studio/login).
 
-  
 
 2. Log in to your account using your credentials. If you don’t have an account, sign up to create one.
-
   
 
 3. Once logged in, you’ll be redirected to the **Dashboard**, where you can explore various products and features.

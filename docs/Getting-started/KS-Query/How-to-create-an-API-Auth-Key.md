@@ -20,7 +20,7 @@ An API authentication key is essential for securely accessing the features and f
 
 ## Step 1: Navigate to the Dashboard
 
-1. Visit the [Kalp Studio website](https://accounts.kalp.studio/login).
+1. Log into Kalp studio platform (https://accounts.kalp.studio/login).
 
 2. Log in to your account using your credentials. If you don’t have an account, sign up to create one.
 

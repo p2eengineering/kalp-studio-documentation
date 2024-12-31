@@ -11,6 +11,7 @@
 !!! Info
    
     Users can currently select only the KALP DLT chain and the Test Net network. Support for other options, such as Ethereum and Binance, will be introduced in upcoming releases.
+
 ## Introduction
 
 The **KS Query Dashboard** is your centralized hub for managing API requests, monitoring usage, and exploring subscription details. It provides a comprehensive overview of your plan's performance and usage statistics, ensuring transparency and efficiency in accessing blockchain data. Whether you're a developer or a business professional, understanding your subscription and API metrics is crucial for effective resource management. In this guide, we'll walk you through the process of navigating the dashboard and accessing your subscription details, helping you make the most of the KS Query platform.
@@ -75,7 +76,7 @@ Managing your subscription is straightforward in KS Query. Here's a guide to vie
 
 #### Step 1: Navigate to the Subscription Page
 
-1.  Log in to your **KS Query** dashboard.
+1.  Log in to kalp studio platform and locate your **KS Query** dashboard.
 2.  From the left-hand side menu, select **Subscription**.
 
 ----------

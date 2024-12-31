@@ -17,9 +17,10 @@ Using **KS Query** effectively begins with selecting the right blockchain and ne
 ---
 
 ## Step 1: Locate KS Query in the Dashboard
-  
 
-1. From the **Dashboard**, scroll down to the **Our Products** section.
+1. Log into Kalp Studio (https://accounts.kalp.studio/login).
+2. Log in to your account using your credentials. If you don’t have an account, sign up to create one.
+3. From the **Dashboard**, scroll down to the **Our Products** section.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
   
