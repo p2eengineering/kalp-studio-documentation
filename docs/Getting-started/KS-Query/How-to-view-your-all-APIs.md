@@ -49,111 +49,104 @@ The KS Query platform allows users to easily access and explore various APIs. He
 
 ## **Step 2: Go to the "All APIs" Section**
 
--   Click on the **"All APIs"** option in the left-hand menu.
--   This will take you to a detailed view showcasing all the APIs available under your subscription.
+KS Query allows users to efficiently view and interact with all APIs for blockchain operations, including details about **Smart Contracts**, **Blocks**, **Transactions**, and the **Network List**.
 
-## **Step 3: Viewing APIs in KS Query: Organized by Categories**
-
-The KS Query platform allows users to explore APIs categorized into **Channels**, **Smart Contracts**, **Blocks**, **Transactions**, and **Network List**. Here's how you can view and interact with APIs based on these categories:
-
-----------
-
-#### **1. Channels**
-
-The **Channel** section provides APIs related to channel data, allowing you to fetch channel-related information.
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/25.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/1.png)
 
 
--   **How to Access:**
-    
-    -   Navigate to the **"All APIs"** tab on the left-hand menu.
-    -   Select the **Channel** tab on the top of the API list.
--   **Features Available:**
-    
-    -   **Retrieve Channel Information:** Use APIs to fetch details such as channel IDs, names, and related metadata.
-    -   **Example API Actions:**
-        -   `GET` APIs for fetching lists of channels.
-        -   Parameters can be checked by clicking the **"Check Params"** button.
 
-----------
+### 1. Navigate to the "All APIs" Section
+- Open the KS Query dashboard and click on the **All APIs** option from the left sidebar.
 
-#### **2. Smart Contracts**
-
-The **Smart Contracts** category includes APIs for interacting with and retrieving data about smart contracts.
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/26.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/2.png)
 
 
--   **How to Access:**
-    
-    -   Under the **"All APIs"** section, click on the **Smart Contracts** tab.
--   **Features Available:**
-    
-    -   **Get Smart Contract Details:** Retrieve information like deployed smart contracts, associated data, and usage statistics.
-    -   **Example API Actions:**
-        -   `GET` APIs to fetch a list of deployed contracts or specific contract details.
-        -   Use **"Check Params"** for parameter insights.
+### 2. Overview of Total API Hits
+- The total number of API hits is displayed prominently at the top, providing insights into the API usage statistics.
 
-----------
+### 3. Browse API Categories
+- Below the API hits section, you will find tabs for different API categories. Click on the tabs to view APIs for:
+  - **Smart Contracts**: APIs related to managing and querying smart contracts.
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
 
-#### **3. Blocks**
+  - **Blocks**: APIs to retrieve block-related data from the blockchain.
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/4.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/27.png)
+  - **Transactions**: APIs for fetching transaction details and history.
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/5.png)
 
+  - **Network List**: APIs that list supported blockchain networks and configurations.
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/6.png)
 
-The **Blocks** section provides APIs for interacting with blockchain blocks.
+### 4. Check Parameters Details of API 
 
--   **How to Access:**
-    
-    -   From the **"All APIs"** page, select the **Blocks** tab.
--   **Features Available:**
-    
-    -   **Retrieve Block Data:** Fetch details about blocks on the blockchain, such as block height, hash, or transaction counts.
-    -   **Example API Actions:**
-        -   `GET` APIs for listing blocks or fetching block-specific information.
-        -   Use the **"Check Params"** button to view required inputs.
+Click on the **Check Params** to view details of  Particular Smart contract, Blocks, Networks or Network List. 
 
-----------
-
-#### **4. Transactions**
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/28.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/2.png)
 
 
-The **Transaction** category provides APIs for accessing transaction-level details on the blockchain.
-
--   **How to Access:**
-    
-    -   Navigate to the **Transaction** tab under the **"All APIs"** section.
--   **Features Available:**
-    
-    -   **Fetch Transaction Details:** View transaction data, including transaction IDs, statuses, and associated events.
-    -   **Example API Actions:**
-        -   `GET` APIs to retrieve transaction lists or specific transaction details by ID.
-        -   **"Check Params"** helps you understand required query parameters.
-
-----------
-
-#### **5. Network List**
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/29.png)
+### 5. API Route Details
 
 
-The **Network List** provides a comprehensive list of supported networks and blockchains accessible through KS Query.
+####  **Params**
+The `Params` tab provides header and query parameters required for API requests.
 
--   **How to Access:**
-    
-    -   Under the **"All APIs"** section, select the **Network List** tab.
--   **Features Available:**
-    
-    -   **View Supported Networks:** See details of blockchains like KALP DLT, Ethereum (Mainnet and Testnet), Binance Smart Chain, and more (upcoming).
-    -   **Network Details:** The list displays blockchain name and the corresponding network (e.g., **Devnet**, **Mainnet**, **Testnet**).
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
 
 
-## Conclusion
+##### Header Parameters
+| Name        | Type   | Description                            |
+|-------------|--------|----------------------------------------|
+| `network`   | header | Network name (required)               |
+| `blockchain`| header | Blockchain name (required)            |
+| `api-key`   | header | API key for authentication (required) |
 
-By categorizing APIs into **Channels**, **Smart Contracts**, **Blocks**, **Transactions**, and **Network List**, KS Query ensures a seamless user experience.
+##### Search Parameters
+| Name                 | Type   | Description                                            |
+|----------------------|--------|--------------------------------------------------------|
+| `smartContractName`  | query  | The name of the smart contract to filter by (optional) |
+| `from`               | query  | Start date for filtering (optional, ISO 8601 date)    |
+| `to`                 | query  | End date for filtering (optional, ISO 8601 date)      |
+
+---
+
+####  **Blockchain & Network**
+The `Blockchain & Network` tab lists available blockchain networks supported by KS Query.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
+
+
+##### Available Networks
+| Name       | Network | Blockchain |
+|------------|---------|------------|
+| `KALP DLT` | DEVNET  | KALP       |
+
+---
+
+#### **API Auth Key**
+The `API Auth Key` tab displays the keys created for accessing APIs.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
+
+
+##### Generated Keys
+| Key Name    | API Auth Key                          |
+|-------------|---------------------------------------|
+| `testapikey`| `9e48fec58f60807...4d1`              |
+
+> **Tip:** You can copy the API key by clicking the copy icon beside the key.
+
+---
+
+#### Conclusion 
+
+The Kalp studio Query feature provides a comprehensive and user-friendly interface for accessing blockchain data through APIs. With well-organized features like Routes Detail, users can easily configure requests using clearly defined parameters, explore supported blockchain networks, and securely manage API authentication keys. The intuitive design of the dashboard and its streamlined navigation ensure seamless user experience for developers, enabling quick integration and efficient data retrieval. KS Query empowers developers with the tools needed to build robust blockchain applications, making it an indispensable resource for blockchain-based projects.
+
+
+
+
+
+---
 
 
 !!! Note
