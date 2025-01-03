@@ -16,7 +16,6 @@ KS Query APIs offer a comprehensive suite of endpoints to interact with blockcha
 - **Smart Contracts**: Query and analyze smart contract information.
 - **Blocks**: Retrieve details of blocks, including transactions and timestamps.
 - **Transactions**: Track transaction data across the network.
-- **Network List**: Access network details such as nodes, peers, and metrics (future feature).
 
 Before starting, familiarize yourself with the available endpoints through the **API Console** provided in the KS Query platform.
 
@@ -45,11 +44,9 @@ Navigate to the **KS Query API Console** and locate the **All APIs** section. He
 - **Transactions**
 - **Network**
 
-### b. Select and Copy the Endpoint
-Choose the endpoint you wish to use and copy its URL. For example:
+### b. Select and Copy the required inputs
 
-
-    https://dev-ks-explorer.p2eppl.com/home
+Choose the endpoint you wish to use and copy its URL. [For example this is our KS query explorer URL](https://dev-ks-explorer.p2eppl.com/home)
 
 
 ### c. Check Parameters
