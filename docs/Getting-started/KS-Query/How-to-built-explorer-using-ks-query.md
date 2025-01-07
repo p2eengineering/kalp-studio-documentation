@@ -44,7 +44,7 @@ Navigate to the **KS Query API Console** and locate the **All APIs** section. He
 - **Transactions**
 - **Network**
 
-### b. Select and Copy the required inputs
+### b. Select and Copy the required inputs  
 
 Choose the endpoint you wish to use and copy its URL. [For example this is our KS query explorer URL](https://dev-ks-explorer.p2eppl.com/home)
 
