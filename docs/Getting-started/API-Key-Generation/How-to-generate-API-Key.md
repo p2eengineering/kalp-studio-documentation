@@ -12,7 +12,7 @@ Generating an API key is a crucial step for integrating and utilizing the featur
     
 2.  Navigate to the API Key Generation:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/1.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/4.png)
 
 ### Create a New API Key
 
@@ -54,6 +54,12 @@ After filling in the details, click on the **Create Now** button to generate the
 -   Here, you can see details such as the Key Name, Last Used date, API Auth Key, Date Created, and Status.
     
 -   You can activate or deactivate keys using the toggle switch under the Status column.
+
+### 5. How it works
+
+The wallet section of the KALP Studio console has been updated to include a "How it works?" link. This addition provides users with access to detailed documentation on API key generation, helping them understand and utilize the feature effectively. 
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/4.png)
     
 
 ### Conclusion

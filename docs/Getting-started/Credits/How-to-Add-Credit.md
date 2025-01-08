@@ -47,6 +47,12 @@ A pop-up window will open where users can see their entered amount in USD conver
 1.  **View Transaction Confirmation**: Once the transaction is complete, you will see a confirmation message indicating that credits have been added successfully. This screen will display the transaction ID and the amount added.
     
 2.  **Check Updated Balance**: Return to the Credits page to verify that your total credit balance has been updated with the newly added amount.
+
+### Top-Up the credits
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/6.png)
+
+The billing section of the KALP Studio console has been enhanced with a "Top Up" button, allowing users to conveniently add credits to their account balance. Additionally, the interface provides clear plan options, including Starter, Developer, and Enterprise, with respective pricing and features outlined for easy subscription management.
     
 
 By following these steps, you can easily add credits to your KALP Studio wallet, enabling you to utilize various services and features on the platform.

@@ -28,7 +28,7 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 #### 3. Choose Wallet Type
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/6.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/1.png)
 
 -   **Select Wallet Type**: You will be presented with options to choose the type of wallet. Kalp Studio supports multiple types of wallets such as:
     

@@ -71,6 +71,13 @@ The Dashboard also highlights various products offered by Kalp Studio:
 -  **API Gateway**: The API Gateway provides a unified interface, enabling easy integration with smart contracts via both REST and GraphQL APIs. This product is designed to simplify the interaction between your applications and blockchain, making it easier for developers to manage transactions and queries. With a starting plan of $7.00 credits, it caters to businesses and developers aiming to connect seamlessly with decentralized technologies.
 
 -  **TokeniFy – Asset Tokenization Platform**: TokeniFy offers a powerful platform to tokenize real-world assets, enabling businesses to create branded tokenization platforms. This product allows users to convert physical assets into digital tokens, facilitating ownership and trading within a secure blockchain environment. It's a solution tailored for enterprises looking to harness the power of tokenization for asset management. Users can request a demo to explore its potential.
+
+### **Subscription Expiration**
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/5.png)
+
+
+The KALP Studio console dashboard has been enhanced to notify users about subscription expirations for individual products. A clear message, "Subscription expired. Renew to continue," is displayed along with a "Renew" button, enabling users to promptly renew their subscriptions and maintain uninterrupted access to the services.
   
 
 ### **Accessing Kalp Apps**

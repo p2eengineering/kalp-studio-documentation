@@ -113,7 +113,9 @@ In the upper-right corner, there is an "Apps" icon that, when clicked, displays 
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/10.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/11.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/1.png)
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/2.png)
 
 To fully utilize Kalp Studio’s features, you need to connect your wallet. Click the "Connect now" button on the dashboard to link or connect your Kalp wallet or other wallets mentioned above. This connection is crucial for accessing decentralized applications and handling transactions securely.
 

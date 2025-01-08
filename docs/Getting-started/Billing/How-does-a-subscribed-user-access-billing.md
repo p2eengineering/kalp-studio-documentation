@@ -54,6 +54,12 @@ Below the Billing Summary, the "Your Subscription" section provides detailed inf
 
 **→ Renew**: Option to renew the subscription.
 
+### Top-Up the credits
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/6.png)
+
+The billing section of the KALP Studio console has been enhanced with a "Top Up" button, allowing users to conveniently add credits to their account balance. Additionally, the interface provides clear plan options, including Starter, Developer, and Enterprise, with respective pricing and features outlined for easy subscription management.
+
 ### Product Listings
 
 
