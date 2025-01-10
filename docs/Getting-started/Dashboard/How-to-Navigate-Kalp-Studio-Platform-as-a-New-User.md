@@ -119,6 +119,87 @@ In the upper-right corner, there is an "Apps" icon that, when clicked, displays 
 
 To fully utilize Kalp Studio’s features, you need to connect your wallet. Click the "Connect now" button on the dashboard to link or connect your Kalp wallet or other wallets mentioned above. This connection is crucial for accessing decentralized applications and handling transactions securely.
 
+### **How to Use the Chat Support Option in Kalp Studio**
+
+#### **Introduction**
+Kalp Studio provides an integrated chat support feature to assist users with any queries or technical issues. Whether you need help deploying smart contracts, troubleshooting errors, or exploring features, the support team is just a few clicks away. This guide will walk you through the steps to access and use the chat support feature effectively.
+
+---
+
+#### **Step 1: Access the Dashboard**
+1. Log in to your Kalp Studio account.
+2. Once logged in, you will see the main dashboard. This is your starting point for accessing all features, including support.
+
+
+---
+
+#### **Step 2: Locate the Chat Support Icon**
+1. In the bottom-right corner of the dashboard, you’ll see a **chat icon** (a speech bubble). 
+2. Click on the icon to open the support chat window.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+1.png)
+
+
+---
+
+#### **Step 3: Open the Chat Window**
+1. When you click the chat icon, a small window will pop up on the right side of the screen. This window is titled **"Kalp Studio"**.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+2.png)
+
+2. If support is **offline**, the window will display a message like:  
+   *"We are not available right now. Please leave us a voice mail or a message. We'll get back as soon as possible."*
+
+---
+
+#### **Step 4: Leave a Message**
+1. Click the **"Leave a message"** option in the chat window.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+5.png)
+
+
+2. Enter your query or issue. For example, if you need help deploying a smart contract, you could type:
+   - *"I need help with smart contract deployment."*
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+3.png)
+
+3. Press **Enter** or click the send icon to submit your message.
+
+---
+
+#### **Step 5: Enter Your Details**
+1. The chat may prompt you with additional questions like:
+   - *"How would you like to be addressed?"*
+2. Provide your preferred name or any necessary details as requested.
+
+---
+
+#### **Step 6: Access Previous Conversations**
+1. If you need to revisit a previous chat, click the **"Conversation"** tab at the bottom of the chat window.
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+4.png)
+
+2. This section stores your chat history, allowing you to refer to past support interactions.
+
+---
+
+#### **Step 7: Close or Start a New Conversation**
+
+1. To end the current chat, simply close the chat window by clicking the **"X"** button at the bottom-right corner of the window.
+
+---
+
+#### **Tips for Effective Support**
+
+- Be clear and specific in describing your issue.
+
+- Include details like the feature you're using, error messages, or steps you've already tried.
+
+- If possible, provide screenshots to help the support team understand your problem better.
+
+---
+
+The chat support feature in Kalp Studio is designed to provide quick assistance for all your needs. By following the steps outlined in this guide, you can ensure smooth communication with the support team and get your queries resolved promptly.
+
 ### **Help and Support**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/12.png)
