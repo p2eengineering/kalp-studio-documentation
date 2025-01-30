@@ -56,6 +56,8 @@ Now that you’re subscribed, return to the **Dashboard** and explore **Token St
 
 Once created, you can manage your tokens through the same interface. Kalp Studio provides additional functionalities like token distribution, minting, and tracking, making it easy to handle all aspects of token management in one place.
 
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
+
 ## Conclusion
 
 Kalp Studio’s **Token Studio** is an efficient tool for managing tokens on the blockchain. By subscribing to the plan that suits your needs and following these steps, you can start creating and managing tokens effortlessly. Whether you're a developer or an enterprise, Kalp Studio's Token Studio simplifies the blockchain token management experience.

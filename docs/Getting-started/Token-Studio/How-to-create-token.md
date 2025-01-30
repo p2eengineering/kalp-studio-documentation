@@ -56,13 +56,15 @@ Toggle these options as per your token’s requirements.
 
 Once you have configured all the parameters, double-check your entries. When you are ready, click **Create Token**. The platform will process your token creation request, deploying the token contract on the blockchain.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/11.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+13.png)
 
 ## Step 7: View and Manage Created Tokens
 
 After successfully creating your token, navigate to **List of Token Created** in the sidebar. Here, you can view details of all tokens you've created and manage them as needed.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/19.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+14.png)
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
 
 ## Important Considerations
 

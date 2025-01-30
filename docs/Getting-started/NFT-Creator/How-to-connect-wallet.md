@@ -31,7 +31,7 @@ Creating or connecting a wallet on NFT Creator is a straightforward process desi
 
 #### 3. Choose Wallet Type
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+images/3.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 !!! Note
 If you select “Create New Wallet”, you get to choose wallet type.

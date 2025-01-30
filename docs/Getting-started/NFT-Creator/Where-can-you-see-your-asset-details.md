@@ -42,7 +42,7 @@ The search bar at the top allows for easy searching of assets by keywords, such 
     
     1.  **NFT Preview**: A preview section which showcases your actual NFT media (including the play/pause controls for video, music NFTs and a renderer for 3D NFTs)
         
-    2.  **Blockchain**: Information on which blockchain (e.g., Ethereum) the NFT is minted.
+    2.  **Blockchain**: Information on which blockchain (e.g., Kalp) the NFT is minted.
         
     3.  **Creator’s Address**: Shows the wallet address of the asset creator, providing transparency and ownership verification.
         

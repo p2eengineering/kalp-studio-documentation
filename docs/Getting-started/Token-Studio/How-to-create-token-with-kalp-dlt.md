@@ -65,15 +65,13 @@ This guide will walk you through the process of creating your own digital tokens
     
 2.  Click on the **+ Connect Wallet** button located on the top right corner of the page.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+9.png)
-     
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)     
 
 3.  You will be presented with a list of wallet options.
     
 4.  Select **KALP DLT**. This will ensure your tokens are associated with your specific Kalp DLT wallet.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+10.png)
-     
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)     
 
 5.  Once the wallet is connected, the wallet address will be visible.
     

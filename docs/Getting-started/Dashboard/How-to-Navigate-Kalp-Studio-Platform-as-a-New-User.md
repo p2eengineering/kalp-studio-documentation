@@ -113,7 +113,7 @@ In the upper-right corner, there is an "Apps" icon that, when clicked, displays 
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/10.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/1.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/2.png)
 

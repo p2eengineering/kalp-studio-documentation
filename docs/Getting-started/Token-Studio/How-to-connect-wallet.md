@@ -19,11 +19,11 @@ If you haven’t connected a wallet yet, clicking **Create New Token** will prom
 
 ## Step 3: Select a Wallet Provider
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/12.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 In the wallet connection dialog, you’ll see a list of supported wallet providers. Kalp Studio currently supports popular options such as:
 
--  **MetaMask**
+-  **Kalp DLT**
 
 -  **Kalp Studio Wallet**
 
@@ -31,11 +31,11 @@ In the wallet connection dialog, you’ll see a list of supported wallet provide
 
 Choose the wallet provider you prefer. For this example, we’ll proceed with **MetaMask**.
 
-## Step 4: Connect Your MetaMask Wallet
+## Step 4: Connect Your Kalp studio Wallet
 
 Once you select MetaMask, the MetaMask extension or application (if installed) will open and prompt you to confirm the connection. Follow these steps:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/20.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 
 1.  **Open MetaMask**: If prompted, enter your MetaMask password to unlock your wallet.
@@ -48,11 +48,11 @@ Once you select MetaMask, the MetaMask extension or application (if installed) w
 
 After confirming the connection, you’ll see your wallet connected on the Kalp Token Studio interface. Now, you are ready to use the Token studio to create and deploy your tokens.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/17.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/13.png)
 
 ## Step 6: Start Creating Tokens
 
-Now that your wallet is connected, go back to **Dashboard** and click **Create New Token** again. The platform will allow you to proceed with the token creation process. You can set parameters like token name, symbol, and standard (e.g., ERC20) as per your requirements.
+Now that your wallet is connected, go back to **Dashboard** and click **Create New Token** again. The platform will allow you to proceed with the token creation process. You can set parameters like token name, symbol, and standard as per your requirements.
   
 
 !!! Note

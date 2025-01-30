@@ -25,8 +25,7 @@ On the left sidebar of the dashboard, you’ll see various options such as **Tok
 
 In the **List of Token Created** section, you’ll see a list of all tokens, including important information such as:
 
- ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/19.png)
-
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
 
 
 #### **Detailed Information Available**
@@ -60,12 +59,12 @@ Each token entry includes the following key attributes:
 
 ##### **f. Blockchain**
 
--   The blockchain on which the token resides (e.g., Ethereum, Binance Smart Chain).
+-   The blockchain on which the token resides (e.g., Kalp DLT).
 -   Helps users track the token's compatibility with specific blockchain networks.
 
 ##### **g. Network**
 
--   Indicates the specific network within the blockchain ecosystem where the token was deployed (e.g., Ethereum's Holesky testnet, Mainnet).
+-   Indicates the specific network within the blockchain ecosystem where the token was deployed (e.g., Kalp's  Devnet, Mainnet).
 -   Helps identify whether the token is in a testing or live environment.
 
 ##### **h. Transaction ID**
@@ -81,13 +80,13 @@ Each token entry includes the following key attributes:
 -   Clicking the link redirects you to the blockchain explorer of the respective network.
 -   On the blockchain explorer, users can view:
 
-    -Detailed transaction history.
+    1. Detailed transaction history.
 
-    -Timestamp of the token deployment.
+    2. Timestamp of the token deployment.
 
-    -Gas fees paid for deployment.
+    3. Gas fees paid for deployment.
 
-    -Contract address of the token.
+    4. Contract address of the token.
 
 
 ## Step 4: Manage Each Token
