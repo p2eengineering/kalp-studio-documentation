@@ -11,6 +11,9 @@ If you don’t have an account yet, here’s how to get started:
 
 ### **Step 1: Navigate to the Sign In Page**
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r1.png)
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r2.png)
 1.  First, visit the Kalp Studio website or app.
     
 2.  On the login page, you will see a "Sign In" option. Below it, find and click the "Register Now" link. This will take you to the registration page.
@@ -26,13 +29,16 @@ On the “Create Kalp Studio Account” page, you’ll need to provide some basi
     
 3.  Once your email address is entered, click the "Verify Email" button. This will send a one-time password (OTP) to your email.
     
+    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r3.png)
 
 ### **Step 3: Verify Your Email**
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r4.png)
 
 1.  After clicking “Verify Email,” you will see a field to enter an OTP.
     
 2.  Go to your email inbox and copy the OTP you received from Kalp Studio.
     
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r5.png)
 
 3.  Enter the OTP in the provided "Enter OTP" field.
     
@@ -53,9 +59,10 @@ If you have a referral code, enter it in the "Enter Referral (Optional)" field. 
 1.  Read the "Terms & Conditions" and "Privacy Policy" links.
     
 2.  By clicking on the “Register” button, you agree to these terms.
-    
+    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r6.png)
 
 ### **Step 6: Email Verification Success**
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r7.png)
 
 1.  Once registration is successful, you'll see a confirmation popup saying “Email Verified”.
     
@@ -72,6 +79,7 @@ Once you have your Kalp Studio account, signing in is quick and easy:
     
 
 ### **Step 2: Enter Your Login Credentials**
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r1.png)
 
 1.  **Email:** Enter the email address you used during registration in the "Enter Your Email" field.
     

@@ -76,7 +76,7 @@ Users can search for specific products using the search bar and sort the product
 
 ### Subscription Plans for New Users
 
-![](https://docs.kalp.studio/~gitbook/image?url=https%3A%2F%2F1148605496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4gkv2XhY4CmWY6Vp0djW%252Fuploads%252FFKWYYyUeO9Fm97kSp9ap%252Fimage.png%3Falt%3Dmedia%26token%3D20fec196-faa7-4c9a-9de5-78a6a657effa&width=768&dpr=4&quality=100&sign=6d06e8fe&sv=1)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+access+billing/New+User/nu1.png)
 
 A new user on Kalp Studio starts with a **Personal Plan**. The Personal Plan is designed for individual users or small-scale projects. Users can easily upgrade their plans to suit their growing needs. The available plans include:
 
