@@ -136,7 +136,8 @@ nav:
           - What is kalp instant deployer: 'Introduction/What-is-kalp-instant-deployer.md'
           - What is kalp wallet: 'Introduction/What-is-kalp-wallet.md'
           - Kalp DLT: 'Introduction/Kalp-DLT.md'
-  - Getting started:
+  - Products:
+
       - Onboarding:
           - How to Sign Up and Log In to Kalp Studio Platform: 'Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform.md'
           - How to Change the Password: 'Getting-started/Onboarding/How-to-Change-the-Password.md'
@@ -164,17 +165,20 @@ nav:
           - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
       - Faucets:
           - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
+      - KS Pay
+          - How to change password on KS Pay: 'docs/Products/KS Pay/How to change the password on KS Pay.md'
       - Kalp studio storage:
           - How to get started with kalp storage: 'Getting-started/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
           - FAQ: 'Getting-started/Kalp-Studio-Storage/FAQ.md'
           - IPFS OpenAPI Documentation: 'Getting-started/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
       - NFT Creator:
-          - How to connect wallet: 'Getting-started/NFT-Creator/How-to-connect-wallet.md'
-          - How to create NFT: 'Getting-started/NFT-Creator/How-to-create-NFT.md'
-          - Deleting an NFT: 'Getting-started/NFT-Creator/Deleting-an-NFT.md'
-          - How to view all your NFTs Grid and List views: 'Getting-started/NFT-Creator/How-to-view-all-your-NFT-Grids-and-List-Views.md'
-          - How to view your Catalog: 'Getting-started/NFT-Creator/How-to-view-your-catalog.md'
-          - Where can you see your asset details: 'Getting-started/NFT-Creator/Where-can-you-see-your-asset-details.md'
+          - How to connect wallet: 'docs/Products/NFT Creator/How to connect wallet.md'
+          - How to create a catalog: 'docs/Products/NFT Creator/How to create a catalog.md'
+          - How to create NFT: 'docs/Products/NFT Creator/How to create NFT.md'
+          - How to delete NFT: 'docs/Products/NFT Creator/How to Delete an NFT.md'
+          - How to see all asset details: 'docs/Products/NFT Creator/How to see all asset details.md'
+          - How to view all your NFTs: 'docs/Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
+          - How to view your catalog: 'docs/Products/NFT Creator/How to view your Catalog.md'
       - Token Studio:
           - How to get started with token creator: 'Getting-started/Token-Studio/How-to-get-started-with-token-studio.md'
           - How to connect wallet: 'Getting-started/Token-Studio/How-to-connect-wallet.md'
