@@ -21,9 +21,8 @@ Make sure to connect your wallet first to see all NFTs created on that network.
 
 The grid layout is the default view for NFTs in Kalp Studio’s NFT Creator, presenting assets visually with easy-to-read thumbnails.
 
-Open image-20241029-080315.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft1.png)
 
-![image-20241029-080315.png](blob:https://p2eprojects.atlassian.net/195a60ef-e738-4ce0-86d9-29f1a36e0e9d#media-blob-url=true&id=a8aa03ac-d21a-48c2-9244-9ab63e07793c&collection=contentId-421298648&contextId=421298648&width=1893&height=879&alt=image-20241029-080315.png)
 
 1.  Upon entering the **All NFTs** section, you will see your assets displayed as tiles.
     
@@ -43,9 +42,7 @@ Open image-20241029-080315.png
 
 ### **Step 3: Switching to List Layout**
 
-Open image-20241029-080345.png
-
-![image-20241029-080345.png](blob:https://p2eprojects.atlassian.net/c514098d-b11d-4a74-a5d0-64f43f037bae#media-blob-url=true&id=19897880-51a0-4737-abb7-2e90e5f0f493&collection=contentId-421298648&contextId=421298648&width=1912&height=898&alt=image-20241029-080345.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft2.png)
 
 If you prefer a detailed, table-based view, switch to the list layout by following these steps:
 
@@ -69,9 +66,7 @@ In the list view, you’ll find:
 
 ### **Step 4: Viewing NFTs on the Blockchain**
 
-Open image-20241029-080911.png
-
-![image-20241029-080911.png](blob:https://p2eprojects.atlassian.net/28dedb94-e08b-4a2c-9e01-97092043b76c#media-blob-url=true&id=4f45f90f-6ade-4311-acc1-e48e3c65f5d2&collection=contentId-421298648&contextId=421298648&width=1858&height=745&alt=image-20241029-080911.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft3.png)
 
 For each NFT, the platform provides a direct link to view its blockchain record.
 

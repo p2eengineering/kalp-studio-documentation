@@ -14,17 +14,14 @@ Start by logging into your Kalp Studio account. Once logged in, open ‘NFT Crea
 
 On the left-hand side of the dashboard, you’ll see a navigation menu. Click on the **NFT Portfolio** option to expand it.
 
-Open image-20241029-102443.png
 
-![image-20241029-102443.png](blob:https://p2eprojects.atlassian.net/2c6f1629-50ef-409c-a94e-d40912410a6c#media-blob-url=true&id=18905bd3-c172-4409-bd41-c1a9e21c5908&collection=contentId-423264320&contextId=423264320&width=1889&height=899&alt=image-20241029-102443.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc1.png)
 
 ### **Step 3: Access 'My Catalogs'**
 
 Within the NFT Portfolio section, select **My Catalogs**. This opens the catalog view, where you can see all custom catalogs created by you.
 
-Open image-20250129-083600.png
-
-![image-20250129-083600.png](blob:https://p2eprojects.atlassian.net/5791e956-4e33-4423-b4b6-c5d110877e2c#media-blob-url=true&id=5a45a06e-d2c9-4727-856d-8ffeca8d73fc&collection=contentId-423264320&contextId=423264320&width=1701&height=667&alt=image-20250129-083600.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc2.png)
 
 ### **Step 4: Explore Your Catalogs**
 
@@ -46,6 +43,4 @@ Once in the **My Catalogs** section, you’ll see a grid displaying each catalog
     -   Catalog description
         
 
-Open image-20250129-083758.png
-
-![image-20250129-083758.png](blob:https://p2eprojects.atlassian.net/bdc5ef19-c7df-4f0f-9eb6-16c8f63f7f0c#media-blob-url=true&id=af62f3fa-71fc-4fbe-aff4-98c20e72dc7f&collection=contentId-423264320&contextId=423264320&width=1676&height=800&alt=image-20250129-083758.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc3.png)

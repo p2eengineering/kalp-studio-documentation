@@ -165,7 +165,7 @@ nav:
           - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
       - Faucets:
           - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
-      - KS Pay
+      - KS Pay:
           - How to change password on KS Pay: 'docs/Products/KS Pay/How to change the password on KS Pay.md'
       - Kalp studio storage:
           - How to get started with kalp storage: 'Getting-started/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'

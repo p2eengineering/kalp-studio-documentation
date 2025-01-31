@@ -8,9 +8,8 @@ Creating a catalog for your NFTs can make managing and organizing multiple asset
 
 ### **Step 1: Accessing the NFT Portfolio**
 
-Open image-20241028-071519.png
 
-![image-20241028-071519.png](blob:https://p2eprojects.atlassian.net/52dcbfbb-bc14-45f8-b92e-eed6316abebe#media-blob-url=true&id=3b04db76-07fd-4bf8-826f-a84b306a6302&collection=contentId-421822566&contextId=421822566&width=1887&height=857&alt=image-20241028-071519.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc1.png)
 
 1.  Open ‘NFT Creator’ by logging into KALP Studio console.
     
@@ -25,9 +24,8 @@ Note: You need to connect a wallet first for creating a NFT, if not connected al
 
 ### **Step 2: Initiating Catalog Creation**
 
-Open image-20241028-091133.png
 
-![image-20241028-091133.png](blob:https://p2eprojects.atlassian.net/bf173b0e-3144-4dcd-b128-aae739183991#media-blob-url=true&id=5ae9057a-c1a5-405f-afb9-1509043ee7df&collection=contentId-421822566&contextId=421822566&width=1915&height=714&alt=image-20241028-091133.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc2.png)
 
 1.  On the Create NFT screen, beside ‘Select Catalog’ field, a "**Create New Catalog**” button is provided.
     
@@ -36,9 +34,8 @@ Open image-20241028-091133.png
 
 ### **Step 3: Setting Up Your New Catalog**
 
-Open Create new Catalog.png
 
-![Create new Catalog.png](blob:https://p2eprojects.atlassian.net/bb22f38b-86b5-49ec-b9ac-6a1c1a1ef312#media-blob-url=true&id=8d722178-073f-4890-ab87-8053fc6b8ecc&collection=contentId-421822566&contextId=421822566&width=934&height=469&alt=Create%20new%20Catalog.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc3.png)
 
 1.  **Upload Catalog picture**: Upload a cover image for your new Catalog.  
     (Supported formats for thumbnails are JPG, PNG, GIF and WEBP, with a max size of 5 MB)
@@ -50,8 +47,6 @@ Open Create new Catalog.png
 4.  Click on ‘**Create Catalog’** button at last to create. A confirmation message will appear indicating successful catalog creation.
     
 
-Open image-20250130-105628.png
-
-![image-20250130-105628.png](blob:https://p2eprojects.atlassian.net/82882012-d26c-4f6c-86d5-d2c6453e5190#media-blob-url=true&id=e65e80bc-8b1a-4195-a15b-6ab5c8da2a0e&collection=contentId-421822566&contextId=421822566&width=1685&height=787&alt=image-20250130-105628.png)
+https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc4.png
 
 A pop will appear informing that the “Catalog creation started! It may take a few minutes to appear in the catalog listing."

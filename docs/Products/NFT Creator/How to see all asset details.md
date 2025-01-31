@@ -15,9 +15,7 @@ Open ‘NFT Creator’ by logging into KALP Studio console.
 2.  **Select “All NFTs”** from the portfolio options. This option displays the entire collection of NFTs available in your account for the selected wallet.
     
 
-Open image-20241029-103619.png
-
-![image-20241029-103619.png](blob:https://p2eprojects.atlassian.net/7b8264bc-5c8e-440f-9c00-fb1b24bc97cd#media-blob-url=true&id=c478b375-ae59-43ac-927e-8d8e794af2ee&collection=contentId-423166097&contextId=423166097&width=1888&height=873&alt=image-20241029-103619.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad1.png)
 
 ### **Step 2: Viewing All NFTs**
 
@@ -30,15 +28,12 @@ Once in the “All NFTs” section, you’ll see a grid of NFT assets, each repr
 -   **Catalog ID**: Each asset displays its unique catalog ID, enabling easy identification on the blockchain.
     
 
-Open image-20241029-103643.png
-
-![image-20241029-103643.png](blob:https://p2eprojects.atlassian.net/bbb50ed5-9300-4eb2-bb58-11c5d1f32fb8#media-blob-url=true&id=e567bf0c-6e96-4880-a9c7-84233215e1fd&collection=contentId-423166097&contextId=423166097&width=1888&height=873&alt=image-20241029-103643.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad2.png)
 
 ### **Step 3: Searching and Filtering NFTs**
 
-Open image-20241029-103956.png
 
-![image-20241029-103956.png](blob:https://p2eprojects.atlassian.net/1c222a37-e369-4abc-8443-abbdc7680c77#media-blob-url=true&id=a416c62b-d139-4cc1-b259-fc29a66ffeb6&collection=contentId-423166097&contextId=423166097&width=1888&height=873&alt=image-20241029-103956.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad3.png)
 
 The search bar at the top allows for easy searching of assets by keywords, such as asset or catalog names. This feature is handy for quickly locating a specific NFT, especially when managing a large collection.
 
@@ -59,17 +54,14 @@ The search bar at the top allows for easy searching of assets by keywords, such 
     5.  **Asset Properties**: The additional info metadata embedded with your NFT.
         
 
-Open image-20241029-103720.png
 
-![image-20241029-103720.png](blob:https://p2eprojects.atlassian.net/9ab5359c-3937-45b7-ba66-2eb41cd3274c#media-blob-url=true&id=660b2abc-9d16-49c9-82e1-f5b9146a2bce&collection=contentId-423166097&contextId=423166097&width=1895&height=890&alt=image-20241029-103720.png)
 
-NFT detail (without properties)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad4.png)
 
-Open 20241030_155940.png
 
-![20241030_155940.png](blob:https://p2eprojects.atlassian.net/43df6b93-3be1-43c8-9270-a7eb209fbdfd#media-blob-url=true&id=ab10e29c-a381-45c7-aed3-2792ed7d983a&collection=contentId-423166097&contextId=423166097&width=1920&height=1005&alt=20241030_155940.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad5.png)
 
-NFT detail (with properties)
+
 
 The detailed asset page also includes an “Asset ID” and the “Catalog ID”, along with a “View on Blockchain” link. This link enables direct access to the blockchain record of the asset, where you can verify its authenticity, transaction history, and other blockchain-specific details.
 

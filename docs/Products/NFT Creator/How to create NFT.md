@@ -6,9 +6,7 @@
 
 Kalp Studio’s NFT Creator is designed for simplicity and efficiency, enabling users to create and manage NFTs in just a few steps. Below, we break down the process from starting with an empty NFT portfolio to successfully creating a NFT.
 
-Open image-20241028-071519.png
-
-![image-20241028-071519.png](blob:https://p2eprojects.atlassian.net/fc8ba3e1-fa50-4047-ab45-5af84c9f98ab#media-blob-url=true&id=ee4b6a27-2a7e-4cea-a412-53ca6d814616&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=image-20241028-071519.png&size=61543&width=1887&height=857&alt=image-20241028-071519.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft1.png)
 
 Fig.1
 
@@ -25,9 +23,8 @@ Fig.1
 
 **Note:** You need to connect a wallet first for creating a NFT, if not connected already.
 
-Open image-20250130-161547.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft2.png)
 
-![image-20250130-161547.png](blob:https://p2eprojects.atlassian.net/86556277-85e0-4933-aeb7-f2ebab8742e2#media-blob-url=true&id=ff36635b-2338-43c7-881d-e43a42b5b2e5&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=image-20250130-161547.png&size=39437&width=1144&height=581&alt=image-20250130-161547.png)
 
 ### **Step 2: Creating a New NFT**
 
@@ -53,11 +50,9 @@ Open image-20250130-161547.png
 
 You can add at max 6 properties to your NFT with max character length upto 15 chars.
 
-Open Create new Catalog.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft3.png)
 
-![Create new Catalog.png](blob:https://p2eprojects.atlassian.net/82bcfc09-1760-4803-86bf-0a7939ed2374#media-blob-url=true&id=4029c688-6f39-42af-9193-2ef2a1166d24&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=Create%20new%20Catalog.png&size=196707&width=934&height=469&alt=Create%20new%20Catalog.png)
 
-Fig.3
 
 ### **Step 3: Creating a New Catalog (Optional)**
 
@@ -71,15 +66,13 @@ Fig.3
 4.  Click on ‘**Create Catalog’** button at last to create. A confirmation message will appear indicating successful catalog creation.
     
 
-Open Create new Catalog.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft4.png)
 
-![Create new Catalog.png](blob:https://p2eprojects.atlassian.net/82bcfc09-1760-4803-86bf-0a7939ed2374#media-blob-url=true&id=4029c688-6f39-42af-9193-2ef2a1166d24&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=Create%20new%20Catalog.png&size=196707&width=934&height=469&alt=Create%20new%20Catalog.png)
 
 A pop will appear informing that the “Catalog creation started! It may take a few minutes to appear in the catalog listing."
 
-Open image-20250130-105628.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft5.png)
 
-![image-20250130-105628.png](blob:https://p2eprojects.atlassian.net/b45c2aa5-e399-4768-ad19-cb84ac1b0ef9#media-blob-url=true&id=1a6cd9aa-31cc-404f-9160-ff082b23f059&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=image-20250130-105628.png&size=65853&width=1685&height=787&alt=image-20250130-105628.png)
 
 ### **Step 4: Minting Confirmation**
 
@@ -90,9 +83,8 @@ Open image-20250130-105628.png
 3.  Click **Confirm** to proceed. This initiates the blockchain transaction for minting the NFT.
     
 
-Open image-20241028-103836.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft6.png)
 
-![image-20241028-103836.png](blob:https://p2eprojects.atlassian.net/3c984d17-49bf-40ba-a26e-62268c8cbf57#media-blob-url=true&id=cf7543d3-cc63-4b0a-aa65-76b0bb354471&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=image-20241028-103836.png&size=72918&width=1877&height=886&alt=image-20241028-103836.png)
 
 ### **Step 5: Approving the Transaction through Wallet**
 
@@ -105,8 +97,7 @@ Open image-20241028-103836.png
 4.  A success message will appear saying, “Your NFT has been created successfully” with ‘View NFT’ button to view your created NFT.
     
 
-Open image-20241028-104015.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft7.png)
 
-![image-20241028-104015.png](blob:https://p2eprojects.atlassian.net/c6213d9d-66df-4772-bcd9-2ab8568e196a#media-blob-url=true&id=e8d0a419-0fdd-460a-ac05-f15f6ce2d76c&collection=contentId-422084734&contextId=422084734&mimeType=image%2Fpng&name=image-20241028-104015.png&size=65097&width=1870&height=842&alt=image-20241028-104015.png)
 
 Kalp Studio’s NFT Creator provides a user-friendly platform for creating, categorizing, and managing NFTs. By following the steps above, you can add your media, categorize it, and ensure it’s ready for the digital marketplace. This streamlined process makes it ideal for artists, musicians, and creators looking to establish their digital assets.
