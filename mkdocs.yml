@@ -167,6 +167,13 @@ nav:
           - Get TestNet Gini: 'Getting-started/Faucets/Faucets-Get-TestNet-Gini.md'
       - KS Pay:
           - How to change password on KS Pay: 'docs/Products/KS Pay/How to change the password on KS Pay.md'
+          - How to add credentials and get them verified on KS Pay: 'docs/Products/KS Pay/How to Add Credentials and Get Them Verified on KS Pay.md'
+          - How to configure webhook on KS Pay:'docs/Products/KS Pay/How to Configure Webhook on KS Pay.md'
+          - How to integrate NPM on KS Pay: 'docs/Products/KS Pay/How to Integrate NPM on KS Pay.md'
+          - How to manage Payment Gateway: 'docs/Products/KS Pay/How to manage Payment Gateway.md'
+          - How to navigate to the profile section on KS Pay: 'docs/Products/KS Pay/How to navigate to the profile at KS Pay.md'
+          - How to view your transactions: 'docs/Products/KS Pay/How to view your transactions.md'
+
       - Kalp studio storage:
           - How to get started with kalp storage: 'Getting-started/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
           - FAQ: 'Getting-started/Kalp-Studio-Storage/FAQ.md'
