@@ -45,8 +45,9 @@ Note: You need to connect a wallet first for creating a NFT, if not connected al
 3.  **Description**: Add a brief description about your Catalog's purpose or theme.
     
 4.  Click on ‘**Create Catalog’** button at last to create. A confirmation message will appear indicating successful catalog creation.
-    
 
+    - Note: You can create upto 50 NFTs within a custom Catalog.
+    
 https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc4.png
 
 A pop will appear informing that the “Catalog creation started! It may take a few minutes to appear in the catalog listing."
