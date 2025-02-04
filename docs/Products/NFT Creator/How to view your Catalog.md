@@ -19,7 +19,9 @@ On the left-hand side of the dashboard, you’ll see a navigation menu. Click on
 
 ### **Step 3: Access 'My Catalogs'**
 
-Within the NFT Portfolio section, select **My Catalogs**. This opens the catalog view, where you can see all custom catalogs created by you.
+Within the NFT Portfolio section, select **My Catalogs**. This opens the catalog view, where you can see all your custom created catalogs along with the default Catalog.
+
+> Catalogs that have at least 1 NFT within them will only be shown on ‘My Catalogs’ screen.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc2.png)
 
