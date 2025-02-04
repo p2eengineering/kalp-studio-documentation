@@ -247,7 +247,7 @@ nav:
   - API Reference:
           - Kalp Storage API Documentation: 'API-Reference/Kalp-Storage-API-Documentation.md'
           - Kalp Wallet API Documentation: 'API-Reference/Kalp-Wallet-API-Documentation.md'
-          - KS Pay API Documentation: 'API-Reference/KS-Pay-API-Documentation.md'
+          - KS Pay API Documentation: 'API-Reference/KS-Pay-API-Documentation.md' 
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
