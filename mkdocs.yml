@@ -127,7 +127,7 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
-  
+
 nav:
   - Home: index.md
   - Introduction: 
@@ -245,8 +245,9 @@ nav:
       - Articles:
               - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
   - API Reference:
-          - Kalp storage API Reference: 'API-Reference/Kalp-storage-OpenAPI-Reference.md'
-          - Kalp Wallet API Reference: 'API-Reference/Kalp-wallet-OpenAPI-Reference.md'
+          - Kalp Storage API Documentation: 'API-Reference/Kalp-Storage-API-Documentation.md'
+          - Kalp Wallet API Documentation: 'API-Reference/Kalp-Wallet-API-Documentation.md'
+          - KS Pay API Documentation: 'API-Reference/KS-Pay-API-Documentation.md'
   - Video Tutorials:         
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
           - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
