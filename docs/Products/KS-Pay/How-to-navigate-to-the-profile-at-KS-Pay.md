@@ -16,26 +16,20 @@ Navigating to your profile on KS Pay allows you to manage account settings, upda
 -   Once logged in, you will see the main dashboard, displaying a list of apps registered under your account. This screen includes information like App ID, App Name, Email, Country, and options to enable or disable apps.
     
 
-Open image-20241008-093043.png
-
-![image-20241008-093043.png](blob:https://p2eprojects.atlassian.net/8c253e38-f18c-44ba-94da-14db3be30d52#media-blob-url=true&id=1479078f-8b0c-4e6f-8527-50851cb33dc6&collection=contentId-407240840&contextId=407240840&mimeType=image%2Fpng&name=image-20241008-093043.png&size=85503&width=1903&height=701&alt=image-20241008-093043.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/navigate+profile/np1.png)
 
 ### Step 3: Access Your Profile
 
 You’ll see your profile icon at the top-right corner of the dashboard. Click on it to open a dropdown menu.
 
-Open image-20241008-093025.png
-
-![image-20241008-093025.png](blob:https://p2eprojects.atlassian.net/0793b624-79bd-42eb-a9f2-1fa9e17417b8#media-blob-url=true&id=de8be33a-3b69-466c-9686-eb89028da5ea&collection=contentId-407240840&contextId=407240840&mimeType=image%2Fpng&name=image-20241008-093025.png&size=89498&width=1900&height=601&alt=image-20241008-093025.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/navigate+profile/np2.png)
 
 ### Step 4: Select "My Profile"
 
 -   In the dropdown menu, click on "My Profile." This option will direct you to the profile section of KS Pay.
     
 
-Open image-20241008-093143.png
-
-![image-20241008-093143.png](blob:https://p2eprojects.atlassian.net/dae22542-e32a-499a-941f-5215e52765ab#media-blob-url=true&id=eba87aea-4bb4-4015-8273-a8e4929e49c5&collection=contentId-407240840&contextId=407240840&mimeType=image%2Fpng&name=image-20241008-093143.png&size=256937&width=1884&height=870&alt=image-20241008-093143.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/navigate+profile/np3.png)
 
 ### Step 5: View or Edit Your Personal Information
 

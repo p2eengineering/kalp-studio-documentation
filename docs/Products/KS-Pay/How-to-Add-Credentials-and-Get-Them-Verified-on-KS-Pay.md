@@ -8,9 +8,7 @@ Integrating a payment gateway with KS Pay requires setting up credentials and ve
 
 ### **Step 1: Add a Payment Gateway**
 
-Open image-20241015-055722.png
-
-![image-20241015-055722.png](blob:https://p2eprojects.atlassian.net/085b8486-fa97-4d3d-946a-e7f2f9a9ef3c#media-blob-url=true&id=495a375e-be15-43e6-a271-54e903867e55&collection=contentId-410878000&contextId=410878000&width=1590&height=734&alt=image-20241015-055722.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac1.png)
 
 -   **Steps 1-3 (Credentials, Webhook, and NPM Integration)** are initially set up by the merchant.
     
@@ -23,9 +21,8 @@ Open image-20241015-055722.png
 
 ### **Step 2: Enter Gateway Credentials**
 
-Open image-20241015-061407.png
 
-![image-20241015-061407.png](blob:https://p2eprojects.atlassian.net/862f2106-38b3-44da-9645-df4c3bc8f724#media-blob-url=true&id=43f745a9-63d3-4cda-af38-43f8c1481691&collection=contentId-410878000&contextId=410878000&width=1671&height=773&alt=image-20241015-061407.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac2.png)
 
 **Retrieve Credentials**: Get your **Client ID** and **Client Secret** from the respective payment gateway's dashboard:
 
@@ -36,9 +33,7 @@ Open image-20241015-061407.png
 
 **Enter Credentials in KS Pay**:
 
-Open image-20241015-061705.png
-
-![image-20241015-061705.png](blob:https://p2eprojects.atlassian.net/40f8bdfa-07ae-4483-84d1-1112ed7d38da#media-blob-url=true&id=1990f4d3-8b87-4b6a-82e5-b6e703125857&collection=contentId-410878000&contextId=410878000&width=1608&height=770&alt=image-20241015-061705.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac3.png)
 
 -   Input the **Client ID** and **Client Secret** fields in the KS Pay interface.
     
@@ -49,18 +44,14 @@ Open image-20241015-061705.png
 
 ### **Step 3: Configure the Webhook (Razorpay Only)**
 
-Open image-20241015-061759.png
-
-![image-20241015-061759.png](blob:https://p2eprojects.atlassian.net/2ddf8515-f100-4cba-98ff-408082c7e3eb#media-blob-url=true&id=8078b5e4-0cc0-40bf-8694-25355516a516&collection=contentId-410878000&contextId=410878000&width=1714&height=682&alt=image-20241015-061759.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac4.png)
 
 1.  **Copy the Webhook URL and Secret Key** from the KS Pay platform.
     
 2.  **Set Up Webhook on Razorpay**:
     
 
-Open image-20241015-061850.png
-
-![image-20241015-061850.png](blob:https://p2eprojects.atlassian.net/99c204f4-23e5-424e-a1ee-51687d4cbba5#media-blob-url=true&id=799abc47-2744-4700-8ecb-f211b1e8c9ab&collection=contentId-410878000&contextId=410878000&width=1477&height=730&alt=image-20241015-061850.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac5.png)
 
 -   In the Razorpay dashboard, navigate to **Webhooks** and click on **Add New Webhook**.
     
@@ -77,7 +68,7 @@ This step ensures that Razorpay can communicate with KS Pay, updating you about 
 
 Open image-20241015-061937.png
 
-![image-20241015-061937.png](blob:https://p2eprojects.atlassian.net/b32d2b79-d24d-434d-be05-9a4bad50bccb#media-blob-url=true&id=1b95427a-f5d0-49fe-b3bf-b5305fc570f0&collection=contentId-410878000&contextId=410878000&width=1588&height=743&alt=image-20241015-061937.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac6.png)
 
 1.  **Click on the NPM Integration Link**: Once on the **NPM Integration** step, click the provided link to access the integration document.
     
@@ -86,9 +77,7 @@ Open image-20241015-061937.png
 
 ### **Step 5: Security and Verification**
 
-Open image-20241015-061954.png
-
-![image-20241015-061954.png](blob:https://p2eprojects.atlassian.net/f0f4d218-9bc2-482d-b09b-5efc55ce2e45#media-blob-url=true&id=a71acbf4-ae44-4a3c-8384-03c129c9bcc7&collection=contentId-410878000&contextId=410878000&width=1722&height=711&alt=image-20241015-061954.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac7.png)
 
 1.  After completing the previous steps, proceed to the **Security** section to finalize the integration.
     

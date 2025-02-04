@@ -15,9 +15,7 @@ Managing a payment gateway is essential for any business looking to facilitate s
 3.  Select the **Payment Gateway Settings** tab at the top.
     
 
-Open image-20241008-090220.png
-
-![image-20241008-090220.png](blob:https://p2eprojects.atlassian.net/3335875b-0b40-4490-9446-1da4df46f3bd#media-blob-url=true&id=0f70a458-7cfc-4d85-84cb-17f84fc4020a&collection=contentId-407175270&contextId=407175270&width=1912&height=497&alt=image-20241008-090220.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/manage+payment+gateway/mpg1.png)
 
 #### Step 2: Add Payment Gateways
 
@@ -41,9 +39,7 @@ Open image-20241008-090220.png
 
 #### Step 4: Enable or Disable Payment Gateways
 
-Open image-20241008-090251.png
-
-![image-20241008-090251.png](blob:https://p2eprojects.atlassian.net/8fdc927e-5f6c-4267-8156-a095cb11b69b#media-blob-url=true&id=43942837-a129-479a-84a2-467b226b544d&collection=contentId-407175270&contextId=407175270&width=1914&height=650&alt=image-20241008-090251.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/manage+payment+gateway/mpg2.png)
 
 1.  Use the toggle switch next to each gateway to **enable** or **disable** it. Enabled gateways will be active for transactions.
     

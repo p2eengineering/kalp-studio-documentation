@@ -8,9 +8,7 @@ Configuring a webhook is essential for enabling real-time updates between your p
 
 ### **Step 1: Obtain the Webhook URL and Secret Key from KS Pay**
 
-Open image-20241015-051149.png
-
-![image-20241015-051149.png](blob:https://p2eprojects.atlassian.net/1f05b948-f625-4736-928d-fde586ba388f#media-blob-url=true&id=7e1ae8ac-8b7b-4b7b-a2fb-b834deab51dd&collection=contentId-410681353&contextId=410681353&width=1606&height=758&alt=image-20241015-051149.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw1.png)
 
 1.  **Navigate to the Add Gateway Section**: In the KS Pay dashboard, under **Settings**, click on **Add Gateway**.
     
@@ -21,9 +19,8 @@ Open image-20241015-051149.png
 
 ### **Step 2: Configure Webhook on Razorpay**
 
-Open image-20241015-051238.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw2.png)
 
-![image-20241015-051238.png](blob:https://p2eprojects.atlassian.net/e1f28e72-87c7-45da-98d9-9b432b173d4e#media-blob-url=true&id=32ac33b5-c3ac-4ced-ac9b-1b559b8f896a&collection=contentId-410681353&contextId=410681353&width=1663&height=763&alt=image-20241015-051238.png)
 
 1.  **Log in to the Razorpay Dashboard**: Go to your Razorpay account and navigate to the **Account & Settings** section, then select **Webhooks**.
     
@@ -39,27 +36,24 @@ Open image-20241015-051238.png
 
 **3. Select Events**:
 
-Open image-20241015-051958.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw3.png)
 
-![image-20241015-051958.png](blob:https://p2eprojects.atlassian.net/1b5061b8-3784-4114-9178-701b9342fc3f#media-blob-url=true&id=c61ba2ef-8b26-41c8-a64e-225afd952a60&collection=contentId-410681353&contextId=410681353&width=1559&height=764&alt=image-20241015-051958.png)
 
 1.  In the **Active Events** section, check the events you want Razorpay to notify KS Pay about.
     
 
 You can select additional events as needed, depending on the specific notifications you want KS Pay to receive.
 
-Open image-20241015-052312.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw4.png)
 
-![image-20241015-052312.png](blob:https://p2eprojects.atlassian.net/1813a08f-b7af-462e-9db4-ab8784465017#media-blob-url=true&id=704f9669-1460-466e-be87-7237f414d45d&collection=contentId-410681353&contextId=410681353&width=1429&height=740&alt=image-20241015-052312.png)
 
 2.  **Save the Webhook Configuration**: After you’ve entered all the details and selected the events, click **Create Webhook**. Razorpay will confirm that the webhook has been created and is active.
     
 
 ### **Step 3: Verification on KS Pay**
 
-Open image-20241015-052223.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw5.png)
 
-![image-20241015-052223.png](blob:https://p2eprojects.atlassian.net/58ce7abf-82f6-42fc-b1b3-aa854a7f4019#media-blob-url=true&id=934a4d03-c337-4e8d-8907-e73c376da799&collection=contentId-410681353&contextId=410681353&width=1716&height=684&alt=image-20241015-052223.png)
 
 1.  **Return to KS Pay**: Once the webhook is configured on Razorpay, go back to the KS Pay dashboard.
     
