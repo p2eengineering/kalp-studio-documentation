@@ -8,7 +8,7 @@
     ---
 
 
-    [:octicons-arrow-right-24: Check API Reference](https://elements.getpostman.com/redirect?entityId=30994788-c99031b1-7c8b-456c-b48c-4bd00087d585&entityType=collection)
+    [:octicons-arrow-right-24: Check API Reference](https://elements.getpostman.com/redirect?entityId=30994788-c99031b1-7c8b-456c-b48c-4bd00087d585&entityType=collection) 
 
 
 
