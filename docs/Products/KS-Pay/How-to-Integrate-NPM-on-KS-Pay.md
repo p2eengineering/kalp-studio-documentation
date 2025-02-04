@@ -8,9 +8,8 @@ Integrating NPM on KS Pay enables seamless communication between your applicatio
 
 ### **Step 1: Access the NPM Integration Section**
 
-Open image-20241015-053717.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/integrate+npm/inpm1.png)
 
-![image-20241015-053717.png](blob:https://p2eprojects.atlassian.net/3fdfc7c3-ba31-4e5d-8939-a6fb204999f0#media-blob-url=true&id=b9bb4829-0b70-4fee-8715-791850483f79&collection=contentId-410779681&contextId=410779681&width=1584&height=753&alt=image-20241015-053717.png)
 
 1.  **Navigate to NPM Integration**: In the KS Pay dashboard, go to **Settings** and select the **Add Gateway** option.
     
@@ -19,18 +18,14 @@ Open image-20241015-053717.png
 
 ### **Step 2: Follow the NPM Integration Document**
 
-Open image-20241015-053834.png
-
-![image-20241015-053834.png](blob:https://p2eprojects.atlassian.net/b11722e3-e8d0-4fb1-a82e-737558c53b65#media-blob-url=true&id=7a3d394b-df27-4641-ac7d-95d30cbd9ced&collection=contentId-410779681&contextId=410779681&width=1584&height=753&alt=image-20241015-053834.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/integrate+npm/inpm2.png)
 
 1.  **Click on the Integration Link**: Click on the link provided under the **Integration Document** section. This will open a step-by-step guide for installing and integrating KS Pay with your application using NPM.
     
 2.  **Install KS Pay NPM Package**: Open your terminal and run the command provided in the document to install the KS Pay package. It should look something like this:  
       
     
-    Open image-20241015-054151.png
-    
-    ![image-20241015-054151.png](blob:https://p2eprojects.atlassian.net/6655cc5b-886d-4cfd-96cf-b0c138b1d84a#media-blob-url=true&id=071b2b94-54f2-4967-ae35-25000ad28800&collection=contentId-410779681&contextId=410779681&width=1309&height=757&alt=image-20241015-054151.png)
+   ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/integrate+npm/inpm3.png)
     
 3.  This package contains all the necessary methods for interacting with KS Pay.
     

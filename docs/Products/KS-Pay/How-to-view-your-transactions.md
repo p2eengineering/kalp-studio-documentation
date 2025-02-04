@@ -15,9 +15,7 @@ Viewing your transactions on KS Pay helps you keep track of your payment history
 3.  Locate the app for which you want to view transactions.
     
 
-Open image-20241008-102441.png
-
-![image-20241008-102441.png](blob:https://p2eprojects.atlassian.net/4b53a995-fffb-4754-8ed9-1304a659c4d0#media-blob-url=true&id=cabe41e2-7568-44e4-bc22-58d97c55c89b&collection=contentId-407044236&contextId=407044236&width=1900&height=689&alt=image-20241008-102441.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/view+transaction/vt1.png)
 
 ### Step 2: Open the App Overview
 
@@ -26,9 +24,7 @@ Open image-20241008-102441.png
 2.  Here, you can view a summary of recent transactions and other app-related details.
     
 
-Open image-20241008-102545.png
-
-![image-20241008-102545.png](blob:https://p2eprojects.atlassian.net/61fc08f8-80dc-4fb6-a20d-7c2c53f39daa#media-blob-url=true&id=2f1237fc-f439-4c6c-9c2d-7d0ade037903&collection=contentId-407044236&contextId=407044236&width=1912&height=630&alt=image-20241008-102545.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/view+transaction/vt2.png)
 
 ### Step 3: Navigate to the Transactions Tab
 
@@ -37,9 +33,7 @@ Open image-20241008-102545.png
 2.  You’ll be directed to a page with a detailed view of all transactions for the selected app.
     
 
-Open image-20241008-102616.png
-
-![image-20241008-102616.png](blob:https://p2eprojects.atlassian.net/21b7c945-6a74-48c8-994f-8cd20da849cd#media-blob-url=true&id=bad1619a-4bdc-4235-99cd-290db36937fe&collection=contentId-407044236&contextId=407044236&width=1903&height=432&alt=image-20241008-102616.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/view+transaction/vt.3png)
 
 ### Step 4: View Transaction History
 
