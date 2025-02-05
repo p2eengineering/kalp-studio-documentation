@@ -155,7 +155,7 @@ nav:
             - How to Navigate To kalp studio Wallet: 'Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet.md'
             - How to Create and Connect Wallet to Kalp Studio: 'Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
           - Kalp Instant Deployer:
-            - How to Deploy a Smart Contract on Kalp Studio: 'Products/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
+            - How to Deploy a Smart Contract on Kalp Studio: 'Products/Kalp-Studio-Console/Kalp-Instant-Deployer\How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
           - API Gateway:
             - How to generate API endpoints: 'Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints.md'
             - How to navigate to the list of smart contract: 'Products/Kalp-Studio-Console/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract.md'
@@ -170,7 +170,7 @@ nav:
             - FAQ: 'Products/Kalp-Studio-Storage/FAQ.md'
             - IPFS OpenAPI Documentation: 'Products/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
       - KS-Query:
-            - How to get started with KS Query: 'Products/S-Query/How-to-get-started-with-KS-Query.md'
+            - How to get started with KS Query: 'Products/KS-Query/How-to-get-started-with-KS-Query.md'
             - How to select blockchain and network on KS Query: 'Products/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
             - How to create an API Auth Key: 'Products/KS-Query/How-to-create-an-API-Auth-Key.md'
             - How to view all your API's: 'Products/KS-Query/How-to-view-your-all-APIs.md'
