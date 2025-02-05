@@ -462,7 +462,7 @@ hide:
                       </div>
                   </div>
                   <div class="build-description-card-main">
-                      <a href="https://docs.kalp.studio/Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
@@ -517,7 +517,7 @@ hide:
                      <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/">
                      <div class="build-description-card">
                      <div class="build-description-card-title">
-                         Kalp studio wallet
+                         Kalp Studio Wallet
                          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                          <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                          </svg>
@@ -530,7 +530,7 @@ hide:
                      <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
-                             Kalp instant deployer
+                             Kalp Instant Deployer
                              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                              <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                              </svg>
@@ -569,7 +569,7 @@ hide:
                         <a  href="Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key/">
                          <div class="build-description-card">
                               <div class="build-description-card-title">
-                                  API key generation
+                                  API Key Generation
                                   <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                                   </svg>
@@ -597,7 +597,7 @@ hide:
                  <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-overview/">
                      <div class="build-description-card">
                         <div class="build-description-card-title">
-                            Kalp studio overview
+                            Kalp Studio Overview
                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                             </svg>
@@ -610,7 +610,7 @@ hide:
                        <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-ecosystem/">
                        <div class="build-description-card">
                          <div class="build-description-card-title">
-                             Kalp studio console dashboard
+                             Kalp studio Console 
                              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                              <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                              </svg>
@@ -649,7 +649,7 @@ hide:
                      <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-wallet/">
                         <div class="build-description-card">
                         <div class="build-description-card-title">
-                            What is kalp wallet
+                            What is Kalp Wallet
                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
                             </svg>
@@ -668,7 +668,7 @@ hide:
                         Developer Resources
                         </h3>
                         <span>
-                        For developers who know what they want to build and are ready to go with kalp DLT & EVM based blockchains.
+                        For developers who know what they want to build and are ready to go with KALP Blockchain.
                         </span>
                     </div>
                     <div class="developer-resource-card-wrapper dev-res">
@@ -677,7 +677,7 @@ hide:
                         <a href="https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
-                             <h4>Kalp DLT Based deployments</h4>
+                             <h4>Kalp DLT Based Deployments</h4>
                             <span>This guide provides an overview of the essential steps involved in deploying a smart contract on Kalp DLT chain, from setting up the development environment to deploying and verifying your contract on the network and managing your deployment journey on kalp studio.</span>
                         </div>
                         </a>

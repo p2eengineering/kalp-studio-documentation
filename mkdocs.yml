@@ -131,10 +131,10 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Introduction: 
-          - Kalp studio overview: 'Introduction/Kalp-studio-overview.md'
-          - Kalp studio ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
-          - What is kalp instant deployer: 'Introduction/What-is-kalp-instant-deployer.md'
-          - What is kalp wallet: 'Introduction/What-is-kalp-wallet.md'
+          - Kalp Studio Overview: 'Introduction/Kalp-studio-overview.md'
+          - Kalp Studio Ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
+          - What is Kalp Instant Deployer: 'Introduction/What-is-kalp-instant-deployer.md'
+          - What is Kalp Wallet: 'Introduction/What-is-kalp-wallet.md'
           - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Products: 
       - Kalp-Studio-Console:
@@ -151,7 +151,7 @@ nav:
           - Credits:
             - How to Add Credit: 'Products/Kalp-Studio-Console/Credits/How-to-Add-Credit.md'
             - Navigate to the credit section: 'Products/Kalp-Studio-Console/Credits/Navigate-to-the-Credit-Section.md'
-          - Kalp-studio-wallet:
+          - Kalp-Studio-Wallet:
             - How to Navigate To kalp studio Wallet: 'Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet.md'
             - How to Create and Connect Wallet to Kalp Studio: 'Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
           - Kalp Instant Deployer:
