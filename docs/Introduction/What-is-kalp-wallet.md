@@ -9,7 +9,7 @@ Kalp wallet is an advanced, versatile cryptocurrency wallet designed to support 
 
 ## Key Features
 
-- **Multi-Blockchain Support**: Kalp  wallet supports a variety of blockchain networks, including Ethereum, Polygon, Avalanche, Optimism, Arbitrum, Fantom, Solana, Binance Smart Chain (BSC), and the proprietary Kalp Tantra blockchain.
+- **Blockchain Support**: Kalp  wallet supports the proprietary Kalp Tantra blockchain.
 - **Diverse Wallet Options**: Users can choose from Self-Custodial, Custodial, and MPC wallets, each offering different levels of control and security.
 - **Secure Transaction Signing**: The wallet supports signing transactions for various function types, ensuring secure interactions with supported blockchains.
 - **Smart Contract Deployment**: Kalp wallet facilitates the deployment of smart contracts on supported blockchains, providing a streamlined process for developers.
@@ -17,17 +17,7 @@ Kalp wallet is an advanced, versatile cryptocurrency wallet designed to support 
 
 ## Supported Blockchain Networks
 
-Kalp wallet supports the following blockchain networks:
-
-- Ethereum
-- Polygon
-- Avalanche
-- Optimism
-- Arbitrum
-- Fantom
-- Solana
-- Binance Smart Chain (BSC)
-- Kalp DLT (proprietary blockchain)
+Kalp wallet supports the KALP DLT (proprietary blockchain)
 
 ## Wallet Types
 
@@ -65,7 +55,7 @@ Kalp wallet supports signing transactions for various function types across supp
 
 Kalp wallet facilitates the deployment of smart contracts on supported blockchains, providing a streamlined process for developers.
 
-- **Supported File Types**: Solidity (.sol) files for EVM-compatible blockchains and ZIP files for Kalp Tantra code deployment.
+- **Supported File Types**: ZIP files for Kalp Tantra code deployment.
 - **Deployment Process**: The service compiles and processes the code, signs the deployment transaction, and broadcasts it to the selected blockchain network.
 
 ### API Integration
@@ -77,4 +67,4 @@ Kalp wallet offers an Open API system that allows users to interact with wallet 
 
 ## Conclusion
 
-Kalp wallet is a comprehensive and secure cryptocurrency wallet service designed to meet the diverse needs of users and developers. With its support for multiple blockchain networks, various wallet types, and robust security features, Kalp wallet is well-positioned to provide a seamless and secure experience for managing digital assets.
+Kalp wallet is a comprehensive and secure cryptocurrency wallet service designed to meet the diverse needs of users and developers. With its support for Kalp blockchain network, various wallet types, and robust security features, Kalp wallet is well-positioned to provide a seamless and secure experience for managing digital assets.
