@@ -1,0 +1,79 @@
+<style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+# How to add a company on KS Pay?
+
+KS Pay offers a streamlined solution for businesses looking to manage their payments and financial transactions. For a seamless experience, the first step involves adding your company profile to the platform. This guide will walk you through each stage of the registration process from account creation to filling out your company details ensuring you have everything set up correctly to start using KS Pay’s features.
+
+## **Registration Screen**
+
+Open image-20250129-055616.png
+
+![image-20250129-055616.png](blob:https://p2eprojects.atlassian.net/85dca045-a3ed-4494-8da8-b3f3858c84fd#media-blob-url=true&id=1909aa05-9fb8-435b-b028-e3bb0cd9f597&collection=contentId-406061136&contextId=406061136&width=951&height=675&alt=image-20250129-055616.png)
+
+Open image-20250129-060607.png
+
+![image-20250129-060607.png](blob:https://p2eprojects.atlassian.net/0ce72b35-a02a-4991-863b-a78653e355e4#media-blob-url=true&id=7eb35d89-1381-491b-b281-f333582c9187&collection=contentId-406061136&contextId=406061136&width=970&height=699&alt=image-20250129-060607.png)
+
+-   **First & Last Name**: Enter your personal details.
+    
+-   **User Name**: Create a unique username for your account.
+    
+-   **Email**: Provide a valid email address for communication and verification.
+    
+-   **Password & Confirm Password**: Create a secure password and confirm it.
+    
+-   **Terms & Conditions Agreement**: Before completing registration, you’ll need to agree to the platform’s terms and privacy policy.
+    
+
+Open image-20241005-113102.png
+
+![image-20241005-113102.png](blob:https://p2eprojects.atlassian.net/a4724617-41fd-4a6f-9bfd-fa4dc0434559#media-blob-url=true&id=f295dcb0-59bd-4e05-8878-887ad77c96f3&collection=contentId-406061136&contextId=406061136&width=1728&height=849&alt=image-20241005-113102.png)
+
+**Register Button**: Once all fields are filled, click the **Register** button to proceed.
+
+Open image-20241030-055148.png
+
+![image-20241030-055148.png](blob:https://p2eprojects.atlassian.net/70ffc982-e5c0-43a5-b943-ab8a0a1e7baa#media-blob-url=true&id=37dd7b15-dd98-4528-846c-b0d3123fb781&collection=contentId-406061136&contextId=406061136&width=1748&height=707&alt=image-20241030-055148.png)
+
+### Step 4: Access the Company Profile Section
+
+1.  After verification, log in to KS Pay and navigate to the **Company Profile** section.
+    
+2.  You’ll be presented with a form to add your company's information.
+    
+
+### Step 5: Enter Company Details
+
+Fill out the following fields to complete the company profile setup:
+
+-   **Company Name:** This is the name of the company. This is a mandatory field.
+    
+-   **Website (Optional):** The URL of the company's website. This field is not mandatory.
+    
+-   **Address:** The full street address of the company. This field is mandatory.
+    
+-   **Country**: This field represents the country of the company. This field is mandatory.
+    
+-   **State:** This field represents the state of the company.
+    
+-   **City (Optional):** The name of the city where the company is located. This field is optional.
+    
+-   **Zip Code:** This field represents the zip code for the company. This field is mandatory.
+    
+
+Open image-20250130-085527.png
+
+![image-20250130-085527.png](blob:https://p2eprojects.atlassian.net/da0fa011-d50d-4e8d-9076-346b2311ab09#media-blob-url=true&id=748fb3a6-591b-437f-91ea-4f2d6572feaa&collection=contentId-406061136&contextId=406061136&width=735&height=574&alt=image-20250130-085527.png)
+
+### Step 6: Submit the Company Profile
+
+1.  Double-check all information entered to ensure accuracy.
+    
+2.  Click **"Submit"** to save your company's profile.
+    
+3.  Upon submission, your company details will be saved in KS Pay.
+    
+
+Adding your company to KS Pay is a straightforward process that sets the foundation for utilizing its payment management tools effectively. By completing your company profile, you gain access to essential features tailored to your business needs, allowing for efficient transactions and enhanced financial control. Follow these steps, and you’ll be ready to make the most of what KS Pay has to offer.
