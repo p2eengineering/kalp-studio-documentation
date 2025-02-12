@@ -57,7 +57,7 @@ Kalp Studio is akin to Amazon AWS for Web 2.0, providing all the necessary tools
 
 ### Rapid Development and Deployment
 
-- **Drag and Drop UI Builder**: Build user interfaces for blockchain applications quickly and easily, reducing development time and resources.
+- **Easy to use UI Builder**: Easy to use user interfaces for blockchain applications which reduces development time and resources.
 - **Faster MVP Launch**: Simplify development with pre-built components, allowing for quicker validation of concepts and gathering of user feedback.
 
 ### Versatility and Manageability

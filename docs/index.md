@@ -523,7 +523,7 @@ hide:
                          </svg>
                      </div>
                      <span class="build-description-card-description">
-                     The Kalp studio Wallet is a secure cryptocurrency wallet integrated within kalp studio, supporting multiple blockchain networks.
+                     The Kalp studio Wallet is a secure cryptocurrency wallet integrated within kalp studio, supporting kalp blockchain.
                      </span>
                     </div>
                      </a>
@@ -629,7 +629,7 @@ hide:
                                  </svg>
                              </div>
                               <span class="build-description-card-description">
-                                 The Kalp Decentralized Network (KDN) is a hybrid cross-chain ecosystem for secure tokenization of real-world assets. It uses KYC verification, a Distributed Certificate Authority, and SMART-BFT algorithms, featuring cross-chain interoperability to enhance liquidity and market reach.
+                                 The Kalp Decentralized Network (KDN) is a ecosystem for secure tokenization of real-world assets. It uses KYC verification, A distributed certificate authority to enhance liquidity and market reach.
                             </span>
                          </div>
                      </a>
@@ -655,7 +655,7 @@ hide:
                             </svg>
                         </div>
                          <span class="build-description-card-description">
-                            Kalp wallet is a versatile cryptocurrency wallet that supports multiple blockchain networks and offers various wallet types to cater to different user needs and security preferences.
+                            Kalp wallet is a versatile cryptocurrency wallet that supports kalp blockchain and offers various wallet types to cater to different user needs and security preferences.
                        </span>
                         </div>
                     </a>
