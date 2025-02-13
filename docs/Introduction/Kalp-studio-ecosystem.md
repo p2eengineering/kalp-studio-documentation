@@ -35,7 +35,7 @@ The **Kalp Studio Console Dashboard** is a centralized platform that helps users
 - **Real-Time Transaction Monitoring**: Users can view and track their transactions in real-time using the transaction monitoring tool. This feature gives users transparency over their blockchain activities, allowing them to keep an eye on the status of transactions, from initiation to confirmation on the blockchain.
 
 ## 8. TestNet Faucets
-- **Access to TestNet Gini Tokens**: The platform provides a faucet service for obtaining test tokens (Gini) that users can utilize in the TestNet environment. These test tokens are useful for developers who want to simulate blockchain transactions without spending real currency, making it a valuable tool for testing and development.
+- **Access to TestNet Tokens**: The platform provides a faucet service for obtaining test tokens that users can utilize in the TestNet environment. These test tokens are useful for developers who want to simulate blockchain transactions without spending real currency, making it a valuable tool for testing and development.
 
 ## Conclusion
 The **Kalp Studio Console Dashboard** is a powerful tool that streamlines blockchain management for both new and experienced users. By combining features such as wallet integration, billing management, smart contract deployment, and transaction monitoring, the dashboard enables users to efficiently manage their blockchain operations. Its intuitive interface, comprehensive tools, and real-time monitoring make it an essential platform for navigating the complexities of blockchain technology.

@@ -55,7 +55,7 @@ Kalp wallet supports signing transactions for various function types across supp
 
 Kalp wallet facilitates the deployment of smart contracts on supported blockchains, providing a streamlined process for developers.
 
-- **Supported File Types**: ZIP files for Kalp Tantra code deployment.
+- **Supported File Types**: ZIP files for KALP DLT code deployment.
 - **Deployment Process**: The service compiles and processes the code, signs the deployment transaction, and broadcasts it to the selected blockchain network.
 
 ### API Integration
@@ -67,4 +67,4 @@ Kalp wallet offers an Open API system that allows users to interact with wallet 
 
 ## Conclusion
 
-Kalp wallet is a comprehensive and secure cryptocurrency wallet service designed to meet the diverse needs of users and developers. With its support for Kalp blockchain network, various wallet types, and robust security features, Kalp wallet is well-positioned to provide a seamless and secure experience for managing digital assets.
+Kalp wallet is a comprehensive and secure cryptocurrency wallet service designed to meet the diverse needs of users and developers. With its support for KALP DLT network, various wallet types, and robust security features, Kalp wallet is well-positioned to provide a seamless and secure experience for managing digital assets.
