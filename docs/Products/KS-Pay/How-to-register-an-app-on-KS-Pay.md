@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to register an app on KS Pay?
+# How to register an app on KS
 
 Registering an app on KS Pay is a straightforward process that allows you to integrate your application seamlessly into the platform. This guide will walk you through each step, from logging into your KS Pay account to successfully registering your app. By following these simple instructions, you'll be able to set up your app efficiently, enabling you to access KS Pay’s features and provide a secure experience for your users. Let’s get started!
 
@@ -11,8 +11,8 @@ Open your browser and go to the KS Pay website.
 
 You will see a login page with fields to enter your email and password.
 
-Open image-20241007-052118.png
-image-20241007-052118.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc1.png)
+
 Step 2: Enter Your Login Credentials
 Type your registered email address into the "Enter Your Email" field.
 
@@ -20,10 +20,8 @@ Type your password into the "Enter Password" field. You can click on the eye ico
 
 If you have forgotten your password, click on "Forgot Password?" to initiate a password recovery process.
 
- 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc2.png)
 
-Open image-20241007-052237.png
-image-20241007-052237.png
 Step 3: Click on "Sign In"
 Access via Kalp Studio Accounts:
 
@@ -48,8 +46,8 @@ Once logged in, you will be taken to your dashboard. If you haven’t registered
 
 Click on the "Add App" button to start the app registration process.
 
-Open image-20241007-053325.png
-image-20241007-053325.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc3.png)
+
 Step 5: Fill in App Registration Details
 You will be directed to the Register an App page. Here, fill in the following details:
 
@@ -77,8 +75,7 @@ Add App: Submits the form to register the application.
 
  
 
-Open image-20250130-122655.png
-image-20250130-122655.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc4.png)
  
 
 Step 6: Submit the App Registration
@@ -86,8 +83,7 @@ After entering all the required information, click on the "Add App" button to re
 
  
 
-Open image-20250130-101643.png
-image-20250130-101643.png
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc5.png)
  
 
 A confirmation message will appear on your dashboard indicating that your app has been successfully registered.

@@ -8,13 +8,10 @@ KS Pay offers a streamlined solution for businesses looking to manage their paym
 
 ## **Registration Screen**
 
-Open image-20250129-055616.png
 
-![image-20250129-055616.png](blob:https://p2eprojects.atlassian.net/85dca045-a3ed-4494-8da8-b3f3858c84fd#media-blob-url=true&id=1909aa05-9fb8-435b-b028-e3bb0cd9f597&collection=contentId-406061136&contextId=406061136&width=951&height=675&alt=image-20250129-055616.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac1.png)
 
-Open image-20250129-060607.png
-
-![image-20250129-060607.png](blob:https://p2eprojects.atlassian.net/0ce72b35-a02a-4991-863b-a78653e355e4#media-blob-url=true&id=7eb35d89-1381-491b-b281-f333582c9187&collection=contentId-406061136&contextId=406061136&width=970&height=699&alt=image-20250129-060607.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac2.png)
 
 -   **First & Last Name**: Enter your personal details.
     
@@ -27,15 +24,11 @@ Open image-20250129-060607.png
 -   **Terms & Conditions Agreement**: Before completing registration, you’ll need to agree to the platform’s terms and privacy policy.
     
 
-Open image-20241005-113102.png
-
-![image-20241005-113102.png](blob:https://p2eprojects.atlassian.net/a4724617-41fd-4a6f-9bfd-fa4dc0434559#media-blob-url=true&id=f295dcb0-59bd-4e05-8878-887ad77c96f3&collection=contentId-406061136&contextId=406061136&width=1728&height=849&alt=image-20241005-113102.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac3.png)
 
 **Register Button**: Once all fields are filled, click the **Register** button to proceed.
 
-Open image-20241030-055148.png
-
-![image-20241030-055148.png](blob:https://p2eprojects.atlassian.net/70ffc982-e5c0-43a5-b943-ab8a0a1e7baa#media-blob-url=true&id=37dd7b15-dd98-4528-846c-b0d3123fb781&collection=contentId-406061136&contextId=406061136&width=1748&height=707&alt=image-20241030-055148.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac4.png)
 
 ### Step 4: Access the Company Profile Section
 
@@ -63,9 +56,7 @@ Fill out the following fields to complete the company profile setup:
 -   **Zip Code:** This field represents the zip code for the company. This field is mandatory.
     
 
-Open image-20250130-085527.png
-
-![image-20250130-085527.png](blob:https://p2eprojects.atlassian.net/da0fa011-d50d-4e8d-9076-346b2311ab09#media-blob-url=true&id=748fb3a6-591b-437f-91ea-4f2d6572feaa&collection=contentId-406061136&contextId=406061136&width=735&height=574&alt=image-20250130-085527.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac5.png)
 
 ### Step 6: Submit the Company Profile
 
