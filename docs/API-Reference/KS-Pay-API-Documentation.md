@@ -1185,3 +1185,293 @@ This API retrieves the details of a transaction using its reference number.
 -   This endpoint retrieves the details of a transaction using its unique reference number.
     
 -   It provides information such as the transaction status, amount, currency, and payment method.
+
+### **NPM Flow Integration Guide for Kalp Studio Payment Engine (KS Pay)**
+
+This guide provides step-by-step instructions for integrating the  **KS Pay Payment Engine**  into your Node.js application using the  **NPM package**. The NPM flow is ideal for developers working with JavaScript/Node.js and simplifies the integration process.
+
+----------
+
+#### **Prerequisites**
+
+1.  **Node.js**  installed on your system.
+    
+2.  **NPM**  (Node Package Manager) installed.
+    
+3.  **KS Pay API Key**  and  **Merchant Token**  (obtained from the KS Pay dashboard).
+    
+
+----------
+
+#### **Step 1: Install the KS Pay NPM Package**
+
+1.  Open your terminal or command prompt.
+    
+2.  Navigate to your project directory.
+    
+3.  Install the KS Pay NPM package:
+    
+    `
+    npm install ks-pay
+    `
+    
+
+----------
+
+#### **Step 2: Initialize the KS Pay Client**
+
+1.  Import the KS Pay package and initialize the client in your application:
+    
+   `
+    
+    const KSPay = require('ks-pay');
+    
+    const ksPayClient = new KSPay({
+      apiKey: 'YOUR_API_KEY',         // Replace with your API Key
+      merchantToken: 'YOUR_MERCHANT_TOKEN' // Replace with your Merchant Token
+    });
+   `
+    
+
+----------
+
+#### **Step 3: Authentication**
+
+To interact with the KS Pay API, you need to authenticate using an  **API Key**  and  **Merchant Token**. The NPM package provides methods to generate tokens and signatures.
+
+#### **1. Generate Token**
+
+Generate an access token for API requests:
+
+```
+ksPayClient.generateToken()
+  .then(response => {
+    console.log('Access Token:', response.token);
+  })
+  .catch(error => {
+    console.error('Error generating token:', error);
+  });
+  
+  ```
+#### **2. Generate Signature**
+
+Generate a signature for secure API requests:
+
+```
+const payload = {
+  amount: 100.00,
+  currency: 'USD',
+  customerId: 'CUST123'
+};
+
+const signature = ksPayClient.generateSignature(payload);
+console.log('Generated Signature:', signature);
+
+```
+
+#### **3. Generate Refresh Token (Optional)**
+
+Generate a refresh token to renew your access token:
+
+```
+
+ksPayClient.generateRefreshToken()
+  .then(response => {
+    console.log('Refresh Token:', response.refreshToken);
+  })
+  .catch(error => {
+    console.error('Error generating refresh token:', error);
+  });
+```
+
+----------
+
+#### **Step 4: Fetch Data**
+
+Use the KS Pay client to fetch necessary data like currencies and payment methods.
+
+#### **1. Fetch Currencies**
+
+Retrieve a list of supported currencies:
+
+```
+
+ksPayClient.fetchCurrencies()
+  .then(response => {
+    console.log('Supported Currencies:', response.currencies);
+  })
+  .catch(error => {
+    console.error('Error fetching currencies:', error);
+  });
+```
+
+#### **2. Fetch Payment Methods for a Currency**
+
+Retrieve payment methods available for a specific currency:
+
+```
+
+ksPayClient.fetchMethodsForCurrency('USD')
+  .then(response => {
+    console.log('Payment Methods for USD:', response.methods);
+  })
+  .catch(error => {
+    console.error('Error fetching payment methods:', error);
+  });
+```
+
+----------
+
+#### **Step 5: Initiate a Transaction**
+
+Initiate a payment transaction using the KS Pay API.
+
+#### **1. Initiate Transaction**
+
+```
+
+const transactionData = {
+  amount: 100.00,
+  currency: 'USD',
+  paymentMethod: 'Credit Card',
+  customerId: 'CUST123'
+};
+
+ksPayClient.initiateTransaction(transactionData)
+  .then(response => {
+    console.log('Transaction ID:', response.transactionId);
+    console.log('Transaction Status:', response.status);
+  })
+  .catch(error => {
+    console.error('Error initiating transaction:', error);
+  });
+```
+----------
+
+### **Step 6: Fetch Transaction Details**
+
+Retrieve transaction details using the transaction ID or reference number.
+
+#### **1. Get Transaction by ID**
+
+```
+
+ksPayClient.getTransactionById('TX123456')
+  .then(response => {
+    console.log('Transaction Details:', response);
+  })
+  .catch(error => {
+    console.error('Error fetching transaction:', error);
+  });
+
+```
+
+#### **2. Get All Transactions**
+
+Retrieve a list of all transactions:
+
+```
+ksPayClient.getAllTransactions()
+  .then(response => {
+    console.log('All Transactions:', response.transactions);
+  })
+  .catch(error => {
+    console.error('Error fetching transactions:', error);
+  });
+```
+
+#### **3. Get Transaction by Reference Number**
+
+```
+
+ksPayClient.getTransactionByReference('REF123')
+  .then(response => {
+    console.log('Transaction Details:', response);
+  })
+  .catch(error => {
+    console.error('Error fetching transaction:', error);
+  });
+```
+
+----------
+
+### **Step 7: Handle Errors**
+
+The KS Pay NPM package provides detailed error messages for troubleshooting. Always handle errors in your application:
+
+```
+ksPayClient.initiateTransaction(transactionData)
+  .then(response => {
+    console.log('Transaction Successful:', response);
+  })
+  .catch(error => {
+    console.error('Error:', error.message);
+    console.error('Error Code:', error.code);
+    console.error('HTTP Status:', error.httpStatus);
+  });
+```
+
+----------
+
+#### **Example Use Case**
+
+Here’s an example of a complete workflow:
+
+```
+
+const KSPay = require('ks-pay');
+
+const ksPayClient = new KSPay({
+  apiKey: 'YOUR_API_KEY',
+  merchantToken: 'YOUR_MERCHANT_TOKEN'
+});
+
+
+// Step 1: Generate Token
+ksPayClient.generateToken()
+  .then(tokenResponse => {
+    console.log('Token Generated:', tokenResponse.token);
+
+    // Step 2: Fetch Currencies
+    return ksPayClient.fetchCurrencies();
+  })
+  .then(currenciesResponse => {
+    console.log('Currencies:', currenciesResponse.currencies);
+
+    // Step 3: Initiate Transaction
+    const transactionData = {
+      amount: 100.00,
+      currency: 'USD',
+      paymentMethod: 'Credit Card',
+      customerId: 'CUST123'
+    };
+    return ksPayClient.initiateTransaction(transactionData);
+  })
+  .then(transactionResponse => {
+    console.log('Transaction ID:', transactionResponse.transactionId);
+
+    // Step 4: Fetch Transaction Details
+    return ksPayClient.getTransactionById(transactionResponse.transactionId);
+  })
+  .then(transactionDetails => {
+    console.log('Transaction Details:', transactionDetails);
+  })
+  .catch(error => {
+    console.error('Error:', error.message);
+  });
+  
+  ```
+
+----------
+
+#### **Conclusion**
+
+The  **NPM Flow**  simplifies the integration of KS Pay into Node.js applications. By following this guide, you can:
+
+-   Authenticate using API keys.
+    
+-   Fetch currencies and payment methods.
+    
+-   Initiate and track transactions.
+    
+-   Handle errors effectively.
