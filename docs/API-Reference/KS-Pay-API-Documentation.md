@@ -652,826 +652,506 @@ paymentGatewayCannotBeEdited: this.errorMessage("Gateway can't be edited, reatte
 
 ## API Reference
 
-###  **Server-to-Server (S2S) API Flow**
+### Server-to-Server (S2S) API Flow
 
-#### **1. Generate Token**
+#### 1. Generate Token
+This API generates an access token and refresh token for authentication. The access token is required for subsequent API calls.
 
-This API is used to generate an access token and refresh token for authentication. The access token is required for subsequent API calls.
+#### Request
+**Method:** `POST`
 
-#### **Request**
+**URL:** `{{KSPAY3Url}}/auth/generate-token/{{appId}}`
 
--   **Method**:  `POST`
-    
--   **URL**:  `{{KSPAY3Url}}/auth/generate-token/{{appId}}`
-    
--   **Headers**:
-    
-    -   `Content-Type: application/json`
-        
--   **Body**:
+**Headers:**
+```json
+{
+  "Content-Type": "application/json"
+}
+```
 
-    {
-      "accessKey": "{{accesskey}}",
-      "secretKey": "{{secretKey}}"
-    }
-`
-  
+**Body:**
+```json
+{
+  "accessKey": "{{accesskey}}",
+  "secretKey": "{{secretKey}}"
+}
+```
 
-#### **Response**
+#### Response
+**Status Code:** `201 Created`
 
--   **Status Code**:  `201 Created`
-    
--   **Body**:
-    
-    
-  ``
-   
-    
-    {
-      "status": 201,
-      "message": "success",
-      "result": {
-        "accessToken": "YOUR_ACCESS_TOKEN",
-        "refreshToken": "YOUR_REFRESH_TOKEN"
-      }
-    ```
-    
+**Body:**
+```json
+{
+  "status": 201,
+  "message": "success",
+  "result": {
+    "accessToken": "YOUR_ACCESS_TOKEN",
+    "refreshToken": "YOUR_REFRESH_TOKEN"
+  }
+}
+```
 
-#### **Description**
+#### Description
+- Authenticates the user using `accessKey` and `secretKey`.
+- Returns an `accessToken` and `refreshToken`.
+- The `accessToken` is short-lived and must be refreshed using the `refreshToken`.
 
--   This endpoint authenticates the user using the provided  `accessKey`  and  `secretKey`.
-    
--   It returns an  `accessToken`  and  `refreshToken`  for subsequent API calls.
-    
--   The  `accessToken`  is short-lived and must be refreshed using the  `refreshToken`.
-    
+#### 2. Generate Signature
+This API generates a signature for secure API requests.
 
-----------
+### Request
+**Method:** `POST`
 
-### **2. Generate Signature**
+**URL:** `{{KSPAY3Url}}/auth/generate-signature/{{appId}}`
 
-This API generates a signature for secure API requests. The signature is used to validate the authenticity of the request.
+**Headers:**
+```json
+{
+  "Content-Type": "application/json"
+}
+```
 
-#### **Request**
+**Body:**
+```json
+{
+  "accessKey": "{{accesskey}}",
+  "secretKey": "{{secretKey}}"
+}
+```
 
--   **Method**:  `POST`
-    
--   **URL**:  `{{KSPAY3Url}}/auth/generate-signature/{{appId}}`
-    
--   **Headers**:
-    
-    -   `Content-Type: application/json`
-        
--   **Body**:
-    
-   `
-    
-    {
-      "accessKey": "{{accesskey}}",
-      "secretKey": "{{secretKey}}"
-    }
-    
+#### Response
+**Status Code:** `201 Created`
 
-#### **Response**
+**Body:**
+```json
+{
+  "status": 201,
+  "message": "success",
+  "result": "GENERATED_SIGNATURE"
+}
+```
 
--   **Status Code**:  `201 Created`
-    
--   **Body**:
-    
-   `
-    
-    {
-      "status": 201,
-      "message": "success",
-      "result": "GENERATED_SIGNATURE"
-    }
-    
+#### Description
+- Generates a cryptographic signature using `accessKey` and `secretKey`.
+- The signature is used to secure API requests.
 
-#### **Description**
+#### 3. Generate Refresh Token
+This API refreshes the access token using the refresh token.
 
--   This endpoint generates a cryptographic signature using the provided  `accessKey`  and  `secretKey`.
-    
--   The signature is used to secure API requests and validate their authenticity.
-    
+#### Request
+**Method:** `POST`
 
-----------
+**URL:** `{{KSPAY3Url}}/auth/refresh-token`
 
-### **3. Generate Refresh Token**
+**Headers:**
+```json
+{
+  "Authorization": "{{r_token}}",
+  "Content-Type": "application/json"
+}
+```
 
-This API refreshes the access token using the refresh token. It is used when the access token expires.
+**Body:**
+```json
+{
+  "accessKey": "{{accesskey}}",
+  "secretKey": "{{secretKey}}"
+}
+```
 
-#### **Request**
+#### Response
+**Status Code:** `201 Created`
 
--   **Method**:  `POST`
-    
--   **URL**:  `{{KSPAY3Url}}auth/refresh-token`
-    
--   **Headers**:
-    
-    -   `Authorization: {{r_token}}`
-        
-    -   `Content-Type: application/json`
-        
--   **Body**:
-    
-    ```
-    
-    {
-      "accessKey": "{{accesskey}}",
-      "secretKey": "{{secretKey}}"
-    }
-    
+**Body:**
+```json
+{
+  "status": 201,
+  "message": "success",
+  "result": {
+    "accessToken": "NEW_ACCESS_TOKEN",
+    "refreshToken": "NEW_REFRESH_TOKEN"
+  }
+}
+```
 
-#### **Response**
+#### Description
+- Refreshes the `accessToken` using the `refreshToken`.
+- Returns a new `accessToken` and `refreshToken`.
 
--   **Status Code**:  `201 Created`
-    
--   **Body**:
-    
-   ``
-    
-    {
-      "status": 201,
-      "message": "success",
-      "result": {
-        "accessToken": "NEW_ACCESS_TOKEN",
-        "refreshToken": "NEW_REFRESH_TOKEN"
-      }
-    }
-    
-
-#### **Description**
-
--   This endpoint refreshes the access token using the  `refreshToken`.
-    
--   It returns a new  `accessToken`  and  `refreshToken`  for continued API access.
-    
-
-----------
-
-### **4. Fetch Currencies**
-
+#### 4. Fetch Currencies
 This API retrieves a list of supported currencies.
 
-#### **Request**
+#### Request
+**Method:** `GET`
 
--   **Method**:  `GET`
-    
--   **URL**:  `{{KSPAY3Url}}/currencies`
-    
--   **Headers**:
-    
-    -   `Authorization: Bearer {{a_token}}`
-        
-    -   `Content-Type: application/json`
-        
+**URL:** `{{KSPAY3Url}}/currencies`
 
-#### **Response**
+**Headers:**
+```json
+{
+  "Authorization": "Bearer {{a_token}}",
+  "Content-Type": "application/json"
+}
+```
 
--   **Status Code**:  `200 OK`
-    
--   **Body**:
-    
-   ``
-    
+#### Response
+**Status Code:** `200 OK`
+
+**Body:**
+```json
+{
+  "status": 200,
+  "message": "success",
+  "result": [
     {
-      "status": 200,
-      "message": "success",
-      "result": [
-        {
-          "name": "Rupees",
-          "code": "INR",
-          "symbol": "Rs",
-          "type": "FIAT",
-          "userId": "us_M6jVa85Zb",
-          "id": "c_WkmEe23LeI",
-          "isActive": true,
-          "isDisabled": false,
-          "createdAt": "2024-08-03T11:57:59.647Z",
-          "updatedAt": "2024-08-03T11:57:59.647Z"
-        }
-      ]
+      "name": "Rupees",
+      "code": "INR",
+      "symbol": "Rs",
+      "type": "FIAT",
+      "userId": "us_M6jVa85Zb",
+      "id": "c_WkmEe23LeI",
+      "isActive": true,
+      "createdAt": "2024-08-03T11:57:59.647Z"
     }
-    
+  ]
+}
+```
 
-#### **Description**
+#### Description
+- Returns a list of supported currencies, including their codes, symbols, and types.
 
--   This endpoint returns a list of all supported currencies, including their codes, symbols, and types (e.g., FIAT).
-    
--   It is useful for displaying currency options to users during transactions.
-    
+#### 5. Fetch Payment Methods for Currency
+This API retrieves available payment methods for a specific currency.
 
-----------
+### Request
+**Method:** `GET`
 
-### **5. Fetch Payment Methods for Currency**
+**URL:** `{{KSPAY3Url}}/{{currencyId}}/payment-methods`
 
-This API retrieves the payment methods available for a specific currency.
+**Headers:**
+```json
+{
+  "Authorization": "Bearer {{a_token}}",
+  "Content-Type": "application/json"
+}
+```
 
-#### **Request**
+#### Response
+**Status Code:** `200 OK`
 
--   **Method**:  `GET`
-    
--   **URL**:  `{{KSPAY3Url}}/{{currencyId}}/payment-methods`
-    
--   **Headers**:
-    
-    -   `Authorization: Bearer {{a_token}}`
-        
-    -   `Content-Type: application/json`
-        
+**Body:**
+```json
+{
+  "status": 200,
+  "message": "success",
+  "result": [
+    { "id": "pm_Mk55VGvFm", "name": "NET BANKING", "isActive": true },
+    { "id": "pm_QtgkfiiWb", "name": "DEBIT CARD", "isActive": true }
+  ]
+}
+```
 
-#### **Response**
+#### Description
+- Returns a list of available payment methods for a specific currency.
 
--   **Status Code**:  `200 OK`
-    
--   **Body**:
-    
-    ```
-    
-    {
-      "status": 200,
-      "message": "success",
-      "result": [
-        {
-          "id": "pm_Mk55VGvFm",
-          "name": "NET BANKING",
-          "isActive": true,
-          "isDisabled": false
-        },
-        {
-          "id": "pm_QtgkfiiWb",
-          "name": "DEBIT CARD",
-          "isActive": true,
-          "isDisabled": false
-        }
-      ]
-    }
-    
-
-#### **Description**
-
--   This endpoint returns a list of payment methods (e.g., Net Banking, Debit Card) available for a specific currency.
-    
--   It helps users select a payment method during transaction initiation.
-    
-
-----------
-
-### **6. Initiate Transaction**
-
+#### 6. Initiate Transaction
 This API initiates a payment transaction.
 
-#### **Request**
+### Request
+**Method:** `POST`
 
--   **Method**:  `POST`
-    
--   **URL**:  `{{KSPAY3Url}}/transaction/initiate`
-    
--   **Headers**:
-    
-    -   `x-signature: {{Signature}}`
-        
--   **Body**:
-    
-   ``
-    
-    {
-      "currencyId": "c_JdzYuwqF6O",
-      "paymentMethodId": "pm_5LR93Agwv",
-      "amount": 345.67,
-      "referenceNumber": "{{referenceNumber}}"
-    }
-    
+**URL:** `{{KSPAY3Url}}/transaction/initiate`
 
-#### **Response**
-
--   **Status Code**:  `201 Created`
-    
--   **Body**:
-    
-   ``
-    
-    {
-      "status": 201,
-      "message": "success",
-      "result": {
-        "pe_txnId": "tx_UOVynlQ0j",
-        "providerOrderId": "order_P4sEpHDzofjQwV",
-        "amount": 345.67,
-        "currency": "INR",
-        "gateway": "RAZORPAY",
-        "method": "NET BANKING",
-        "mode": "sandbox",
-        "config": {
-          "display": {
-            "blocks": {
-              "netbanking": {
-                "name": "Pay using Netbanking",
-                "instruments": [
-                  {
-                    "method": "netbanking"
-                  }
-                ]
-              }
-            },
-            "sequence": [
-              "block.netbanking"
-            ],
-            "preferences": {
-              "show_default_blocks": false
-            }
-          }
-        }
-      }
-    }
-    
-
-#### **Description**
-
--   This endpoint initiates a payment transaction using the specified currency, payment method, and amount.
-    
--   It returns transaction details, including a unique transaction ID (`pe_txnId`) and provider order ID (`providerOrderId`).
-    
-
-----------
-
-### **7. Fetch Transaction by ID**
-
-This API retrieves the details of a specific transaction using its ID.
-
-#### **Request**
-
--   **Method**:  `GET`
-    
--   **URL**:  `{{KSPAY3Url}}/transaction/txnId/{{txnId}}`
-    
--   **Headers**:
-    
-    -   `Authorization: Bearer {{a_token}}`
-        
-    -   `Content-Type: application/json`
-        
-
-#### **Response**
-
--   **Status Code**:  `200 OK`
-    
--   **Body**:
-    
-``
-    
-    {
-      "status": 200,
-      "message": "success",
-      "result": {
-        "id": "tx_aNNJ7BJbt",
-        "providerOrderId": "4AM954523V5514225",
-        "currencyId": "c_wQOPe0WCeW",
-        "appId": "ap_mPFz05qW2",
-        "referenceNumber": "yo3pEaqOfMXbhGJx",
-        "paymentMethodId": "pm_mbS72zjCr",
-        "amount": "11",
-        "currencyCode": "USD",
-        "origin": "http://localhost:3030",
-        "gatewayConfigId": "gc_F2TcBqkVS",
-        "paymentType": "PAYPAL",
-        "subPaymentType": null,
-        "providerName": "PAYPAL",
-        "providerPaymentType": "PAYPAL",
-        "providerSubpaymentType": null,
-        "providerTxnId": null,
-        "signature": null,
-        "status": "PENDING",
-        "providerStatus": "CREATED",
-        "userId": "us_ZN6ZtYFbT",
-        "isPaid": false,
-        "createdAt": "2024-08-26T05:24:17.425Z",
-        "updatedAt": "2024-09-05T10:00:08.700Z"
-      }
-    }
-    
-
-#### **Description**
-
--   This endpoint retrieves the details of a transaction using its unique transaction ID (`txnId`).
-    
--   It provides information such as the transaction status, amount, currency, and payment method.
-
-### **8. Fetch All Transactions**
-
-This API retrieves a list of all transactions.
-
-#### **Request**
-
--   **Method**:  `GET`
-    
--   **URL**:  `{{KSPAY3Url}}/transaction`
-    
--   **Headers**:
-    
-    -   `Authorization: Bearer {{a_token}}`
-        
-    -   `Content-Type: application/json`
-        
-
-#### **Response**
-
--   **Status Code**:  `200 OK`
-    
--   **Body**:
-    
-   ``
-    
-    {
-      "status": 200,
-      "message": "success",
-      "result": [
-        {
-          "id": "tx_aNNJ7BJbt",
-          "providerOrderId": "4AM954523V5514225",
-          "currencyId": "c_wQOPe0WCeW",
-          "appId": "ap_mPFz05qW2",
-          "referenceNumber": "yo3pEaqOfMXbhGJx",
-          "paymentMethodId": "pm_mbS72zjCr",
-          "amount": "11",
-          "currencyCode": "USD",
-          "origin": "http://localhost:3030",
-          "gatewayConfigId": "gc_F2TcBqkVS",
-          "paymentType": "PAYPAL",
-          "subPaymentType": null,
-          "providerName": "PAYPAL",
-          "providerPaymentType": "PAYPAL",
-          "providerSubpaymentType": null,
-          "providerTxnId": null,
-          "signature": null,
-          "status": "PENDING",
-          "providerStatus": "CREATED",
-          "userId": "us_ZN6ZtYFbT",
-          "isPaid": false,
-          "createdAt": "2024-08-26T05:24:17.425Z",
-          "updatedAt": "2024-09-05T10:00:08.700Z"
-        }
-      ]
-    }
-    
-
-#### **Description**
-
--   This endpoint retrieves a list of all transactions, including their status, amount, currency, and payment method.
-    
--   It is useful for displaying a transaction history or generating reports.
-    
-
-----------
-
-### **9. Fetch Transaction by Reference Number**
-
-This API retrieves the details of a transaction using its reference number.
-
-#### **Request**
-
--   **Method**:  `GET`
-    
--   **URL**:  `{{KSPAY3Url}}/transaction/referenceNo/{{referenceNumber}}`
-    
--   **Headers**:
-    
-    -   `Authorization: Bearer {{a_token}}`
-        
-    -   `Content-Type: application/json`
-        
-
-#### **Response**
-
--   **Status Code**:  `200 OK`
-    
--   **Body**:
-   
-  ``
-    
-    {
-      "status": 200,
-      "message": "success",
-      "result": {
-        "id": "tx_aNNJ7BJbt",
-        "providerOrderId": "4AM954523V5514225",
-        "currencyId": "c_wQOPe0WCeW",
-        "appId": "ap_mPFz05qW2",
-        "referenceNumber": "yo3pEaqOfMXbhGJx",
-        "paymentMethodId": "pm_mbS72zjCr",
-        "amount": "11",
-        "currencyCode": "USD",
-        "origin": "http://localhost:3030",
-        "gatewayConfigId": "gc_F2TcBqkVS",
-        "paymentType": "PAYPAL",
-        "subPaymentType": null,
-        "providerName": "PAYPAL",
-        "providerPaymentType": "PAYPAL",
-        "providerSubpaymentType": null,
-        "providerTxnId": null,
-        "signature": null,
-        "status": "PENDING",
-        "providerStatus": "CREATED",
-        "userId": "us_ZN6ZtYFbT",
-        "isPaid": false,
-        "createdAt": "2024-08-26T05:24:17.425Z",
-        "updatedAt": "2024-09-05T10:00:08.700Z"
-      }
-    }
-    
-
-#### **Description**
-
--   This endpoint retrieves the details of a transaction using its unique reference number.
-    
--   It provides information such as the transaction status, amount, currency, and payment method.
-
-### **NPM Flow Integration Guide for Kalp Studio Payment Engine (KS Pay)**
-
-This guide provides step-by-step instructions for integrating the  **KS Pay Payment Engine**  into your Node.js application using the  **NPM package**. The NPM flow is ideal for developers working with JavaScript/Node.js and simplifies the integration process.
-
-----------
-
-#### **Prerequisites**
-
-1.  **Node.js**  installed on your system.
-    
-2.  **NPM**  (Node Package Manager) installed.
-    
-3.  **KS Pay API Key**  and  **Merchant Token**  (obtained from the KS Pay dashboard).
-    
-
-----------
-
-#### **Step 1: Install the KS Pay NPM Package**
-
-1.  Open your terminal or command prompt.
-    
-2.  Navigate to your project directory.
-    
-3.  Install the KS Pay NPM package:
-    
-    `
-    npm install ks-pay
-    `
-    
-
-----------
-
-#### **Step 2: Initialize the KS Pay Client**
-
-1.  Import the KS Pay package and initialize the client in your application:
-    
-   `
-    
-    const KSPay = require('ks-pay');
-    
-    const ksPayClient = new KSPay({
-      apiKey: 'YOUR_API_KEY',         // Replace with your API Key
-      merchantToken: 'YOUR_MERCHANT_TOKEN' // Replace with your Merchant Token
-    });
-   `
-    
-
-----------
-
-#### **Step 3: Authentication**
-
-To interact with the KS Pay API, you need to authenticate using an  **API Key**  and  **Merchant Token**. The NPM package provides methods to generate tokens and signatures.
-
-#### **1. Generate Token**
-
-Generate an access token for API requests:
-
+**Headers:**
+```json
+{
+  "x-signature": "{{Signature}}"
+}
 ```
-ksPayClient.generateToken()
-  .then(response => {
-    console.log('Access Token:', response.token);
-  })
-  .catch(error => {
-    console.error('Error generating token:', error);
-  });
+
+**Body:**
+```json
+{
+  "currencyId": "c_JdzYuwqF6O",
+  "paymentMethodId": "pm_5LR93Agwv",
+  "amount": 345.67,
+  "referenceNumber": "{{referenceNumber}}"
+}
+```
+
+#### Response
+**Status Code:** `201 Created`
+
+**Body:**
+```json
+{
+  "status": 201,
+  "message": "success",
+  "result": {
+    "pe_txnId": "tx_UOVynlQ0j",
+    "providerOrderId": "order_P4sEpHDzofjQwV",
+    "amount": 345.67,
+    "currency": "INR"
+  }
+}
+```
+
+#### 7. Process Transaction
+**API Name:** Process Transaction
+
+**Description:** Processes the initiated transaction using the generated signature.
+
+**Endpoint:**
+```
+POST - /transaction/process
+```
+
+**Request Headers:**
+```json
+{
+  "x-signature": "7b452bc7f5adfe1d65e...",
+  "Content-Type": "application/json"
+}
+```
+
+**Response:**
+```json
+{
+  "order": "..."
+}
+```
+
+---
+
+#### Description
+- Initiates a payment transaction.
+
+#### 8. Fetch Transaction by ID
+This API retrieves transaction details using its ID.
+
+#### Request
+**Method:** `GET`
+
+**URL:** `{{KSPAY3Url}}/transaction/txnId/{{txnId}}`
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer {{a_token}}",
+  "Content-Type": "application/json"
+}
+```
+
+#### Response
+**Status Code:** `200 OK`
+
+#### Description
+- Retrieves the details of a transaction using its unique ID.
+
+#### 9. Fetch All Transactions
+This API retrieves all transactions.
+
+#### Request
+**Method:** `GET`
+
+**URL:** `{{KSPAY3Url}}/transaction`
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer {{a_token}}",
+  "Content-Type": "application/json"
+}
+```
+
+#### Description
+- Retrieves a list of all transactions.
+
+### KS-PAY API Sequence to Use NPM Package
+
+#### 1. Generate Token
+**API Name:** Generate Token
+
+**Description:** This API generates an access token and refresh token for authentication.
+
+**Endpoint:**
+```
+POST - auth/generate-token/{AppID}
+```
+
+**Request Headers:**
+```json
+{
+  "Content-Type": "application/json"
+}
+```
+
+**Request Body:**
+```json
+{
+  "accesskey": "publicKey",
+  "secretKey": "secretKey"
+}
+```
+
+**Response:**
+```json
+{
+  "accessToken": "...",
+  "refreshToken": "..."
+}
+```
+
+---
+
+#### 2. Get Currencies
+**API Name:** Get Available Currencies
+
+**Description:** Retrieves a list of available currencies for transactions.
+
+**Endpoint:**
+```
+GET - /currencies
+```
+
+**Request Headers:**
+```json
+{
+  "Authorization": "Bearer {accessToken}"
+}
+```
+
+**Response:**
+```json
+[
+  { "currencyId": "c_2xqOlqufc3", "name": "USD" },
   
-  ```
-#### **2. Generate Signature**
-
-Generate a signature for secure API requests:
-
-```
-const payload = {
-  amount: 100.00,
-  currency: 'USD',
-  customerId: 'CUST123'
-};
-
-const signature = ksPayClient.generateSignature(payload);
-console.log('Generated Signature:', signature);
-
+]
 ```
 
-#### **3. Generate Refresh Token (Optional)**
+---
 
-Generate a refresh token to renew your access token:
+#### 3. Get Payment Methods
+**API Name:** Get Payment Methods
 
+**Description:** Retrieves a list of available payment methods for a specific currency.
+
+**Endpoint:**
+```
+GET - /{currencyId}/payment-methods
 ```
 
-ksPayClient.generateRefreshToken()
-  .then(response => {
-    console.log('Refresh Token:', response.refreshToken);
-  })
-  .catch(error => {
-    console.error('Error generating refresh token:', error);
-  });
+**Request Headers:**
+```json
+{
+  "Authorization": "Bearer {accessToken}"
+}
 ```
 
-----------
-
-#### **Step 4: Fetch Data**
-
-Use the KS Pay client to fetch necessary data like currencies and payment methods.
-
-#### **1. Fetch Currencies**
-
-Retrieve a list of supported currencies:
-
-```
-
-ksPayClient.fetchCurrencies()
-  .then(response => {
-    console.log('Supported Currencies:', response.currencies);
-  })
-  .catch(error => {
-    console.error('Error fetching currencies:', error);
-  });
-```
-
-#### **2. Fetch Payment Methods for a Currency**
-
-Retrieve payment methods available for a specific currency:
-
-```
-
-ksPayClient.fetchMethodsForCurrency('USD')
-  .then(response => {
-    console.log('Payment Methods for USD:', response.methods);
-  })
-  .catch(error => {
-    console.error('Error fetching payment methods:', error);
-  });
-```
-
-----------
-
-#### **Step 5: Initiate a Transaction**
-
-Initiate a payment transaction using the KS Pay API.
-
-#### **1. Initiate Transaction**
-
-```
-
-const transactionData = {
-  amount: 100.00,
-  currency: 'USD',
-  paymentMethod: 'Credit Card',
-  customerId: 'CUST123'
-};
-
-ksPayClient.initiateTransaction(transactionData)
-  .then(response => {
-    console.log('Transaction ID:', response.transactionId);
-    console.log('Transaction Status:', response.status);
-  })
-  .catch(error => {
-    console.error('Error initiating transaction:', error);
-  });
-```
-----------
-
-### **Step 6: Fetch Transaction Details**
-
-Retrieve transaction details using the transaction ID or reference number.
-
-#### **1. Get Transaction by ID**
-
-```
-
-ksPayClient.getTransactionById('TX123456')
-  .then(response => {
-    console.log('Transaction Details:', response);
-  })
-  .catch(error => {
-    console.error('Error fetching transaction:', error);
-  });
-
-```
-
-#### **2. Get All Transactions**
-
-Retrieve a list of all transactions:
-
-```
-ksPayClient.getAllTransactions()
-  .then(response => {
-    console.log('All Transactions:', response.transactions);
-  })
-  .catch(error => {
-    console.error('Error fetching transactions:', error);
-  });
-```
-
-#### **3. Get Transaction by Reference Number**
-
-```
-
-ksPayClient.getTransactionByReference('REF123')
-  .then(response => {
-    console.log('Transaction Details:', response);
-  })
-  .catch(error => {
-    console.error('Error fetching transaction:', error);
-  });
-```
-
-----------
-
-### **Step 7: Handle Errors**
-
-The KS Pay NPM package provides detailed error messages for troubleshooting. Always handle errors in your application:
-
-```
-ksPayClient.initiateTransaction(transactionData)
-  .then(response => {
-    console.log('Transaction Successful:', response);
-  })
-  .catch(error => {
-    console.error('Error:', error.message);
-    console.error('Error Code:', error.code);
-    console.error('HTTP Status:', error.httpStatus);
-  });
-```
-
-----------
-
-#### **Example Use Case**
-
-Here’s an example of a complete workflow:
-
-```
-
-const KSPay = require('ks-pay');
-
-const ksPayClient = new KSPay({
-  apiKey: 'YOUR_API_KEY',
-  merchantToken: 'YOUR_MERCHANT_TOKEN'
-});
-
-
-// Step 1: Generate Token
-ksPayClient.generateToken()
-  .then(tokenResponse => {
-    console.log('Token Generated:', tokenResponse.token);
-
-    // Step 2: Fetch Currencies
-    return ksPayClient.fetchCurrencies();
-  })
-  .then(currenciesResponse => {
-    console.log('Currencies:', currenciesResponse.currencies);
-
-    // Step 3: Initiate Transaction
-    const transactionData = {
-      amount: 100.00,
-      currency: 'USD',
-      paymentMethod: 'Credit Card',
-      customerId: 'CUST123'
-    };
-    return ksPayClient.initiateTransaction(transactionData);
-  })
-  .then(transactionResponse => {
-    console.log('Transaction ID:', transactionResponse.transactionId);
-
-    // Step 4: Fetch Transaction Details
-    return ksPayClient.getTransactionById(transactionResponse.transactionId);
-  })
-  .then(transactionDetails => {
-    console.log('Transaction Details:', transactionDetails);
-  })
-  .catch(error => {
-    console.error('Error:', error.message);
-  });
+**Response:**
+```json
+[
+  { "paymentMethodId": "pm_67NoP7JaQ", "name": "Credit Card" },
   
-  ```
+]
+```
 
-----------
+---
 
-#### **Conclusion**
+#### 4. Initiate Transaction
+**API Name:** Initiate Transaction
 
-The  **NPM Flow**  simplifies the integration of KS Pay into Node.js applications. By following this guide, you can:
+**Description:** Initiates a transaction by specifying currency, payment method, amount, and a reference number.
 
--   Authenticate using API keys.
-    
--   Fetch currencies and payment methods.
-    
--   Initiate and track transactions.
-    
--   Handle errors effectively.
+**Endpoint:**
+```
+POST - /transaction/initiate
+```
+
+**Request Headers:**
+```json
+{
+  "Authorization": "Bearer {accessToken}",
+  "Content-Type": "application/json"
+}
+```
+
+**Request Body:**
+```json
+{
+  "currencyId": "c_2xqOlqufc3",
+  "paymentMethodId": "pm_67NoP7JaQ",
+  "amount": 2,
+  "referenceNumber": "OcrcZcu5z0Az1w2Z",
+  "appId": "ap_rtk2WdyQR",
+  "redirectUrl": "your_redirect_url"
+}
+```
+
+**Response:**
+```json
+{
+  "signature": "..."
+}
+```
+
+---
+
+#### 5. Process Transaction
+**API Name:** Process Transaction
+
+**Description:** Processes the initiated transaction using the generated signature.
+
+**Endpoint:**
+```
+POST - /transaction/process
+```
+
+**Request Headers:**
+```json
+{
+  "x-signature": "7b452bc7f5adfe1d65e...",
+  "Content-Type": "application/json"
+}
+```
+
+**Response:**
+```json
+{
+  "order": "..."
+}
+```
+
+---
+
+#### 6. Pass Order Object to NPM Package
+**API Name:** Pass Order Object
+
+**Description:** Pass the Order object received from the `/transaction/process` endpoint as a payload to the NPM package.
+
+**Payload:**
+```json
+{
+  "order": {
+    // Order object details
+  }
+}
+```
+
+---
+
+#### 7. Handle Payment Response
+**API Name:** Handle Payment Response
+
+**Description:** After the payment is processed, the user will be redirected to the specified `redirectUrl` with the following parameters:
+
+- **payment_status:** The status of the payment (e.g., "success", "failed").
+- **kspay_id:** The unique identifier for the transaction in KS-PAY.
+- **provider_payment_id:** The unique identifier for the transaction in the payment provider's system.
+
+The user can then decide what to do next, such as making an API call or redirecting to another page.
+
+---
+
+This concludes the API sequence for integrating the KS-PAY payment gateway using the NPM package.
