@@ -27,6 +27,8 @@ This guide is intended for developers, DevOps engineers, and product managers wh
 
 [KS Pay API Collection](https://www.postman.com/p2eengineering/workspace/ks-pay-api-documentation/collection/30994788-84410cba-9ca9-4a9e-a75b-a39c34de2767?action=share&creator=30994788)
 
+**Base URL**: https://payment-api.p2epl.io/v1
+
 ## 2. Prerequisites
 
 ### Accounts
@@ -410,6 +412,7 @@ const ErrorMessages = {
     paymentMethodNotAllowed: {
       message: 'This payment method is not allowed to be enabled',
       httpStatu
+
 ```
 
 #### Sandbox/Live API Error codes
@@ -660,7 +663,7 @@ This API generates an access token and refresh token for authentication. The acc
 #### Request
 **Method:** `POST`
 
-**URL:** `{{KSPAY3Url}}/auth/generate-token/{{appId}}`
+**URL:** `{{baseURL}}/auth/generate-token/{{appId}}`
 
 **Headers:**
 ```json
@@ -703,7 +706,7 @@ This API generates a signature for secure API requests.
 ### Request
 **Method:** `POST`
 
-**URL:** `{{KSPAY3Url}}/auth/generate-signature/{{appId}}`
+**URL:** `{{baseURL}}/auth/generate-signature/{{appId}}`
 
 **Headers:**
 ```json
@@ -742,7 +745,7 @@ This API refreshes the access token using the refresh token.
 #### Request
 **Method:** `POST`
 
-**URL:** `{{KSPAY3Url}}/auth/refresh-token`
+**URL:** `{{baseURL}}/auth/refresh-token`
 
 **Headers:**
 ```json
@@ -785,7 +788,7 @@ This API retrieves a list of supported currencies.
 #### Request
 **Method:** `GET`
 
-**URL:** `{{KSPAY3Url}}/currencies`
+**URL:** `{{baseURL}}/currencies`
 
 **Headers:**
 ```json
@@ -827,7 +830,7 @@ This API retrieves available payment methods for a specific currency.
 ### Request
 **Method:** `GET`
 
-**URL:** `{{KSPAY3Url}}/{{currencyId}}/payment-methods`
+**URL:** `{{baseURL}}/{{currencyId}}/payment-methods`
 
 **Headers:**
 ```json
@@ -861,7 +864,7 @@ This API initiates a payment transaction.
 ### Request
 **Method:** `POST`
 
-**URL:** `{{KSPAY3Url}}/transaction/initiate`
+**URL:** `{{baseURL}}/transaction/initiate`
 
 **Headers:**
 ```json
@@ -933,7 +936,7 @@ This API retrieves transaction details using its ID.
 #### Request
 **Method:** `GET`
 
-**URL:** `{{KSPAY3Url}}/transaction/txnId/{{txnId}}`
+**URL:** `{{baseURL}}/transaction/txnId/{{txnId}}`
 
 **Headers:**
 ```json
@@ -955,7 +958,7 @@ This API retrieves all transactions.
 #### Request
 **Method:** `GET`
 
-**URL:** `{{KSPAY3Url}}/transaction`
+**URL:** `{{baseURL}}/transaction`
 
 **Headers:**
 ```json
