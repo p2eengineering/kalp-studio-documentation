@@ -222,8 +222,9 @@ nav:
             - How to reset wallet: 'Products/Kalp-Wallet-Mobile/How-to-reset-wallet.md'
             - How to search a token on wallet applications: 'Products/Kalp-Wallet-Mobile/How-to-search-a-token-on-Wallet-Application.md'
             - How to send tokens from kalp wallet: 'Products/Kalp-Wallet-Mobile/How-to-send-tokens-from-Kalp-Wallet.md'
-      - Referral-Program:
-            - User Guide - For Kalp Studio Referral Program: 'docs/Products/User Guide - For Kalp Studio Referral Program.md'
+      - Referral-Program: 'Products/User Guide - For Kalp Studio Referral Program.md'
+            
+            
 
   - Dev Documentation:
       - Kalp DLT:
