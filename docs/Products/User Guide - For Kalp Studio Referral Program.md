@@ -3,12 +3,12 @@
 
 # User Guide: For Kalp Studio Referral Program
 
-The Kalp Studio Referral Program is a feature that allows you to grow the Kalp Studio community by inviting developers and users to the platform. In return, you can earn Kalp Karma rewards for their contributions.
+Join the Kalp Studio Referral Program and earn Kalp Karma Points by inviting developers and users! Bring your network onboard and unlock exclusive rewards based on their contributions. The more you refer, the more Karma Points you earn! This guide will show you how to refer and quickly accumulate points.
 
 ### **Step 1: Logging into Your Kalp Studio Account**
 
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf1.png)
 
 1.  **Open your web browser:** Launch your preferred web browser.
     
@@ -23,21 +23,16 @@ The Kalp Studio Referral Program is a feature that allows you to grow the Kalp S
 
 ### **Step 2: Navigating to the Applications Section**
 
-1.  **Locate the Sidebar Menu:** Once logged in, you will see a navigation menu on the left side of the screen.
+1.  **Locate the Referral Program Option:** Once logged in, you will see a Referral Program Option among the other Kalp Studio programs and features.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf2.png)
+
     
 
-
-![]()
-
-2.  **Click "Applications":** Find the "Applications" icon in the sidebar menu and click on it. This will take you to the Applications section.
-    
-3.  **View Your Services:** In the Applications section, you can see a list of services, products and apps you subscribed to.
-    
-
-### **Step 3: Requesting Access to the Referral Program**
+### **Step 3: Request Referral Program Access**
 
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf3.png)
 
 1.  **Locate the "Referral Program" Card:** Scroll through the Applications section to find the card labeled "Referral Program."
     
@@ -47,63 +42,57 @@ The Kalp Studio Referral Program is a feature that allows you to grow the Kalp S
 ### **Step 4: Submit Your Request**
 
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf4.png)
 
 1.  **Confirmation Pop-Up:** A pop-up window will appear, asking "Want to join our program?".
     
 2.  **Click "Submit Request":** To confirm your request, click the "Submit Request" button. If you change your mind, click "Cancel".
     
 
-### **Step 5: Waiting for Approval**
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf5.png)
 
-![]()
+The button on the "Referral Program" card will get changed to "Request Sent," indicating that your request has been successfully submitted to the Kalp Studio admin for approval.
 
-1.  **Request Sent:** The button on the "Referral Program" card will get changed to "Request Sent," indicating that your request has been successfully submitted to the Kalp Studio admin for approval.
-    
-2.  **Wait for Approval:** You need to wait for the Kalp Studio admin to review and approve your request.
     
 
-### **Step 6: Accessing the Referral Program After Approval**
+### **Step 6: Access Referral Program**
 
 **Email Confirmation**
 
 After successfully submitting your request to join the Kalp Studio Referral Program, you will be notified of your approval via email.
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf6.png)
 
 **Access Dashboard**
 
 1.  **Approval Confirmation:** Once the admin has approved your request, the application list is updated with the ability to enter the program.
     
 2.  **Click "Access Program":** Now the button label will be changed to "Access Program". Click on this to access the referral program dashboard.
-    
 
-
-
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf7.png)
 
 ### **Step 7: Referral Program Dashboard**
 
 **Access Referral Tab**: Upon clicking the "Access Program" button, the "Referral" tab gets opened, and it shows the referral dashboard with the following information:
 
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf8.png)
 
 -   **Number Of Users Invited:** This displays the number of users you have invited to join Kalp Studio through your referral program.
     
 -   **Number Of Users Joined:** This shows the number of users who have successfully joined Kalp Studio using your unique referral link or code.
     
--   **Kalp Karma Points:** This indicates the number of Karma Points you have earned through the referral program. Kalp Karma Points are granted when invited users join using your invitation link/referral code.
+-   **Kalp Karma Points:** This indicates the number of Kalp Karma Points you have earned through the referral program. Kalp Karma Points are granted when invited users join using your invitation link/referral code.
     
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf9.png)
 
 **Invited Users** Clicking on "Invited Users" tab shows all the users you have invited.
 
 
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf10.png)
 
 **Joined Users** Clicking on "Joined Users" tab shows all the users who have successfully joined using the invitation link/referral code.
 
@@ -113,9 +102,7 @@ After successfully submitting your request to join the Kalp Studio Referral Prog
     
 2.  **Click the "Refer Now" button.** This will open a pop-up window titled "Invite User".
     
-
-
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf11.png)
 
 3.  **Fill in the "Invite User" form:**
     
@@ -123,24 +110,23 @@ After successfully submitting your request to join the Kalp Studio Referral Prog
 -   Enter the **Name** of the person you want to invite in the "Enter name" field.
     
 -   Enter the **Email address** of the person you want to invite in the "Enter email" field.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf12.png)
+
+4.  **Click the "Invite Now" button** within the "Invite User" pop-up. This will send an invitation to the specified email address. 
+> You can copy the referral code and share it through your preferred channels.
     
-
-
-![]()
-
-4.  **Click the "Invite Now" button** within the "Invite User" pop-up. This will send an invitation to the specified email address.
-    
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf13.png)
 
 
 ## **Kalp Karma Points and Rewards**
 
 
-![]()
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf14.png)
 
 -   Referral Karma Points will be added to your account once the invited user successfully joins Kalp Studio.
     
 -   **Kalp Karma Points usage:** Use the earned kalp karma points to redeem GINI, mobile recharges, gift cards (Amazon, Flipkart, etc.), and even bill payments.
     
 
-By following these steps, you can successfully request access to, navigate, and utilize the Kalp Studio Referral Program. This program offers a valuable opportunity to contribute to the growth of the Kalp Studio community while earning rewards for your efforts.
+Follow above steps to access and utilize the Kalp Studio Referral Program. This program rewards your contributions to growing our community with valuable Kalp Karma Points. Earn Kalp Karma Points by referring new members and unlock exclusive rewards within the Kalp Studio ecosystem. The more you contribute, the more Kalp Karma Points you earn.
