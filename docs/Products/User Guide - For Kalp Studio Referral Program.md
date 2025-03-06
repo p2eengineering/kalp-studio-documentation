@@ -23,7 +23,7 @@ Join the Kalp Studio Referral Program and earn Kalp Karma Points by inviting dev
 
 ### **Step 2: Navigating to the Applications Section**
 
-1.  **Locate the Referral Program Option:** Once logged in, you will see a Referral Program Option among the other Kalp Studio programs and features.
+1.  **Locate the Referral Program Option:** Once logged in, you will see Referral Program app, among the other Kalp Studio applications.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf2.png)
 
@@ -60,9 +60,12 @@ The button on the "Referral Program" card will get changed to "Request Sent," in
 
 **Email Confirmation**
 
-After successfully submitting your request to join the Kalp Studio Referral Program, you will be notified of your approval via email.
+Once your request to join the Kalp Studio Referral Program is approved, you will be notified via email.
+
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf6.png)
+
+
 
 **Access Dashboard**
 
@@ -74,7 +77,7 @@ After successfully submitting your request to join the Kalp Studio Referral Prog
 
 ### **Step 7: Referral Program Dashboard**
 
-**Access Referral Tab**: Upon clicking the "Access Program" button, the "Referral" tab gets opened, and it shows the referral dashboard with the following information:
+**Access Referral Tab**: Upon clicking the "Access Program" button, the "Referral Program" opens and it shows the referral dashboard with the following information:
 
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf8.png)
@@ -114,7 +117,7 @@ After successfully submitting your request to join the Kalp Studio Referral Prog
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf12.png)
 
 4.  **Click the "Invite Now" button** within the "Invite User" pop-up. This will send an invitation to the specified email address. 
-> You can copy the referral code and share it through your preferred channels.
+> You can copy the referral code or link and share it through your preferred channels.
     
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf13.png)
 
