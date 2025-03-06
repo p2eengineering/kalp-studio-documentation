@@ -1,8 +1,9 @@
-site_name: kalp-studio-documentation
+site_name: Kalp Studio Documentation
+site_description: Kalp Studio's documentation provides developers with essential tools and resources to build, manage, and scale blockchain networks efficiently.
 site_author: Siddhesh Patankar
-copyright: Copyright © 2024 Kalp studio. All rights reserved.
+copyright: Copyright © 2025 Kalp studio. All rights reserved.
 repo_url: https://github.com/p2eengineering/kalp-studio-documentation
-site_url: https://doc.kalp.studio/
+site_url: https://docs.kalp.studio/
 repo_name: Kalp-studio-documentation
 
 theme:
@@ -130,76 +131,142 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Introduction: 
-          - Kalp studio overview: 'Introduction/Kalp-studio-overview.md'
-          - Kalp studio ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
-          - What is smart contract deployer: 'Introduction/What-is-kalp-instant-deployer.md'
-          - What is kalp wallet: 'Introduction/What-is-kalp-wallet.md'
-          - Kalp blockchain: 'Introduction/Kalp-blockchain.md'
-  - Getting started:
-      - Onboarding:
-          - How to Sign Up and Log In to Kalp Studio Platform: 'Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform.md'
-          - How to Change the Password: 'Getting-started/Onboarding/How-to-Change-the-Password.md'
-      - Dashboard:
-          - How to Navigate Kalp Studio Platform as a New User: 'Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User.md'
-          - How to Navigate Kalp Studio Dashboard as an Active User: 'Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Active-User.md'
-      - Billing:
-          - How does a new user access billing: 'Getting-started/Billing/How-does-a-new-user-access-billing.md'
-          - How does a subscribed user access billing: 'Getting-started/Billing/How-does-a-subscribed-user-access-billing.md'
-          - How does Billing work on the Kalp Studio Platform: 'Getting-started/Billing/How-does-Billing-work-on-the-Kalp-Studio-Platform.md'
-      - Credits:
-          - How to Add Credit: 'Getting-started/Credits/How-to-Add-Credit.md'
-          - Navigate to the credit section: 'Getting-started/Credits/Navigate-to-the-Credit-Section.md'
-      - Wallets:
-          - How to Navigate To Wallet: 'Getting-started/Wallets/How-to-Navigate-To-Wallet.md'
-          - How to Create and Connect Wallet to Kalp Studio: 'Getting-started/Wallets/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
-      - Kalp Instant Deployer:
-          - How to Deploy a Smart Contract on Kalp Studio: 'Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
-      - API Gateway:
-          - How to generate API endpoints: 'Getting-started/API-Gateway/How-to-generate-API-endpoints.md'
-          - How to navigate to the list of smart contract: 'Getting-started/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract.md'
-      - API Key Generation:
-          - How to generate API Key: 'Getting-started/API-Key-Generation/How-to-generate-API-Key.md'
-      - Transaction monitoring:
-          - How can I monitor all my transactions: 'Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
-      - Settings:
-          - How to Customize Notifications KYC and Templates: 'Getting-started/Settings/How-to-Customize-Notifications-KYC-and-Templates.md'
-  - Dev documentation:
-      - Use the kalp SDK:
-          - Kalp Golang SDK: 'Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk.md'
-      - KRC Token Standard:
-          - KRC 20 Token Contract: 'Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract.md'
-          - KRC 721 Token Contract: 'Dev-documentation/KRC-Token-Standard/KRC-721-Token-Contract.md'
-          - KRC 1155 Token Contract: 'Dev-documentation/KRC-Token-Standard/KRC-1155-Token-Contract.md'
-      - Smart Contract Write,Test, Deploy & Interact:
-          - Write the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract.md'
-          - Test the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract.md'
-          - Deploy the smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
-          - Interacting with smart contract: 'Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
+          - Kalp Studio Overview: 'Introduction/Kalp-studio-overview.md'
+          - Kalp Studio Ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
+          - What is Kalp Instant Deployer: 'Introduction/What-is-kalp-instant-deployer.md'
+          - What is Kalp Wallet: 'Introduction/What-is-kalp-wallet.md'
+          - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Products:
+      - Kalp-Studio-Console:
+          - Onboarding:
+              - How to Sign Up and Log In to Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform.md'
+              - How to reset the Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-the-Password.md'
+          - Dashboard:
+            - How to Navigate Kalp Studio Platform as a New User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User.md'
+            - How to Navigate Kalp Studio Dashboard as an Active User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Active-User.md'
+          - Billing:
+            - How does a new user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-new-user-access-billing.md'
+            - How does a subscribed user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-subscribed-user-access-billing.md'
+            - How does Billing work on the Kalp Studio Platform: 'Products/Kalp-Studio-Console/Billing/How-does-Billing-work-on-the-Kalp-Studio-Platform.md'
+          - Credits:
+            - How to Add Credit: 'Products/Kalp-Studio-Console/Credits/How-to-Add-Credit.md'
+            - Navigate to the credit section: 'Products/Kalp-Studio-Console/Credits/Navigate-to-the-Credit-Section.md'
+          - Kalp-Studio-Wallet:
+            - How to Navigate To kalp studio Wallet: 'Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet.md'
+            - How to Create and Connect Wallet to Kalp Studio: 'Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio.md'
+          - Kalp Instant Deployer:
+            - How to Deploy a Smart Contract on Kalp Studio: 'Products/Kalp-Studio-Console/Kalp-Instant-Deployer\How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
+          - API Gateway:
+            - How to generate API endpoints: 'Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints.md'
+            - How to navigate to the list of smart contract: 'Products/Kalp-Studio-Console/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract.md'
+          - API Key Generation:
+            - How to generate API Key: 'Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key.md'
+          - Transaction monitoring:
+            - How can I monitor all my transactions: 'Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
+          - Faucets:
+            - Get TestNet Gini: 'Products/Kalp-Studio-Console/Faucets/Faucets-Get-TestNet-Gini.md'
+      - Kalp-Studio-Storage:
+            - How to get started with kalp storage: 'Products/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
+            - FAQ: 'Products/Kalp-Studio-Storage/FAQ.md'
+            - IPFS OpenAPI Documentation: 'Products/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
+      - KS-Query:
+            - How to get started with KS Query: 'Products/KS-Query/How-to-get-started-with-KS-Query.md'
+            - How to select blockchain and network on KS Query: 'Products/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
+            - How to create an API Auth Key: 'Products/KS-Query/How-to-create-an-API-Auth-Key.md'
+            - How to view all your API's: 'Products/KS-Query/How-to-view-your-all-APIs.md'
+            - How to view your Dashboard & Subscription details: 'Products/KS-Query/How-to-view-your-Dashboard-and-subscription-details.md'
+            - How to build explorer using KS Query: 'Products/KS-Query/How-to-built-explorer-using-ks-query.md'
+            - How to invoke API of KS Query: 'Products/KS-Query/How-to-invoke-api-of-KS-query.md'
+      - NFT Creator:
+            - How to connect wallet: 'Products/NFT Creator/How to connect wallet.md'
+            - How to create a catalog: 'Products/NFT Creator/How to create a catalog.md'
+            - How to create NFT: 'Products/NFT Creator/How to create NFT.md'
+            - How to delete NFT: 'Products/NFT Creator/How to Delete an NFT.md'
+            - How to see all asset details: 'Products/NFT Creator/How to see all asset details.md'
+            - How to view all your NFTs: 'Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
+            - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
+      - Token-Studio:
+            - How to get started with token creator: 'Products/Token-Studio/How-to-get-started-with-token-studio.md'
+            - How to connect wallet: 'Products/Token-Studio/How-to-connect-wallet.md'
+            - How to create token: 'Products/Token-Studio/How-to-create-token.md'
+            - How to view list of token created: 'Products/Token-Studio/How-to-view-list-of-token-created.md'
+            - How to view subscription details: 'Products/Token-Studio/How-to-view-subscription-details.md'
+            - How to create token with Kalp DLT: 'Products/Token-Studio/How-to-create-token-with-kalp-dlt.md'
+      - KS Pay:
+            - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md'
+            - How to change the password on KS Pay: 'Products/KS-Pay/How-to-change-the-password-on-KS-Pay.md'
+            - How to configure webhook on KS Pay: 'Products/KS-Pay/How-to-Configure-Webhook-on-KS-Pay.md'
+            - How to integrate NPM on KS Pay: 'Products/KS-Pay/How-to-Integrate-NPM-on-KS-Pay.md'
+            - How to manage payment gateway: 'Products/KS-Pay/How-to-manage-Payment-Gateway.md'
+            - How to navigate to the profile at KS Pay: 'Products/KS-Pay/How-to-navigate-to-the-profile-at-KS-Pay.md'
+            - How to view your transactions: 'Products/KS-Pay/How-to-view-your-transactions.md'
       - Kalp-Wallet-Extension:
-          - How-to-add-user-to-addresslist: 'Products\Kalp-Wallet-Extension\How-to-add-user-to-addresslist.md'
-          - How-to-change-password: 'Products\Kalp-Wallet-Extension\How-to-change-password.md'
-          - How-to-connect-Dapp: 'Products\Kalp-Wallet-Extension\How-to-connect-Dapp.md'
-          - How-to-create-new-wallet: 'Products\Kalp-Wallet-Extension\How-to-create-new-wallet.md'
-          - How-to-import-tokens: 'Products\Kalp-Wallet-Extension\How-to-import-tokens.md'
-          - How-to-import-wallet: 'Products\Kalp-Wallet-Extension\How-to-import-wallet.md'
-          - How-to-search-token: 'Products\Kalp-Wallet-Extension\How-to-search-token.md'
-          - How-to-see-transactions: 'Products\Kalp-Wallet-Extension\How-to-see-transactions.md'
-          - How-to-send-token: 'Products\Kalp-Wallet-Extension\How-to-send-token.md'
-          - How-to-view-seedphrase: 'Products\Kalp-Wallet-Extension\How-to-view-seedphrase.md'
+            - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'
+            - How to change Password: 'Products/Kalp-Wallet-Extension/How-to-change-password.md'
+            - How to connect Dapp: 'Products/Kalp-Wallet-Extension/How-to-connect-Dapp.md'
+            - How to create new wallet: 'Products/Kalp-Wallet-Extension/How-to-create-new-wallet.md'
+            - How to import tokens: 'Products/Kalp-Wallet-Extension/How-to-import-tokens.md'
+            - How to import wallet: 'Products/Kalp-Wallet-Extension/How-to-import-wallet.md'
+            - How to search Token: 'Products/Kalp-Wallet-Extension/How-to-search-token.md'
+            - How to see transactions: 'Products/Kalp-Wallet-Extension/How-to-see-transactions.md'
+            - How to send Token: 'Products/Kalp-Wallet-Extension/How-to-send-token.md'
+            - How to view seedphrase: 'Products/Kalp-Wallet-Extension/How-to-view-seedphrase.md'
       - Kalp-Wallet-Mobile:
-          - Create-a-new-wallet: 'Products\Kalp-Wallet-Mobile\Create-a-new-wallet.md'
-          - How-can-I-view-Seed-Phrase: 'Products\Kalp-Wallet-Mobile\How-can-I-view-Seed-Phrase.md'
-          - How-to-add-users-to-the-address-list: 'Products\Kalp-Wallet-Mobile\How-to-add-users-to-the-address-list.md'
-          - How-to-change-password: 'Products\Kalp-Wallet-Mobile\How-to-change-password.md'
-          - How-to-connect-DAPP: 'Products\Kalp-Wallet-Mobile\How-to-connect-DAPP.md'
-          - How-to-disconnect-DAPP: 'Products\Kalp-Wallet-Mobile\How-to-disconnect-DAPP.md'
-          - How-to-import-wallet: 'Products\Kalp-Wallet-Mobile\How-to-import-wallet.md'
-          - How-to-receive-tokens: 'Products\Kalp-Wallet-Mobile\How-to-receive-tokens.md'
-          - How-to-reset-wallet: 'Products\Kalp-Wallet-Mobile\How-to-reset-wallet.md'
-          - How-to-search-a-token-on-Wallet-Application: 'Products\Kalp-Wallet-Mobile\How-to-search-a-token-on-Wallet-Application.md'
-          - How-to-send-tokens-from-Kalp-Wallet: 'Products\Kalp-Wallet-Mobile\How-to-send-tokens-from-Kalp-Wallet.md'
+            - Create a new wallet: 'Products/Kalp-Wallet-Mobile/Create-a-new-wallet.md'
+            - How can I view seed phrase: 'Products/Kalp-Wallet-Mobile/How-can-I-view-Seed-Phrase.md'
+            - How to add users to the address list: 'Products/Kalp-Wallet-Mobile/How-to-add-users-to-the-address-list.md'
+            - How to change Password: 'Products/Kalp-Wallet-Mobile/How-to-change-password.md'
+            - How to connect Dapp: 'Products/Kalp-Wallet-Mobile/How-to-connect-DAPP.md'
+            - How to import wallet: 'Products/Kalp-Wallet-Mobile/How-to-import-wallet.md'
+            - How to receive token: 'Products/Kalp-Wallet-Mobile/How-to-receive-tokens.md'
+            - How to reset wallet: 'Products/Kalp-Wallet-Mobile/How-to-reset-wallet.md'
+            - How to search a token on wallet applications: 'Products/Kalp-Wallet-Mobile/How-to-search-a-token-on-Wallet-Application.md'
+            - How to send tokens from kalp wallet: 'Products/Kalp-Wallet-Mobile/How-to-send-tokens-from-Kalp-Wallet.md'
+      - Referral Program: 'Products/User Guide - For Kalp Studio Referral Program.md'
+  - Dev Documentation:
+      - Kalp DLT:
+          - Use the kalp SDK:
+              - Kalp Golang SDK: 'Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk.md'
+          - KRC Token Standard:
+              - KRC 20 Token Contract: 'Dev-documentation/Kalp-DLT/KRC-Token-Standard/KRC-20-Token-Contract.md'
+              - KRC 721 Token Contract: 'Dev-documentation/Kalp-DLT/KRC-Token-Standard/KRC-721-Token-Contract.md'
+              - KRC 1155 Token Contract: 'Dev-documentation/Kalp-DLT/KRC-Token-Standard/KRC-1155-Token-Contract.md'
+          - Smart Contract Write,Test, Deploy & Interact:
+              - Write the smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract.md'
+              - Test the smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract.md'
+              - Deploy the smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract.md'
+              - Interacting with smart contract: 'Dev-documentation/Kalp-DLT/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract.md'
+          - Kalp DLT Go Lang Template:
+              - Lottery smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Lottery-smart-contract.md'
+              - Soulbound smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Soulbound-token-smart-contract.md'
+              - Splitwise smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Splitwise-smart-contract.md'
+              - Supply chain smart contract: 'Dev-documentation/Kalp-DLT/Kalp-DLT-Go-lang-Template/Supply-chain-smart-contract.md'
+          - Kush Library:
+              - Kush Library: 'Dev-documentation/Kalp-DLT/Kush-Library/Kush-Library.md'
+      - Articles:
+              - Smart contract & Go Lang SDK: 'Dev-documentation/Articles/Smart-contract-and-Kalp-Golang-SDK.md'
+  - API Reference:
+          - Kalp Storage API Documentation: 'API-Reference/Kalp-Storage-API-Documentation.md'
+          - Kalp Wallet API Documentation: 'API-Reference/Kalp-Wallet-API-Documentation.md'
+          - KS Pay API Documentation: 'API-Reference/KS-Pay-API-Documentation.md'
+          - Email Gateway Integration Guide: 'API-Reference/Email-Gateway-Integration-Guide.md'
+  - Video Tutorials:
+          - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
+          - Subscribe to Kalp studio products: 'Video-Tutorials/Subscribe-to-Kalp-studio-products.md'
+          - Create wallet on Kalp studio: 'Video-Tutorials/Create-wallet-on-Kalp-studio.md'
+          - Connect wallet on Kalp studio: 'Video-Tutorials/Connect-wallet-on-Kalp-studio.md'
+          - Deploy smart contract on Kalp studio: 'Video-Tutorials/Deploy-a-smart-contract-on-Kalp-studio.md'
+          - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
+          - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
   - Release notes:
+      - Release version 2.9.0:
+          - Release version 2.9.0: 'Release-notes/release-version-2.9.0/release-notes-version-2.9.0.md'
+      - Release version 2.8.0:
+          - Release version 2.8.0: 'Release-notes/release-version-2.8.0/release-notes-version-2.8.0.md'
+      - Release version 2.7.0:
+          - Release notes version 2.7.0: 'Release-notes/release-version-2.7.0/release-notes-version-2.7.0.md'
+      - Release version 2.6.0:
+          - Release notes version 2.6.0: 'Release-notes/release-version-2.6.0/release-notes-version-2.6.0.md'
       - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
       - Release version 1.1.1:
@@ -207,12 +274,12 @@ nav:
       - Release version 1.1.0:  
           - Release notes version 1.1.0: 'Release-notes/release-version-1.1.0/release-notes-version-1.1.0.md'
       - Release version 1.0.0:
-          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'    
+          - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'
 extra:
   social:
 
     - icon: fontawesome/brands/github
-      link: https://github.com/p2eengineering/kalp-studio-documentation
+      link: https://github.com/thekalpstudio/
   
     - icon: fontawesome/brands/x-twitter 
       link: https://twitter.com/Kalp_Studio

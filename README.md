@@ -35,8 +35,8 @@ The site comes up at http://127.0.0.1:8000/
 ### Best practices
 
 - **Stay informed**: Keep up-to-date with the latest developments in kalp & kalp studio ecosystem
-- **Engage with the community**: Participate in discussions and provide feedback on other contributions.
+- **Engage with the community**: Follows us on every social media channels to stay up to date with the latest development
 
 ## The team
 
-- Siddhesh Patankar 
+- Siddhesh Patankar

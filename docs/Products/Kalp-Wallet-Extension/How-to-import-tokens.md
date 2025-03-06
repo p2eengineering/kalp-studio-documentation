@@ -1,5 +1,7 @@
 <style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
-
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+# How to Import Tokens?
 
 Importing tokens into your Kalp Wallet allows you to view and manage additional assets within the wallet. Follow the steps below to easily add tokens to your Kalp Wallet.
 

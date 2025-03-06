@@ -4,24 +4,13 @@
 
 # Kalp Instant Deployer (KID) Overview
 
-Kalp Instant Deployer (KID) is a powerful service designed to streamline and automate the deployment of smart contracts across multiple blockchain networks. KID simplifies the deployment process, providing real-time status tracking and ensuring secure and efficient contract management. This overview highlights the key features, processes, and benefits of the Kalp Instant Deployer.
+Kalp Instant Deployer (KID) is a powerful service designed to automate the deployment of smart contracts across multiple blockchain networks. KID simplifies the deployment process, providing real-time status tracking and ensuring secure and efficient contract management. This overview highlights the key features, processes, and benefits of the Kalp Instant Deployer.
 
 ## Key Features
 
 ### Simplified Deployment Process
 KID abstracts the complexities of smart contract deployment, making it accessible for both technical and non-technical users. By automating the deployment steps, users can focus on their contract logic without worrying about the deployment intricacies.
 
-### Multi-Blockchain Support
-KID supports deploying smart contracts on various blockchain networks, including:
-- Ethereum
-- Polygon
-- Avalanche
-- Optimism
-- Arbitrum
-- Fantom
-- Solana
-- Binance Smart Chain (BSC)
-- Kalptantra (proprietary blockchain)
 
 ### Real-Time Status Tracking
 After initiating a deployment, users can track the status of their smart contracts in real time. A transaction hash is provided, which is used to monitor the progress and confirm the successful deployment of the contract.
@@ -39,7 +28,7 @@ Each deployment request must include a bearer token. The validation process invo
 
 ### Contract Identification
 After validating the token and subscription, the service identifies the type of smart contract:
-- **Contract Verification**: Determines whether the uploaded smart contract is EVM-based (Ethereum Virtual Machine) or Kalptantra-based.
+- **Contract Verification**: Determines whether the uploaded smart contract is KALP DLT based.
 - **Contract Handling**: Handles the contract appropriately based on its type for deployment.
 
 ### Sending Deployment Request

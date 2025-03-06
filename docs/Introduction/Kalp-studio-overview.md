@@ -29,9 +29,9 @@ Kalp Studio provides a comprehensive suite of tools and services tailored to the
 
 A key aspect of Kalp Studio is its emphasis on user experience. The platform is designed to be intuitive and accessible, making blockchain development more efficient. This focus on usability ensures that developers of all skill levels can leverage the full potential of the platform.
 
-## Kalp Studio vs. Kalp DLT
+## Kalp Studio and KALP DLT
 
-Kalp Studio is akin to Amazon AWS for Web 2.0, providing all the necessary tools and services for developers to build and deploy applications with ease. In contrast, Kalp DLT is the world's first fully regulated blockchain specifically designed for Real World Asset (RWA) ecosystems. This distinction allows developers to build secure, compliant, and efficient decentralized applications that bridge the gap between traditional finance and the blockchain world. Through Kalp Studio, users can deploy smart contracts on Kalp DLT, leveraging its regulatory compliance and security features.
+Kalp Studio is akin to Amazon AWS for Web 2.0, providing all the necessary tools and services for developers to build and deploy applications with ease in web 3.0. In contrast, KALP DLT is the world's first fully regulated blockchain specifically designed for Real World Asset (RWA) ecosystems. This distinction allows developers to build secure, compliant, and efficient decentralized applications that bridge the gap between traditional finance and the blockchain world. Through Kalp Studio, users can deploy smart contracts on KALP DLT, leveraging its regulatory compliance and security features.
 
 ## Target Audience
 
@@ -57,7 +57,7 @@ Kalp Studio is akin to Amazon AWS for Web 2.0, providing all the necessary tools
 
 ### Rapid Development and Deployment
 
-- **Drag and Drop UI Builder**: Build user interfaces for blockchain applications quickly and easily, reducing development time and resources.
+- **Easy to use UI Builder**: Easy to use user interfaces for blockchain applications which reduces development time and resources.
 - **Faster MVP Launch**: Simplify development with pre-built components, allowing for quicker validation of concepts and gathering of user feedback.
 
 ### Versatility and Manageability

@@ -1,6 +1,8 @@
 <style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-**Introduction**
+# How to Create a New Wallet?
 
 The **Kalp Wallet Extension** is a secure and user-friendly gateway to the Kalp blockchain ecosystem, designed to simplify your Web3 experience. Effortlessly manage digital assets, interact with decentralized applications, and perform cross-chain transactions with ease. Built with robust security features and optimized for Kalp blockchain compliance, the Kalp Wallet Extension ensures a smooth, efficient, and trustworthy experience for users exploring the decentralized world.
 
