@@ -28,6 +28,7 @@ This guide is intended for developers, DevOps engineers, and product managers wh
 [KS Pay API Collection](https://www.postman.com/p2eengineering/workspace/ks-pay-api-documentation/collection/30994788-84410cba-9ca9-4a9e-a75b-a39c34de2767?action=share&creator=30994788)
 
 **Sandbox URL**: https://pay-open-sandboxapi.kalp.studio
+
 **Live URL**: https://pay-open-liveapi.kalp.studio
 
 ## 2. Prerequisites
