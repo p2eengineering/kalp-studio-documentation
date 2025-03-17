@@ -7,13 +7,13 @@
 
 ### Purpose
 
-Kalp Studio Payment Engine (PE) API enables businesses to integrate and manage financial transactions. A few of the key API functionalities are user authentication (sign-up, login, and KYB verification), company onboarding, and application management.
+KS Pay (PE) API enables businesses to integrate and manage financial transactions. A few of the key API functionalities are user authentication (sign-up, login, and KYB verification), company onboarding, and application management.
 
 Multi-step verification processes, including credentials, webhooks, and NPM integration, enable seamless interaction with payment gateways, enabling users to add, verify, and prioritize gateways.
 
 In addition, the API supports tax, product, and customer management. Customers can be created, invoices can be generated, bank accounts can be managed, and withdrawals can be initiated.
 
-Through customizable API keys, developers can automate billing and invoicing processes, track transaction statuses, and access payment analytics. A comprehensive documentation ensures smooth integration and secure financial operations, making Kalp Pay API a robust solution for businesses that manage payments.
+Through customizable API keys, developers can automate billing and invoicing processes, track transaction statuses, and access payment analytics. A comprehensive documentation ensures smooth integration and secure financial operations, making KS Pay API a robust solution for businesses that manage payments.
 
 ### Audience
 
@@ -25,11 +25,15 @@ This guide is intended for developers, DevOps engineers, and product managers wh
 
 ### Postman Collection 
 
+For ease of use and testing, we provide a Postman collection with pre-configured requests:
+
 [KS Pay API Collection](https://www.postman.com/p2eengineering/workspace/ks-pay-api-documentation/collection/30994788-84410cba-9ca9-4a9e-a75b-a39c34de2767?action=share&creator=30994788)
 
 **Sandbox URL**: https://pay-open-sandboxapi.kalp.studio
 
 **Live URL**: https://pay-open-liveapi.kalp.studio
+
+It is highly recommended to use the Sandbox environment for testing and development before moving to the Live environment.
 
 ## 2. Prerequisites
 
