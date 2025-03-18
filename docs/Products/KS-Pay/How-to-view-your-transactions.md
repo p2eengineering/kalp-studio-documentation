@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to view your transactions?
+# How to Access Your Profile on KS Pay
 
 Viewing your transactions on KS Pay helps you keep track of your payment history, monitor your spending, and manage your finances efficiently. This guide provides a step-by-step approach to accessing and reviewing your transaction details, so you can stay informed about your account activity.
 
