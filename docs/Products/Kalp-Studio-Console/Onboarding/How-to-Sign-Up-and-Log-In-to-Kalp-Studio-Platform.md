@@ -3,7 +3,7 @@
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 # **How to Sign Up and Log In to Kalp Studio Platform**
-Welcome to Kalp Studio! This guide will walk you through the simple steps to create your account and sign in, so you can start exploring our amazing products. Whether you're a new user or returning, this article will help you navigate the process with ease.
+Welcome to Kalp Studio! This guide will walk you through the simple steps to create your account and sign in, so you can start using our platform’s powerful tools and features. Whether you're a new user or returning, this article will help you navigate the process with ease.
 
 ## **How to Register a New Kalp Studio Account**
 
@@ -11,38 +11,46 @@ If you don’t have an account yet, here’s how to get started:
 
 ### **Step 1: Navigate to the Sign In Page**
 
+**"Step 1: Go to the Sign In Page**  
+
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r1.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r2.png)
-1.  First, visit the Kalp Studio website or app.
+1.  First, visit the [Kalp Studio website](https://accounts.kalp.studio/sign-up).
+
     
-2.  On the login page, you will see a "Sign In" option. Below it, find and click the "Register Now" link. This will take you to the registration page.
+2.  On the homepage or login screen, look for the 'Sign In' button. Since you're new to Kalp Studio, click the 'Register Now' link directly below the 'Sign In' option. This will take you to the registration page where you can create your account."
+
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r2.png)
+
+
     
 
-### **Step 2: Begin Creating Your Account**
+### **Step 2: Provide Your Account Information** 
+
+After entering your email, click the Verify Email button, as shown in the screenshot. A one-time password (OTP) will be sent to your email address.
 
 On the “Create Kalp Studio Account” page, you’ll need to provide some basic information:
 
-1.  **Name:** Enter your full name in the "Name" field.
+1.  **Name:** Type your full name in the "Name" field.
     
 2.  **Email:** Enter your email address in the "Email" field.
     
-3.  Once your email address is entered, click the "Verify Email" button. This will send a one-time password (OTP) to your email.
+After entering your email, click the Verify Email button, as shown in the screenshot. A one-time password (OTP) will be sent to your email address.
     
     ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r3.png)
 
 ### **Step 3: Verify Your Email**
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r4.png)
 
-1.  After clicking “Verify Email,” you will see a field to enter an OTP.
-    
-2.  Go to your email inbox and copy the OTP you received from Kalp Studio.
-    
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r5.png)
+1. After clicking “Verify Email,” you will see a field to enter an OTP.
 
-3.  Enter the OTP in the provided "Enter OTP" field.
+2. Go to your email inbox and copy the OTP you received from Kalp Studio.
     
-4.  Click on the "Verify OTP" button. If the OTP is correct, the email field will show "Verified" in green, confirming your email address.
+    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r5.png)
+
+3. Enter the OTP in the provided "Enter OTP" field, as shown in the screenshot.
+
+4. Click on the "Verify OTP" button. If the OTP is correct, the email field will show "Verified" in green, confirming your email address.
     
 
 ### **Step 4: Set Your Password**

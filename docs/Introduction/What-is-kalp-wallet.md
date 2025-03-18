@@ -5,11 +5,11 @@
 
 # Kalp Wallet Overview
 
-Kalp wallet is an advanced, versatile cryptocurrency wallet designed to support multiple blockchain networks and cater to a wide range of user needs and security preferences. It provides users with seamless and secure management of their digital assets through various wallet types, including Self-Custodial, Custodial, and MPC (Multi-Party Computation) wallets. This overview highlights the key features, supported networks, wallet types, and core functionalities of the Kalp wallet.
+Kalp Wallet is a versatile cryptocurrency wallet that enables you to manage digital assets across multiple blockchain networks. It offers a range of wallet types—Self-Custodial, Custodial, and MPC (Multi-Party Computation)—so you can choose the level of control and security that suits your needs. This document provides an overview of the wallet's key features, supported blockchain networks, and core functionalities.
 
 ## Key Features
 
-- **Blockchain Support**: Kalp  wallet supports the proprietary Kalp Tantra blockchain.
+- **Blockchain Support**: Kalp Wallet supports the proprietary Kalp DLT blockchain.
 - **Diverse Wallet Options**: Users can choose from Self-Custodial, Custodial, and MPC wallets, each offering different levels of control and security.
 - **Secure Transaction Signing**: The wallet supports signing transactions for various function types, ensuring secure interactions with supported blockchains.
 - **Smart Contract Deployment**: Kalp wallet facilitates the deployment of smart contracts on supported blockchains, providing a streamlined process for developers.

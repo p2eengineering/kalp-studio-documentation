@@ -4,7 +4,7 @@
 
 # Kalp Studio Overview
 
-Kalp Studio is a decentralized platform designed to help developers create, manage, and scale blockchain applications and networks. It provides a suite of powerful tools and services that streamline complex blockchain tasks, such as smart contract deployment, cross-chain interoperability, and network management.
+Kalp Studio is a decentralized platform designed to help developers create, manage, and scale blockchain applications and networks. It provides a suite of powerful tools and services that streamline complex blockchain tasks, such as smart contract deployment, and network management.
 
 
 
