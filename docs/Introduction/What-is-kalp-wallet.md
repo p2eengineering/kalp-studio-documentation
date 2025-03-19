@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Kalp Wallet Overview
+# Kalp Wallet 
 
 Kalp Wallet is a versatile cryptocurrency wallet that enables you to manage digital assets across multiple blockchain networks. It offers a range of wallet types—Self-Custodial, Custodial, and MPC (Multi-Party Computation)—so you can choose the level of control and security that suits your needs. This document provides an overview of the wallet's key features, supported blockchain networks, and core functionalities.
 
