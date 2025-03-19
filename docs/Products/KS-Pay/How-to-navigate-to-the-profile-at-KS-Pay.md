@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to navigate to the profile at KS Pay?
+# How to Access Your Profile on KS Pay
 
 Navigating to your profile on KS Pay allows you to manage account settings, update personal information, and customize your preferences. This guide will provide you with step-by-step instructions on how to access your profile quickly and easily.
 

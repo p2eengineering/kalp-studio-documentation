@@ -1,19 +1,13 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# KS Pay API Integration Guide
+# KS Pay API Documentation
 
 ## 1. Introduction
 
 ### Purpose
 
-KS Pay (PE) API enables businesses to integrate and manage financial transactions. A few of the key API functionalities are user authentication (sign-up, login, and KYB verification), company onboarding, and application management.
-
-Multi-step verification processes, including credentials, webhooks, and NPM integration, enable seamless interaction with payment gateways, enabling users to add, verify, and prioritize gateways.
-
-In addition, the API supports tax, product, and customer management. Customers can be created, invoices can be generated, bank accounts can be managed, and withdrawals can be initiated.
-
-Through customizable API keys, developers can automate billing and invoicing processes, track transaction statuses, and access payment analytics. A comprehensive documentation ensures smooth integration and secure financial operations, making KS Pay API a robust solution for businesses that manage payments.
+The KS Pay API allows businesses to integrate payment processing capabilities into their applications. It provides functionalities for managing user authentication, handling company onboarding, processing transactions, and managing payment gateways. The API enables businesses to automate billing, invoicing, customer management, and other financial operations, offering a seamless way to interact with the KS Pay.
 
 ### Audience
 

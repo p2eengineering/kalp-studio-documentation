@@ -5,15 +5,15 @@
 
 # **How to Navigate Kalp Studio Platform as a New User**
 
-Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. As a new user, this guide will help you navigate the platform efficiently.
+Kalp Studio is an all-in-one platform built to simplify blockchain and decentralized application (DApp) development. This guide will walk you through the key features and help you get started quickly as a new user.
 
-As the new user logs in to the dashboard, a total credit of $50 will be credited to the account.
+After logging in, you'll receive a one-time credit of $1 in your account, as shown in the screenshot below.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/1.png)
 
 
 !!! Note
-    Credits are one-time rewards. Users can use those credits to subscribe to the Kalp Studio services. Credits will be reflected in the profile segment. 
+    These credits are a one-time reward, which you can use to subscribe to Kalp Studio services. You’ll see the credits reflected directly in your profile. 
 
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/2.png)
@@ -22,7 +22,7 @@ As the new user logs in to the dashboard, a total credit of $50 will be credited
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
 
-Upon logging into Kalp Studio, you are greeted by the Dashboard, which serves as your control center. The key components of the Dashboard include:
+Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot.
 
 # **How to Navigate Kalp Studio Platform as a New User**
 
@@ -32,7 +32,7 @@ Kalp Studio is a comprehensive platform designed to facilitate blockchain and de
 
   
 
-As the new user logs in to the dashboard, a total credit of $50 will be credited to the account.
+As the new user logs in to the dashboard, a total credit of $1 will be credited to the account.
 
   
 
@@ -54,17 +54,18 @@ Credits are one-time rewards. Users can use those credits to subscribe to the Ka
 ### **Dashboard Overview**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
-Upon logging into Kalp Studio, you are greeted by the Dashboard, which serves as your control center. The key components of the Dashboard include:
 
--   **Connect Wallet:** A prominent call-to-action button on the dashboard encourages you to connect your wallet to access decentralized applications and services.
+Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot.
+
+-   **Connect Wallet:** A clear "Connect Now" button prompts you to link your wallet and gain access to decentralized apps and services. The section is highlighted in the screenshot below, helping you get started.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
 
--   **Build Smart Contracts:** This feature allows you to get started with building smart contracts using Kalp’s instant deployer.
+-   **Build Smart Contracts:**  Start building and deploying smart contracts effortlessly using the Kalp Instant Deployer (KID) tool.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/5.png)
 
--   **Kalp Community:** This section provides information about the vibrant Kalp community, showcasing the number of active members.
+-   **Kalp Community:** Explore the vibrant Kalp community, as highlight in the screenshot below and connect with active members who share your passion for blockchain development.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/6.png)
 
