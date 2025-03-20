@@ -2,21 +2,23 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How to Change the Password**
+# **How to Change Your Password**
 
-The "Forgot Password" feature is an essential component of any website or platform that allows users to recover access to their accounts when they have forgotten their passwords.
+If you've forgotten your password, Kalp Studio provides an easy and secure way to reset it and regain access to your account.
 
-Resetting a password successfully is a seamless and straightforward process through the Kalp Studio. User(s) cannot enter Kalp Studio without logging in with the individual’s email and a correct password, matching with the database.
+Follow the steps below to reset your password:
 
-The below steps describe the user journey throughout the Reset Password process.
-
-**Step 1:**
+**Step 1: Navigate to the Kalp Studio Login Page**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/1.png)
 
-Click **console.kalp.studio** to redirect to the Kalp Studio application page. Click on **Forgot Password**.
+Click on the link to visit the [Kalp Studio website] (https://qa-kalp-auth.p2eppl.com/login).
 
-**Step 2:**
+On the login screen, click Forgot Password, as shown in the screenshot.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/1.png)
+
+**Step 2: Request Password Reset Link**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/8.png)
 
@@ -25,6 +27,8 @@ Click **console.kalp.studio** to redirect to the Kalp Studio application page. C
 Enter your email ID to receive a link to reset your password. Click on **Submit.** You will receive an OTP.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/9.png)
+
+**Step 3: Verify OTP**
 
 Enter the received OTP and click on **Verify** button.
 
