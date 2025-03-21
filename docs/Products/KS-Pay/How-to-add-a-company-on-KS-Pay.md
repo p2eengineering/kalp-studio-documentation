@@ -6,12 +6,11 @@
 
 KS Pay offers a streamlined solution for businesses looking to manage their payments and financial transactions. For a seamless experience, the first step involves adding your company profile to the platform. This guide will walk you through each stage of the registration process from account creation to filling out your company details ensuring you have everything set up correctly to start using KS Pay’s features.
 
-## **Registration Screen**
+## **Step 1: Registration Screen**
 
+Start by opening the registration screen, as shown in the screenshot below. 
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac1.png)
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac2.png)
 
 -   **First & Last Name**: Enter your personal details.
     
@@ -21,7 +20,7 @@ KS Pay offers a streamlined solution for businesses looking to manage their paym
     
 -   **Password & Confirm Password**: Create a secure password and confirm it.
     
--   **Terms & Conditions Agreement**: Before completing registration, you’ll need to agree to the platform’s terms and privacy policy.
+-   **Terms & Conditions Agreement**:  Agree to the platform’s terms and privacy policy to proceed.
     
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac3.png)
@@ -39,6 +38,8 @@ KS Pay offers a streamlined solution for businesses looking to manage their paym
 
 ### Step 5: Enter Company Details
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac5.png)
+
 Fill out the following fields to complete the company profile setup:
 
 -   **Company Name:** This is the name of the company. This is a mandatory field.
@@ -54,9 +55,7 @@ Fill out the following fields to complete the company profile setup:
 -   **City (Optional):** The name of the city where the company is located. This field is optional.
     
 -   **Zip Code:** This field represents the zip code for the company. This field is mandatory.
-    
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac5.png)
 
 ### Step 6: Submit the Company Profile
 

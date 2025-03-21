@@ -7,16 +7,6 @@
 
 Kalp Studio is an all-in-one platform built to simplify blockchain and decentralized application (DApp) development. This guide will walk you through the key features and help you get started quickly as a new user.
 
-After logging in, you'll receive a one-time credit of $1 in your account, as shown in the screenshot below.
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/1.png)
-
-
-!!! Note
-    These credits are a one-time reward, which you can use to subscribe to Kalp Studio services. You’ll see the credits reflected directly in your profile. 
-
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/2.png)
 
 ### **Dashboard Overview**
 
@@ -29,25 +19,6 @@ Upon logging in, the Dashboard appears as your control center. Here, you’ll fi
   
 
 Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. As a new user, this guide will help you navigate the platform efficiently.
-
-  
-
-As the new user logs in to the dashboard, a total credit of $1 will be credited to the account.
-
-  
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/1.png)
-
-  
-  
-
-!!! Note
-
-Credits are one-time rewards. Users can use those credits to subscribe to the Kalp Studio services. Credits will be reflected in the profile segment.
-  
-  
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/2.png)
 
   
 

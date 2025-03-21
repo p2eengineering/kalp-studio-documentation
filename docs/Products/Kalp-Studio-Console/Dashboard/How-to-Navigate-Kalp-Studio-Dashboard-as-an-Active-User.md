@@ -8,8 +8,6 @@ Kalp Studio is a versatile platform tailored for blockchain and decentralized ap
 
 ### Dashboard Overview
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/1.png)
-
 Upon logging into Kalp Studio, you are presented with the Dashboard, which serves as your central hub. The key components of the Dashboard include:
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
@@ -33,9 +31,6 @@ On the left side of the screen, you will find the primary navigation menu, which
   
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
-
-  
-  
   
 
 1.  **Dashboard:** This option returns you to the main dashboard view.
