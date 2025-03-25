@@ -8,19 +8,21 @@ Navigating to your profile on KS Pay allows you to manage account settings, upda
 
 ### Step 1: Log In to KS Pay
 
--   Open the KS Pay application or website and log in with your credentials.
+-   Open the {Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin.jpg)
     
 
 ### Step 2: Go to the Main Dashboard
 
--   Once logged in, you will see the main dashboard, displaying a list of apps registered under your account. This screen includes information like App ID, App Name, Email, Country, and options to enable or disable apps.
-    
+-   Once logged in, you will see the main dashboard displaying a list of apps registered under your account. This dashboard includes information such as App ID, App Name, Email, Country, and options to enable or disable apps. The profile icon will be located at the top-right corner of the page.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/navigate+profile/np1.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Referral/rf2.png)
+    
 
 ### Step 3: Access Your Profile
 
-You’ll see your profile icon at the top-right corner of the dashboard. Click on it to open a dropdown menu.
+Click on your profile icon at the top-right corner of the dashboard. A dropdown menu will appear with options like ‘My Profile', 'My Company’, 'My Apps', and 'Logout, as highlighted in the screenshot below.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/navigate+profile/np2.png)
 
