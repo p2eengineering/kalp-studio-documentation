@@ -8,23 +8,26 @@ Changing your password on KS Pay is an important step in maintaining the securit
 
 ### Step 1: Log In to Kalp Studio
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc1.jpg)
+
 -   Open the [Kalp Studio website](https://console.kalp.studio/) and log in with your credentials. 
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc2.jpg)
 
 - Select KS Pay from the provided applications, and click on "Explore Now"
     
 
 ### Step 2: Go to the Main Dashboard
 
--   Once logged in, you will see the main dashboard displaying a list of apps registered under your account. This dashboard includes information such as App ID, App Name, Email, Country, and options to enable or disable apps. The profile icon will be located at the top-right corner of the page.
-    
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc3.jpg)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/change+password/cp1.png)
+-   Once logged in, you will see the main dashboard displaying a list of apps registered under your account. This dashboard includes information such as App ID, App Name, Email, Country, and options to enable or disable apps. The profile icon will be located at the top-right corner of the page.
 
 ### Step 3: Access Your Profile
 
-Click on your profile icon at the top-right corner of the dashboard. A dropdown menu will appear with options like ‘My Profile', 'My Company’, 'My Apps', and 'Logout, as highlighted in the screenshot below.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc4.jpg)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/change+password/cp2.png)
+Click on your profile icon at the top-right corner of the dashboard. A dropdown menu will appear with options like ‘My Profile', 'My Company’, 'My Apps', and 'Logout, as highlighted in the screenshot below.
 
 ### Step 4: Access Password Settings
 

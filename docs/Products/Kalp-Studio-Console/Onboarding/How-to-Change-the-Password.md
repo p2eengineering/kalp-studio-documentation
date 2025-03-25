@@ -10,29 +10,27 @@ Follow the steps below to reset your password:
 
 **Step 1: Navigate to the Kalp Studio Login Page**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/1.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp1.jpg)
 
 Click on the link to visit the [Kalp Studio website] (https://qa-kalp-auth.p2eppl.com/login).
 
 On the login screen, click Forgot Password, as shown in the screenshot.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/1.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp2.jpg)
 
 **Step 2: Request Password Reset Link**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/8.png)
-
-
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp3.jpg)
 
 Enter your email ID to receive a link to reset your password. Click on **Submit.** You will receive an OTP.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/9.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp4.jpg)
 
 **Step 3: Verify OTP**
 
 Enter the received OTP and click on **Verify** button.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/10.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp5.jpg)
 
 The reset password page is displayed on the screen. Enter your new password.
 
@@ -48,14 +46,20 @@ The reset password page is displayed on the screen. Enter your new password.
     
 -   The new password should not match the last 3 passwords.
     
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp6.jpg)
+
 
 Repeat your new password on the **Confirm Password** input box for confirmation.
 
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp7.jpg)
+
 Click on **Reset Password**. You have successfully changed your password. You will get an email about the successful password change in your registered email ID.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp8.jpg)
 
 Click on **Login Now** to log in to the Kalp Studio application.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/11.png)
+
 
 
 Hope this article helped with beginning your journey on the Kalp Studio platform.
