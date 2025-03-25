@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How to Change Your Password**
+# **How to Change your Kalp Studio Password**
 
 If you've forgotten your password, Kalp Studio provides an easy and secure way to reset it and regain access to your account.
 

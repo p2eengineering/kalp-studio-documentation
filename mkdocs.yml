@@ -139,9 +139,9 @@ nav:
   - Products:
       - Kalp-Studio-Console:
           - Onboarding:
-              - How to Sign Up: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up.md'
-              - How to Log In: 'Products/Kalp-Studio-Console/Onboarding/How-to-log-in.md'
-              - How to reset the Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-the-Password.md'
+              - How to Sign Up on Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-on-Kalp-Studio-Platform.md'
+              - How to Log In to your Kalp Studio Account: 'Products/Kalp-Studio-Console/Onboarding/How-to-log-in-to-your-Kalp-Studio-Account.md'
+              - How to Change your Kalp Studio Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-Kalp-Studio-Password.md'
           - Dashboard:
             - How to Navigate Kalp Studio Platform as a New User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User.md'
             - How to Navigate Kalp Studio Dashboard as an Active User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Active-User.md'

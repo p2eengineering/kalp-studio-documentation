@@ -8,7 +8,7 @@ Navigating to your profile on KS Pay allows you to manage account settings, upda
 
 ### Step 1: Log In to KS Pay
 
--   Open the {Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
+-   Open the [Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin.jpg)
     

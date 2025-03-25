@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to change the password on KS Pay?
+# How to change Password on KS Pay?
 
 Changing your password on KS Pay is an important step in maintaining the security of your account. Whether you want to update your password regularly for security reasons or you've forgotten your current one, this guide will walk you through the simple process of resetting it.
 

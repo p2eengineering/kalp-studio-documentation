@@ -2,12 +2,9 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How to Sign Up**
+# **How to Sign Up on Kalp Studio Platform?**
+
 Welcome to Kalp Studio! This guide will walk you through the simple steps to create your account and sign in, so you can start using our platform’s powerful tools and features. Whether you're a new user or returning, this article will help you navigate the process with ease.
-
-## **How to Register a New Kalp Studio Account**
-
-If you don’t have an account yet, here’s how to get started:
 
 ### **Step 1: Go to the Sign In Page**  
 
@@ -92,4 +89,4 @@ If you have a referral code, enter it in the "Enter Referral (Optional)" field. 
 
 ## **Conclusion**
 
-With these steps, you can easily register and sign in to your Kalp Studio account. Start exploring our amazing products and enjoy your experience with us. If you encounter any issues, please contact our support team for further assistance.
+With these steps, you can easily rsign up to your Kalp Studio account. Start exploring our amazing products and enjoy your experience with us. 
