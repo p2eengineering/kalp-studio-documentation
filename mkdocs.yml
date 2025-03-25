@@ -134,7 +134,7 @@ nav:
           - Kalp Studio Overview: 'Introduction/Kalp-studio-overview.md'
           - Kalp Studio Ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
           - Kalp Instant Deployer: 'Introduction/Kalp-instant-deployer.md'
-          - What is Kalp Wallet: 'Introduction/What-is-kalp-wallet.md'
+          - Kalp Wallet: 'Introduction/Kalp-wallet.md'
           - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Products:
       - Kalp-Studio-Console:
