@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How to Sign Up on Kalp Studio Platform?**
+# **How to Sign Up to Kalp Studio Platform?**
 
 Welcome to Kalp Studio! This guide will walk you through the simple steps to create your account and sign in, so you can start using our platform’s powerful tools and features. Whether you're a new user or returning, this article will help you navigate the process with ease.
 

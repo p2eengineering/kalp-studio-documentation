@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-## **How to login to your Kalp Studio Account?**
+# **How to login to your Kalp Studio Account?**
 
 Once you have your Kalp Studio account, signing in is quick and easy:
 
