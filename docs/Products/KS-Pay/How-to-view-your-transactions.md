@@ -6,9 +6,9 @@
 
 Viewing your transactions on KS Pay helps you keep track of your payment history, monitor your spending, and manage your finances efficiently. This guide provides a step-by-step approach to accessing and reviewing your transaction details, so you can stay informed about your account activity.
 
-### Step 1: Access the KALP PAY Dashboard
+### Step 1: Access the KS PAY Dashboard
 
-1.  Log in to your KALP PAY account.
+1.  Log in to your Kalp Studio account.
     
 2.  On the main dashboard, you'll see a list of all registered apps with details such as App ID, App Name, Email, and Country.
     
