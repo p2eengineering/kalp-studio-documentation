@@ -7,7 +7,8 @@
 
 ### Purpose
 
-The KS Pay API allows businesses to integrate payment processing capabilities into their applications. It provides functionalities for managing user authentication, handling company onboarding, processing transactions, and managing payment gateways. The API enables businesses to automate billing, invoicing, customer management, and other financial operations, offering a seamless way to interact with the KS Pay.
+The KS Pay API allows businesses to integrate payment processing capabilities into their applications. It offers  **multi-gateway integration**  for seamless connections with multiple payment gateways supporting multiple currencies and a wide range of  **global payment methods**  to cater to diverse customer preferences, and simplifies  **payment reconciliation**  through automated and manual processes. KS Pay features  **smart routing**, which optimizes transaction processing by selecting the most efficient pathways. This combination enhances operational efficiency, reduces costs, and improves customer satisfaction by providing a streamlined payment experience in multiple currencies.
+
 
 ### Audience
 
