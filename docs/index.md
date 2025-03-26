@@ -670,7 +670,7 @@ The Kalp Studio onboarding process is seamless, guiding you through the necessar
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>API Reference</h4>
-                                  <span>Kalp Studio Varioud products API reference provides a comprehensive suite of tools for building and managing blockchain-based applications. The API ensures secure, scalable, and efficient interactions with KALP DLT blockchain network.</span>
+                                  <span>Kalp Studio's product API references provide a comprehensive suite of tools for building and managing blockchain-based applications. The API ensures secure, scalable, and efficient interactions with KALP DLT blockchain network.</span>
                               </div>
                                 </a>
                              <a href="https://docs.kalp.studio/Video-Tutorials/Login-into-Kalp-studio">
