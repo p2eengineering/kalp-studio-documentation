@@ -470,7 +470,7 @@ Kalp Studio is a decentralized infrastructure platform that empowers developers 
                               </svg>
                           </div>
                           <span class="build-description-card-description">
-The Kalp Studio onboarding process is seamless, guiding you through the necessary steps to set up your account and use the platform effectively.                          </span>
+                            The Kalp Studio onboarding process is seamless, guiding you through the necessary steps to set up your account and use the platform effectively.                          </span>
                           </div>
                      </a>
                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
@@ -512,33 +512,7 @@ The Kalp Studio onboarding process is seamless, guiding you through the necessar
                          </span>
                      </div>
                      </a>
-                     <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/">
-                     <div class="build-description-card">
-                     <div class="build-description-card-title">
-                         Kalp Studio Wallet
-                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                         <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
-                         </svg>
-                     </div>
-                     <span class="build-description-card-description">
-                     The Kalp studio Wallet is a secure cryptocurrency wallet integrated within kalp studio, supporting kalp blockchain.
-                     </span>
-                    </div>
-                     </a>
-                     <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
-                     <div class="build-description-card">
-                         <div class="build-description-card-title">
-                             Kalp Instant Deployer
-                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
-                             </svg>
-                         </div>
-                         <span class="build-description-card-description">
-                         Kalp Instant Deployer (KID) streamlines the deployment of smart contracts, providing real-time tracking and secure management.
-                         </span>
-                     </div>
-                        </a>
-                          <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints/">
+                      <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints/">
                              <div class="build-description-card">
                                   <div class="build-description-card-title">
                                       API Gateway
