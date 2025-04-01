@@ -52,6 +52,16 @@ hide:
             align-items: flex-start;
             gap: 10px;
         }
+        .heading-wrapper{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+             margin: 0;
+            font-size: 36px!important;
+            font-style: normal;
+            font-weight: 700!important;
+            color: black;
+        }
         .header h1 {
             margin: 0;
             font-weight: 700;
@@ -440,27 +450,16 @@ hide:
 <body>
     <header class="header-main-wrapper">
         <div class="header">
-         <h1>Welcome to <span class="header-main-text">Kalp Studio</span> Documentation!</h1>
+         <h1>Welcome to <span class="header-main-text">Kalp Studio!</span></h1>
                 <div class="note">
                 <br />
-                Kalp Studio is a decentralized infrastructure platform designed to build, manage, and scale blockchain applications and networks. It serves as a comprehensive ecosystem for developers, offering a wide range of tools and services that simplify the complexities of blockchain technology, making it more accessible and efficient.
-                </div>
+Kalp Studio is a decentralized infrastructure platform that empowers developers to build, manage, and scale blockchain applications and networks. It provides a comprehensive suite of tools, including smart contract development, decentralized storage, and network orchestration, streamlining blockchain implementation and improving efficiency.                </div>
         </div>
        <img src="images/BannerImage.svg" alt="image-banner" />
     </header>
+              <h2 class="heading-wrapper">Getting Started with Kalp Studio</h2>
           <div class="second-section">
                 <div class="build-wrapper">
-                  <div class="build-wrapper-header">
-                     <img src="images/setting.svg" alt="setting-img" />
-                      <div class="build-title-sub-wrapper">
-                         <h2>
-                           Build
-                         </h2>
-                         <span>
-                             Getting started with Kalp Studio.
-                          </span>
-                      </div>
-                  </div>
                   <div class="build-description-card-main">
                       <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
@@ -471,8 +470,7 @@ hide:
                               </svg>
                           </div>
                           <span class="build-description-card-description">
-                          The onboarding process in kalp studio dashboard is designed to be seamless and user-friendly, guiding new users through the necessary steps to set up their accounts and begin using the platform effectively.
-                          </span>
+The Kalp Studio onboarding process is seamless, guiding you through the necessary steps to set up your account and use the platform effectively.                          </span>
                           </div>
                      </a>
                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
@@ -510,7 +508,7 @@ hide:
                              </svg>
                          </div>
                          <span class="build-description-card-description">
-                         Credits in kalp studio can be used to access various services and features on the platform.
+                            You can use credits in Kalp Studio to access various services and features on the platform.
                          </span>
                      </div>
                      </a>
@@ -582,17 +580,6 @@ hide:
               </div>
         </div>
                <div class="build-wrapper">
-                     <div class="build-wrapper-header">
-                        <img src="images/learn.svg" alt="setting-img" />
-                         <div class="build-title-sub-wrapper">
-                            <h2>
-                              Learn
-                            </h2>
-                            <span>
-                                Further your understanding of entire kalp studio ecosystem.
-                             </span>
-                         </div>
-                     </div>
                  <div class="build-description-card-main">
                  <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-overview/">
                      <div class="build-description-card">
@@ -603,8 +590,7 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                              Kalp studio is the leading blockchain infrastructure platform powering web3 developers worldwide. We are a team of engineers, designers and visionaries who are solving hard problems and creating a superior user experience in the world of blockchains.
-                         </span>
+                        Kalp Studio is a decentralized platform that help developers create, manage, and scale blockchain applications and networks. It provides a suite of powerful tools and services that streamline complex blockchain tasks.                         </span>
                     </div>
                    </a>
                        <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-ecosystem/">
@@ -629,8 +615,7 @@ hide:
                                  </svg>
                              </div>
                               <span class="build-description-card-description">
-                                 The Kalp Decentralized Network (KDN) is a ecosystem for secure tokenization of real-world assets. It uses KYC verification, A distributed certificate authority to enhance liquidity and market reach.
-                            </span>
+                            Kalp DLT is a fully regulated blockchain platform for Real World Asset (RWA) ecosystems. It lets developers build decentralized applications (DApps), tokenize real-world assets, and deploy legally enforceable smart contracts.                            </span>
                          </div>
                      </a>
                    <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-instant-deployer/">
@@ -685,7 +670,7 @@ hide:
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>API Reference</h4>
-                                  <span>Kalp Studio Varioud products API reference provides a comprehensive suite of tools for building and managing blockchain-based applications. The API ensures secure, scalable, and efficient interactions with KALP DLT blockchain network.</span>
+                                  <span>Kalp Studio's product API references provide a comprehensive suite of tools for building and managing blockchain-based applications. The API ensures secure, scalable, and efficient interactions with KALP DLT blockchain network.</span>
                               </div>
                                 </a>
                              <a href="https://docs.kalp.studio/Video-Tutorials/Login-into-Kalp-studio">

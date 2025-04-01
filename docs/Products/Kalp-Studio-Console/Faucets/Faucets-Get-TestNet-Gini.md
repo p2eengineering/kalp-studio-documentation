@@ -1,57 +1,63 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Faucets - Get TestNet Gini
+# How to Get TestNet Gini Tokens Using Kalp Studio Faucet
 
 ## **Introduction**
 
-In the world of blockchain and decentralized applications, testing and development are crucial. A faucet is an essential tool that provides free test tokens to developers to experiment with different features on a testnet. The Kalp Studio faucet allows developers to obtain Gini tokens for use on the kalp DLT Test Net, a test network used for development and testing. These tokens are not real cryptocurrencies; they hold no monetary value and are solely for testing purposes.
+In the world of blockchain and decentralized applications, testing is key to development. A faucet is a tool that allows developers to get test tokens for experimenting with features on the testnet. Kalp Studio’s faucet gives you free Gini tokens, which you can use on the Kalp DLT Test Net. Remember, these tokens have no monetary value; they are for testing purposes only.
 
-Here's a step-by-step guide on how you can get free 50 Gini on your Kalp wallet using the Kalp Studio faucet.
+Follow these simple steps to receive 50 free Gini tokens in your Kalp wallet using the Kalp Studio faucet.
 
 ## **Step-by-Step Guide**
 
 **Login to Kalp Studio**  
+
+
+Go to the [Kalp Studio Login page] (https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
+
+If you don’t have an account, you’ll need to [sign up] (https://accounts.kalp.studio/sign-up)first.
+
 Begin by logging into your Kalp Studio account. If you do not have an account yet, you'll need to sign up first. Make sure you have your credentials ready and log in via the Kalp Studio homepage.
     
 **Navigate to the Faucet Section**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/1.jfif)
+![enter image description here](![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f1.jpg)
+)
 
 Once logged in, look at the left-hand menu of your dashboard. You will see several options such as Dashboard, Billing, Credits, Docs, Wallet, and Faucet. Click on the **Faucet** option to proceed to the faucet page.
     
 **Connect Your Wallet**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/2.jfif)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/2.jfif)
 
-Before you can receive any tokens, you need to connect your wallet. Click on the **Connect Wallet** button found at the top right corner of the page.
+Before receiving any tokens, you need to connect your wallet. Click on the Connect Wallet button, which can be found at the top-right corner of the page, as shown in the above screenshot. Follow the prompts to connect a wallet compatible with the Kalp DLT chain. Ensure that your wallet is set up to handle testnet tokens.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/3.jfif)
+![](![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f2.jpg)
+)
 
 Follow the prompts to connect a wallet that is compatible with the Kalp DLT chain. Make sure your wallet is set up to handle testnet tokens.
     
 **Enter Your Wallet Address**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/4.jfif)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f3.jpg)
 
-After successfully connecting your wallet, the Faucet page will prompt you to enter your wallet address. Copy your wallet address from the connected wallet and paste it into the provided field on the Faucet page.
+After connecting your wallet, you’ll be prompted to enter your wallet address in the Wallet Address field on the Faucet page, as shown in the above screenshot. Copy your wallet address from the connected wallet and paste it into this field.
     
 **Request Gini Tokens**  
-    With your wallet address entered, click on the **Receive 50 Gini** button. The faucet will initiate the process to send 50 Gini tokens to your wallet.
+    With your wallet address entered, click on the **Receive 1 Gini** button. The faucet will initiate the process to send 50 Gini tokens to your wallet.
     
 **Wait for Confirmation**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/5.jfif)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f4.jpg)
 
-Once you have clicked the button to receive Gini, you will see a confirmation message stating that your request is being processed. It may take a few minutes for the tokens to be sent to your wallet, so be patient. Do not refresh the page or press the back button during this process.
-    
+After clicking the Receive 50 Gini button, you will see a confirmation message stating that your request is being processed (as shown in the screenshot below). The process may take a few minutes, so please be patient. Do not refresh the page or press the back button during this process.
+
 **Check Your Wallet Balance**
     
-After a few minutes, go back to your wallet section by clicking **Kalp** **Wallet**. Here, you should see the updated balance with the newly added 50 Gini tokens.
+After a few minutes, return to your Kalp Wallet by clicking the Kalp Wallet option in the dashboard’s left-hand menu, as shown in the screenshot below. Your updated balance should now reflect the newly added 50 Gini tokens.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/6.jfif)
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/7.jfif)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f5.jpg)
 
 
  **Understand the Token Usage**  

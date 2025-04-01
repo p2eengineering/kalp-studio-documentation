@@ -133,14 +133,15 @@ nav:
   - Introduction: 
           - Kalp Studio Overview: 'Introduction/Kalp-studio-overview.md'
           - Kalp Studio Ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
-          - What is Kalp Instant Deployer: 'Introduction/What-is-kalp-instant-deployer.md'
-          - What is Kalp Wallet: 'Introduction/What-is-kalp-wallet.md'
+          - Kalp Instant Deployer: 'Introduction/Kalp-instant-deployer.md'
+          - Kalp Wallet: 'Introduction/Kalp-wallet.md'
           - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Products:
       - Kalp-Studio-Console:
           - Onboarding:
-              - How to Sign Up and Log In to Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform.md'
-              - How to reset the Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-the-Password.md'
+              - How to Sign Up to Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform.md'
+              - How to Log In to your Kalp Studio Account: 'Products/Kalp-Studio-Console/Onboarding/How-to-log-in-to-your-Kalp-Studio-Account.md'
+              - How to Change your Kalp Studio Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-Kalp-Studio-Password.md'
           - Dashboard:
             - How to Navigate Kalp Studio Platform as a New User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User.md'
             - How to Navigate Kalp Studio Dashboard as an Active User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Active-User.md'
@@ -198,7 +199,7 @@ nav:
             - How to configure webhook on KS Pay: 'Products/KS-Pay/How-to-Configure-Webhook-on-KS-Pay.md'
             - How to integrate NPM on KS Pay: 'Products/KS-Pay/How-to-Integrate-NPM-on-KS-Pay.md'
             - How to manage payment gateway: 'Products/KS-Pay/How-to-manage-Payment-Gateway.md'
-            - How to navigate to the profile at KS Pay: 'Products/KS-Pay/How-to-navigate-to-the-profile-at-KS-Pay.md'
+            - How to Access your profile on KS Pay: 'Products/KS-Pay/How-to-access-your-profile-on-KS-Pay.md'
             - How to view your transactions: 'Products/KS-Pay/How-to-view-your-transactions.md'
       - Kalp-Wallet-Extension:
             - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'

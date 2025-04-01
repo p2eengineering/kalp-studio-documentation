@@ -2,13 +2,11 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Navigate Kalp Studio Dashboard as an Active User
+# How to Navigate Kalp Studio Dashboard as an Existing User
 
 Kalp Studio is a versatile platform tailored for blockchain and decentralized application (DApp) development. As an active user, understanding how to efficiently navigate the platform is crucial to maximize productivity and leverage its full potential.
 
 ### Dashboard Overview
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/1.png)
 
 Upon logging into Kalp Studio, you are presented with the Dashboard, which serves as your central hub. The key components of the Dashboard include:
 
@@ -33,9 +31,6 @@ On the left side of the screen, you will find the primary navigation menu, which
   
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
-
-  
-  
   
 
 1.  **Dashboard:** This option returns you to the main dashboard view.

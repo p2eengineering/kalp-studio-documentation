@@ -1,19 +1,14 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# KS Pay API Integration Guide
+# KS Pay API Documentation
 
 ## 1. Introduction
 
 ### Purpose
 
-KS Pay (PE) API enables businesses to integrate and manage financial transactions. A few of the key API functionalities are user authentication (sign-up, login, and KYB verification), company onboarding, and application management.
+The KS Pay API allows businesses to integrate payment processing capabilities into their applications. It offers  **multi-gateway integration**  for seamless connections with multiple payment gateways supporting multiple currencies and a wide range of  **global payment methods**  to cater to diverse customer preferences, and simplifies  **payment reconciliation**  through automated and manual processes. KS Pay features  **smart routing**, which optimizes transaction processing by selecting the most efficient pathways. This combination enhances operational efficiency, reduces costs, and improves customer satisfaction by providing a streamlined payment experience in multiple currencies.
 
-Multi-step verification processes, including credentials, webhooks, and NPM integration, enable seamless interaction with payment gateways, enabling users to add, verify, and prioritize gateways.
-
-In addition, the API supports tax, product, and customer management. Customers can be created, invoices can be generated, bank accounts can be managed, and withdrawals can be initiated.
-
-Through customizable API keys, developers can automate billing and invoicing processes, track transaction statuses, and access payment analytics. A comprehensive documentation ensures smooth integration and secure financial operations, making KS Pay API a robust solution for businesses that manage payments.
 
 ### Audience
 

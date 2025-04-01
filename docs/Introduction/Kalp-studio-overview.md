@@ -2,6 +2,8 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
+
+
 # Kalp Studio Overview
 
 Kalp Studio is a decentralized platform designed to help developers create, manage, and scale blockchain applications and networks. It provides a suite of powerful tools and services that streamline complex blockchain tasks, such as smart contract deployment, and network management.
@@ -28,7 +30,7 @@ One of Kalp Studio’s defining strengths is its unwavering focus on providing a
 
 ## Who Can Benefit from Kalp Studio
 
-### Students / Blockchain Enthusiasts
+### Students and Blockchain Enthusiasts
 
 Kalp Studio’s drag-and-drop UI builder and pre-built components are ideal for those new to blockchain development. The user-friendly interface allows for experimentation and learning without needing extensive coding knowledge.
 
