@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to manage Payment Gateway?
+# How to manage Payment Gateway on KS Pay
 
 Managing a payment gateway is essential for any business looking to facilitate secure and efficient online transactions. A payment gateway acts as a bridge between customers and merchants, ensuring that sensitive payment information is transmitted securely while authorizing and processing transactions in real-time.
 

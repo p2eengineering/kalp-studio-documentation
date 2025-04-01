@@ -201,6 +201,12 @@ nav:
             - How to manage payment gateway: 'Products/KS-Pay/How-to-manage-Payment-Gateway.md'
             - How to Access your profile on KS Pay: 'Products/KS-Pay/How-to-access-your-profile-on-KS-Pay.md'
             - How to view your transactions: 'Products/KS-Pay/How-to-view-your-transactions.md'
+      - Kalp Wallet:
+           - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
+           - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'
+           - How to customize your wallet: 'Products/Kalp Wallet/How-to-customize-your-wallet.md'
+           - How to create a wallet: 'Products/Kalp Wallet/How-to-create-a-wallet.md'
+           - How can I monitor all my transactions: 'Products/Kalp Wallet/How-can-I-monitor-all-my-transactions.md'
       - Kalp-Wallet-Extension:
             - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'
             - How to change Password: 'Products/Kalp-Wallet-Extension/How-to-change-password.md'
