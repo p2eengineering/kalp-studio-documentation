@@ -138,6 +138,34 @@ nav:
           - Kalp DLT: 'Introduction/Kalp-DLT.md'
   - Products:
       - Kalp-Studio-Console:
+          - Kalp-Studio-Storage:
+            - How to get started with kalp storage: 'Products/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
+            - FAQ: 'Products/Kalp-Studio-Storage/FAQ.md'
+            - IPFS OpenAPI Documentation: 'Products/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
+          - KS-Query:
+            - How to get started with KS Query: 'Products/KS-Query/How-to-get-started-with-KS-Query.md'
+            - How to select blockchain and network on KS Query: 'Products/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
+            - How to create an API Auth Key: 'Products/KS-Query/How-to-create-an-API-Auth-Key.md'
+            - How to view all your API's: 'Products/KS-Query/How-to-view-your-all-APIs.md'
+            - How to view your Dashboard & Subscription details: 'Products/KS-Query/How-to-view-your-Dashboard-and-subscription-details.md'
+            - How to build explorer using KS Query: 'Products/KS-Query/How-to-built-explorer-using-ks-query.md'
+            - How to invoke API of KS Query: 'Products/KS-Query/How-to-invoke-api-of-KS-query.md'
+          - NFT Creator:
+            - How to connect wallet: 'Products/NFT Creator/How to connect wallet.md'
+            - How to create a catalog: 'Products/NFT Creator/How to create a catalog.md'
+            - How to create NFT: 'Products/NFT Creator/How to create NFT.md'
+            - How to delete NFT: 'Products/NFT Creator/How to Delete an NFT.md'
+            - How to see all asset details: 'Products/NFT Creator/How to see all asset details.md'
+            - How to view all your NFTs: 'Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
+            - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
+          - Token-Studio:
+            - How to get started with token creator: 'Products/Token-Studio/How-to-get-started-with-token-studio.md'
+            - How to connect wallet: 'Products/Token-Studio/How-to-connect-wallet.md'
+            - How to create token: 'Products/Token-Studio/How-to-create-token.md'
+            - How to view list of token created: 'Products/Token-Studio/How-to-view-list-of-token-created.md'
+            - How to view subscription details: 'Products/Token-Studio/How-to-view-subscription-details.md'
+            - How to create token with Kalp DLT: 'Products/Token-Studio/How-to-create-token-with-kalp-dlt.md'
+          
           - Onboarding:
               - How to Sign Up to Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform.md'
               - How to Log In to your Kalp Studio Account: 'Products/Kalp-Studio-Console/Onboarding/How-to-log-in-to-your-Kalp-Studio-Account.md'
@@ -166,33 +194,14 @@ nav:
             - How can I monitor all my transactions: 'Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
           - Faucets:
             - Get TestNet Gini: 'Products/Kalp-Studio-Console/Faucets/Faucets-Get-TestNet-Gini.md'
-      - Kalp-Studio-Storage:
-            - How to get started with kalp storage: 'Products/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
-            - FAQ: 'Products/Kalp-Studio-Storage/FAQ.md'
-            - IPFS OpenAPI Documentation: 'Products/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
-      - KS-Query:
-            - How to get started with KS Query: 'Products/KS-Query/How-to-get-started-with-KS-Query.md'
-            - How to select blockchain and network on KS Query: 'Products/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
-            - How to create an API Auth Key: 'Products/KS-Query/How-to-create-an-API-Auth-Key.md'
-            - How to view all your API's: 'Products/KS-Query/How-to-view-your-all-APIs.md'
-            - How to view your Dashboard & Subscription details: 'Products/KS-Query/How-to-view-your-Dashboard-and-subscription-details.md'
-            - How to build explorer using KS Query: 'Products/KS-Query/How-to-built-explorer-using-ks-query.md'
-            - How to invoke API of KS Query: 'Products/KS-Query/How-to-invoke-api-of-KS-query.md'
-      - NFT Creator:
-            - How to connect wallet: 'Products/NFT Creator/How to connect wallet.md'
-            - How to create a catalog: 'Products/NFT Creator/How to create a catalog.md'
-            - How to create NFT: 'Products/NFT Creator/How to create NFT.md'
-            - How to delete NFT: 'Products/NFT Creator/How to Delete an NFT.md'
-            - How to see all asset details: 'Products/NFT Creator/How to see all asset details.md'
-            - How to view all your NFTs: 'Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
-            - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
-      - Token-Studio:
-            - How to get started with token creator: 'Products/Token-Studio/How-to-get-started-with-token-studio.md'
-            - How to connect wallet: 'Products/Token-Studio/How-to-connect-wallet.md'
-            - How to create token: 'Products/Token-Studio/How-to-create-token.md'
-            - How to view list of token created: 'Products/Token-Studio/How-to-view-list-of-token-created.md'
-            - How to view subscription details: 'Products/Token-Studio/How-to-view-subscription-details.md'
-            - How to create token with Kalp DLT: 'Products/Token-Studio/How-to-create-token-with-kalp-dlt.md'
+          - Kalp Wallet:
+            - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
+            - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'
+            - How to use connect widget feature: 'Products/Kalp Wallet/How-to-use-connect-widget-feature.md'
+            - How to create a wallet: 'Products/Kalp Wallet/How-to-create-a-wallet.md'
+            - How can I monitor all my transactions: 'Products/Kalp Wallet/How-can-I-monitor-all-my-transactions.md'
+            - How to use embedded wallet configuration: 'Products/Kalp Wallet/How-to-Use-Embedded-Wallet-Configuration.md'
+
       - KS Pay:
             - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md'
             - How to change the password on KS Pay: 'Products/KS-Pay/How-to-change-the-password-on-KS-Pay.md'
@@ -201,13 +210,7 @@ nav:
             - How to manage payment gateway: 'Products/KS-Pay/How-to-manage-Payment-Gateway.md'
             - How to Access your profile on KS Pay: 'Products/KS-Pay/How-to-access-your-profile-on-KS-Pay.md'
             - How to view your transactions: 'Products/KS-Pay/How-to-view-your-transactions.md'
-      - Kalp Wallet:
-           - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
-           - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'
-           - How to use connect widget feature: 'Products/Kalp Wallet/How-to-use-connect-widget-feature.md'
-           - How to create a wallet: 'Products/Kalp Wallet/How-to-create-a-wallet.md'
-           - How can I monitor all my transactions: 'Products/Kalp Wallet/How-can-I-monitor-all-my-transactions.md'
-           - How to use embedded wallet configuration: 'Products/Kalp Wallet/How-to-Use-Embedded-Wallet-Configuration.md'
+      
       - Kalp-Wallet-Extension:
             - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'
             - How to change Password: 'Products/Kalp-Wallet-Extension/How-to-change-password.md'

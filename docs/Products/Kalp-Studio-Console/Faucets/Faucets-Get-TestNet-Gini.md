@@ -14,16 +14,15 @@ Follow these simple steps to receive 50 free Gini tokens in your Kalp wallet usi
 **Login to Kalp Studio**  
 
 
-Go to the [Kalp Studio Login page] (https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
+Go to the [Kalp Studio Login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
 
-If you don’t have an account, you’ll need to [sign up] (https://accounts.kalp.studio/sign-up)first.
+If you don’t have an account, you’ll need to [sign up](https://accounts.kalp.studio/sign-up)first.
 
 Begin by logging into your Kalp Studio account. If you do not have an account yet, you'll need to sign up first. Make sure you have your credentials ready and log in via the Kalp Studio homepage.
     
 **Navigate to the Faucet Section**
 
-![enter image description here](![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f1.jpg)
-)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f1.jpg)
 
 Once logged in, look at the left-hand menu of your dashboard. You will see several options such as Dashboard, Billing, Credits, Docs, Wallet, and Faucet. Click on the **Faucet** option to proceed to the faucet page.
     
@@ -33,8 +32,7 @@ Once logged in, look at the left-hand menu of your dashboard. You will see sever
 
 Before receiving any tokens, you need to connect your wallet. Click on the Connect Wallet button, which can be found at the top-right corner of the page, as shown in the above screenshot. Follow the prompts to connect a wallet compatible with the Kalp DLT chain. Ensure that your wallet is set up to handle testnet tokens.
 
-![](![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f2.jpg)
-)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f2.jpg)
 
 Follow the prompts to connect a wallet that is compatible with the Kalp DLT chain. Make sure your wallet is set up to handle testnet tokens.
     
@@ -57,7 +55,7 @@ After clicking the Receive 50 Gini button, you will see a confirmation message s
     
 After a few minutes, return to your Kalp Wallet by clicking the Kalp Wallet option in the dashboard’s left-hand menu, as shown in the screenshot below. Your updated balance should now reflect the newly added 50 Gini tokens.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f5.jpg)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f5.jpg)
 
 
  **Understand the Token Usage**  
