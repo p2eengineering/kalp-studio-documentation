@@ -51,9 +51,7 @@ Before beginning the integration process, ensure you have the following prerequi
 -   Begin by logging into your Kalp Studio account. Open the [Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio") and log in with your credentials.
     
 
-Open image-20250303-122607.png
-
-![image-20250303-122607.png](blob:https://p2eprojects.atlassian.net/fc494e36-ce48-4d85-98bd-7af3b640ee62#media-blob-url=true&id=7a890cc6-684f-4145-8910-f59a2d23f567&collection=contentId-410779681&contextId=410779681&mimeType=image%2Fpng&name=image-20250303-122607.png&size=33601&width=825&height=665&alt=image-20250303-122607.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New-folder/inpm1.png)
 
 -   Once logged in, you will be directed to the main dashboard.
     
