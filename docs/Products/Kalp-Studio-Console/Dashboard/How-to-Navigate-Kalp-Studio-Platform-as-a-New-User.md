@@ -5,10 +5,7 @@
 
 # **How to Navigate Kalp Studio Platform as a New User**
 
-  
-
-Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. Kalp Studio is an all-in-one platform built to simplify blockchain and decentralized application (DApp) development. This guide will walk you through the key features and help you get started quickly as a new user.
-
+Kalp Studio is an all-in-one platform built to simplify blockchain and decentralized application (DApp) development. This guide will walk you through the key features and help you get started quickly as a new user.
   
 
 ### **Dashboard Overview**
@@ -31,7 +28,7 @@ Upon logging in, the Dashboard appears as your control center. Here, you’ll fi
 
 ### **Navigation Menu**
 
-On the left side of the screen, you will find the primary navigation menu, which includes the following options:
+On the left side of the screen, you will find the primary navigation menu, as highlighted in the screenshot below.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
 
@@ -59,26 +56,36 @@ On the left side of the screen, you will find the primary navigation menu, which
 Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
 
 -   **Kalp Instant Deployer**: Kalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
-    
--   **API Gateway**: Easily integrate your applications with blockchain via Kalp’s API Gateway, which supports both REST and GraphQL APIs. This unified interface simplifies smart contract interactions, streamlining transactions and queries. Whether you’re a developer or a business, the API Gateway offers an accessible way to connect your app with blockchain services. Starting at just $7 credits, it is a cost-effective solution for decentralized application integration.
-    
--   **TokeniFy – Asset Tokenization Platform**: With TokeniFy, you can easily tokenize real-world assets, converting physical assets into digital tokens for secure ownership, trading, and management on the blockchain. Whether you want to create your own branded tokenization platform or tokenize existing assets, TokeniFy streamlines the process and helps you manage everything within a secure blockchain environment. Request a demo today to explore how TokeniFy can transform your asset management with blockchain technology.
 
-### **Accessing Kalp Apps**
+-   **KS Storage**: KS Storage provides a centralized interface for managing multiple storage accounts efficiently. It streamlines the process of organizing and accessing data across various storage solutions, enhancing productivity and simplifying workflows.
+
+-   **KS Query**: KS Query offers robust access to blockchain data, including real-time updates and historical records. Supporting GraphQL APIs, SQL, and WebSockets, it provides developers with versatile options for integrating blockchain data into their applications.
+
+-   **NFT Creator**: The NFT Creator tool simplifies the process of designing and minting Non-Fungible Tokens. It allows users to convert digital assets into blockchain-verified collectibles with minimal effort, ensuring a seamless experience.
+
+-   **Token Studio**: Token Studio provides an intuitive platform for creating and managing digital tokens. It supports widely-used standards such as ERC20, ERC1155, ERC721, and ERC3643, making token-related processes more accessible and streamlined.
+
+-   **API Gateway**: Easily integrate your applications with blockchain via Kalp’s API Gateway, which supports both REST and GraphQL APIs. This unified interface simplifies smart contract interactions, streamlining transactions and queries. Whether you’re a developer or a business, the API Gateway offers an accessible way to connect your app with blockchain services. 
+
+-   **TokeniFy – Asset Tokenization Platform**: With TokeniFy, you can easily tokenize real-world assets, converting physical assets into digital tokens for secure ownership, trading, and management on the blockchain. Whether you want to create your own branded tokenization platform or tokenize existing assets, TokeniFy streamlines the process and helps you manage everything within a secure blockchain environment. You can Request a demo to explore how TokeniFy can transform your asset management with blockchain technology.
+
+-   **Private Blockchain**: The Private Blockchain service specializes in creating secure, permissioned blockchain networks. It is ideal for organizations that require controlled data sharing and enhanced privacy within their operational ecosystem.
+
+### **Accessing Your Kalp Apps**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/9.png)
 
-In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of available Kalp apps.
+In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of your subscribed Kalp apps.
 
-### **Connecting Your Wallet**
+1. **Connecting Your Wallet**
 
-#### Locate the "Connect Wallet" Button
+### Locate the "Connect Wallet" Button
 
 On your Kalp Studio Dashboard, find the "Connect Wallet" button. This button will allow you to link your wallet to Kalp Studio.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/10.png)
 
-#### Choose Your Wallet Type
+2.  **Choose Your Wallet Type**
 
 After clicking "Connect Wallet", a pop-up will appear. From here, choose the wallet you want to connect. You can either link your Kalp Wallet or another supported wallet.
 

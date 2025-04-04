@@ -2,45 +2,44 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How to use connect widget feature?**
+# **How to customize app using KS Wallet's Connect Widget Feature?**
 
-KS Wallet Console provides a versatile platform to manage and customize your wallet connection experience. Its "Connect Widget Module" is particularly useful, allowing you to tailor various aspects, including supported wallet types, authentication methods (Social Login), blockchain network preference, and visual style. This detailed guide will walk you through the process of customizing your wallet connection interface, ensuring seamless integration and user-friendly onboarding for decentralized applications.
-
-## **Step-by-Step Customization Guide**
+KS Wallet Console lets you easily manage and customize your wallet connection. The "Connect Widget Module" helps you adjust key settings like supported wallet types, authentication methods (Social Login), blockchain network preferences, and visual style. This guide shows you how to personalize your wallet connection for a smooth, intuitive experience with decentralized apps.
 
 ### **Step 1: Sign in to Kalp Studio**
 
-The journey begins at the Kalp Studio [sign-in page](https://accounts.kalp.studio/login). This is your gateway to all the platform's features, including the Wallet Dashboard.
-
-1.  **Open your Web Browser:** Launch your preferred web browser.
+1.  Go to [Kalp Studio Login](https://accounts.kalp.studio/login).
     
-2.  **Navigate to the Kalp Studio Login Page:** Go to the Kalp Studio login page.
-    
-3.  **Enter Your Credentials:** You'll be presented with a form requesting your login information.
-    
-
--   **Email:** In the "Enter Your Email" field, type in the email address you used when registering for your Kalp Studio account.
-    
--   **Password:** In the "Enter Password" field, carefully enter your account password. Pay attention to capitalization and any special characters.
+2.  Enter your credentials and click **Log In**.
 
     
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc1.png)
 
-4.  **Click the "Sign In" Button:** Once you've entered your email and password, click the "Sign In" button. This will initiate the login process.
+4.  **Click the "Sign In" Button:** Once you've entered your email and password, click the "Sign In" button as annotated in the below screenshot. This will initiate the login process.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin)
+
+
     
 
-### **Step 2: After Successfully Sign in**
+### **Step 2: Access KS Wallet**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
+If you haven't already, then subscribe to KS Wallet.
+
 
 1.  **Product Page:** After Successfully Sign-In you will find a product page. In this page you will see different applications like SMS, Kalp Instant Deployer, Email, KS Storage, KS Wallet, KS Query, NFT Creator, Token Studio, API Gateway.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
     
+
+
+
+2.  **Select KS Wallet:** Spot the KS Wallet option in the Our Products section on the dashboard, as highlighted in the screenshot below, and click on the Get Started button.
+
+
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc3.png)
 
-2.  **Select KS Wallet:** You have to Select the KS Wallet for the next steps.
-    
-3.  **Select Get Started:** After selecting the KS wallet now, you have to select "Get Started".
     
 
 ### **Step 3: Access the Connect Widget Configuration**
@@ -109,9 +108,6 @@ Begin by navigating to the "Connect Widget" option in the sidebar menu of the KS
 
 KS Wallet Console allows you to customize further through direct code integration. You can choose between React Code and Javascript Code and embed it on the head of your HTML.
 
-**Model:** The default configuration settings that were previously stated.
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc12.png)
 
 **React Code:** Embed code in the top of your HTML.
 
@@ -122,6 +118,10 @@ KS Wallet Console allows you to customize further through direct code integratio
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc14.png)
 
 #### **7. Applying Changes**
+
+**Model:** The Model displays all the settings you've selected previously.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc12.png)
 
 Once you've configured all the desired settings, click on the "Apply Changes" button. This will save your customizations.
 

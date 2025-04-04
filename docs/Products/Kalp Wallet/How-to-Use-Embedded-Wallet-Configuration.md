@@ -7,37 +7,38 @@
 Kalp Studio’s Embedded Wallet module lets you add a customizable, user-friendly MPC wallet directly to your dApp. This eliminates the hassle of managing seed phrases or installing browser extensions, making Web3 onboarding faster and simpler for users. In this guide, you’ll learn how to configure and use the Embedded Wallet to enhance your dApp’s wallet integration.
 
 ### **Step 1: Sign in to Kalp Studio**
-
-The journey begins at the Kalp Studio sign-in page. This is your gateway to all the platform's features, including the Wallet Dashboard.
-
-1.  **Open your Web Browser:** Launch your preferred web browser.
+1.  Go to [Kalp Studio Login](https://accounts.kalp.studio/login).
     
-2.  **Navigate to the Kalp Studio Login Page:** Go to the Kalp Studio login page.
-    
-3.  **Enter Your Credentials:** You'll be presented with a form requesting your login information.
-    
+2.  Enter your credentials and click **Log In**.
 
--   **Email:** In the "Enter Your Email" field, type in the email address you used when registering for your Kalp Studio account.
     
--   **Password:** In the "Enter Password" field, carefully enter your account password. Pay attention to capitalization and any special characters.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc1.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew1.png)
+4.  **Click the "Sign In" Button:** Once you've entered your email and password, click the "Sign In" button as annotated in the below screenshot. This will initiate the login process.
 
-4.  **Click the "Sign In" Button:** Once you've entered your email and password, click the "Sign In" button. This will initiate the login process.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin)
+
+
     
 
-### **Step 2: After Successfully Sign in**
+### **Step 2: Access KS Wallet**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew2.png)
+If you haven't already, then subscribe to KS Wallet.
+
 
 1.  **Product Page:** After Successfully Sign-In you will find a product page. In this page you will see different applications like SMS, Kalp Instant Deployer, Email, KS Storage, KS Wallet, KS Query, NFT Creator, Token Studio, API Gateway.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew3.png)
 
-2.  **Select KS Wallet:** You have to Select the KS Wallet for the next steps.
-    
-3.  **Select Get Started:** After selecting the KS wallet now, you have to select "Get Started".
+
+2.  **Select KS Wallet:** Spot the KS Wallet option in the Our Products section on the dashboard, as highlighted in the screenshot below, and click on the Get Started button.
+
+
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc3.png)
+
     
 
 ### **Step 3: Navigate to Embedded Wallet Configuration**

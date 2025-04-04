@@ -60,11 +60,21 @@ On the left side of the screen, you will find the primary navigation menu, which
 Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
   
 
--  **Kalp Instant Deployer**: KKalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
+-   **Kalp Instant Deployer**: Kalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
 
--  **API Gateway**: Easily integrate your applications with blockchain via Kalp’s API Gateway, which supports both REST and GraphQL APIs. This unified interface simplifies smart contract interactions, streamlining transactions and queries. Whether you’re a developer or a business, the API Gateway offers an accessible way to connect your app with blockchain services. Starting at just $7 credits, it is a cost-effective solution for decentralized application integration.
+-   **KS Storage**: KS Storage provides a centralized interface for managing multiple storage accounts efficiently. It streamlines the process of organizing and accessing data across various storage solutions, enhancing productivity and simplifying workflows.
 
--  **TokeniFy – Asset Tokenization Platform**: With TokeniFy, you can easily tokenize real-world assets, converting physical assets into digital tokens for secure ownership, trading, and management on the blockchain. Whether you want to create your own branded tokenization platform or tokenize existing assets, TokeniFy streamlines the process and helps you manage everything within a secure blockchain environment. Request a demo today to explore how TokeniFy can transform your asset management with blockchain technology.
+-   **KS Query**: KS Query offers robust access to blockchain data, including real-time updates and historical records. Supporting GraphQL APIs, SQL, and WebSockets, it provides developers with versatile options for integrating blockchain data into their applications.
+
+-   **NFT Creator**: The NFT Creator tool simplifies the process of designing and minting Non-Fungible Tokens. It allows users to convert digital assets into blockchain-verified collectibles with minimal effort, ensuring a seamless experience.
+
+-   **Token Studio**: Token Studio provides an intuitive platform for creating and managing digital tokens. It supports widely-used standards such as ERC20, ERC1155, ERC721, and ERC3643, making token-related processes more accessible and streamlined.
+
+-   **API Gateway**: Easily integrate your applications with blockchain via Kalp’s API Gateway, which supports both REST and GraphQL APIs. This unified interface simplifies smart contract interactions, streamlining transactions and queries. Whether you’re a developer or a business, the API Gateway offers an accessible way to connect your app with blockchain services. 
+
+-   **TokeniFy – Asset Tokenization Platform**: With TokeniFy, you can easily tokenize real-world assets, converting physical assets into digital tokens for secure ownership, trading, and management on the blockchain. Whether you want to create your own branded tokenization platform or tokenize existing assets, TokeniFy streamlines the process and helps you manage everything within a secure blockchain environment. You can Request a demo to explore how TokeniFy can transform your asset management with blockchain technology.
+
+-   **Private Blockchain**: The Private Blockchain service specializes in creating secure, permissioned blockchain networks. It is ideal for organizations that require controlled data sharing and enhanced privacy within their operational ecosystem.
 
 ### **Subscription Expiration**
 
