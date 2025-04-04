@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Register Your App on KS Pay
+# **How to generate API Key**
 
 Generating an API Key is a crucial step for enabling secure access to platform services and allowing your applications to communicate efficiently. Whether you're building a new app or integrating additional features, an API Key provides a unique identifier that grants controlled access to various resources and functionalities.
 

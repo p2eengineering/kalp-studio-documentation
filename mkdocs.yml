@@ -203,16 +203,17 @@ nav:
             - How to use embedded wallet configuration: 'Products/Kalp Wallet/How-to-Use-Embedded-Wallet-Configuration.md'
 
       - KS Pay:
-            - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md
+            - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md'
+            - How to change the password on KS Pay: 'Products/KS-Pay/How-to-change-the-password-on-KS-Pay.md'
             - How to configure webhook on KS Pay: 'Products/KS-Pay/How-to-Configure-Webhook-on-KS-Pay.md'
             - How to integrate NPM on KS Pay: 'Products/KS-Pay/How-to-Integrate-NPM-on-KS-Pay.md'
             - How to manage payment gateway: 'Products/KS-Pay/How-to-manage-Payment-Gateway.md'
             - How to Access your profile on KS Pay: 'Products/KS-Pay/How-to-access-your-profile-on-KS-Pay.md'
             - How to view your transactions: 'Products/KS-Pay/How-to-view-your-transactions.md'
             - How to register your app on KS Pay: 'Products/KS-Pay/How-to-register-your-app-on-KS-Pay.md'
+            - How to add a company on KS Pay: 'Products/KS-Pay/How-to-add-a-company-on-KS-Pay.md'
             - How to generate API Key on KS Pay: 'Products/KS-Pay/How-to-generate-API-Key.md'
-            - How to add a company on KS Pay: 'Products/KS-Pay/How-to-access-your-profile-on-KS-Pay.md'
-
+            
       
       - Kalp-Wallet-Extension:
             - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'
