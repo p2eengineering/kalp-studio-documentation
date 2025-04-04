@@ -7,55 +7,51 @@
 
 In the world of blockchain and decentralized applications, testing is key to development. A faucet is a tool that allows developers to get test tokens for experimenting with features on the testnet. Kalp Studio’s faucet gives you free Gini tokens, which you can use on the Kalp DLT Test Net. Remember, these tokens have no monetary value; they are for testing purposes only.
 
-Follow these simple steps to receive 50 free Gini tokens in your Kalp wallet using the Kalp Studio faucet.
+Follow these simple steps to receive 1 free Gini token in your Kalp wallet using the Kalp Studio faucet.
 
 ## **Step-by-Step Guide**
 
 **Login to Kalp Studio**  
+1. Go to the [Kalp Studio Login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
 
-
-Go to the [Kalp Studio Login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
-
-If you don’t have an account, you’ll need to [sign up](https://accounts.kalp.studio/sign-up)first.
-
-Begin by logging into your Kalp Studio account. If you do not have an account yet, you'll need to sign up first. Make sure you have your credentials ready and log in via the Kalp Studio homepage.
+2. If you don’t have an account, you’ll need to [sign up](https://accounts.kalp.studio/sign-up) first.
     
 **Navigate to the Faucet Section**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f1.jpg)
+Once you’ve logged in, look at the left-hand menu of your dashboard (as shown in the screenshot below). You will see several options, including Dashboard, Billing, Credits, Docs, Wallet, and Faucet. Click on Faucet to proceed to the faucet page.
 
-Once logged in, look at the left-hand menu of your dashboard. You will see several options such as Dashboard, Billing, Credits, Docs, Wallet, and Faucet. Click on the **Faucet** option to proceed to the faucet page.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f1.jpg)
     
 **Connect Your Wallet**
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/2.jfif)
 
-Before receiving any tokens, you need to connect your wallet. Click on the Connect Wallet button, which can be found at the top-right corner of the page, as shown in the above screenshot. Follow the prompts to connect a wallet compatible with the Kalp DLT chain. Ensure that your wallet is set up to handle testnet tokens.
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f2.jpg)
-
-Follow the prompts to connect a wallet that is compatible with the Kalp DLT chain. Make sure your wallet is set up to handle testnet tokens.
+Before receiving any tokens, you need to connect your wallet. Click on the Connect Wallet button, which can be found at the top-right corner of the page, as shown in the above screenshot. Follow the prompts to connect a wallet compatible with the Kalp DLT chain. Ensure that your wallet is set up to handle testnet tokens (if you're unsure, refer to the documentation or support resources for more details).
     
 **Enter Your Wallet Address**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f3.jpg)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f2.jpg)
 
 After connecting your wallet, you’ll be prompted to enter your wallet address in the Wallet Address field on the Faucet page, as shown in the above screenshot. Copy your wallet address from the connected wallet and paste it into this field.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f4.jpg)
     
 **Request Gini Tokens**  
-    With your wallet address entered, click on the **Receive 1 Gini** button. The faucet will initiate the process to send 50 Gini tokens to your wallet.
+    With your wallet address entered, click on the **Receive 1 Gini** button. The faucet will initiate the process to send 1 Gini token to your wallet.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f3.jpg)
     
 **Wait for Confirmation**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f4.jpg)
-
-After clicking the Receive 50 Gini button, you will see a confirmation message stating that your request is being processed (as shown in the screenshot below). The process may take a few minutes, so please be patient. Do not refresh the page or press the back button during this process.
-
-**Check Your Wallet Balance**
-    
-After a few minutes, return to your Kalp Wallet by clicking the Kalp Wallet option in the dashboard’s left-hand menu, as shown in the screenshot below. Your updated balance should now reflect the newly added 50 Gini tokens.
+After clicking the Receive 1 Gini button, you will see a confirmation message stating that your request is being processed (as shown in the screenshot below). 
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f5.jpg)
+
+**Check Your Wallet Balance**
+After a few minutes
+    
+After a few minutes, return to your Kalp Wallet by clicking the Kalp Wallet option in the dashboard’s left-hand menu, as shown in the screenshot below. Your updated balance should now reflect a newly added Gini token.
+
 
 
  **Understand the Token Usage**  

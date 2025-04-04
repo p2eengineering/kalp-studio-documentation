@@ -24,19 +24,14 @@ KS Wallet Console lets you easily manage and customize your wallet connection. T
 
 ### **Step 2: Access KS Wallet**
 
-If you haven't already, then subscribe to KS Wallet.
-
 
 1.  **Product Page:** After Successfully Sign-In you will find a product page. In this page you will see different applications like SMS, Kalp Instant Deployer, Email, KS Storage, KS Wallet, KS Query, NFT Creator, Token Studio, API Gateway.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
-    
-
-
 
 2.  **Select KS Wallet:** Spot the KS Wallet option in the Our Products section on the dashboard, as highlighted in the screenshot below, and click on the Get Started button.
 
-
+> If you have not  yet subscribed to KS Wallet, you can do it to experience a seamless experience
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc3.png)
 
