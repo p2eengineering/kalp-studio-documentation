@@ -5,20 +5,9 @@
 
 # **How to Navigate Kalp Studio Platform as a New User**
 
-Kalp Studio is an all-in-one platform built to simplify blockchain and decentralized application (DApp) development. This guide will walk you through the key features and help you get started quickly as a new user.
-
-
-### **Dashboard Overview**
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
-
-Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot.
-
-# **How to Navigate Kalp Studio Platform as a New User**
-
   
 
-Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. As a new user, this guide will help you navigate the platform efficiently.
+Kalp Studio is a comprehensive platform designed to facilitate blockchain and decentralized application (DApp) development. Kalp Studio is an all-in-one platform built to simplify blockchain and decentralized application (DApp) development. This guide will walk you through the key features and help you get started quickly as a new user.
 
   
 
@@ -26,7 +15,7 @@ Kalp Studio is a comprehensive platform designed to facilitate blockchain and de
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
 
-Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot.
+Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot. The key components of the Dashboard include:
 
 -   **Connect Wallet:** A clear "Connect Now" button prompts you to link your wallet and gain access to decentralized apps and services. The section is highlighted in the screenshot below, helping you get started.
 
@@ -67,13 +56,13 @@ On the left side of the screen, you will find the primary navigation menu, which
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/8.png)
 
-The Dashboard also highlights various products offered by Kalp Studio:
+Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
 
--   **Kalp Instant Deployer**: Kalp Instant Deployer allows users to build and deploy custom smart contracts effortlessly. It offers a variety of pre-audited templates to choose from and you can also upload your smart contract, ensuring a secure and efficient deployment process. This service is ideal for developers looking to streamline smart contract creation with minimal effort. With a free trial available, it’s an excellent tool for users to explore blockchain development.
+-   **Kalp Instant Deployer**: Kalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
     
--   **API Gateway**: The API Gateway provides a unified interface, enabling easy integration with smart contracts via both REST and GraphQL APIs. This product is designed to simplify the interaction between your applications and blockchain, making it easier for developers to manage transactions and queries. With a starting plan of $7.00 credits, it caters to businesses and developers aiming to connect seamlessly with decentralized technologies.
+-   **API Gateway**: Easily integrate your applications with blockchain via Kalp’s API Gateway, which supports both REST and GraphQL APIs. This unified interface simplifies smart contract interactions, streamlining transactions and queries. Whether you’re a developer or a business, the API Gateway offers an accessible way to connect your app with blockchain services. Starting at just $7 credits, it is a cost-effective solution for decentralized application integration.
     
--   **TokeniFy – Asset Tokenization Platform**: TokeniFy offers a powerful platform to tokenize real-world assets, enabling businesses to create branded tokenization platforms. This product allows users to convert physical assets into digital tokens, facilitating ownership and trading within a secure blockchain environment. It's a solution tailored for enterprises looking to harness the power of tokenization for asset management. Users can request a demo to explore its potential.
+-   **TokeniFy – Asset Tokenization Platform**: With TokeniFy, you can easily tokenize real-world assets, converting physical assets into digital tokens for secure ownership, trading, and management on the blockchain. Whether you want to create your own branded tokenization platform or tokenize existing assets, TokeniFy streamlines the process and helps you manage everything within a secure blockchain environment. Request a demo today to explore how TokeniFy can transform your asset management with blockchain technology.
 
 ### **Accessing Kalp Apps**
 
@@ -83,9 +72,21 @@ In the upper-right corner, there is an "Apps" icon that, when clicked, displays 
 
 ### **Connecting Your Wallet**
 
+#### Locate the "Connect Wallet" Button
+
+On your Kalp Studio Dashboard, find the "Connect Wallet" button. This button will allow you to link your wallet to Kalp Studio.
+
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/10.png)
 
+#### Choose Your Wallet Type
+
+After clicking "Connect Wallet", a pop-up will appear. From here, choose the wallet you want to connect. You can either link your Kalp Wallet or another supported wallet.
+
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
+
+#### Confirm Wallet Connection
+
+Once you've selected your wallet, follow the prompts to complete the connection.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/2.png)
 
@@ -100,13 +101,13 @@ Kalp Studio provides an integrated chat support feature to assist users with any
 
 #### **Step 1: Access the Dashboard**
 1. Log in to your Kalp Studio account.
-2. Once logged in, you will see the main dashboard. This is your starting point for accessing all features, including support.
+2. Once logged in, you will see the main dashboard, as shown in the screenshot below. This is your starting point for accessing all features, including support.
 
 
 ---
 
 #### **Step 2: Locate the Chat Support Icon**
-1. In the bottom-right corner of the dashboard, you’ll see a **chat icon** (a speech bubble). 
+1. In the bottom-right corner of the dashboard, you’ll see a **chat icon** (a speech bubble). Refer to the screenshot below that highlights the chat icon location.
 2. Click on the icon to open the support chat window.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+1.png)
@@ -115,48 +116,52 @@ Kalp Studio provides an integrated chat support feature to assist users with any
 ---
 
 #### **Step 3: Open the Chat Window**
-1. When you click the chat icon, a small window will pop up on the right side of the screen. This window is titled **"Kalp Studio"**.
+1. Click the chat icon (a speech bubble) located in the bottom-right corner of the dashboard. A small window will pop up titled **"Kalp Studio"** on the right side of your screen. This is where you can interact with our support team.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+2.png)
 
-2. If support is **offline**, the window will display a message like:  
-   *"We are not available right now. Please leave us a voice mail or a message. We'll get back as soon as possible."*
+2. **If Support is Offline:** If the support team is offline, you will see a message saying:
+"We are not available right now. Please leave us a voice mail or a message. We’ll get back as soon as possible."
+This message will appear in the same pop-up window.
 
 ---
 
 #### **Step 4: Leave a Message**
-1. Click the **"Leave a message"** option in the chat window.
+1. If support is unavailable, click on the "Leave a message" option within the chat window to begin typing your query.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+5.png)
 
 
-2. Enter your query or issue. For example, if you need help deploying a smart contract, you could type:
-   - *"I need help with smart contract deployment."*
+2. **Enter Your Message:** In the text box that appears, type a clear description of your issue or question. For example, if you need help with smart contract deployment, you could write:
+"I need help with smart contract deployment." The text box and example query are shown in the screenshot below.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+3.png)
 
-3. Press **Enter** or click the send icon to submit your message.
+3. **Submit Your Message:** Press Enter or click the send icon to submit your message. Once sent, you will receive an automated response acknowledging your request.
+
+
 
 ---
 
 #### **Step 5: Enter Your Details**
 1. The chat may prompt you with additional questions like:
    - *"How would you like to be addressed?"*
-2. Provide your preferred name or any necessary details as requested.
+2. Provide your preferred name or any other necessary details as requested in the text box provided in the chat window. 
 
 ---
 
 #### **Step 6: Access Previous Conversations**
-1. If you need to revisit a previous chat, click the **"Conversation"** tab at the bottom of the chat window.
+1. If you need to revisit a previous chat, click the "Conversation" tab at the bottom of the chat window, as highlighted in the screenshot below.
+
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+4.png)
 
-2. This section stores your chat history, allowing you to refer to past support interactions.
+2. It displays your previous support interactions, allowing you to refer back to any past conversations.
 
 ---
 
 #### **Step 7: Close or Start a New Conversation**
 
-1. To end the current chat, simply close the chat window by clicking the **"X"** button at the bottom-right corner of the window.
+1. To end the current chat, click the "X" button at the bottom-right corner of the chat window, as highlighted in the screenshot below. This will close the chat window, ending your current conversation.
 
 ---
 
@@ -176,7 +181,11 @@ The chat support feature in Kalp Studio is designed to provide quick assistance 
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/12.png)
 
-Engage with the Kalp community through various social media platforms listed on the dashboard. For any assistance, the "Help and Support" section provides access to FAQs, support tickets, and other resources to resolve your queries.
+To access Help and Support, click the "Help and Support" tab on the dashboard, as shown in the above screenshot.
+
+Here, you will find access to FAQs, support tickets, and additional resources to resolve your queries.
+
+Additionally, you can engage with the Kalp community through various social media platforms listed on the dashboard for further assistance.
 
 ### **Conclusion**
 

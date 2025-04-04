@@ -8,19 +8,19 @@ Kalp Studio is a versatile platform tailored for blockchain and decentralized ap
 
 ### Dashboard Overview
 
-Upon logging into Kalp Studio, you are presented with the Dashboard, which serves as your central hub. The key components of the Dashboard include:
+Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
 
--   **Connect Kalp Studio Wallet:** This "Connect now" button on the dashboard to link or connect your Kalp wallet or other wallets mentioned above. This connection is crucial for accessing decentralized applications and handling transactions securely.
+-   **Connect Wallet:** A clear "Connect Now" button prompts you to link your wallet and gain access to decentralized apps and services. The section is highlighted in the screenshot below, helping you get started.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/5.png)
 
--   **Build Smart Contracts:** This feature enables you to start building smart contracts using Kalp’s instant deployer. Clicking “Get started” will direct you to the subscription page.
+-   **Build Smart Contracts:** Start building and deploying smart contracts effortlessly using the Kalp Instant Deployer (KID) tool. Click "Get Started" to proceed, as highlighted in the screenshot below. It will direct you to the subscription page for access.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/6.png)
 
--   **Kalp Community:** This section highlights the active Kalp community, showcasing the number of members. Engaging with this community can provide valuable insights and support.
+-   **Kalp Community:** Explore the vibrant Kalp community, as highlight in the screenshot below and connect with active members who share your passion for blockchain development.
 
 ### **Navigation Menu**
 
@@ -57,29 +57,40 @@ On the left side of the screen, you will find the primary navigation menu, which
 
   
 
-The Dashboard also highlights various products offered by Kalp Studio:
-
+Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
   
 
--  **Kalp Instant Deployer**: Kalp Instant Deployer allows users to build and deploy custom smart contracts effortlessly. It offers a variety of pre-audited templates to choose from and you can also upload your smart contract, ensuring a secure and efficient deployment process. This service is ideal for developers looking to streamline smart contract creation with minimal effort. With a free trial available, it’s an excellent tool for users to explore blockchain development.
+-  **Kalp Instant Deployer**: KKalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
 
--  **API Gateway**: The API Gateway provides a unified interface, enabling easy integration with smart contracts via both REST and GraphQL APIs. This product is designed to simplify the interaction between your applications and blockchain, making it easier for developers to manage transactions and queries. With a starting plan of $7.00 credits, it caters to businesses and developers aiming to connect seamlessly with decentralized technologies.
+-  **API Gateway**: Easily integrate your applications with blockchain via Kalp’s API Gateway, which supports both REST and GraphQL APIs. This unified interface simplifies smart contract interactions, streamlining transactions and queries. Whether you’re a developer or a business, the API Gateway offers an accessible way to connect your app with blockchain services. Starting at just $7 credits, it is a cost-effective solution for decentralized application integration.
 
--  **TokeniFy – Asset Tokenization Platform**: TokeniFy offers a powerful platform to tokenize real-world assets, enabling businesses to create branded tokenization platforms. This product allows users to convert physical assets into digital tokens, facilitating ownership and trading within a secure blockchain environment. It's a solution tailored for enterprises looking to harness the power of tokenization for asset management. Users can request a demo to explore its potential.
+-  **TokeniFy – Asset Tokenization Platform**: With TokeniFy, you can easily tokenize real-world assets, converting physical assets into digital tokens for secure ownership, trading, and management on the blockchain. Whether you want to create your own branded tokenization platform or tokenize existing assets, TokeniFy streamlines the process and helps you manage everything within a secure blockchain environment. Request a demo today to explore how TokeniFy can transform your asset management with blockchain technology.
 
 ### **Subscription Expiration**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/5.png)
 
 
-The KALP Studio console dashboard has been enhanced to notify users about subscription expirations for individual products. A clear message, "Subscription expired. Renew to continue," is displayed along with a "Renew" button, enabling users to promptly renew their subscriptions and maintain uninterrupted access to the services.
+The Kalp Studio console dashboard has been enhanced to notify users about subscription expirations for individual products. A clear message, "Subscription expired. Renew to continue," is displayed along with a "Renew" button, enabling users to promptly renew their subscriptions and maintain uninterrupted access to the services.
   
 
-### **Accessing Kalp Apps**
+### **Connecting Your Wallet**
+
+#### Locate the "Connect Wallet" Button
+
+On your Kalp Studio Dashboard, find the "Connect Wallet" button. This button will allow you to link your wallet to Kalp Studio.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/9.png)
 
+#### Choose Your Wallet Type
+
+After clicking "Connect Wallet", a pop-up will appear. From here, choose the wallet you want to connect. You can either link your Kalp Wallet or another supported wallet.
+
 In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of available Kalp apps.
+
+#### Confirm Wallet Connection
+
+Once you've selected your wallet, follow the prompts to complete the connection.
 
 ### Wallet Management
 
