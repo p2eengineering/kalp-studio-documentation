@@ -15,6 +15,8 @@ Kalp DLT is built for developers, enterprises, and businesses seeking blockchain
 Kalp DLT is built on principles that prioritize security, privacy, and user control, ensuring a robust and adaptable blockchain solution.
 
 - **Hybrid Blockchain Model:** Combines public and permissioned blockchains with KYC verification that address privacy concerns while providing transparency where needed. 
+![Hybrid Blockchain Model](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/HybridBC.png)
+
 - **Full Data Control:** You control where your data is stored, giving you full ownership and security over your information.
 - **Decentralized Dispute Resolution:** The Grievance Redressal DAO (Sabha) enables fair, transparent resolution of disputes within the community.
 - **Legally Valid Smart Contracts:** Smart contracts are legally binding, ensuring your agreements are enforceable under law with the Legal SDK.
@@ -32,6 +34,7 @@ Kalp DLT runs on a decentralized, permissioned blockchain tailored for regulated
 Kalp Studio is the front-end interface that simplifies working with Kalp DLT. As a low-code platform, it equips developers with tools to manage projects, deploy smart contracts, and set up blockchain networks—all seamlessly integrated with Kalp DLT. Below, we explain how these two components work together.
 
 ### Connecting Kalp Studio and Kalp DLT
+![Connecting Kalp Studio and Kalp DLT](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/HybridBC.png)
 
 The integration of Kalp Studio with Kalp DLT is seamless and efficient. Here's how the process works:
 

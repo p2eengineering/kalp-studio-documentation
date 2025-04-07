@@ -24,7 +24,7 @@ Once you’ve logged in, look at the left-hand menu of your dashboard (as shown 
     
 **Connect Your Wallet**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/10.+Faucets/2.jfif)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/faucetconnectwallet.png)
 
 Before receiving any tokens, you need to connect your wallet. Click on the Connect Wallet button, which can be found at the top-right corner of the page, as shown in the above screenshot. Follow the prompts to connect a wallet compatible with the Kalp DLT chain. Ensure that your wallet is set up to handle testnet tokens (if you're unsure, refer to the documentation or support resources for more details).
     
@@ -48,10 +48,10 @@ After clicking the Receive 1 Gini button, you will see a confirmation message st
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f5.jpg)
 
 **Check Your Wallet Balance**
-After a few minutes
     
 After a few minutes, return to your Kalp Wallet by clicking the Kalp Wallet option in the dashboard’s left-hand menu, as shown in the screenshot below. Your updated balance should now reflect a newly added Gini token.
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/faucetmob.png)
 
 
  **Understand the Token Usage**  

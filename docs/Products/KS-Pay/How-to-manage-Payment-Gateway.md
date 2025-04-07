@@ -89,7 +89,7 @@ In the sidebar menu on the left, click on **Settings**. This section allows you 
 ### **Step 9: Verify Payment Gateways**
 
 To verify a gateway, select the **Edit** (pencil) icon next to the gateway name. Verified gateways are marked with a green checkmark. 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg7.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/manageapistepstep9.png)
 
 
     
@@ -119,6 +119,8 @@ To verify a gateway, select the **Edit** (pencil) icon next to the gateway name.
 ### **Step 12: Manage Currency and Payment Modes**
 
 1.  Under the Set Priority section, select the specific currency (e.g., INR).
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/manageapistep12.png)
     
 2.  Specify the payment modes available for the selected gateway, such as UPI, Net Banking, or Credit/Debit Cards.
     

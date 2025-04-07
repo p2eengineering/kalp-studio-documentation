@@ -54,6 +54,7 @@ The KS Pay Dashboard will appear.
 ## **Step 5: Access the App Registration Page**
 
 - If you haven’t registered any apps yet, the page will display a prompt saying, "You have not registered any Application yet", as highlighted in the screenshot.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/register-app-step-5.png)
 
 - Click on the "Add App" button to start the app registration process.
 

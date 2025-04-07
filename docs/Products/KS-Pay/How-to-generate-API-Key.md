@@ -131,6 +131,7 @@ After generating the key, you will see two types of keys:
 ### **Step 11: Download or Regenrate API Key**  
 
 You’ll also see an option to **Download** the keys. Download the keys immediately as the Secret API Key is visible only once.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/genAPIstep10.png)
 
 
 
