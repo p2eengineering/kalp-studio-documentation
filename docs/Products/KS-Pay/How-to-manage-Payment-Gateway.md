@@ -114,7 +114,7 @@ The KS Pay Dashboard will appear.
 3.  Rearrange payment modes if needed to prioritize certain options.
     
 
-## Specific Configuration for Razorpay
+## **Specific Configuration for Razorpay**
 
 When configuring Razorpay on KS Pay:
 
@@ -125,7 +125,7 @@ When configuring Razorpay on KS Pay:
 3.  Set up webhooks to ensure real-time communication between Razorpay and KS Pay for payment status updates.
     
 
-## Specific Configuration for Cashfree
+## **Specific Configuration for Cashfree**
 
 For Cashfree integration on KS Pay:
 

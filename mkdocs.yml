@@ -213,7 +213,8 @@ nav:
             - How to register your app on KS Pay: 'Products/KS-Pay/How-to-register-your-app-on-KS-Pay.md'
             - How to add a company on KS Pay: 'Products/KS-Pay/How-to-add-a-company-on-KS-Pay.md'
             - How to generate API Key on KS Pay: 'Products/KS-Pay/How-to-generate-API-Key.md'
-            
+            - How to add a domain on KS Pay: 'Products/KS-Pay/How-to-add-a-domain.md'
+            - How to add payment gateway on KS Pay: 'Products/KS-Pay/How-to-add-payment-gateway-on-KS-Pay.md'
       
       - Kalp-Wallet-Extension:
             - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'

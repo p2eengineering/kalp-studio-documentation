@@ -59,21 +59,21 @@ You will be directed to the Register an App page. Here, fill in the following de
 
 Upload your app logo (Optional): Allows optional upload of a logo image (JPG, JPEG, PNG, max 100KB).
 
-*App Name*: Mandatory name of the application.
+**App Name**: Mandatory name of the application.
 
-*Email*: Mandatory email address for contact.
+**Email**: Mandatory email address for contact.
 
-*Address*: Mandatory address selection for the application.
+**Address**: Mandatory address selection for the application.
 
-*Phone Number (Optional)*: Optional phone number including the country code.
+**Phone Number (Optional)**: Optional phone number including the country code.
 
-*Country*: Mandatory country selection for the application.
+**Country**: Mandatory country selection for the application.
 
-*State (Optional)*: Optional state selection for the application.
+**State (Optional)**: Optional state selection for the application.
 
-*City (Optional)*: Optional city for the application.
+**City (Optional)**: Optional city for the application.
 
-*Zip Code/Postal Code*: Mandatory zip/postal code for the application.
+**Zip Code/Postal Code**: Mandatory zip/postal code for the application.
 
 Cancel: Cancels the registration process.
 

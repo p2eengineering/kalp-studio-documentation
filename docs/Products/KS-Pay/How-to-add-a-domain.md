@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to add a domain?
+# How to add a domain on KS Pay?
 
 Accessing and configuring a domain for your app on KS Pay is a straightforward process that enhances your app's functionality and brand identity. This guide will walk you through each step, from accessing the KS Pay dashboard to adding and verifying your custom domain. By following these simple instructions, you’ll have your app linked to a personalized domain, ensuring seamless integration with KS Pay’s services and improving your app's professional appearance.
 
