@@ -9,7 +9,7 @@ Kalp Studio’s Embedded Wallet module lets you add a customizable, user-friendl
 ### **Step 1: Sign in to Kalp Studio**
 1.  Go to [Kalp Studio Login](https://accounts.kalp.studio/login).  
 2.  Enter your credentials and click **Log In**.    
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc1.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin.jpg)
 
 Once you've entered your email and password, click the "Sign In" button as annotated in the above screenshot. This will initiate the login process.
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin)

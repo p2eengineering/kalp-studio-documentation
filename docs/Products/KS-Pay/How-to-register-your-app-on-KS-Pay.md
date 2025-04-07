@@ -31,16 +31,8 @@ Registering your app on KS Pay is simple and will help you integrate your applic
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg2.png)
 
-### **Step 3: Access KS Pay**
 
-1.  Click on “**Explore KS Pay**”
-    
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg3.png)
-
-The KS Pay Dashboard will appear.  
-
-## **Step 4: Accessing KS Pay from Kalp Studio Dashboard**
+## **Step 3: Accessing KS Pay from Kalp Studio Dashboard**
 
 - Once logged in to your Kalp Studio account, navigate to the Dashboard.
 
@@ -51,7 +43,7 @@ The KS Pay Dashboard will appear.
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
 
 
-## **Step 5: Access the App Registration Page**
+## **Step 4: Access the App Registration Page**
 
 - If you haven’t registered any apps yet, the page will display a prompt saying, "You have not registered any Application yet", as highlighted in the screenshot.
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/register-app-step-5.jpg)
@@ -60,7 +52,7 @@ The KS Pay Dashboard will appear.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc3.png)
 
-## **Step 6: Fill in App Registration Details**
+## **Step 5: Fill in App Registration Details**
 
 You will be directed to the Register an App page with the details to fill, as shown in the screenshot below:
 
@@ -87,12 +79,12 @@ Here, fill in the following details:
 - **Zip Code/Postal Code**: Mandatory zip/postal code for the application.
 
 
-## **Step 7: Submit the App Registration**
+## **Step 6: Submit the App Registration**
 After entering all the required information, click on the "Add App" button to register your app.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc5.png)
 
-> Click on cancel buttonto discontinue the registration process.
+> Click on cancel button to discontinue the registration process.
 
  
 

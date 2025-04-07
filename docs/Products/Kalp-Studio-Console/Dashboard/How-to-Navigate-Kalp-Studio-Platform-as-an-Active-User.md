@@ -10,7 +10,7 @@ Kalp Studio is an all-in-one platform built to simplify blockchain and decentral
 
 ### **Dashboard Overview**
 
-Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot. The key components of the Dashboard include:
+Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the below screenshot. The key components of the Dashboard include:
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
 
@@ -75,28 +75,8 @@ Kalp Studio offers a variety of powerful tools to enhance your blockchain develo
 
 ### **Accessing Your Kalp Apps**
 
-In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of your subscribed Kalp apps. Since you're a new user, no application is displayed. 
-
-### **Connecting Your Wallet**
-
-#### Locate the "Connect Wallet" Button
-
-On your Kalp Studio Dashboard, find the "Connect Wallet" button. This button will allow you to link your wallet to Kalp Studio.
-
+In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of your subscribed Kalp apps. Since you're a new user, no application is displayed.
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/newuser.jpg)
-
-#### Choose Your Wallet Type
-
-After clicking "Connect Wallet", a pop-up will appear. From here, choose the wallet you want to connect. You can either link your Kalp Wallet or another supported wallet.
-
-
-#### Confirm Wallet Connection
-
-Once you've selected your wallet, follow the prompts on your device from which you have scanned the QR to complete the connection as shown in the screenshot below. 
-
-### Wallet Management
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/13.png)
 
 
 ### **Conclusion**

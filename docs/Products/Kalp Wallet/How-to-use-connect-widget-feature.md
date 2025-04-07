@@ -17,7 +17,7 @@ KS Wallet Console lets you easily manage and customize your wallet connection. T
 
 4.  **Click the "Sign In" Button:** Once you've entered your email and password, click the "Sign In" button as annotated in the below screenshot. This will initiate the login process.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin.jpg)
 
 
     

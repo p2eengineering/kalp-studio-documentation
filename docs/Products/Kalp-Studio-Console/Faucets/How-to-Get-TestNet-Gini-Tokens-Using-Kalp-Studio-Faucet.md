@@ -1,7 +1,7 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Get TestNet Gini Tokens Using Kalp Studio Faucet
+# **How to Get TestNet Gini Tokens Using Kalp Studio Faucet**
 
 ## **Introduction**
 
@@ -13,13 +13,11 @@ Follow these simple steps to receive 1 free Gini token in your Kalp wallet using
 
 **Login to Kalp Studio**  
 1. Go to the [Kalp Studio Login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
-
 2. If you don’t have an account, you’ll need to [sign up](https://accounts.kalp.studio/sign-up) first.
     
 **Navigate to the Faucet Section**
 
 Once you’ve logged in, look at the left-hand menu of your dashboard (as shown in the screenshot below). You will see several options, including Dashboard, Billing, Credits, Docs, Wallet, and Faucet. Click on Faucet to proceed to the faucet page.
-
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Faucet/f1.jpg)
     
 **Connect Your Wallet**

@@ -73,31 +73,15 @@ Kalp Studio offers a variety of powerful tools to enhance your blockchain develo
 
 > In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of your subscribed Kalp apps.
 
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/9.png)
+
+
 ### **Subscription Expiration**
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/5.png)
 
 
 The Kalp Studio console dashboard has been enhanced to notify users about subscription expirations for individual products. A clear message, "Subscription expired. Renew to continue," is displayed along with a "Renew" button, enabling users to promptly renew their subscriptions and maintain uninterrupted access to the services.
-  
-
-### **Connecting Your Wallet**
-
-#### 1. Locate the "Connect Wallet" Button
-
-On your Kalp Studio Dashboard, find the "Connect Wallet" button. This button will allow you to link your wallet to Kalp Studio.
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/9.png)
-
-#### 2. Choose Your Wallet Type
-
-After clicking "Connect Wallet", a pop-up will appear. From here, choose the wallet you want to connect. You can either link your Kalp Wallet or another supported wallet.
-
-In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of available Kalp apps.
-
-### Confirm Wallet Connection
-
-Once you've selected your wallet, follow the prompts on your device from which you have scanned the QR to complete the connection as shown in the screenshot below. 
 
 
 ### Conclusion
