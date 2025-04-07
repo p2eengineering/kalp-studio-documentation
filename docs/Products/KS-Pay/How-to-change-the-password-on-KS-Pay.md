@@ -2,11 +2,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to change Password on KS Pay?
+# **How to change Password on KS Pay?**
 
 Changing your password on KS Pay is an important step in maintaining the security of your account. Whether you want to update your password regularly for security reasons or you've forgotten your current one, this guide will walk you through the simple process of resetting it.
 
-### Step 1: Log In to Kalp Studio
+### **Step 1: Log In to Kalp Studio**
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc1.jpg)
 
@@ -17,19 +17,19 @@ Changing your password on KS Pay is an important step in maintaining the securit
 - Select KS Pay from the provided applications, and click on "Explore Now"
     
 
-### Step 2: Go to the Main Dashboard
+### **Step 2: Go to the Main Dashboard**
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc3.jpg)
 
 -   Once logged in, you will see the main dashboard displaying a list of apps registered under your account. This dashboard includes information such as App ID, App Name, Email, Country, and options to enable or disable apps. The profile icon will be located at the top-right corner of the page.
 
-### Step 3: Access Your Profile
+### **Step 3: Access Your Profile**
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/KSPAY+pswdchange/pc4.jpg)
 
 Click on your profile icon at the top-right corner of the dashboard. A dropdown menu will appear with options like ‘My Profile', 'My Company’, 'My Apps', and 'Logout, as highlighted in the screenshot below.
 
-### Step 4: Access Password Settings
+### **Step 4: Access Password Settings**
 
 - Under the 'Settings' section, look for the 'Password Settings' tab, as highlighted in the screenshot below, and click on it
 
@@ -53,11 +53,11 @@ Once you've filled in all fields, click on the 'Update Password' button, as high
 
 
 
-### Step 5: Update Password
+### **Step 5: Update Password**
 
 -   Once you've filled in all fields, click on the **Update Password** button.
 
-### Step 6: Confirmation Dialog
+### **Step 6: Confirmation Dialog**
 
 - A confirmation dialog will appear, informing you that changing your password will log you out of all devices.
 

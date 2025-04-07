@@ -83,7 +83,7 @@ In the upper-right corner, there is an "Apps" icon that, when clicked, displays 
 
 On your Kalp Studio Dashboard, find the "Connect Wallet" button. This button will allow you to link your wallet to Kalp Studio.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/newuser.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/newuser.jpg)
 
 #### Choose Your Wallet Type
 

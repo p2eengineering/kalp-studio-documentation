@@ -24,7 +24,7 @@ Once you’ve logged in, look at the left-hand menu of your dashboard (as shown 
     
 **Connect Your Wallet**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/faucetconnectwallet.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/faucetconnectwallet.jpg)
 
 Before receiving any tokens, you need to connect your wallet. Click on the Connect Wallet button, which can be found at the top-right corner of the page, as shown in the above screenshot. Follow the prompts to connect a wallet compatible with the Kalp DLT chain. Ensure that your wallet is set up to handle testnet tokens (if you're unsure, refer to the documentation or support resources for more details).
     

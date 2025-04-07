@@ -2,11 +2,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to add a company on KS Pay?
+# **How to add a company on KS Pay**?
 
 KS Pay offers a streamlined solution for businesses looking to manage their payments and financial transactions. For a seamless experience, the first step involves adding your company profile to the platform. This guide will walk you through each stage of the registration process from account creation to filling out your company details ensuring you have everything set up correctly to start using KS Pay’s features.
 
-## Step 1: Access the KS Pay Login Page
+## **Step 1: Access the KS Pay Login Page**
 
 - Open your browser and go to the [Kalp Studio login](https://accounts.kalp.studio/login) page.
 
@@ -14,7 +14,7 @@ KS Pay offers a streamlined solution for businesses looking to manage their paym
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc1.png)
 
-## Step 2: Enter Your Login Credentials
+## **Step 2: Enter Your Login Credentials**
 
 Type your registered email address into the "Enter Your Email" field.
 
@@ -33,11 +33,11 @@ If you have forgotten your password, click on "Forgot Password?" to initiate a p
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc2.png)
 
-## Step 3: Click on the "Sign In" Button
+## **Step 3: Click on the "Sign In" Button**
 
 After entering your credentials, click on the "Sign In" button, as highlighted in the screenshot, to proceed to the Kalp Studio platform.
 
-### Step 4: Accessing KS Pay from Kalp Studio Dashboard:
+### **Step 4: Accessing KS Pay from Kalp Studio Dashboard**
 
 - Once logged in to your Kalp Studio account, navigate to the Dashboard.
 
@@ -45,7 +45,7 @@ After entering your credentials, click on the "Sign In" button, as highlighted i
 
 - Here, you'll have direct access to all KS Pay features without the need for additional login steps.
 
-### Step 5: Registration Screen**
+### **Step 5: Registration Screen**
 
 A company registration screen will appear, as shown in the screenshot below. 
 
@@ -68,14 +68,14 @@ A company registration screen will appear, as shown in the screenshot below.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac4.png)
 
-### Step 6: Access the Company Profile Section
+### **Step 6: Access the Company Profile Section**
 
 1.  After verification, log in to KS Pay and navigate to the **Company Profile** section.
     
 2.  You’ll be presented with a form to add your company's information.
     
 
-### Step 7: Enter Company Details
+### **Step 7: Enter Company Details**
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac5.png)
 
@@ -96,7 +96,7 @@ Fill out the following fields to complete the company profile setup:
 -   **Zip Code:** This field represents the zip code for the company. This field is mandatory.
 
 
-### Step 8: Submit the Company Profile
+### **Step 8: Submit the Company Profile**
 
 1.  Double-check all information entered to ensure accuracy.
     

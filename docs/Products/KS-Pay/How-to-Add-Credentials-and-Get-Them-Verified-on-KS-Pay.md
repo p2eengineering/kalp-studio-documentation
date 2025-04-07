@@ -2,8 +2,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Add Credentials and Get Them Verified on KS Pay?
-
+# **How to Add Credentials and Get Them Verified on KS Pay?**
+**
 Integrating a payment gateway with KS Pay requires setting up credentials and verifying them, enabling secure transaction processing for your platform. Follow this step-by-step guide to add and verify credentials on KS Pay.
 
 ### **Step 1: Add a Payment Gateway**
@@ -20,8 +20,6 @@ Integrating a payment gateway with KS Pay requires setting up credentials and ve
     
 
 ### **Step 2: Enter Gateway Credentials**
-
-
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac2.png)
 
 **Retrieve Credentials**: Get your **Client ID** and **Client Secret** from the respective payment gateway's dashboard:
@@ -65,8 +63,6 @@ Integrating a payment gateway with KS Pay requires setting up credentials and ve
 This step ensures that Razorpay can communicate with KS Pay, updating you about specific payment events automatically.
 
 ### **Step 4: NPM Integration**
-
-Open image-20241015-061937.png
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac6.png)
 

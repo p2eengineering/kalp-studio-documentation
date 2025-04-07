@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Integrate NPM on KS Pay?
+# **How to Integrate NPM on KS Pay?**
 
 Build a secure and compliant payment infrastructure for your applications by integrating the KS-PAY Payment Package via NPM. This article provides a detailed and professional guide to the integration process, ensuring adherence to best practices and minimizing development time.
 
@@ -108,8 +108,6 @@ Once you have the prerequisites in place, follow these steps to install the KS-P
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm11.png)
 
 1.  Open your terminal and navigate to your React project directory.
-    
-
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm12.png)
 
 2.  Run the following command to install the KS-PAY package:

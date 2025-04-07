@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to add Payment Gateway on KS Pay?
+# **How to add Payment Gateway on KS Pay?**
 
 Integrating a payment gateway is a crucial step in enabling your application to process transactions. This article will guide you through the process of adding a payment gateway on KS Pay, step-by-step.
 
