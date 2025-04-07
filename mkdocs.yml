@@ -193,7 +193,7 @@ nav:
           - Transaction monitoring:
             - How can I monitor all my transactions: 'Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
           - Faucets:
-            - How to Get TestNet Gini Using Kalp Studio Faucet: 'Products/Kalp-Studio-Console/Faucets/Faucets-Get-TestNet-Gini.md'
+            - How to get testnest gini tokens using kalp studio faucet: 'Products/Kalp-Studio-Console/Faucets/How-to-get-testnest-gini-tokens-using-kalp-studio-faucet.md'
           - Kalp Wallet:
             - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
             - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'
