@@ -172,7 +172,7 @@ nav:
               - How to Change your Kalp Studio Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-Kalp-Studio-Password.md'
           - Dashboard:
             - How to Navigate Kalp Studio Platform as an Active User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-an-Active-User.md'
-            - How to Navigate Kalp Studio Dashboard as an Existing User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Existing-User.md'
+            - How to Navigate Kalp Studio Dashboard as an New User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-an-New-User.md'
           - Billing:
             - How does a new user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-new-user-access-billing.md'
             - How does a subscribed user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-subscribed-user-access-billing.md'
@@ -193,7 +193,7 @@ nav:
           - Transaction monitoring:
             - How can I monitor all my transactions: 'Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions.md'
           - Faucets:
-            - How to get testnest gini tokens using kalp studio faucet: 'Products/Kalp-Studio-Console/Faucets/How-to-get-testnest-gini-tokens-using-kalp-studio-faucet.md'
+            - How to Get TestNest Gini Tokens Using Kalp Studio Faucet: 'Products/Kalp-Studio-Console/Faucets/How-to-Get-TestNet-Gini-Tokens-Using-Kalp-Studio-Faucet.md'
           - Kalp Wallet:
             - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
             - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'

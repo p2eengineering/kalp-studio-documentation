@@ -32,15 +32,7 @@ Generating an API Key is a crucial step for enabling secure access to platform s
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg2.png)
     
 
-### **Step 3: Access the App Registration Page**
-
--   Once logged in, you will be taken to your dashboard. If you haven’t registered any apps yet, the page will display a prompt saying, **"You have not registered any Application yet"**.
-    
--   Click on the **"Add App"** button to start the app registration process.
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga5.png)
-
-## **Step 4: Accessing KS Pay from Kalp Studio Dashboard**
+## **Step 3: Accessing KS Pay from Kalp Studio Dashboard**
 
 - Once logged in to your Kalp Studio account, navigate to the Dashboard.
 
@@ -49,6 +41,15 @@ Generating an API Key is a crucial step for enabling secure access to platform s
 - Here, you'll have direct access to all KS Pay features without the need for additional login steps.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
+
+### **Step 4: Access the App Registration Page**
+
+-   Once logged in, you will be taken to your dashboard. If you haven’t registered any apps yet, the page will display a prompt saying, **"You have not registered any Application yet"**.
+    
+-   Click on the **"Add App"** button to start the app registration process.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga5.png)
+
 
 ### **Step 5: Fill in App Registration Details**
 
@@ -75,7 +76,6 @@ Here, fill in the following details:
 -   **City (Optional):** Optional city for the application.
     
 -   **Zip Code/Postal Code***: Mandatory zip/postal code for the application.
-
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga6.png)
     
