@@ -4,26 +4,7 @@
 
 # **How to Configure Webhook on KS Pay?**
 
-## Webhook Configuration for KS Pay Integration
-
 Webhooks are a crucial component in integrating KS Pay with external payment gateways, such as Razorpay. They facilitate real-time communication between systems, ensuring immediate updates on key events like successful payments, failed transactions, and disputes. This comprehensive guide outlines the process of configuring webhooks to enable seamless communication between KS Pay and your chosen payment gateway.
-
-## Understanding Webhooks
-
-A webhook is an automated HTTP POST request triggered by specific events in one system and sent to a predefined URL in another system. It functions as a notification service, allowing your application to receive push notifications from external services when relevant events occur, eliminating the need for constant polling.
-
-## Importance of Webhook Configuration
-
-Proper webhook configuration is essential for several reasons:
-
-1.  **Real-time Updates**: Receive instant notifications about payment events, enabling immediate updates to your application's state and user experience.
-    
-2.  **Automated Workflows**: Trigger automated processes based on payment status, such as updating order status, sending confirmation emails, or initiating refund procedures.
-    
-3.  **Reliable Integration**: Ensure a robust connection between KS Pay and your payment gateway, minimizing the risk of missed events or data inconsistencies.
-    
-
-## 1. Step-by-Step Webhook Configuration Guide
 
 ### **Step 1: Accessing the Applications Section in Kalp Studio**
 
@@ -58,41 +39,34 @@ Proper webhook configuration is essential for several reasons:
 -   Locate the app for which you want to view transactions.
     
 
-### **Step 4: Open the App Overview**
+### **Step 3: Open the App Overview**
 
 1.  Click on the app name from the list to open the **App Overview**.
     
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh6.png)
     
 
-### **Step 5: Navigate to the Settings Tab**
+### **Step 4: Navigate to the Settings Tab**
 
 On the left sidebar, click on **Settings**.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh7.png)
 
-### **Step 6: Accessing Webhook Configuration in KS Pay**
+### **Step 5: Accessing Webhook Configuration in KS Pay**
 
-1.  Select the specific App ID for configuration
-    
-
+1. Navigate to "Settings" > "Payment Gateway Settings"
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh8.png)
 
-2.  Navigate to "Settings" > "Payment Gateway Settings"
+2. Access the configuration for your payment gateway (e.g., Razorpay)
     
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh9.png)
 
-3.  Access the configuration for your payment gateway (e.g., Razorpay)
-    
+### **Step 6: Obtain Webhook URL and Secret from KS Pay**
 
-## **2. Configuring Webhook in Your Payment Gateway (Razorpay)**
-
-### **Step 1: Obtain Webhook URL and Secret from KS Pay**
 
 Within the "Webhook" configuration step, you will find two critical pieces of information:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh10.png)
 
 -   **URL**: The unique endpoint provided by KS Pay for receiving webhook notifications
     
@@ -101,22 +75,15 @@ Within the "Webhook" configuration step, you will find two critical pieces of in
 
 Carefully copy both the URL and the SECRET for use in the next step.
 
-### **Step 2: Configure the Webhook in Your Payment Gateway**
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh11.png)
-
-The test Key ID in Razorpay is a security credential used for authenticating API requests in the test environment. It is part of a pair of credentials, along with the API Key (also known as Key Secret), that allows developers to test their integration with Razorpay's payment gateway without processing real transactions
-
-It is used specifically for testing and development purposes, allowing users to simulate payment flows without affecting real accounts or transactions
+### **Step 7: Configure the Webhook in Your Payment Gateway (Razopay)**
 
 -   Log in to your Razorpay dashboard.
+
+
     
--   Navigate to the webhook settings. This is typically located within the "Settings" or "Developers" section of your Razorpay account.
+-   Navigate to the Developer Section settings.
     
 -   Create a new webhook configuration or edit an existing one.
-    
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh12.png)
 
 **Enter the Webhook URL:** Paste the Webhook URL copied from KS Pay into the designated "Webhook URL" field within your payment gateway's settings.
 
@@ -126,20 +93,16 @@ It is used specifically for testing and development purposes, allowing users to 
 
 **Select Active Events:** Choose the specific events for which you want to receive webhook notifications.
 
-**Testing Your Webhook Configuration:**
-
--   After configuring the webhook in your payment gateway, it's essential to verify that it's working correctly.
-    
-
-## **3. Testing Your Webhook Configuration**
-
-After configuring the webhook in your payment gateway, it is crucial to verify its functionality through thorough testing.
-
-## **4. Finalizing Configuration in KS Pay**
-
--   After successfully configuring the webhook within your payment gateway and verifying that it's working, return to the KS Pay interface.
-    
+Click on **Create webhook** button. After the successful creation, the webhook will be automatically saved. 
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh14.png)
+
+
+### **Step 8: Finalizing Configuration in KS Pay**
+
+After  successfully configuring the webhook within your payment gateway and verifying that it's working, return to the KS Pay interface.
+    
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh15.png)
 
 -   Click the "**Mark as done**" button. This signals to KS Pay that the webhook integration step is complete.
