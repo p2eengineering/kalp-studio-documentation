@@ -25,10 +25,10 @@ spec:
           resources:
             requests:
               memory: '500Mi'
-              cpu: '250m'
+              cpu: '125m'
             limits:
               memory: '500Mi'
-              cpu: '250m'
+              cpu: '125m'
           # readinessProbe:
           #     httpGet:
           #       path: /health-check
