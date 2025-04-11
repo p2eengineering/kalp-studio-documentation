@@ -79,42 +79,60 @@ Before beginning the integration process, ensure you have the following prerequi
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm5.png)
 
--   Locate the app for which you want to view transactions.
+- Locate the app for which you want to view transactions. 
+
+- Click on the app name from the list to open the **App Overview**.
+    
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh6.png)
     
 
-## **Adding a Payment Gateway**
+### **Step 4: Navigate to the Settings Tab**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm6.png)
+On the left sidebar, click on **Settings**.
 
-1.  Click on the "+ Add Gateway" button.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh7.png)
     
 
-For Step 1 (Credentials): Refer [How to add Razorpay payment gateway and setup rules for payment orchestration on KS Pay. - Payment Engine - Confluence](https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410878000 "https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410878000")
+### **Step 5: Adding a Payment Gateway**
+
+
+
+1.  Click on the "+ Add Gateway" button, as highlighted in the screenshot below.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm6.png) 
+
+For adding credentials: Refer [How to add Razorpay payment gateway and setup rules for payment orchestration on KS Pay. - Payment Engine - Confluence](https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410878000 "https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410878000")
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm7.png)
 
-For Step 2 (Webhook): Refer [How to Configure Webhook on KS Pay](https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410681353/How+to+Configure+Webhook+on+KS+Pay?atl_f=PAGETREE)
+For Configuring Webhook: Refer [How to Configure Webhook on KS Pay](https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410681353/How+to+Configure+Webhook+on+KS+Pay?atl_f=PAGETREE)
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm8.png)
 
-## **Installation**
+### **Step 6: NPM Installation**
 
 Once you have the prerequisites in place, follow these steps to install the KS-PAY package:
 
+1. Click on KS-PAYMENT PACKAGE, as shown in the below screenshot.
+
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm9.png)
 
+2. You will be redirected to NPM portal.
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm10.png)
+
+3. Copy the installation link, as shown in the screenshot below.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm11.png)
 
-1.  Open your terminal and navigate to your React project directory.
+4.  Open your terminal and navigate to your React project directory.
+
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm12.png)
 
-2.  Run the following command to install the KS-PAY package:
+5.  Run the following command to install the KS-PAY package:
     
     `npm i ks-pay-package-pvt`
     
-3.  This command will download and install the KS-PAY package and its dependencies into your project.
+6.  This command will download and install the KS-PAY package and its dependencies into your project.
     
 
 ## **Usage**
@@ -126,17 +144,17 @@ To implement the KS-PAY payment gateway in your React application:
 
 `javascript import Gateways from "ks-pay-package-pvt";`
 
-2.  Set up the necessary state and configuration:
+2.  Set up the necessary state and configuration. An example has been provided below.
     
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm13.png)
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm14.png)
 
--   **Example Configuration:** Adapt the configuration based on the package documentation and your specific payment requirements. You'll need to provide your API keys, callback URLs, and any other required parameters.
+> **Example Configuration:** Adapt the configuration based on the package documentation and your specific payment requirements. You'll need to provide your API keys, callback URLs, and any other required parameters.
     
 
-## **Complete Integration**
+## **Step 7: Complete Integration**
 
 1.  Mark as done after installing the package.
     
@@ -148,7 +166,7 @@ If the NPM integration is unsuccessful, reattempt the integration process.
 2.  Move to the next Security section.
     
 
-## Testing
+## **Step 8: Testing**
 
 1.  **Sandbox Environment:** KS-PAY should provide a sandbox/testing environment. Configure your integration to use the sandbox environment for testing purposes. This environment simulates real transactions without actually charging any accounts.
     

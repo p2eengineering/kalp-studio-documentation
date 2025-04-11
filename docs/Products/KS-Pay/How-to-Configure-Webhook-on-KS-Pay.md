@@ -37,22 +37,19 @@ Webhooks are a crucial component in integrating KS Pay with external payment gat
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh5.png)
 
 -   Locate the app for which you want to view transactions.
-    
 
-### **Step 3: Open the App Overview**
-
-1.  Click on the app name from the list to open the **App Overview**.
+- Click on the app name from the list to open the **App Overview**.
     
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh6.png)
     
 
-### **Step 4: Navigate to the Settings Tab**
+### **Step 3: Navigate to the Settings Tab**
 
 On the left sidebar, click on **Settings**.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh7.png)
 
-### **Step 5: Accessing Webhook Configuration in KS Pay**
+### **Step 4: Accessing Webhook Configuration in KS Pay**
 
 1. Navigate to "Settings" > "Payment Gateway Settings"
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh8.png)
@@ -62,7 +59,7 @@ On the left sidebar, click on **Settings**.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh9.png)
 
-### **Step 6: Obtain Webhook URL and Secret from KS Pay**
+### **Step 5: Obtain Webhook URL and Secret from KS Pay**
 
 
 Within the "Webhook" configuration step, you will find two critical pieces of information:
@@ -75,7 +72,7 @@ Within the "Webhook" configuration step, you will find two critical pieces of in
 
 Carefully copy both the URL and the SECRET for use in the next step.
 
-### **Step 7: Configure the Webhook in Your Payment Gateway (Razopay)**
+### **Step 6: Configure the Webhook in Your Payment Gateway (Razopay)**
 
 -   Log in to your Razorpay dashboard.
 
@@ -98,7 +95,7 @@ Click on **Create webhook** button. After the successful creation, the webhook w
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh14.png)
 
 
-### **Step 8: Finalizing Configuration in KS Pay**
+### **Step 7: Finalizing Configuration in KS Pay**
 
 After  successfully configuring the webhook within your payment gateway and verifying that it's working, return to the KS Pay interface.
     
