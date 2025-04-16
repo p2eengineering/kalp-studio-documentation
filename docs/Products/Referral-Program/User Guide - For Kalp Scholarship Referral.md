@@ -3,7 +3,7 @@
 
 # **User Guide: For Kalp Studio Scholarship Referral**
 
-Kalp Studio Scholarship Referrals offer users a chance to earn **₹100 cashback** for every successful referral. To participate, users simply need to share their unique referral code with individuals interested in scholarship opportunities. When someone registers for a scholarship using the shared code, the referrer becomes eligible to receive the cashback reward."
+Kalp Studio Scholarship Referrals offer users a chance to earn **₹100 cashback** for every successful referral. To participate, users simply need to share their unique referral code with individuals interested in scholarship opportunities. When someone registers for a scholarship using the shared code, the referrer becomes eligible to receive the cashback reward.
 
 ### **Step 1: Logging into Your Kalp Studio Account**
 
