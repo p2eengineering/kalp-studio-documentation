@@ -35,13 +35,13 @@ KS Pay offers a streamlined solution for businesses looking to manage their paym
 ### **Step 3: Access the Company Profile Section**
 
 You'll be directed to KS Pay Dashboard where you can add your company details, as shown in the screenshot below. 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac5.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompcomp.jpg)
     
     
 
 ### **Step 4: Enter Company Details**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Add+Comp/ac5.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompdetail.jpg)
 
 Fill out the following fields to complete the company profile setup:
 
@@ -65,6 +65,8 @@ Fill out the following fields to complete the company profile setup:
 1.  Double-check all information entered to ensure accuracy.
     
 2.  Click **"Submit"** to save your company's profile.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompsubmit.jpg)
     
 3.  Upon submission, your company details will be saved in KS Pay.
 
@@ -75,7 +77,7 @@ Fill out the following fields to complete the company profile setup:
 
 2. Locate Company section from the given details, as shown in the screenshot below.
 
-3. Your company details will be displayed, as shown in the screenshot below.
+3. Your company details will be displayed.
     
 
 Adding your company to KS Pay is a straightforward process that sets the foundation for utilizing its payment management tools effectively. By completing your company profile, you gain access to essential features tailored to your business needs, allowing for efficient transactions and enhanced financial control. Follow these steps, and you’ll be ready to make the most of what KS Pay has to offer.
