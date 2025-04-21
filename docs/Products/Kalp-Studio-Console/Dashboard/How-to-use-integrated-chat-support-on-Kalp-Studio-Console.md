@@ -6,31 +6,29 @@
 
 Kalp Studio provides an integrated chat support feature to assist users with any queries or technical issues. Whether you need help deploying smart contracts, troubleshooting errors, or exploring features, the support team is just a few clicks away. This guide will walk you through the steps to access and use the chat support feature effectively.
 
----
 
 #### **Step 1: Access the Dashboard**
 1. [Log in](https://accounts.kalp.studio/login) to your Kalp Studio account.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
+
 2. Once logged in, you will see the main dashboard. This is your starting point for accessing all features, including support.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
+
+
 
 #### **Step 2: Locate the Chat Support Icon**
 1. In the bottom-right corner of the dashboard, you’ll see a chat icon (a speech bubble). Refer to the screenshot below that highlights the chat icon location.
 2. Click on the icon to open the support chat window.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+1.png)
+IMGcs1
 
-
----
 
 #### **Step 3: Open the Chat Window**
-1. Click the chat icon (a speech bubble) located in the bottom-right corner of the dashboard. A small window will pop up titled "Kalp Studio" on the right side of your screen. This is where you can interact with our support team.
+1. Click the chat icon (a speech bubble) located in the bottom-right corner of the dashboard. A small window will pop up. This is where you can interact with our support team.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Chat/New+2.png)
+IMg cs2
 
-> If support is **offline**, the window will display a message like:  
-> *"We are not available right now. Please leave us a voice mail or a message. We'll get back as soon as possible."*
 
----
 
 #### **Step 4: Leave a Message**
 1. Click the **"Leave a message"** option in the chat window.

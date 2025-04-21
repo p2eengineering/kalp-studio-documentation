@@ -130,14 +130,14 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Introduction: 
-          - Kalp Studio Overview: 'Introduction/Kalp-studio-overview.md'
-          - Kalp Studio Ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
-          - Kalp Instant Deployer: 'Introduction/Kalp-instant-deployer.md'
-          - Kalp Wallet: 'Introduction/Kalp-wallet.md'
-          - Kalp DLT: 'Introduction/Kalp-DLT.md'
+
   - Products:
-      - Kalp-Studio-Console:
+        - Kalp Studio Overview: 'Introduction/Kalp-studio-overview.md'
+        - Kalp Studio Ecosystem: 'Introduction/Kalp-studio-ecosystem.md'
+        - Kalp Instant Deployer: 'Introduction/Kalp-instant-deployer.md'
+        - Kalp Wallet: 'Introduction/Kalp-wallet.md'
+        - Kalp DLT: 'Introduction/Kalp-DLT.md'
+        - Kalp-Studio-Console:
           - Kalp-Studio-Storage:
             - How to get started with kalp storage: 'Products/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
             - FAQ: 'Products/Kalp-Studio-Storage/FAQ.md'
@@ -202,7 +202,7 @@ nav:
             - How can I monitor all my transactions: 'Products/Kalp Wallet/How-can-I-monitor-all-my-transactions.md'
             - How to use embedded wallet configuration: 'Products/Kalp Wallet/How-to-Use-Embedded-Wallet-Configuration.md'
 
-      - KS Pay:
+          - KS Pay:
             - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md'
             - How to change the password on KS Pay: 'Products/KS-Pay/How-to-change-the-password-on-KS-Pay.md'
             - How to configure webhook on KS Pay: 'Products/KS-Pay/How-to-Configure-Webhook-on-KS-Pay.md'
@@ -215,7 +215,7 @@ nav:
             - How to generate API Key on KS Pay: 'Products/KS-Pay/How-to-generate-API-Key.md'
             - How to add a domain on KS Pay: 'Products/KS-Pay/How-to-add-a-domain.md'
       
-      - Kalp-Wallet-Extension:
+        - Kalp-Wallet-Extension:
             - How to add user to addresslist: 'Products/Kalp-Wallet-Extension/How-to-add-user-to-addresslist.md'
             - How to change Password: 'Products/Kalp-Wallet-Extension/How-to-change-password.md'
             - How to connect Dapp: 'Products/Kalp-Wallet-Extension/How-to-connect-Dapp.md'
@@ -226,7 +226,7 @@ nav:
             - How to see transactions: 'Products/Kalp-Wallet-Extension/How-to-see-transactions.md'
             - How to send Token: 'Products/Kalp-Wallet-Extension/How-to-send-token.md'
             - How to view seedphrase: 'Products/Kalp-Wallet-Extension/How-to-view-seedphrase.md'
-      - Kalp-Wallet-Mobile:
+        - Kalp-Wallet-Mobile:
             - Create a new wallet: 'Products/Kalp-Wallet-Mobile/Create-a-new-wallet.md'
             - How can I view seed phrase: 'Products/Kalp-Wallet-Mobile/How-can-I-view-Seed-Phrase.md'
             - How to add users to the address list: 'Products/Kalp-Wallet-Mobile/How-to-add-users-to-the-address-list.md'
@@ -237,7 +237,7 @@ nav:
             - How to reset wallet: 'Products/Kalp-Wallet-Mobile/How-to-reset-wallet.md'
             - How to search a token on wallet applications: 'Products/Kalp-Wallet-Mobile/How-to-search-a-token-on-Wallet-Application.md'
             - How to send tokens from kalp wallet: 'Products/Kalp-Wallet-Mobile/How-to-send-tokens-from-Kalp-Wallet.md'
-      - Referral Program:
+        - Referral Program:
             - Kalp Studio Referral Program: 'Products/Referral-Program/User Guide - For Kalp Studio Referral Program.md'
             - Kalp Studio Scholarship Referral: 'Products/Referral-Program/User Guide - For Kalp Scholarship Referral.md'
   - Dev Documentation:
