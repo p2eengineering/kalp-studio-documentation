@@ -8,14 +8,42 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 ## Step-by-Step Guide
 
-### Create New Wallet
+### **Step 1: Sign in to Kalp Studio**
+
+1.  Go to [Kalp Studio Login](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login").
+    
+2.  Enter your credentials and click Log In.
+    
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin.jpg)
+
+Once you’ve entered your email and password, click the “Sign In” button as annotated in the above screenshot. This will initiate the login process.
+
+Preview unavailable
+
+### **Step 2: Access KS Wallet**
+
+1.  **Product Page:** After Successfully Sign-In you will find a product page. In this page you will see different applications like SMS, Kalp Instant Deployer, Email, KS Storage, KS Wallet, KS Query, NFT Creator, Token Studio, API Gateway.
+    
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
+
+2.  **Select KS Wallet:** Spot the KS Wallet option in the Our Products section on the dashboard, as highlighted in the screenshot below, and click on the Get Started button.
+    
+
+> If you have not yet subscribed to KS Wallet, you can do it to experience a seamless experience
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc3.png)
+
+### **Step 3: Create New Wallet**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw1.png)
 
 **Initiate Wallet Creation**: Click on the "+ Connect New Wallet" button. This will open the wallet creation interface.
 
--   When the user clicks on the "Connect New Wallet" button in the top navigation or within the wallet module, a pop-up will appear for connecting the wallet. The user then selects the "Create New Wallet" option.
-    
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw2.png)
 
-#### Choose Wallet Type
+### **Step 4: Choose Wallet Type**
 
 If you select “Create New Wallet”, you get to choose wallet type.
 
@@ -28,20 +56,31 @@ If you select “Create New Wallet”, you get to choose wallet type.
 -   MPC Wallet
     
 
-### Self Custody Wallet
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw3.png)
 
-**Self Custody Wallet**: For this guide, we select 'Self Custody Wallet'. Click 'Continue' to proceed.
+## **Self Custody Wallet**
 
-#### 1. Configure the Wallet
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw4.jpg)
+
+**Self Custody Wallet**: Click 'Continue' to proceed.
+
+#### **Step 1: Configure the Wallet**
+
+
 
 -   **Select Blockchain and Network**: Choose the appropriate blockchain and network for your wallet. This ensures compatibility and proper functionality of your wallet within the ecosystem.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw5.png)
     
 -   Click 'Continue' after making your selections.
     
 
-#### 2. Generate Seed Phrase
+#### **Step 2: Generate Seed Phrase**
+
 
 -   **Secret Recovery Phrase**: You will be provided with a 15-word seed phrase. This phrase is crucial for the security and recovery of your wallet.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw6.png)
     
 -   **Save the Seed Phrase**: Write down the seed phrase and store it securely. It is recommended to:
     
@@ -54,48 +93,65 @@ If you select “Create New Wallet”, you get to choose wallet type.
 -   **Do Not Share**: Never share your seed phrase with anyone.
     
 
-#### 3. Confirm Seed Phrase
+#### **Step 3: Confirm Seed Phrase**
 
 -   **Verification**: To ensure you have correctly noted the seed phrase, you will need to confirm it by selecting each word in the correct order.
     
 
 -   Click 'Continue' after confirmation.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw7.png)
     
 
 After jotting down the seed phrase, you need to arrange the words accordingly.
 
-#### 4. Wallet Creation Successful
+#### **Step 4: Wallet Creation Successful**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw8.jpg)
 
 -   **Wallet Details**: Once the seed phrase is confirmed, your wallet will be successfully created. You will be provided with your private and public keys.
     
 -   **Copy and Secure**: Copy these keys and store them securely. Your private key should be kept confidential.
     
 
-### Custodial Wallet
+## **Custodial Wallet**
 
 Select **Custodial Wallet** and click **Continue** to proceed.
 
-#### 1. Choose Blockchain and Network
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw9.png)
+
+#### **Step 1: Choose Blockchain and Network**
 
 You will then be asked to choose a blockchain and network to configure your wallet. Use the dropdown menus to select the appropriate options that match your needs.
 
-#### 2. Select a Wallet Provider
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw10.png)
+
+#### **Step 2: Select a Wallet Provider**
 
 Kalp Studio provides various wallet provider options. You can choose from Kalp Studio's managed wallet or third-party providers like KALP Studio, Coinbase Wallet, Gemini Wallet and others.
 
-#### 3. Complete the Wallet Creation
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw11.png)
+
+#### **Step 3: Complete the Wallet Creation**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw12.png)
 
 Once you’ve selected your provider, you will be redirected to set up your wallet. After completing the process, you will receive a confirmation that your wallet has been successfully created.
 
-#### 4. Wallet Created Successfully
+#### **Step 4: Wallet Created Successfully**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw13.png)
 
 Upon successful creation, you will receive a congratulatory message along with details such as the public key of the wallet. You will also be credited with 1 GINI, which can be used for transactions on the platform.
 
-### Select MPC Wallet
+## MPC Wallet
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw14.png)
 
 Select **MPC Wallet** and click **Continue** to proceed.
 
-#### 1. Configure Your Wallet
+#### **Step 1: Configure Your Wallet**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw15.png)
 
 -   After selecting the wallet type, you will be asked to choose the blockchain and network for your wallet.
     
@@ -106,15 +162,21 @@ Select **MPC Wallet** and click **Continue** to proceed.
 -   Once your selections are made, click **Continue**.
     
 
-#### 2. Sign In for Verification
+#### **Step 2: Sign In for Verification**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw16.png)
 
 -   To proceed, you need to sign in or verify your account. You will see a prompt to sign in with Google or enter your email address.
     
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw17.png)
+
 -   Enter your details, and you may be asked to verify your email by entering a code sent to your inbox.
     
 
-#### 3. Wallet Creation Confirmation
+#### **Step 3: Wallet Creation Confirmation**
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/createwallet/cw18.png)
 
 -   Upon successful verification, your wallet will be created.
     
