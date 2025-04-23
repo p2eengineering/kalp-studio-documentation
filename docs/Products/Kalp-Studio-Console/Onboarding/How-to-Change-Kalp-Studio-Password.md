@@ -13,7 +13,8 @@ Follow the steps below to reset your password:
 
 Click on the link to visit the [Kalp Studio website](https://console.kalp.studio/).
 On the login screen, click Forgot Password, as shown in the screenshot.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp1.jpg)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
+
 
 
 **Step 2: Request Password Reset Link**

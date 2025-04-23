@@ -130,30 +130,19 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-
-  - Kalp Studio:
+  - Products:
     - Kalp Studio Overview:
       - What is Kalp Studio: 'Introduction/Kalp-studio-overview.md'
       - What is Kalp DLT: 'Introduction/Kalp-DLT.md'
-    - Getting Started: 
+      - Getting Started: 
         - How to Sign Up to Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform.md'
         - How to Log In to your Kalp Studio Account: 'Products/Kalp-Studio-Console/Onboarding/How-to-log-in-to-your-Kalp-Studio-Account.md'
         - How to Change your Kalp Studio Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-Kalp-Studio-Password.md'
         - How to Navigate Kalp Studio Platform as an Active User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Existing-User.md'
         - How to Navigate Kalp Studio Dashboard as an New User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-an-New-User.md'
-  
-    - Kalp Studio Console: 
-      - Products: 
-      - Billing:
-        - How does a new user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-new-user-access-billing.md'
-        - How does a subscribed user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-subscribed-user-access-billing.md'
-        - How does billing work on Kalp Studio Platform: 'Products/Kalp-Studio-Console/Billing/How-does-Billing-work-on-the-Kalp-Studio-Platform.md'
-      - Credits:
-        - How to add credit: 'Products/Kalp-Studio-Console/Credits/How-to-Add-Credit.md'
-        - Navigate to the credit section: 'Products/Kalp-Studio-Console/Credits/Navigate-to-the-Credit-Section.md'
-      - Faucets:
-        - How to Get TestNest Gini Tokens Using Kalp Studio Faucet: 'Products/Kalp-Studio-Console/Faucets/How-to-Get-TestNet-Gini-Tokens-Using-Kalp-Studio-Faucet.md'
-        - Kalp Wallet:
+    - Kalp Studio Console:
+        - Products: 
+          - Kalp Wallet:
             - What is Kalp Wallet?: 'Introduction/Kalp-wallet.md'
             - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
             - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'
@@ -161,14 +150,14 @@ nav:
             - How to create a wallet: 'Products/Kalp Wallet/How-to-create-a-wallet.md'
             - How can I monitor all my transactions: 'Products/Kalp Wallet/How-can-I-monitor-all-my-transactions.md'
             - How to use embedded wallet configuration: 'Products/Kalp Wallet/How-to-Use-Embedded-Wallet-Configuration.md'
-        - Kalp-Studio-Storage:
+          - Kalp-Studio-Storage:
             - How to get started with kalp storage: 'Products/Kalp-Studio-Storage/How-to-get-started-with-kalp-studio-storage.md'
             - FAQ: 'Products/Kalp-Studio-Storage/FAQ.md'
             - IPFS OpenAPI Documentation: 'Products/Kalp-Studio-Storage/IPFS-OpenAPI-Documentation.md'
-        - Kalp Instant Deployer:
+          - Kalp Instant Deployer:
             - What is Kalp Instant Deployer?: 'Introduction/Kalp-instant-deployer.md'
             - How to Deploy a Smart Contract on Kalp Studio: 'Products/Kalp-Studio-Console/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio.md'
-        - NFT Creator:
+          - NFT Creator:
             - How to connect wallet: 'Products/NFT Creator/How to connect wallet.md'
             - How to create a catalog: 'Products/NFT Creator/How to create a catalog.md'
             - How to create NFT: 'Products/NFT Creator/How to create NFT.md'
@@ -176,7 +165,7 @@ nav:
             - How to see all asset details: 'Products/NFT Creator/How to see all asset details.md'
             - How to view all your NFTs: 'Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
             - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
-        - KS-Query:
+          - KS-Query:
             - How to get started with KS Query: 'Products/KS-Query/How-to-get-started-with-KS-Query.md'
             - How to select blockchain and network on KS Query: 'Products/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
             - How to create an API Auth Key: 'Products/KS-Query/How-to-create-an-API-Auth-Key.md'
@@ -184,16 +173,25 @@ nav:
             - How to view your Dashboard & Subscription details: 'Products/KS-Query/How-to-view-your-Dashboard-and-subscription-details.md'
             - How to build explorer using KS Query: 'Products/KS-Query/How-to-built-explorer-using-ks-query.md'
             - How to invoke API of KS Query: 'Products/KS-Query/How-to-invoke-api-of-KS-query.md'
-        - API Gateway:
+          - API Gateway:
             - How to generate API endpoints: 'Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints.md'
             - How to navigate to the list of smart contract: 'Products/Kalp-Studio-Console/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract.md'
-        - Token-Studio:
+          - Token-Studio:
             - How to get started with token creator: 'Products/Token-Studio/How-to-get-started-with-token-studio.md'
             - How to connect wallet: 'Products/Token-Studio/How-to-connect-wallet.md'
             - How to create token: 'Products/Token-Studio/How-to-create-token.md'
             - How to view list of token created: 'Products/Token-Studio/How-to-view-list-of-token-created.md'
             - How to view subscription details: 'Products/Token-Studio/How-to-view-subscription-details.md'
             - How to create token with Kalp DLT: 'Products/Token-Studio/How-to-create-token-with-kalp-dlt.md'
+        - Billing:
+          - How does a new user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-new-user-access-billing.md'
+          - How does a subscribed user access billing: 'Products/Kalp-Studio-Console/Billing/How-does-a-subscribed-user-access-billing.md'
+          - How does billing work on Kalp Studio Platform: 'Products/Kalp-Studio-Console/Billing/How-does-Billing-work-on-the-Kalp-Studio-Platform.md'
+        - Credits:
+          - How to add credit: 'Products/Kalp-Studio-Console/Credits/How-to-Add-Credit.md'
+          - Navigate to the credit section: 'Products/Kalp-Studio-Console/Credits/Navigate-to-the-Credit-Section.md'
+        - Faucets:
+          - How to Get TestNest Gini Tokens Using Kalp Studio Faucet: 'Products/Kalp-Studio-Console/Faucets/How-to-Get-TestNet-Gini-Tokens-Using-Kalp-Studio-Faucet.md'
     - KS Pay:
             - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md'
             - How to change the password on KS Pay: 'Products/KS-Pay/How-to-change-the-password-on-KS-Pay.md'
@@ -209,7 +207,6 @@ nav:
     - Referral Program:
             - Kalp Studio Referral Program: 'Products/Referral-Program/User Guide - For Kalp Studio Referral Program.md'
             - Kalp Studio Scholarship Referral: 'Products/Referral-Program/User Guide - For Kalp Scholarship Referral.md'    
-        
   - Dev Documentation:
       - Kalp DLT:
           - Use the kalp SDK:
@@ -246,21 +243,14 @@ nav:
           - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
           - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
   - Release notes:
-      - Release version 2.9.0:
-          - Release version 2.9.0: 'Release-notes/release-version-2.9.0/release-notes-version-2.9.0.md'
-      - Release version 2.8.0:
-          - Release version 2.8.0: 'Release-notes/release-version-2.8.0/release-notes-version-2.8.0.md'
-      - Release version 2.7.0:
+  
+          - Release notes version 2.9.0: 'Release-notes/release-version-2.9.0/release-notes-version-2.9.0.md'
+          - Release notes version 2.8.0: 'Release-notes/release-version-2.8.0/release-notes-version-2.8.0.md'
           - Release notes version 2.7.0: 'Release-notes/release-version-2.7.0/release-notes-version-2.7.0.md'
-      - Release version 2.6.0:
           - Release notes version 2.6.0: 'Release-notes/release-version-2.6.0/release-notes-version-2.6.0.md'
-      - Release version 2.0.0:
           - Release notes version 2.0.0: 'Release-notes/release-version-2.0.0/release-notes-version-2.0.0.md'
-      - Release version 1.1.1:
           - Release notes version 1.1.1: 'Release-notes/release-version-1.1.1/release-notes-version-1.1.1.md'
-      - Release version 1.1.0:  
           - Release notes version 1.1.0: 'Release-notes/release-version-1.1.0/release-notes-version-1.1.0.md'
-      - Release version 1.0.0:
           - Release notes version 1.0.0: 'Release-notes/release-version-1.0.0/release-notes-version-1.0.0.md'
 extra:
   social:

@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Release Notes for KS Query v2.9.0
+# Kalp Studio Release Notes (KS Query) v2.9.0
 
 **Release Date:** November 25, 2024  
 
