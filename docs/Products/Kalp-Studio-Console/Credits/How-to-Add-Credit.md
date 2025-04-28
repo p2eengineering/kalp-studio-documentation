@@ -18,9 +18,6 @@ Kalp Studio provides a seamless platform for managing your credits and transacti
 3.  **Enter your password:** Find the "Enter Password" field and type in your Kalp Studio account password.
     
 4.  **Click "Sign In":** Once you have entered your credentials, click the "Sign In" button to access your Kalp Studio account.
-    
-
-> If you haven’t already, [register your account](docs\Products\Kalp-Studio-Console\Onboarding\How-to-Sign-Up-to-Kalp-Studio-Platform.md) on Kalp Studio.
 
 ### **Step 2: Access Kalp Studio Console**
 

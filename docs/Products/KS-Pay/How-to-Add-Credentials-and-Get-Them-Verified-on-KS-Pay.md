@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 # **How to Add Credentials and Get Them Verified on KS Pay?**
-**
 Integrating a payment gateway with KS Pay requires setting up credentials and verifying them, enabling secure transaction processing for your platform. Follow this step-by-step guide to add and verify credentials on KS Pay.
 
 ### **Step 1: Add a Payment Gateway**
