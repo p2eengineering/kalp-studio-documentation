@@ -6,33 +6,52 @@
 
 Kalp Studio provides a seamless platform for managing your credits and transactions efficiently. Adding credits to your Kalp Studio wallet is crucial for accessing various services and features offered by the platform.
 
-As a new user, you will receive a complimentary $50 onboarding credit. This credit allows you to explore and utilize the full capabilities of the platform right from the start.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/1.png)
+### **Step 1: Logging into Your Kalp Studio Account**
 
-### Step 1: Access the Credits Section
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/2.png)
-
-1.  **Login to KALP Studio**: Enter your credentials and log into your account.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
     
-2.  **Navigate to the Credits Page**: Click the "Credits" option on the left sidebar. This will take you to the Credits management section.  
+1.  **Navigate to the Kalp Studio sign-in page:** Enter the [URL](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login") for the Kalp Studio login page
+    
+2.  **Enter your email address:** Locate the "Enter Your Email" field on the sign-in form and enter your registered email address.
+    
+3.  **Enter your password:** Find the "Enter Password" field and type in your Kalp Studio account password.
+    
+4.  **Click "Sign In":** Once you have entered your credentials, click the "Sign In" button to access your Kalp Studio account.
+    
+
+> If you haven’t already, [register your account](docs\Products\Kalp-Studio-Console\Onboarding\How-to-Sign-Up-to-Kalp-Studio-Platform.md) on Kalp Studio.
+
+### **Step 2: Access Kalp Studio Console**
+
+1.  **Locate and click the "Kalp Studio Console" Card:** Scroll through the Applications section to find the card labeled "Kalp Studio Console." Click the "Go to console" Button
+    
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c1.jpg)
+
+
+2.  **Navigate to the Credits Page**: Click the "Credits" option on the left sidebar. This will take you to the Credits management section. 
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c2.jpg)
 
 ### Step 2: Initiate Adding Credits
 
 1.  **Click on "Add Credits"**: On the Credits page, you will see a button labeled "Add Credits". Click on it to proceed.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/3.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c4.jpg)
+
+
 
    
 ### Step 3: Enter Credit Amount
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/5.jfif)
 
 1.  **Enter the Desired Amount**: A dialog box will appear asking you to enter the amount you wish to add to your wallet. Enter the amount in the specified field.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c5.jpg)
     
 2.  **Confirm the Amount**: Double-check the amount to ensure it is correct.
-    
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c6.jpg)
 
 ### Step 4: Confirm the Transaction
 
@@ -47,12 +66,6 @@ A pop-up window will open where users can see their entered amount in USD conver
 1.  **View Transaction Confirmation**: Once the transaction is complete, you will see a confirmation message indicating that credits have been added successfully. This screen will display the transaction ID and the amount added.
     
 2.  **Check Updated Balance**: Return to the Credits page to verify that your total credit balance has been updated with the newly added amount.
-
-### Top-Up the credits
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/6.png)
-
-The billing section of the KALP Studio console has been enhanced with a "Top Up" button, allowing users to conveniently add credits to their account balance. Additionally, the interface provides clear plan options, including Starter, Developer, and Enterprise, with respective pricing and features outlined for easy subscription management.
     
 
 By following these steps, you can easily add credits to your KALP Studio wallet, enabling you to utilize various services and features on the platform.
