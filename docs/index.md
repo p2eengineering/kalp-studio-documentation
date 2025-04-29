@@ -461,7 +461,7 @@ Kalp Studio is a decentralized infrastructure platform that empowers developers 
           <div class="second-section">
                 <div class="build-wrapper">
                   <div class="build-description-card-main">
-                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
@@ -473,7 +473,7 @@ Kalp Studio is a decentralized infrastructure platform that empowers developers 
                             The Kalp Studio onboarding process is seamless, guiding you through the necessary steps to set up your account and use the platform effectively.                          </span>
                           </div>
                      </a>
-                     <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
+                     <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-an-New-User/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Dashboard
@@ -592,7 +592,7 @@ Kalp Studio is a decentralized infrastructure platform that empowers developers 
                             Kalp DLT is a fully regulated blockchain platform for Real World Asset (RWA) ecosystems. It lets developers build decentralized applications (DApps), tokenize real-world assets, and deploy legally enforceable smart contracts.                            </span>
                          </div>
                      </a>
-                   <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-instant-deployer/">
+                   <a  href="https://docs.kalp.studio/Introduction/Kalp-instant-deployer/">
                     <div class="build-description-card">
                     <div class="build-description-card-title">
                         Kalp Instant Deployer
@@ -605,7 +605,7 @@ Kalp Studio is a decentralized infrastructure platform that empowers developers 
                    </span>
                     </div>
                     </a>
-                     <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-wallet/">
+                     <a  href="https://docs.kalp.studio/Introduction/Kalp-wallet/">
                         <div class="build-description-card">
                         <div class="build-description-card-title">
                             What is Kalp Wallet
@@ -662,7 +662,7 @@ Kalp Studio is a decentralized infrastructure platform that empowers developers 
                  Are you ready to start building with kalp studio?
                  </span>
                  <div class="quick-start-wrapper-main-wrapper">
-                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
+                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                              <div class="kalp-icon">
                              <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
