@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# **How can I view all my transactions?**
+# **How can I view all my transactions**
 
 **Access the Dashboard:**
 
@@ -10,15 +10,11 @@ Upon logging into Kalp Studio, you will land on the **Dashboard**. The dashboard
 
 Monitoring transactions is crucial for managing and auditing financial activities, especially when dealing with blockchain and smart contracts. Kalp Studio provides a comprehensive platform for monitoring transactions effectively.
 
-Open image-20250310-040947.png
 
-![image-20250310-040947.png]()
 
 **Accessing the Transactions Section**
 
-Open image-20250310-041050.png
 
-![image-20250310-041050.png]()
 
 Once you log in to your Kalp Studio platform, navigate to the left-hand sidebar. Here, you will find multiple options including Dashboard, All Wallets, Open API, Subscription, API Key Generation, Connect Widget, Embedded Wallet, etc. Click on "Transactions" to access the relevant section.
 
@@ -26,9 +22,7 @@ Once you log in to your Kalp Studio platform, navigate to the left-hand sidebar.
 
 Once subscribed, you will have access to the Transaction Monitoring dashboard. This section displays a list of smart contracts you have downloaded and used for transactions are displayed here, including their details such as Transaction ID, Blockchain, network type, and creation date.
 
-Open image-20250310-041336.png
 
-![image-20250310-041336.png]()
 
 You can search for specific transactions using the search bar at the top right by entering the transaction ID or name.
 

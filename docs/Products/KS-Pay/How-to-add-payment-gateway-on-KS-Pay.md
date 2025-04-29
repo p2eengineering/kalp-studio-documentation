@@ -8,7 +8,7 @@ Integrating a payment gateway is a crucial step in enabling your application to 
 
 **Before You Begin:**
 
-Please ensure you have generated your API Key before proceeding. This is a prerequisite for adding payment gateways. If you haven't done so yet please refer to our article on [How to generate API Key](Products/KS-Pay/How-to-generate-API-Key.md).
+Please ensure you have generated your API Key before proceeding. This is a prerequisite for adding payment gateways. If you haven't done so yet please refer to our article on [How to generate API Key](https://docs.kalp.studio/Products/KS-Pay/How-to-generate-API-Key/).
 
 ### Navigate to Settings
 
