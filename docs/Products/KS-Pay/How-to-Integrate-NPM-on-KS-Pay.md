@@ -105,7 +105,7 @@ For adding credentials: Refer [How to add Razorpay payment gateway and setup rul
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm7.png)
 
-For Configuring Webhook: Refer [How to Configure Webhook on KS Pay](https://p2eprojects.atlassian.net/wiki/spaces/PE/pages/410681353/How+to+Configure+Webhook+on+KS+Pay?atl_f=PAGETREE)
+For Configuring Webhook: Refer [How to Configure Webhook on KS Pay](https://docs.kalp.studio/Products/KS-Pay/How-to-Configure-Webhook-on-KS-Pay/)
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm8.png)
 
