@@ -101,7 +101,7 @@ On the left sidebar, click on **Settings**.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm6.png) 
 
-For adding credentials: Refer [How to add Razorpay payment gateway on KS Pay](how-to-add-payment-gateway-on-KS-Pay.md)
+Add Credentials first, then configure webhook.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm7.png)
 
