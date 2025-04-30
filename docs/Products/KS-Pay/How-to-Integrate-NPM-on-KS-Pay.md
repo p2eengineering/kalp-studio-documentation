@@ -96,7 +96,6 @@ On the left sidebar, click on **Settings**.
 ### **Step 5: Adding a Payment Gateway**
 
 
-
 1.  Click on the "+ Add Gateway" button, as highlighted in the screenshot below.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm6.png) 

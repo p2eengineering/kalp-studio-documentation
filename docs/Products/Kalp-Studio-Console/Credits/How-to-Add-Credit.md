@@ -35,9 +35,6 @@ Kalp Studio provides a seamless platform for managing your credits and transacti
 1.  **Click on "Add Credits"**: On the Credits page, you will see a button labeled "Add Credits". Click on it to proceed.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c4.jpg)
-
-
-
    
 ### Step 3: Enter Credit Amount
 

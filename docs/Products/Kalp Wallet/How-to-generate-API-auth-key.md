@@ -6,13 +6,15 @@
 
 API Keys are essential for securely connecting your applications and services to the KS Wallet API. They allow you to automate tasks, integrate with external platforms, and build custom wallet solutions. This guide provides a step-by-step walkthrough of the API Key generation process, ensuring you understand how to create and manage keys securely for your specific needs.
 
+> If you haven't already, [Sign Up](https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/) or [Log in](https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-log-in-to-your-Kalp-Studio-Account/) to Kalp Studio. 
+
+
+> Navigate to Kalp Studio Console.
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n4.png)
+
 ## **Step-by-Step Guide**
 
-### 1. Access the KS Wallet Dashboard
-
-Ensure you're logged into your Kalp Studio.
-
-### 2. Navigate to the "Open API" Section
+### 1. Navigate to the "Open API" Section
 
 -   On the left-hand side of the dashboard, you'll find a navigation menu.
     
@@ -20,6 +22,7 @@ Ensure you're logged into your Kalp Studio.
     
 -   Clicking this will take you to the API Key Generation page.
     
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/1.png)
 
 ### 3. Creating a New API Auth Key
 
@@ -27,11 +30,17 @@ Ensure you're logged into your Kalp Studio.
     
 
 -   Click the "+ Create API Auth Key" button.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/2.png)
+
     
 
 ### 4. Filling in the Key Details
 
 A pop-up window labeled "Create API Auth Key" will appear.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/3.png)
+
 
 -   You'll be prompted to fill in the following details:
     
@@ -44,12 +53,16 @@ A pop-up window labeled "Create API Auth Key" will appear.
 
 -   Once you've entered the Key Name and (optionally) the Key Description, click the "Create Now" button.
     
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/4.png)
 
 ### 6. API Key Generation and Confirmation
 
 -   After clicking "Create Now," the system will generate your API Auth Key.
     
 -   You'll see a "Success" notification in the top-right corner of the screen, confirming that the key has been created.
+
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/5.png)
+
     
 
 ### 7. Reviewing and Using Your API Auth Key

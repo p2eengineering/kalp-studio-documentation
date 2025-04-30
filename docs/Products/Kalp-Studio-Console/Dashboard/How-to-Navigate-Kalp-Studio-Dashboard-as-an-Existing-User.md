@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Navigate Kalp Studio Dashboard as an Existing User
+# **How to Navigate Kalp Studio Dashboard as an Existing User**
 
 Kalp Studio is a versatile platform tailored for blockchain and decentralized application (DApp) development. As an active user, understanding how to efficiently navigate the platform is crucial to maximize productivity and leverage its full potential.
 
