@@ -455,7 +455,7 @@ hide:
                 <br />
 Kalp Studio is a decentralized infrastructure platform that empowers developers to build, manage, and scale blockchain applications and networks. It provides a comprehensive suite of tools, including smart contract development, decentralized storage, and network orchestration, streamlining blockchain implementation and improving efficiency.                </div>
         </div>
-       <img src="images/BannerImage.svg" alt="image-banner" />
+       <img src="Video/hero-banner.gif" alt="image-banner" />
     </header>
               <h2 class="heading-wrapper">Getting Started with Kalp Studio</h2>
           <div class="second-section">
