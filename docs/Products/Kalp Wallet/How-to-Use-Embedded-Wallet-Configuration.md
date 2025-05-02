@@ -23,7 +23,7 @@ Once you've entered your email and password, click the "Sign In" button as annot
 
 2.  **Select KS Wallet:** Spot the KS Wallet option in the Our Products section on the dashboard, as highlighted in the screenshot below, and click on the Get Started button.
 
-> If you have not  yet subscribed to KS Wallet, you can do it to experience a seamless experience
+> If you have not  yet subscribed to KS Wallet, you can do it to have a seamless experience
 
 
 
