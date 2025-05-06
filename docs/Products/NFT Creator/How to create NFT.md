@@ -8,34 +8,34 @@ Kalp Studio’s NFT Creator is designed for simplicity and efficiency, enabling 
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft1.png)
 
-Fig.1
-
 ### **Step 1:**  **Accessing the NFT Creator**
 
 1.  Open ‘NFT Creator’ by logging into KALP Studio console.
     
-2.  In ‘NFT Creator’, navigate to the **NFT Portfolio** section located at the left sidebar menu (Fig.1).
+2.  In ‘NFT Creator’, navigate to the **NFT Portfolio** section located at the left sidebar menu.
     
 3.  On the dashboard, if no NFTs are currently created, a message will appear saying, “No NFT yet!”
     
 4.  Now click the ‘**+ Create NFT’** button to start creating a new NFT.
     
 
-**Note:** You need to connect a wallet first for creating a NFT, if not connected already.
+**Note:** You need to [connect a wallet](https://docs.kalp.studio/Products/NFT%20Creator/How%20to%20connect%20wallet/) first for creating a NFT, if not connected already.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft2.png)
 
 
 ### **Step 2: Creating a New NFT**
 
-1.  Once you start creating a new NFT, a ‘Create NFT’ page will open asking for below details (Fig.2):
+1.  Once you start creating a new NFT, a ‘Create NFT’ page will open asking for below details:
+
+
+
     
     1.  **Upload Media**: Upload the main media file for your NFT. You can upload Video, Audio, Image, Animation, Document and 3D files.  
         (Supported formats include JPG, JPEG, PNG, GIF, SVG, DOCX, PDF, MP4, WEBM, MP3, WAV, OGG, and GLB, with a maximum file size of 100 MB)
         
     2.  **Name Your Creation**: Enter a unique name for your NFT _(Validations are shown next to the text box)_
         
-    3.  **Catalog Selection***: You can either select an existing catalog you already created OR create a new one. If you’re creating a new catalog, click on ‘**Create New Catalog’** button
+    3.  **Catalog Selection***: You can either select an existing catalog you already created OR create a new one.
         
     4.  **Description**: Provide a description of your NFT to let the audience know about your creation in detail. This helps potential viewers understand the background or value of your NFT.
         
@@ -47,6 +47,7 @@ Fig.1
             
         3.  Genre: Classical music
             
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft2.png)
 
 You can add at max 6 properties to your NFT with max character length upto 15 chars.
 
@@ -56,7 +57,7 @@ You can add at max 6 properties to your NFT with max character length upto 15 ch
 
 ### **Step 3: Creating a New Catalog (Optional)**
 
-1.  **Upload Catalog picture**: Upload a cover image for your new Catalog.  
+1.  **Upload Photo**: Upload a cover image for your new Catalog.  
     (Supported formats for thumbnails are JPG, PNG, GIF and WEBP, with a max size of 5 MB)
     
 2.  **Name your Catalog**: Give a name to your new Catalog.

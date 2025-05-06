@@ -3,22 +3,24 @@
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
-# **How to get started with kalp studio storage**
+# **How to get started with Kalp Studio Storage**
 
-Here is a step-by-step user manual guide based on the screenshots provided, illustrating how to use Kalp Studio for KS Storage. Follow these steps in order to navigate through the platform and utilize its features.
+This step-by-step guide, with screenshots, will walk you through how to use Kalp Studio for KS Storage. Follow the instructions to easily navigate the platform and access its features.
 
 ### Step 1: Login to Your Kalp Studio Account
-
-1.  **Go to the Kalp Studio login page.**
     
-    -   Enter your credentials (email and password) to log in.
-        
-    -   Once logged in, you will land on the Kalp studio console  **Dashboard**.
+- Go to the Kalp Studio [login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio").
+
+- Enter your email and password to log in.
+
+- Once logged in, you'll be taken to the Kalp Studio Console Dashboard, where various products are listed, including NFT Creator, Token Creator, and KS Storage.
+
+> If you haven't already, [Sign Up](https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/) to Kalp Studio. 
         
 
 ### Step 2: Explore the KS Storage Product
 
-1.  **From the Kalp Studio console Dashboard**, find the product section.
+- Look for the 'KS Storage' product in the Our Products section of the dashboard, highlighted in the screenshot.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/1.png)
 
@@ -44,30 +46,29 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/3.png)
 
-1.  Once subscribed, go to **Billing** in the left navigation panel.
-    
-    -   Here, you can see your **active subscription** under **Your Subscription**.
+- Once subscribed, go to **Billing** in the left navigation panel.
+-   Here, you can see your **active subscription** under **Your Subscription**.
         
-    -   Confirm that the **KS Storage** plan is active, and your subscription start date is displayed.
+-   Confirm that the **KS Storage** plan is active, and your subscription start date is displayed.
 
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/4.png)
 
 ### Step 5: Explore KS Storage Dashboard
 
-1.  Click **Explore** under the KS Storage section in **Your Products**.
+- Click **Explore** under the KS Storage section in **Your Products**.
     
-    -   You will be redirected to the **Storage Dashboard**.
+-   You will be redirected to the **Storage Dashboard**.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/5.png)
 
 ### Step 6: Create a Bucket
 
-1.  From the **Storage Dashboard**, you will see a button labeled **Create a Bucket**.
+- From the **Storage Dashboard**, you will see a button labeled **Create a Bucket**.
     
-    -   Click **Create a Bucket** to begin organizing your storage.
+- Click **Create a Bucket** to begin organizing your storage.
         
-    -   Buckets are used to store and organize your files.
+- Buckets are used to store and organize your files.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/6.png)
 
@@ -76,49 +77,49 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 ### Step 7: Upload Files
 
-1.  After creating a bucket, you will have the option to  **Upload Files**.
+- After creating a bucket, you will have the option to  **Upload Files**.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/8.png)
 
-2. Click on **Upload** to add files to the created bucket for storage.
+- Click on **Upload** to add files to the created bucket for storage.
 
-3.  You can also create new folder inside the bucket.
+- You can also create new folder inside the bucket.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/9.png)
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/10.png)
 
-4.  After creating a folder, the folder name will be displayed under the created bucket name.
+After creating a folder, the folder name will be displayed under the created bucket name.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/11.png)
 
-5.  After creating a folder, you can also upload files inside it and add tags for easier identification.
+- After creating a folder, you can also upload files inside it and add tags for easier identification.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/12.png)
 
-6.  Click on add to add files inside the folder with tag for identification.
+- Click on add to add files inside the folder with tag for identification.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/13.png)
 
 ### Step 8: API Key Generation (Optional)
 
-1.  **Generate API Keys** if you plan to interact with KS Storage through APIs.
+**Generate API Keys** if you plan to interact with KS Storage through APIs.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/14.png)
 
-2.  -   Go to **API Key Generation** from the left navigation menu.
+-   Go to **API Key Generation** from the left navigation menu.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/15.png)
 
-2.   Go to **API Key Generation** from the left navigation menu.
+- Go to **API Key Generation** from the left navigation menu.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/16.png)
 
-3.  -   Click **Create API Auth Key**, give it a name and description (for example, "Neoblock").
+-   Click **Create API Auth Key**, give it a name and description (for example, "Neoblock").
 
-4.  -   The API key will be generated and displayed under the list of API keys.
+-   The API key will be generated and displayed under the list of API keys.
         
-5.  **Use your API Key**: You can use the API Auth Key to interact with KS Storage from external applications.
+**Use your API Key**: You can use the API Auth Key to interact with KS Storage from external applications.
 
 ### Step 9: Managing Buckets
 
@@ -130,13 +131,13 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 ### Step 10: Subscription Management
 
-1.  Under **Subscriptions**, you can view your active plan, upgrade to a higher plan (such as **Business Plan** or **Enterprises Plan**), and view your **Purchase History**.
+- Under **Subscriptions**, you can view your active plan, upgrade to a higher plan (such as **Business Plan** or **Enterprises Plan**), and view your **Purchase History**.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/17.png)
 
 -   Purchase history will show details such as order ID, purchased plan, and the amount.
 
-### Step 11 - Other functions related with kalp storage
+### Step 11 - Other functions related with Kalp Storage
 
 #### 1. **Search by Bucket Name**
 

@@ -5,17 +5,17 @@
 
 Deploying a smart contract on Kalp Studio is a streamlined process that involves a few simple steps. This guide will walk you through the entire procedure, using the screenshots provided as visual aids.
 
-### Step 1: Access the Kalp Studio
+### Step 1: Login to Your Kalp Studio Account
+    
+- Go to the Kalp Studio [login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio").
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/1.png)
+- Enter your email and password to log in.
 
-Log in to the Kalp Studio Platform and access the Dashboard.
+- Once logged in, you'll be taken to the Kalp Studio Console Dashboard, where various products are listed, including NFT Creator, Token Creator, and KS Storage.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/2.png)
+> If you haven't already, [Sign Up](https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/) to Kalp Studio. 
 
-Click on Get Started and the Kalp Instant Deployer dashboard will appear.
-
-#### **Dashboard Overview**
+### Step 2: Access the Kalp Instant Deployer Dashboard
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/3.png)
 
@@ -25,7 +25,7 @@ When you first log in to KALP Studio, you'll be greeted by the dashboard. Here, 
 
 To begin deploying a smart contract, click the "Subscribe" button under the "Smart Contract Deployer" section. This will allow you to access the smart contract deployment tools.
 
-### **Step 2: Creating a New Smart Contract**
+### **Step 3: Creating a New Smart Contract**
 
 #### Building Smart Contracts
 
@@ -46,7 +46,7 @@ In this step, you need to enter the details of your smart contract:
 -   **Description:** Optionally, you can add a description for your smart contract.
     
 
-### **Step 3: Uploading the Extension File**
+### **Step 4: Uploading the Extension File**
 
 #### Uploading Files
 
@@ -58,7 +58,7 @@ Once the details are filled in, you will be prompted to upload an extension file
 
 After successfully uploading your file, you will see a confirmation message. If needed, you can change the file at this stage.
 
-### Step 4: Selecting a Template
+### Step 5: Selecting a Template
 
 #### KALP Template Selection
 
@@ -66,7 +66,7 @@ After successfully uploading your file, you will see a confirmation message. If 
 
 You can choose from a list of ready-to-use templates offered by KALP Studio. These templates can be selected from here and directly the smart contract is deployed, and amended as necessary before re-uploading to obtain API endpoints. This step helps you directly deploy smart contracts using pre-built templates.
 
-### **Step 5: Reviewing and Deploying**
+### **Step 6: Reviewing and Deploying**
 
 #### Review Details
 
@@ -82,7 +82,5 @@ Finally, click on "Continue" to deploy your smart contract. You will receive a c
 
 Deploying a smart contract on Kalp Studio is a user-friendly process that involves subscribing to the smart contract deployer, entering contract details, uploading the necessary files, selecting a template, and reviewing before deploying. Follow these steps, and you'll have your smart contract deployed in no time.
 
-!!! Note
-    If you encounter any issues related to Kalp Studio, please raise a support ticket at [care.kalp.studio](mailto:care.kalp.studio). Our dedicated development team will assist you in finding the best possible solution.
 
 
