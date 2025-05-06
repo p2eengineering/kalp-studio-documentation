@@ -34,9 +34,7 @@ After entering your email, click the Verify Email button, as shown in the screen
 
 ### **Step 3: Verify Your Email**
 
-
 1. After clicking “Verify Email,” you will see a field to enter an OTP, as highlighted below.
-
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/emailverified.jpg)
 
 2. Go to your email inbox and copy the OTP you received from Kalp Studio.
@@ -44,7 +42,6 @@ After entering your email, click the Verify Email button, as shown in the screen
 3. Enter the OTP in the provided "Enter OTP" field, as shown in the screenshot.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/enterOTP.jpg)
-
 4. Click on the "Verify OTP" button. If the OTP is correct, the email field will show "Verified" in green, as shown in the screenshot below, confirming your email address.
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/verifyOTP.jpg)

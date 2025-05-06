@@ -20,19 +20,19 @@ Kalp Wallet is a versatile cryptocurrency wallet that enables you to manage digi
 
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/ep6_voice+over+full.gif)
 
-### Self-Custodial Wallet
-
-The Self-Custodial wallet gives users full control over their funds and private keys. It is ideal for advanced users who understand the responsibilities of self-custody.
-
-- **User Control**: Users manage their own private keys and seed phrases.
-- **Security**: No sensitive information is stored on the backend.
-
 ### Custodial Wallet
 
 The Custodial wallet offers a more user-friendly experience by managing private keys on behalf of the user. It is suitable for users who prefer convenience and ease of use.
 
 - **Managed Keys**: Private keys are generated and managed by the Kalp wallet service.
 - **Encryption**: Private keys are encrypted and securely stored in both the database and a secure vault.
+
+### Self-Custodial Wallet
+
+The Self-Custodial wallet gives users full control over their funds and private keys. It is ideal for advanced users who understand the responsibilities of self-custody.
+
+- **User Control**: Users manage their own private keys and seed phrases.
+- **Security**: No sensitive information is stored on the backend.
 
 ### MPC Wallet
 
