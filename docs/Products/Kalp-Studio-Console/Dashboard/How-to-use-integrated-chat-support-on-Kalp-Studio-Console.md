@@ -25,10 +25,12 @@ Click the chat icon. This action will activate the chat support window, which ge
 
 #### **Step 4: Select Query Categorization:**
 Upon activation, the chat window presents predefined options to categorize the support request effectively. The options include:
+
 - **Chat With Us**: For general assistance or inquiries.
+
 - **Need Help**: For reporting specific issues, often related to product functionality or account matters.
+
 - **Schedule a Product Demo**: For expressing interest in a guided product demonstration.
-.
 
 
 #### **Step 5: Engage with the Selected Support Channel**

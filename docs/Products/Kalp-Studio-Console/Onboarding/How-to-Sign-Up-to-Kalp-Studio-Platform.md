@@ -11,9 +11,6 @@ Welcome to Kalp Studio! This guide will walk you through the simple steps to cre
 ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+Register+and+Log+In/r1.png)
 
 1.  First, visit the [Kalp Studio website](https://accounts.kalp.studio/sign-up).
-
-
-
     
 2.  On the homepage or login screen, look for the 'Sign In' button. Since you're new to Kalp Studio, click the 'Register Now' link directly below the 'Sign In' option, as highlighted in the screenshot below. This will take you to the [registration page](https://accounts.kalp.studio/sign-up) where you can create your account."
 

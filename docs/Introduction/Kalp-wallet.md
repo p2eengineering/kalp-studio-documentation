@@ -18,6 +18,8 @@ Kalp Wallet is a versatile cryptocurrency wallet that enables you to manage digi
 
 ## Wallet Types
 
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/ep6_voice+over+full.gif)
+
 ### Self-Custodial Wallet
 
 The Self-Custodial wallet gives users full control over their funds and private keys. It is ideal for advanced users who understand the responsibilities of self-custody.
