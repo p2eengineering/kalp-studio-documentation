@@ -30,17 +30,17 @@ This step-by-step guide, with screenshots, will walk you through how to use Kalp
 
 ### Step 3: Choose a Plan
 
-1.  **Click on Billing** from the left-side navigation menu.
+- **Click on Billing** from the left-side navigation menu.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/2.png)
 
-2.  -   Here, you will see different subscription plans: **Developer Plan**, **Business Plan**, and **Enterprises Plan**.
+-   Here, you will see different subscription plans: **Developer Plan**, **Business Plan**, and **Enterprises Plan**.
         
-    -    Select the **Free Plan** (Developer plan with 100 MB storage) and click **Subscribe**.
+- Select the **Free Plan** (Developer plan with 100 MB storage) and click **Subscribe**.
         
-3.  **Confirmation**: A pop-up will appear asking you to confirm your subscription to the Developer Plan.
+- **Confirmation**: A pop-up will appear asking you to confirm your subscription to the Developer Plan.
     
-    -   Click **Subscribe** to confirm your selection.
+- Click **Subscribe** to confirm your selection.
 
 ### Step 4: View Your Subscription
 
@@ -67,11 +67,10 @@ This step-by-step guide, with screenshots, will walk you through how to use Kalp
 - From the **Storage Dashboard**, you will see a button labeled **Create a Bucket**.
     
 - Click **Create a Bucket** to begin organizing your storage.
-        
-- Buckets are used to store and organize your files.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/6.png)
 
+- Buckets are used to store and organize your files.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/7.png)
 
@@ -83,10 +82,9 @@ This step-by-step guide, with screenshots, will walk you through how to use Kalp
 
 - Click on **Upload** to add files to the created bucket for storage.
 
-- You can also create new folder inside the bucket.
-
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/9.png)
 
+- You can also create new folder inside the bucket.
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/10.png)
 
 After creating a folder, the folder name will be displayed under the created bucket name.
@@ -111,11 +109,9 @@ After creating a folder, the folder name will be displayed under the created buc
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/15.png)
 
-- Go to **API Key Generation** from the left navigation menu.
+-   Click **Create API Auth Key**, give it a name and description (for example, "Neoblock").
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/16.png)
-
--   Click **Create API Auth Key**, give it a name and description (for example, "Neoblock").
 
 -   The API key will be generated and displayed under the list of API keys.
         
@@ -123,11 +119,11 @@ After creating a folder, the folder name will be displayed under the created buc
 
 ### Step 9: Managing Buckets
 
-1.  Return to the **Storage Buckets** section to view the list of your created buckets.
+- Return to the **Storage Buckets** section to view the list of your created buckets.
     
-    -   You will see information like the bucket name, the number of files, and other details.
+- You will see information like the bucket name, the number of files, and other details.
         
-    -   You can manage the buckets from this section, including adding, deleting, or viewing files.
+- You can manage the buckets from this section, including adding, deleting, or viewing files.
 
 ### Step 10: Subscription Management
 
@@ -285,7 +281,7 @@ Tags are used to categorize and organize files, making them easier to locate. Th
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/24.png)
 
-2.  -   The tag will be removed from the tag field.
+2.  The tag will be removed from the tag field.
         
 3.  **Save Changes**:
     
