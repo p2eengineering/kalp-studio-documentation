@@ -5,7 +5,7 @@
 
 Deploying a smart contract on Kalp Studio is a streamlined process that involves a few simple steps. This guide will walk you through the entire procedure, using the screenshots provided as visual aids.
 
-### Step 1: Login to Your Kalp Studio Account
+### Step 1: Access your Kalp Studio Dashboard
     
 - Go to the Kalp Studio [login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio").
 
@@ -25,7 +25,7 @@ Deploying a smart contract on Kalp Studio is a streamlined process that involves
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/2.png)
 
 
-> **Subscribing to the Kalp Instant Deployer**
+> **Subscribing to the Kalp Instant Deployer**: 
 To begin deploying a smart contract, click the "Subscribe" button under the "Kalp Instant Deployer" section. This will allow you to access the smart contract deployment tools.
 
 ### Step 2: Access the Kalp Instant Deployer Dashboard
@@ -42,7 +42,7 @@ You will be redirected to a dashboard that displays various options like "Dashbo
 
 After subscribing, you'll see the main deployment screen. Click on the "Create New" button to start building a smart contract.
 
-> To continue with the process, ensure your wallet is connected. If not, [connect your wallet](https://docs.kalp.studio/Products/Kalp%20Wallet/How-to-create-a-wallet/)
+> To continue with the process, ensure your wallet is connected. If not, refer [connect your wallet](https://docs.kalp.studio/Products/Kalp%20Wallet/How-to-create-a-wallet/) article.
 
 #### Entering Smart Contract Details
 
