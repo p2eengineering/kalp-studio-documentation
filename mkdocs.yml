@@ -166,6 +166,14 @@ nav:
             - How to see all asset details: 'Products/NFT Creator/How to see all asset details.md'
             - How to view all your NFTs: 'Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
             - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
+          - Email:
+            - How to navigate to email: 'Products/Email/How to navigate to email.md'
+            - How to generate API Key for Email: 'Products/Email/How to generate API Key for Email.md'
+            - How to add credits for Email service: 'Products/Email/How to add credits for Email service.md'
+          - SMS:
+            - How to Navigate to SMS: 'Products/SMS/How to Navigate to SMS.md'
+            - How to generate API Key for SMS: 'Products/SMS/How to generate API Key for SMS.md'
+            - How to add credits for SMS Service: 'Products/SMS/How to add credits for SMS service.md'
           - KS-Query:
             - How to get started with KS Query: 'Products/KS-Query/How-to-get-started-with-KS-Query.md'
             - How to select blockchain and network on KS Query: 'Products/KS-Query/How-to-select-blockchain-and-network-on-KS-Query.md'
