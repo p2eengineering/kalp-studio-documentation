@@ -221,26 +221,26 @@ Log in to your Kalp Studio Storage account and navigate to the **Storage Buckets
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+1.png)
 
 2. **Locate the Bucket to Delete**: 
-   1.  Find the bucket you want to delete from the list.
-   2. Click on the **Delete (trash can) icon** located to the right of the bucket name.
+* Find the bucket you want to delete from the list.
+* Click on the **Delete (trash can) icon** located to the right of the bucket name.
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+2.png)
 
 
-1. **Choose a Destination for Files**:   
+**Choose a Destination for Files**:   
    - If the bucket contains files, a prompt will appear asking you to **move the files to a different bucket** before deletion.
    - You will see a list of available buckets where the files can be relocated.
    - Select the desired bucket from the list to serve as the new location for the files.
   
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Ks+3.png)
 
-4. **Confirm Deletion and File Transfer**:
-     1. After selecting the destination bucket, a confirmation prompt will appear, stating, “Are you sure you want to move files and delete the folder?”
-    1. Click **Yes** to confirm both the file transfer and the deletion of the original bucket, or **Back** if you wish to cancel.
+**Confirm Deletion and File Transfer**:
+-  After selecting the destination bucket, a confirmation prompt will appear, stating, “Are you sure you want to move files and delete the folder?”
+* Click **Yes** to confirm both the file transfer and the deletion of the original bucket, or **Back** if you wish to cancel.
 
-2. **Completion**:
+**Completion**:
 
-     1. The files from the deleted bucket will be moved to the selected parent bucket, and the original bucket will be permanently deleted.
-    1. Verify that the files have been successfully transferred to the destination bucket by checking its contents.
+* The files from the deleted bucket will be moved to the selected parent bucket, and the original bucket will be permanently deleted.
+* Verify that the files have been successfully transferred to the destination bucket by checking its contents.
 
 
 #### 6. **Remove tags**

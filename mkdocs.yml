@@ -147,7 +147,7 @@ nav:
             - What is Kalp Wallet?: 'Introduction/Kalp-wallet.md'
             - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
             - How to generate API auth key: 'Products/Kalp Wallet/How-to-generate-API-auth-key.md'
-            - How to use connect widget feature: 'Products/Kalp Wallet/How-to-use-connect-widget-feature.md'
+            - How to customize app using KS Wallet's Connect Widget Feature: 'Products/Kalp Wallet/How-to-use-connect-widget-feature.md'
             - How to create a wallet: 'Products/Kalp Wallet/How-to-create-a-wallet.md'
             - How can I monitor all my transactions: 'Products/Kalp Wallet/How-can-I-monitor-all-my-transactions.md'
             - How to use embedded wallet configuration: 'Products/Kalp Wallet/How-to-Use-Embedded-Wallet-Configuration.md'

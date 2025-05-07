@@ -11,19 +11,28 @@ Deploying a smart contract on Kalp Studio is a streamlined process that involves
 
 - Enter your email and password to log in.
 
-- Once logged in, you'll be taken to the Kalp Studio Console Dashboard, where various products are listed, including NFT Creator, Token Creator, and KS Storage.
+- Once logged in, you'll be taken to the Kalp Studio Console Dashboard, where various products are listed, including NFT Creator, Token Creator, KS Storage, and Kalp Instant Deployer.
+
 
 > If you haven't already, [Sign Up](https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/) to Kalp Studio. 
 
+
+- To deploy smart contract, click on **Kalp DLT Developer Portal**. 
+
+
+- Locate Build Smart Contracts and click on "Get Started" button, as shown in the screenshot below.
+
+![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/2.png)
+
+
+> **Subscribing to the Kalp Instant Deployer**
+To begin deploying a smart contract, click the "Subscribe" button under the "Kalp Instant Deployer" section. This will allow you to access the smart contract deployment tools.
+
 ### Step 2: Access the Kalp Instant Deployer Dashboard
+You will be redirected to a dashboard that displays various options like "Dashboard," "Smart Contract," "API Gateway," "Transaction Monitoring," and more on the left-hand side menu.
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/3.png)
 
-When you first log in to KALP Studio, you'll be greeted by the dashboard. Here, you can see various options like "Dashboard," "Smart Contract," "API Gateway," "Transaction Monitoring," and more on the left-hand side menu.
-
-### **Subscribing to the Smart Contract Deployer**
-
-To begin deploying a smart contract, click the "Subscribe" button under the "Smart Contract Deployer" section. This will allow you to access the smart contract deployment tools.
 
 ### **Step 3: Creating a New Smart Contract**
 
@@ -33,7 +42,9 @@ To begin deploying a smart contract, click the "Subscribe" button under the "Sma
 
 After subscribing, you'll see the main deployment screen. Click on the "Create New" button to start building a smart contract.
 
-### Entering Smart Contract Details
+> To continue with the process, ensure your wallet is connected. If not, [connect your wallet](https://docs.kalp.studio/Products/Kalp%20Wallet/How-to-create-a-wallet/)
+
+#### Entering Smart Contract Details
 
 ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/6.+KID/5.png)
 
