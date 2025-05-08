@@ -15,17 +15,17 @@ This guide will walk you through the straightforward process of generating a new
 1.  On the left-hand navigation sidebar, click on **"Billing"**. This will take you to the billing management page where you can view your subscriptions.
     
 
-![image-20250507-125509.png](blob:https://p2eprojects.atlassian.net/7553ea9e-ce45-460e-b214-ca341889fb5e#media-blob-url=true&id=83420fc9-efb7-4deb-a141-8d7b4a8f03d4&collection=contentId-570851490&contextId=570851490&width=1671&height=600&alt=image-20250507-125509.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g1.png)
 
 **Step 2: Locate Your Email Subscription**
 
 1.  On the "Billing" page, you'll see a section titled **"Your Subscription"**.
     
-![image-20250507-125528.png](blob:https://p2eprojects.atlassian.net/556a0b2f-69f8-4400-8b18-ba3e34c2cb8b#media-blob-url=true&id=6d02faaa-eca8-4192-8d52-5ab354f0b01e&collection=contentId-570851490&contextId=570851490&width=1693&height=559&alt=image-20250507-125528.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g2.png)
 
 2.  Identify the **"Email"** service listed among your active subscriptions.
     
-![image-20250507-130349.png](blob:https://p2eprojects.atlassian.net/deee2017-118f-4299-89cb-24b8d5baebaf#media-blob-url=true&id=283b3e29-3ee5-412d-926f-e8158ec0e3ba&collection=contentId-570851490&contextId=570851490&width=1686&height=447&alt=image-20250507-130349.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g3.png)
 
 ### **Step 3: Access API Key Generation**
 
@@ -45,7 +45,7 @@ This action should navigate you to a page or prompt a dialog for managing API ke
 2.  The prompt will state: "Create new API key to use."
 
 
-![image-20250507-130524.png](blob:https://p2eprojects.atlassian.net/a0a92ffa-0a61-44c2-b67e-8b9cf95075ec#media-blob-url=true&id=f22998c8-6706-4601-b632-aa81bb2f0fc8&collection=contentId-570851490&contextId=570851490&width=657&height=573&alt=image-20250507-130524.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g4.png)
 
 ### **Step 5: Provide Key Details**
 
@@ -66,7 +66,7 @@ In the modal, you'll need to fill in the following fields:
 
 1.  After filling in the "Key Name" (and optionally, the "Key Description"), click the **"Create"** button.
     
-![image-20250507-130603.png](blob:https://p2eprojects.atlassian.net/f3ae965a-642e-4100-9111-206f12dd57ad#media-blob-url=true&id=10243811-125d-481c-b43d-e4cb448a36a2&collection=contentId-570851490&contextId=570851490&width=882&height=564&alt=image-20250507-130603.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g5.png)
 
 ### **Step 7: Confirmation and Key Retrieval**
 
@@ -86,7 +86,7 @@ In the modal, you'll need to fill in the following fields:
         
     -   **Status:** An indicator (e.g., a toggle switch) showing if the key is active.
         
-![image-20250507-130700.png](blob:https://p2eprojects.atlassian.net/d4833bf3-8c14-4e63-a70e-3a62e48ddeaa#media-blob-url=true&id=1d7575eb-d98f-428b-b16f-d079a401f20c&collection=contentId-570851490&contextId=570851490&width=1685&height=514&alt=image-20250507-130700.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g6.png)
 
 ## Conclusion
 

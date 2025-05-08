@@ -17,7 +17,7 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
     
 
 
-![image-20250507-111242.png](blob:https://p2eprojects.atlassian.net/2aa8167a-8a24-42dd-b957-1a9fb27c3c59#media-blob-url=true&id=6abaa808-4f76-42c5-a2db-6dfceacafe37&collection=contentId-569278465&contextId=569278465&mimeType=image%2Fpng&name=image-20250507-111242.png&size=70576&width=1661&height=747&alt=image-20250507-111242.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n1.png)
 
 ### **Step 2: Access the Kalp DLT Developer Portal**
 
@@ -28,7 +28,7 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
 3.  Click on the **"Go To Kalp DLT"** button on this card.
     
 
-![image-20250507-111357.png](blob:https://p2eprojects.atlassian.net/8b0d03c9-f891-45a3-84a4-259796b173f3#media-blob-url=true&id=4f199d22-6ad6-4bc7-aa5e-bd476508044a&collection=contentId-569278465&contextId=569278465&mimeType=image%2Fpng&name=image-20250507-111357.png&size=166073&width=1668&height=767&alt=image-20250507-111357.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n2.png)
 
 ### **Step 3: Locate and Select the SMS Product**
 
@@ -40,19 +40,19 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
     
 4.  Click on the **"Get Started"** or **"Try Now"** button associated with the SMS product.
     
-![image-20250507-111505.png](blob:https://p2eprojects.atlassian.net/0c765a3d-6905-45bb-93cf-33fe92b71460#media-blob-url=true&id=46dacfd5-89d4-4bd2-9fad-8d9a411af221&collection=contentId-569278465&contextId=569278465&width=1677&height=794&alt=image-20250507-111505.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n3.png)
 
 ### **Step 4: Subscribe to an SMS Plan**
 
  You will be taken to the **"Choose a plan"** page for the SMS service.
 
-![image-20250507-111526.png](blob:https://p2eprojects.atlassian.net/2a947034-04ee-4c20-b8a7-7aacf6a371a3#media-blob-url=true&id=bc78bb00-b3ed-4d7f-a65e-c5dad4e7d071&collection=contentId-569278465&contextId=569278465&width=1692&height=590&alt=image-20250507-111526.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n4.png)
 
 1.  Several subscription plans will be displayed (e.g., Developer Plan, Start-up Plan, Enterprise Plan). For initial access or testing, you might opt for a free or low-cost plan.
     
 2.  Select your desired plan. For example, to choose the "Developer Plan" (often priced at $0.00 with a certain number of credits), click the **"Subscribe"** button beneath it.
 
-![image-20250507-111541.png](blob:https://p2eprojects.atlassian.net/aa20dd9e-1607-4f37-a689-edb0695cf170#media-blob-url=true&id=eaebd259-621d-4e84-b286-84fcdce434af&collection=contentId-569278465&contextId=569278465&width=1689&height=624&alt=image-20250507-111541.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n5.png)
 
 3.  A confirmation pop-up will appear (e.g., "Subscribe to Developer Plan?"). Click **"Subscribe"** again to confirm.
     
@@ -60,14 +60,14 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
     
 
 
-![image-20250507-111624.png](blob:https://p2eprojects.atlassian.net/6a81af2d-39a3-4fa4-aaf8-aba9ef43c329#media-blob-url=true&id=870d68de-d06c-46f3-96dc-e986d447b49c&collection=contentId-569278465&contextId=569278465&width=1696&height=567&alt=image-20250507-111624.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n6.png)
 
 ### **Step 5: Verify Subscription and Access SMS Features**
 
 1. After successful subscription, you might be redirected to the **"Billing"** page.
     
 
-![image-20250507-111712.png](blob:https://p2eprojects.atlassian.net/dd6d8be6-cd1b-45ee-975a-7cc92d882563#media-blob-url=true&id=9d5cbc1f-8b22-41b8-b092-025c9b0cb615&collection=contentId-569278465&contextId=569278465&width=1687&height=648&alt=image-20250507-111712.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n7.png)
 
 2.  On the Billing page, under **"Your Subscription,"** you should now see "SMS" listed with an "Active" status and the details of your chosen plan. This confirms your SMS service is active.
     
@@ -92,7 +92,7 @@ Once the SMS service is active, the following sections are accessible through th
             
 
 
-![image-20250507-111739.png](blob:https://p2eprojects.atlassian.net/00707d26-1299-49ea-8c40-4ef9dc41bbef#media-blob-url=true&id=7daf7e67-776f-405f-95fb-af8d6c9a23a7&collection=contentId-569278465&contextId=569278465&width=1694&height=492&alt=image-20250507-111739.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n8.png)
 
 2.  **Credit History:**
     
@@ -103,7 +103,7 @@ Once the SMS service is active, the following sections are accessible through th
     -   It also shows a table of "Used Credit history" with details like Transaction ID, Service Name, Time Stamp, and Status.
         
 
-![image-20250507-111755.png](blob:https://p2eprojects.atlassian.net/51b6cd6c-bcbb-4de0-9a31-a3b81f5b5c27#media-blob-url=true&id=12a3e573-c8e3-4753-96a3-6bf11f9baf4a&collection=contentId-569278465&contextId=569278465&width=1694&height=504&alt=image-20250507-111755.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n9.png)
 
 3.  **API Keys:**
     
@@ -118,7 +118,7 @@ Once the SMS service is active, the following sections are accessible through th
         
 
 
-![image-20250507-111814.png](blob:https://p2eprojects.atlassian.net/edef8c01-0700-4fb6-bfbe-0e7d35998a56#media-blob-url=true&id=5cf569b7-1ad6-44dd-81b1-7225cd46efcb&collection=contentId-569278465&contextId=569278465&width=1692&height=500&alt=image-20250507-111814.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n10.png)
 
 4.  **Logs (Email/SMS) / Log History:**
     
@@ -130,7 +130,7 @@ Once the SMS service is active, the following sections are accessible through th
         
 
 
-![image-20250507-111827.png](blob:https://p2eprojects.atlassian.net/a8530749-220c-41d3-affe-66d42893a043#media-blob-url=true&id=ca723198-8277-4a1e-b4c7-3187f229c29f&collection=contentId-569278465&contextId=569278465&width=1697&height=528&alt=image-20250507-111827.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n11.png)
 
 5.  **Docs:**
     
@@ -138,7 +138,7 @@ Once the SMS service is active, the following sections are accessible through th
 -   Clicking "Docs" in the sidebar will take you to the official Kalp Studio Documentation page. This is an essential resource for detailed information on API usage, integration guides, tutorials, and troubleshooting.
     
 
-![image-20250507-111845.png](blob:https://p2eprojects.atlassian.net/3404fac4-80e2-4e32-a3d9-7ff74918d383#media-blob-url=true&id=c55c25c0-8c0d-4188-b0ac-7993269230eb&collection=contentId-569278465&contextId=569278465&width=1630&height=669&alt=image-20250507-111845.png)
+![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n12.png)
 
 ## **Conclusion**
 
