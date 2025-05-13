@@ -1,0 +1,3099 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Siddhesh Patankar">
+      
+      
+        <link rel="canonical" href="https://doc.kalp.studio/Introduction/Kalp-DLT/">
+      
+      
+        <link rel="prev" href="../What-is-kalp-studio-wallet/">
+      
+      
+        <link rel="next" href="../../Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+      
+      
+      <link rel="icon" href="../../images/PNG.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.31">
+    
+    
+      
+        <title>Kalp DLT - Kalp Studio Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+  
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--note:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M64 32C28.7 32 0 60.7 0 96v320c0 35.3 28.7 64 64 64h224V368c0-26.5 21.5-48 48-48h112V96c0-35.3-28.7-64-64-64H64zm384 320H336c-8.8 0-16 7.2-16 16v112l32-32 64-64 32-32z"/></svg>');--md-admonition-icon--abstract:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M96 0C43 0 0 43 0 96v320c0 53 43 96 96 96h320c17.7 0 32-14.3 32-32s-14.3-32-32-32v-64c17.7 0 32-14.3 32-32V32c0-17.7-14.3-32-32-32H96zm0 384h256v64H96c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16h192c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16zm16 48h192c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg>');--md-admonition-icon--info:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zm-40-176h24v-64h-24c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24h-80c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>');--md-admonition-icon--tip:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M480 32c0-12.9-7.8-24.6-19.8-29.6S434.5.2 425.3 9.3L381.7 53c-48 48-113.1 75-181 75H64c-35.3 0-64 28.7-64 64v96c0 35.3 28.7 64 64 64v128c0 17.7 14.3 32 32 32h64c17.7 0 32-14.3 32-32V352h8.7c67.9 0 133 27 181 75l43.6 43.6c9.2 9.2 22.9 11.9 34.9 6.9s19.8-16.6 19.8-29.6V300.3c18.6-8.8 32-32.5 32-60.4s-13.4-51.6-32-60.4V32zm-64 76.7v262.6C357.2 317.8 280.5 288 200.7 288H192v-96h8.7c79.8 0 156.5-29.8 215.3-83.3z"/></svg>');--md-admonition-icon--success:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7l233.4-233.3c12.5-12.5 32.8-12.5 45.3 0z"/></svg>');--md-admonition-icon--question:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zm-86.2-346.7c7.9-22.3 29.1-37.3 52.8-37.3h58.3c34.9 0 63.1 28.3 63.1 63.1 0 22.6-12.1 43.5-31.7 54.8L280 264.4c-.2 13-10.9 23.6-24 23.6-13.3 0-24-10.7-24-24v-13.5c0-8.6 4.6-16.5 12.1-20.8l44.3-25.4c4.7-2.7 7.6-7.7 7.6-13.1 0-8.4-6.8-15.1-15.1-15.1h-58.3c-3.4 0-6.4 2.1-7.5 5.3l-.4 1.2c-4.4 12.5-18.2 19-30.6 14.6s-19-18.2-14.6-30.6l.4-1.2zM224 352a32 32 0 1 1 64 0 32 32 0 1 1-64 0z"/></svg>');--md-admonition-icon--warning:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7.2 40.1S486.3 480 472 480H40c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8.2-40.1l216-368C228.7 39.5 241.8 32 256 32zm0 128c-13.3 0-24 10.7-24 24v112c0 13.3 10.7 24 24 24s24-10.7 24-24V184c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0-64 0 32 32 0 1 0 64 0z"/></svg>');--md-admonition-icon--failure:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M459.1 52.4 442.6 6.5c-1.9-3.9-6.1-6.5-10.5-6.5s-8.5 2.6-10.4 6.5l-16.5 45.9-46 16.8c-4.3 1.6-7.3 5.9-7.2 10.4 0 4.5 3 8.7 7.2 10.2l45.7 16.8 16.8 45.8c1.5 4.4 5.8 7.5 10.4 7.5s8.9-3.1 10.4-7.5l16.5-45.8 45.7-16.8c4.2-1.5 7.2-5.7 7.2-10.2 0-4.6-3-8.9-7.2-10.4l-45.6-16.8zm-132.4 53c-12.5-12.5-32.8-12.5-45.3 0l-2.9 2.9c-22-8-45.8-12.3-70.5-12.3C93.1 96 0 189.1 0 304s93.1 208 208 208 208-93.1 208-208c0-24.7-4.3-48.5-12.2-70.5l2.9-2.9c12.5-12.5 12.5-32.8 0-45.3l-80-80zM200 192c-57.4 0-104 46.6-104 104v8c0 8.8-7.2 16-16 16s-16-7.2-16-16v-8c0-75.1 60.9-136 136-136h8c8.8 0 16 7.2 16 16s-7.2 16-16 16h-8z"/></svg>');--md-admonition-icon--danger:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M416 398.9c58.5-41.1 96-104.1 96-174.9C512 100.3 397.4 0 256 0S0 100.3 0 224c0 70.7 37.5 133.8 96 174.9V464c0 26.5 21.5 48 48 48h48v-48c0-8.8 7.2-16 16-16s16 7.2 16 16v48h64v-48c0-8.8 7.2-16 16-16s16 7.2 16 16v48h48c26.5 0 48-21.5 48-48v-65.1zM96 256a64 64 0 1 1 128 0 64 64 0 1 1-128 0zm256-64a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>');--md-admonition-icon--bug:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M320 0c17.7 0 32 14.3 32 32v64h120c39.8 0 72 32.2 72 72v272c0 39.8-32.2 72-72 72H168c-39.8 0-72-32.2-72-72V168c0-39.8 32.2-72 72-72h120V32c0-17.7 14.3-32 32-32zM208 384c-8.8 0-16 7.2-16 16s7.2 16 16 16h32c8.8 0 16-7.2 16-16s-7.2-16-16-16h-32zm96 0c-8.8 0-16 7.2-16 16s7.2 16 16 16h32c8.8 0 16-7.2 16-16s-7.2-16-16-16h-32zm96 0c-8.8 0-16 7.2-16 16s7.2 16 16 16h32c8.8 0 16-7.2 16-16s-7.2-16-16-16h-32zM264 256a40 40 0 1 0-80 0 40 40 0 1 0 80 0zm152 40a40 40 0 1 0 0-80 40 40 0 1 0 0 80zM48 224h16v192H48c-26.5 0-48-21.5-48-48v-96c0-26.5 21.5-48 48-48zm544 0c26.5 0 48 21.5 48 48v96c0 26.5-21.5 48-48 48h-16V224h16z"/></svg>');--md-admonition-icon--example:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 0H128c-17.7 0-32 14.3-32 32s14.3 32 32 32v132.8c0 11.8-3.3 23.5-9.5 33.5L10.3 406.2C3.6 417.2 0 429.7 0 442.6 0 480.9 31.1 512 69.4 512h309.2c38.3 0 69.4-31.1 69.4-69.4 0-12.8-3.6-25.4-10.3-36.4L329.5 230.4c-6.2-10.1-9.5-21.7-9.5-33.5V64c17.7 0 32-14.3 32-32S337.7 0 320 0h-32zm-96 196.8V64h64v132.8c0 23.7 6.6 46.9 19 67.1l34.5 56.1h-171l34.5-56.1c12.4-20.2 19-43.4 19-67.1z"/></svg>');--md-admonition-icon--quote:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 216C0 149.7 53.7 96 120 96h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V216zm256 0c0-66.3 53.7-120 120-120h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64h-64c-35.3 0-64-28.7-64-64V216z"/></svg>');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+3,+sans-serif:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Source Sans 3, sans-serif";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#kalp-a-cross-chain-rwa-ecosystem" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Kalp Studio Documentation" class="md-header__button md-logo" aria-label="Kalp Studio Documentation" data-md-component="logo">
+      
+  <img src="../../images/PNG.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Kalp Studio Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Kalp DLT
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="deep-orange"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="deep-orange"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3m0-4.5c5 0 9.27 3.11 11 7.5-1.73 4.39-6 7.5-11 7.5S2.73 16.39 1 12c1.73-4.39 6-7.5 11-7.5M3.18 12a9.821 9.821 0 0 0 17.64 0 9.821 9.821 0 0 0-17.64 0Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/p2eengineering/kalp-studio-documentation" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Kalp-studio-documentation
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../Kalp-studio-overview/" class="md-tabs__link">
+          
+  
+    
+  
+  Introduction
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="md-tabs__link">
+          
+  
+    
+  
+  Getting started
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/" class="md-tabs__link">
+          
+  
+    
+  
+  Dev documentation
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Release-notes/release-version-2.0.0/release-notes-version-2.0.0/" class="md-tabs__link">
+          
+  
+    
+  
+  Release notes
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Kalp Studio Documentation" class="md-nav__button md-logo" aria-label="Kalp Studio Documentation" data-md-component="logo">
+      
+  <img src="../../images/PNG.png" alt="logo">
+
+    </a>
+    Kalp Studio Documentation
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/p2eengineering/kalp-studio-documentation" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Kalp-studio-documentation
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Introduction
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Kalp-studio-overview/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kalp studio overview
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Kalp-studio-ecosystem/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kalp studio ecosystem
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../What-is-kalp-instant-deployer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is smart contract deployer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../What-is-kalp-studio-wallet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is kalp studio wallet
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Kalp DLT
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Kalp DLT
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      📩 Introduction
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📩 Introduction">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-importance-of-a-regulatory-framework-in-blockchain" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Importance of a Regulatory Framework in Blockchain
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#real-world-asset-rwa-tokenization" class="md-nav__link">
+    <span class="md-ellipsis">
+      🏢 Real World Asset (RWA) Tokenization
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bringing-the-next-1-billion-users-to-web3-through-rwa-tokenization" class="md-nav__link">
+    <span class="md-ellipsis">
+      👣 Bringing the Next 1 Billion Users to Web3 Through RWA Tokenization
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="👣 Bringing the Next 1 Billion Users to Web3 Through RWA Tokenization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#appeal-of-less-volatile-tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      Appeal of Less Volatile Tokens
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#investors-safety-building-trust-through-due-diligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Investor’s Safety: Building Trust Through Due Diligence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#offering-fixed-stable-yield" class="md-nav__link">
+    <span class="md-ellipsis">
+      Offering Fixed, Stable Yield
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#diversified-investment-opportunities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diversified Investment Opportunities
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#economic-potential-of-bringing-rwas-on-chain" class="md-nav__link">
+    <span class="md-ellipsis">
+      🦄 Economic Potential of Bringing RWAs On-Chain
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🦄 Economic Potential of Bringing RWAs On-Chain">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#projected-market-cap-of-rwa-tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      Projected Market Cap of RWA Tokens
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prerequisites-to-bring-real-world-assets-onto-the-chain" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛂 Prerequisites to Bring Real-World Assets Onto the Chain
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🛂 Prerequisites to Bring Real-World Assets Onto the Chain">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tokenization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokenization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#liquidity" class="md-nav__link">
+    <span class="md-ellipsis">
+      💰 Liquidity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Getting started
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Getting started
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Onboarding
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Onboarding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Sign Up and Log In to Kalp Studio Platform
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Onboarding/How-to-Change-the-Password/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Change the Password
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dashboard
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Dashboard
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Navigate Kalp Studio Platform as a New User
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Active-User/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Navigate Kalp Studio Dashboard as an Active User
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Billing
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Billing
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Billing/How-does-a-new-user-access-billing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How does a new user access billing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Billing/How-does-a-subscribed-user-access-billing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How does a subscribed user access billing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Billing/How-does-Billing-work-on-the-Kalp-Studio-Platform/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How does Billing work on the Kalp Studio Platform
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Credits
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Credits
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Credits/How-to-Add-Credit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Add Credit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Credits/Navigate-to-the-Credit-Section/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Navigate to the credit section
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Kalp-studio-wallet
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Kalp-studio-wallet
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Navigate To kalp studio Wallet
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Create and Connect Wallet to Kalp Studio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Kalp Instant Deployer
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Kalp Instant Deployer
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Deploy a Smart Contract on Kalp Studio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_7" id="__nav_3_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    API Gateway
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_7">
+            <span class="md-nav__icon md-icon"></span>
+            API Gateway
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/API-Gateway/How-to-generate-API-endpoints/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to generate API endpoints
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to navigate to the list of smart contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_8" id="__nav_3_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    API Key Generation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_8">
+            <span class="md-nav__icon md-icon"></span>
+            API Key Generation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/API-Key-Generation/How-to-generate-API-Key/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to generate API Key
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_9" id="__nav_3_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Transaction monitoring
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_9">
+            <span class="md-nav__icon md-icon"></span>
+            Transaction monitoring
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How can I monitor all my transactions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_10" id="__nav_3_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Settings
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_10">
+            <span class="md-nav__icon md-icon"></span>
+            Settings
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Getting-started/Settings/How-to-Process-KYC-and-get-purchased-template-list/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Process KYC and get purchased template list
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dev documentation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Dev documentation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Use the kalp SDK
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            Use the kalp SDK
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/Use-the-kalp-sdk/Kalp-golang-sdk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kalp Golang SDK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    KRC Token Standard
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            KRC Token Standard
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/KRC-Token-Standard/KRC-20-Token-Contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KRC 20 Token Contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/KRC-Token-Standard/KRC-721-Token-Contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KRC 721 Token Contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/KRC-Token-Standard/KRC-1155-Token-Contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KRC 1155 Token Contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Smart Contract Write,Test, Deploy & Interact
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Smart Contract Write,Test, Deploy & Interact
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Write-the-smart-contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Write the smart contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Test-the-smart-contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Test the smart contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Deploy-the-smart-contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deploy the smart contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev-documentation/Smart-Contract-Write-Test-Deploy-Interact/Interacting-with-smart-contract/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interacting with smart contract
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Release notes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Release notes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Release version 2.0.0
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Release version 2.0.0
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Release-notes/release-version-2.0.0/release-notes-version-2.0.0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Release notes version 2.0.0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Release version 1.1.1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Release version 1.1.1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Release-notes/release-version-1.1.1/release-notes-version-1.1.1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Release notes version 1.1.1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Release version 1.1.0
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Release version 1.1.0
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Release-notes/release-version-1.1.0/release-notes-version-1.1.0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Release notes version 1.1.0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_4" id="__nav_5_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Release version 1.0.0
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            Release version 1.0.0
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Release-notes/release-version-1.0.0/release-notes-version-1.0.0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Release notes version 1.0.0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      📩 Introduction
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📩 Introduction">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-importance-of-a-regulatory-framework-in-blockchain" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Importance of a Regulatory Framework in Blockchain
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#real-world-asset-rwa-tokenization" class="md-nav__link">
+    <span class="md-ellipsis">
+      🏢 Real World Asset (RWA) Tokenization
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bringing-the-next-1-billion-users-to-web3-through-rwa-tokenization" class="md-nav__link">
+    <span class="md-ellipsis">
+      👣 Bringing the Next 1 Billion Users to Web3 Through RWA Tokenization
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="👣 Bringing the Next 1 Billion Users to Web3 Through RWA Tokenization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#appeal-of-less-volatile-tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      Appeal of Less Volatile Tokens
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#investors-safety-building-trust-through-due-diligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Investor’s Safety: Building Trust Through Due Diligence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#offering-fixed-stable-yield" class="md-nav__link">
+    <span class="md-ellipsis">
+      Offering Fixed, Stable Yield
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#diversified-investment-opportunities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diversified Investment Opportunities
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#economic-potential-of-bringing-rwas-on-chain" class="md-nav__link">
+    <span class="md-ellipsis">
+      🦄 Economic Potential of Bringing RWAs On-Chain
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🦄 Economic Potential of Bringing RWAs On-Chain">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#projected-market-cap-of-rwa-tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      Projected Market Cap of RWA Tokens
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prerequisites-to-bring-real-world-assets-onto-the-chain" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛂 Prerequisites to Bring Real-World Assets Onto the Chain
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🛂 Prerequisites to Bring Real-World Assets Onto the Chain">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tokenization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tokenization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#liquidity" class="md-nav__link">
+    <span class="md-ellipsis">
+      💰 Liquidity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/p2eengineering/kalp-studio-documentation/edit/master/docs/Introduction/Kalp-DLT.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/p2eengineering/kalp-studio-documentation/raw/master/docs/Introduction/Kalp-DLT.md" title="View source of this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+<style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+
+<p><link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons"></p>
+<h1 id="kalp-a-cross-chain-rwa-ecosystem">📰 Kalp: A Cross-Chain RWA Ecosystem</h1>
+<p>In the dynamic sphere of Web3 ecosystems, navigating the intricacies of regulatory compliance for the tokenization of real-world assets (<strong>RWAs</strong>) and achieving real-world use cases present unique challenges, particularly within permissionless blockchain ecosystems. These challenges stem from the inherent nature of permissionless systems and the complexities of aggregating and managing <strong>liquidity</strong> fragmented across different blockchain networks. The Kalp Network aims to solve these hurdles through a hybrid <strong>cross-chain</strong> ecosystem optimized for the tokenization of regulated real-world assets and use cases that require adherence to stringent regulatory standards.</p>
+<p>Central to the Kalp Network is its innovative approach to enforcing security, efficiency, and compliance, facilitated by an identity layer that encompasses KYC verification and a Distributed Certificate Authority for user onboarding. This ensures a secure, reliable, and compliant environment for all participants, setting a new benchmark in the blockchain domain. The Kalp Network introduces a significant shift in how regulatory compliances are achieved in Web3 native DApps (Decentralized Applications), making the process more accessible, efficient, and transparent. By enabling a regulatory-compliant and decentralized <strong>Digital Public Infrastructure (DPI)</strong>, Kalp lowers the entry barriers for builders to create DeFi DApps that can withstand the scrutiny of the law.</p>
+<h2 id="introduction">📩 Introduction</h2>
+<h3 id="the-importance-of-a-regulatory-framework-in-blockchain">The Importance of a Regulatory Framework in Blockchain</h3>
+<p>In the current narrative of blockchain and DeFi evolution, the tokenization of real-world assets (RWAs) represents a significant frontier, promising to unlock unprecedented liquidity and accessibility for assets ranging from <strong>real estate</strong> to fine art. However, the successful <strong>on-chain representation</strong> of these assets necessitates a regulatory-compliant framework that ensures security, verifiability, and seamless integration within the global financial ecosystem. This is where the Kalp Network positions itself as a pioneering solution, offering a comprehensive <strong>digital public infrastructure</strong> specifically designed for the regulated tokenization and subsequent liquidity of RWAs and real-world use cases.</p>
+<h2 id="real-world-asset-rwa-tokenization">🏢 Real World Asset (RWA) Tokenization</h2>
+<p>Real-world assets (RWAs) are tangible or intangible entities with defined monetary value that exist outside the digital realm. The tokenization of these assets represents a pivotal advancement in the bridge between traditional finance and the emerging sector of decentralized finance (DeFi). To integrate RWAs into the DeFi ecosystem, these assets undergo a transformation process known as tokenization. This process <strong>converts the value of an asset into a digital token</strong>, thereby encapsulating its monetary worth within a blockchain. Through tokenization, RWAs transcend their physical or intangible states to become digital tokens, enabling their value to be precisely represented and fluidly transacted on the blockchain.</p>
+<p>The spectrum of RWAs is broad, encompassing tangible assets like real estate and gold as well as intangible ones such as government bonds or carbon credits. Essentially, any asset that bears a well-defined monetary value can be tokenized and brought into the DeFi space as an RWA. This inclusivity paves the way for a diverse array of assets to enter the blockchain, enriching the DeFi ecosystem with a multitude of investment and trading opportunities.</p>
+<p>The purpose of migrating real-world assets onto the blockchain is rooted in the conviction that DeFi, over the long haul, will unveil unparalleled opportunities and market efficiencies for asset holders. These opportunities are perceived as being beyond the reach of the traditional financial systems, marked by their centralized structures and inherent limitations. The DeFi space, with its inherent decentralization, transparency, and accessibility, promises to redefine asset management and investment, offering a more inclusive and efficient alternative to conventional financial practices. By bringing RWAs onto the blockchain, DeFi stands to unlock a new realm of financial innovation, offering asset holders novel ways to leverage, trade, and invest their assets within a decentralized and open financial system.</p>
+<h2 id="bringing-the-next-1-billion-users-to-web3-through-rwa-tokenization">👣 Bringing the Next 1 Billion Users to Web3 Through RWA Tokenization</h2>
+<p>The integration of real-world asset (RWA) tokenization into the Web3 ecosystem represents a strategic pivot towards inclusivity, stability, and trust. This transition is not merely technological but encompasses a broader appeal to traditional Web2 users by addressing common concerns and offering unprecedented opportunities. Web3 can welcome the next billion users by harnessing less volatile RWA tokens, implementing trust through rigorous KYC/KYB and due diligence, providing fixed stable yields, and opening doors to diversified investment opportunities.</p>
+<h3 id="appeal-of-less-volatile-tokens">Appeal of Less Volatile Tokens</h3>
+<p>Traditional investors and Web2 users have often been wary of the high volatility associated with cryptocurrency markets. The introduction of RWA tokens, backed by tangible and intangible assets with inherent value, offers a much-needed stabilizing influence. These tokens provide a bridge between the familiar world of traditional investments and the innovative potential of Web3, making the latter more accessible and appealing to a broader audience. The inherent stability of RWAs, such as real estate, gold, and government bonds, reflected in their tokenized forms, reassures traditional investors about entering the Web3 domain.</p>
+<h3 id="investors-safety-building-trust-through-due-diligence">Investor’s Safety: Building Trust Through Due Diligence</h3>
+<p>Trust is a crucial factor in attracting Web2 users to any new platform or technology. In the realm of Web3, this trust can be significantly bolstered through stringent Know Your Customer (KYC) and Know Your Business (KYB) processes, coupled with thorough due diligence procedures. By ensuring that all participants and transactions comply with established legal and regulatory frameworks, Web3 platforms can mitigate risks and protect users. This level of transparency and accountability is essential in building confidence among traditional users, who may be accustomed to the regulated environments of traditional banking and finance.</p>
+<h3 id="offering-fixed-stable-yield">Offering Fixed, Stable Yield</h3>
+<p>One of the compelling features that can draw traditional investors to Web3 is the promise of fixed, stable yields on investments. Unlike the speculative and highly volatile returns seen in much of the cryptocurrency space, RWA tokenization can offer more predictable and stable returns, similar to traditional fixed-income investments. This predictability, rooted in the real-world value of the underlying assets, makes Web3 platforms more attractive to those seeking reliable investment vehicles, including retirees, conservative investors, and those new to the digital asset space.</p>
+<h3 id="diversified-investment-opportunities">Diversified Investment Opportunities</h3>
+<p>The tokenization of RWAs opens up a world of diversified investment opportunities previously inaccessible to many due to high entry barriers or a lack of liquidity. From fractional ownership in real estate to participation in the global art market or investing in renewable energy projects, RWA tokens democratize access to a wide range of assets. This diversification not only <strong>spreads investment risk</strong> but also caters to the varied interests and ethical considerations of a broad user base, making Web3 platforms more appealing to individuals seeking to align their investments with their values and interests.</p>
+<h2 id="economic-potential-of-bringing-rwas-on-chain">🦄 Economic Potential of Bringing RWAs On-Chain</h2>
+<p>The cryptocurrency market has experienced explosive growth over the past decade, culminating in a current market capitalization of approximately $2.8 trillion. This growth reflects an increasing acceptance of cryptocurrencies as both a speculative investment and a revolutionary financial technology. Bitcoin, the original cryptocurrency, continues to dominate the market, but the emergence of thousands of altcoins has diversified the investment landscape, offering a wide range of technological innovations and use cases beyond simple currency or store of value. Data indicate that the market is not only expanding in terms of capitalization but also in complexity, with the rise of decentralized finance (DeFi), non-fungible tokens (NFTs), and other blockchain-based assets contributing to the market's growth.</p>
+<h3 id="projected-market-cap-of-rwa-tokens">Projected Market Cap of RWA Tokens</h3>
+<p>Real World Asset (RWA) tokens represent a new frontier in the evolution of decentralized finance and alternate investments. By tokenizing real-world assets such as real estate, precious metals, or even fine art, RWA tokens aim to make these assets more accessible, liquid, and divisible, potentially unlocking trillions of dollars in value. Conservative estimates project that the market cap of RWA tokens could reach approximately $30 trillion in the coming years, effectively tripling the current market cap of the broader cryptocurrency sector.</p>
+<p>The realization of this potential, however, hinges on several factors, including regulatory clarity, technological infrastructure, and market adoption. Should these factors align favorably, the infusion of RWA tokens into the cryptocurrency market could not only expand the market's capitalization but also fundamentally transform how assets are bought, sold, and owned across the globe.</p>
+<h2 id="prerequisites-to-bring-real-world-assets-onto-the-chain">🛂 Prerequisites to Bring Real-World Assets Onto the Chain</h2>
+<h3 id="tokenization">Tokenization</h3>
+<p>The tokenization of real-world assets (RWAs) is a complex process that requires meticulous attention to regulatory compliance, technological infrastructure, and the establishment of trust with participants.</p>
+<ul>
+<li><strong>Binding RWA and Tokens with High Due Diligence Standards:</strong> The tokenization process necessitates a rigorous due diligence framework to ensure the authenticity, legality, and value of the real-world assets being tokenized. This involves comprehensive vetting processes, legal checks, and valuation assessments to maintain high integrity and trust in the tokenized assets.</li>
+<li><strong>On-Chain Ownership and Decentralization:</strong> Introducing RWAs to the blockchain allows for the decentralization of ownership records. Smart contracts enable the decentralized execution of ownership transfers, reducing reliance on traditional centralized entities and enhancing transaction efficiency.</li>
+<li><strong>Immutable Ownership Records for Audit Trails:</strong> Blockchain technology ensures that ownership records are immutable and transparent. This capability provides a robust audit trail for all transactions, enhancing security and trust among participants and facilitating compliance with regulatory standards.</li>
+<li><strong>Regulatory Landscape Certainty:</strong> Navigating the regulatory landscape is crucial for the successful tokenization of RWAs. Token issuers must ensure compliance with existing securities, commodities, and banking laws, adapting to the evolving regulatory environment to provide clarity and security for investors.</li>
+<li><strong>Permissioned Architecture and Strict KYC/AML Compliance:</strong> Implementing a permissioned blockchain architecture can help in meeting regulatory requirements, including Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance. This setup restricts access to authorized participants only, enabling more controlled and compliant transaction processes.</li>
+<li><strong>Embedded Applicable Laws:</strong> The tokenization process must incorporate the applicable laws directly within the smart contracts governing the tokens. This ensures that all transactions automatically comply with the relevant legal requirements, providing a seamless legal framework for token issuance and transfer.</li>
+</ul>
+<h3 id="liquidity">💰 Liquidity</h3>
+<p>Out of all the hurdles that exist, the most significant one in the tokenization of RWAs is the fragmentation of users across different blockchain networks, which can hinder liquidity. Enhancing liquidity for tokenized RWAs involves several strategic approaches:</p>
+<ul>
+<li><strong>Strategic Asset Curation:</strong> Carefully curating the assets to be tokenized is vital for building trust and ensuring liquidity. Assets with clear, less ambiguous valuations are preferred, as they provide investors with confidence in the underlying value of the tokens.</li>
+<li><strong>Unified and Aggregated Market for Buyers and Sellers:</strong> Creating a unified marketplace that aggregates buyers and sellers from different jurisdictions is essential for enhancing liquidity. This involves ensuring that the same asset is available across all chains and exchanges, providing a seamless experience for users.</li>
+<li><strong>Seamless Experience for Users:</strong> A user-friendly platform that offers a seamless experience is crucial for attracting and retaining participants. This includes intuitive interfaces, straightforward transaction processes, and comprehensive support services.</li>
+<li><strong>High-Yielding Assets:</strong> Focusing on assets that offer high yields can attract investors looking for lucrative opportunities. These assets often come with higher risks, so transparent risk assessments and disclosures are essential.</li>
+<li><strong>Regulated Ecosystem Partners:</strong> Collaborating with regulated exchanges, custodian wallets, and third-party due diligence partners of global repute ensures that the ecosystem operates within legal boundaries. This regulatory framework provides additional security and trust for participants, further enhancing liquidity.</li>
+</ul>
+<h1 id="limitations-of-current-blockchain-ecosystems">Limitations of Current Blockchain Ecosystems</h1>
+<h3 id="traditional-blockchains-are-monolithic">Traditional Blockchains are Monolithic</h3>
+<p><strong>Monolithic blockchains</strong> embody data settlement and are bundled within a single layer. This architecture, while simple and secure, faces challenges such as inflexibility and scalability issues. The single consensus mechanism and the inherent rigidity make these blockchains resistant to changes and vulnerable to network congestion during high-demand periods.</p>
+<h3 id="challenges-in-innovation">Challenges in Innovation</h3>
+<p>The properties of permissionless blockchains often result in a slower pace of innovation due to the consensus required for any significant changes. This structure, while promoting security and decentralization, limits the system's flexibility to adapt to new requirements or improvements efficiently.</p>
+<h3 id="vulnerability-to-forks">Vulnerability to Forks</h3>
+<p>Permissionless blockchains are prone to forks, both soft and hard, as a result of disagreements within the community regarding protocol upgrades or changes. While forks can democratize decision-making, they also lead to community and network fragmentation, which can dilute the blockchain's integrity and value.</p>
+<h3 id="the-need-for-multi-language-support-in-smart-contracts">The Need for Multi-Language Support in Smart Contracts</h3>
+<p>The dominance of a single programming language like Solidity for smart contracts on platforms such as Ethereum has highlighted the need for supporting multiple programming languages. This inclusion would lower the barrier to entry for developers unfamiliar with Solidity, diversify the developer base, and potentially enhance the security and functionality of smart contracts by leveraging the strengths of various programming languages.</p>
+<h3 id="kycaml-compliances">KYC/AML Compliances</h3>
+<p>The absence of built-in KYC/AML compliance mechanisms within the blockchain protocols necessitates the integration of externally trusted KYC providers. These providers act as oracles, verifying the identities and legal statuses of participants to ensure regulatory compliance and maintain the integrity of the blockchain ecosystem.</p>
+<h3 id="centralization-concerns">Centralization Concerns</h3>
+<p>Despite the decentralized ideal of blockchain technology, practical deployments have shown a trend towards centralization, particularly in proof-of-stake (PoS) blockchains where significant financial investment is required to participate as a validator. This economic barrier to entry creates disparities in network participation and raises concerns about the centralization of power among a few wealthy nodes. The concentration of the majority of nodes in control of a few entities running on a handful of cloud providers' nodes adds to the dangers of centralization that are evident in the distribution of nodes in the current Ethereum network.</p>
+<h3 id="mitigating-malicious-attacks">Mitigating Malicious Attacks</h3>
+<p>The public visibility of node IP addresses in permissionless chains exposes the network to Byzantine attacks, such as DDoS attacks. Enhancing anonymity while maintaining decentralization is crucial for safeguarding against such vulnerabilities and ensuring the security and privacy of transactions and network participants.</p>
+<h3 id="fragmentation-of-public-and-private-networks">Fragmentation of Public and Private Networks</h3>
+<p>The fragmentation between public and private blockchain networks challenges the seamless exchange of information and value, leading to isolated liquidity pools. Developing protocols for secure and trusted cross-network communication is essential for leveraging the decentralization of public chains while maintaining the privacy and compliance features of private networks. This integration would enable a more unified and efficient blockchain ecosystem, capable of supporting a wide range of applications and use cases across different sectors.</p>
+<p>To achieve mass Web3 adoption, Kalp addresses the limitations in the current blockchain landscape, i.e., regulatory clarity, interoperable infrastructure, and advancements in scalability and security. By overcoming existing challenges and fostering collaboration between traditional finance and DeFi, Kalp aims to unlock a new era of financial innovation and empowerment to democratize access to financial opportunities that have previously been out of reach due to high entry barriers.</p>
+<h2 id="kalp-a-hybrid-cross-chain-ecosystem">🤖 Kalp: A Hybrid Cross-Chain Ecosystem</h2>
+<p>The Kalp ecosystem leverages a multi-chain architecture, incorporating both public and private permissioned sub-networks or parachains, to offer an end-to-end platform for digital asset creation and management. This architecture meticulously enforces KYC (Know Your Customer) and KYB (Know Your Business) compliance protocols, ensuring a secure and compliant operational environment. Within this ecosystem, users are provided with flexible custody solutions, including self-custody wallets for heightened security and autonomy, as well as the option of integrated third-party custodian wallets, catering to a broad spectrum of security and regulatory needs.</p>
+<p>Complementing the Kalp ecosystem's internal interoperability is its sophisticated cross-chain communication protocol. This protocol is architected to facilitate the movement of messages and assets not only within the Kalp network but also across popular permissionless chains. By leveraging a combination of state-of-the-art cryptographic algorithms, address whitelisting mechanisms and smart contract interfaces, the protocol ensures that cross-chain interactions are both secure and efficient. This encompasses a broad spectrum of functionalities, from asset transfer and smart contract invocation to data sharing and verification across blockchain boundaries.</p>
+<p><img alt="Kalp Network" src="https://kalp-network.gitbook.io/~gitbook/image?url=https%3A%2F%2F3744084565-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxGg15nXCjwKpQs1NgVMP%252Fuploads%252FkfMOCnrglK9CG2IWWMZ2%252FUntitled.png%3Falt%3Dmedia%26token%3D64362198-dc4d-4e7c-a344-623fd20d1337&amp;width=768&amp;dpr=4&amp;quality=100&amp;sign=f170d8f7&amp;sv=1" /></p>
+<h2 id="kalp-public-and-permissioned-multi-chain-network">⛓️ Kalp Public and Permissioned Multi-Chain Network</h2>
+<p>The Kalp Public and Permissioned Multi-Chain Network leverages its robust and <strong>modular architecture</strong> to deliver a scalable blockchain infrastructure. This network's structure is strategically distributed across <strong>multiple cloud service providers</strong>, including AWS, GCP, and Azure, as well as <strong>on-premise machines</strong>, ensuring redundancy, high availability, and geographical diversification. The architecture is fundamentally modular, facilitating the segregation of critical operational layers such as execution, consensus, and transaction gateway. This modular design not only enhances the system's efficiency and scalability but also enables tailored configurations to meet specific enterprise needs.</p>
+<h3 id="inter-chain-communication">Inter-Chain Communication</h3>
+<p>Kalp Network's functionality offers a sophisticated inter-chain communication mechanism. This framework is engineered to facilitate secure and efficient data transfer and transaction execution across various chains within the Kalp ecosystem or other conventional blockchains.</p>
+<h2 id="compliance-and-privacy-features">🔏 Compliance and Privacy Features</h2>
+<p>The Permissioned Space of the Kalp Network is fortified with an array of compliance and privacy features, specifically designed to align with the rigorous standards of regulated industries and obey the law of land. Kalp provides a foundational compliance structure that is adaptable to diverse regulatory requirements.</p>
+<p>Beyond robust security, the Kalp ecosystem prioritizes AML and CTF protection through a suite of cutting-edge, privacy-preserving technologies. The cornerstone of this suite is the Kalp Insight analytics tool. This ingenious tool delves into network operations, gleaning valuable insights without compromising user anonymity. It achieves this feat through sophisticated data analysis techniques that prioritize confidentiality and adherence to digital privacy regulations.</p>
+<p>Furthermore, the Kalp ecosystem boasts a one-of-a-kind compiler, a specialized program meticulously designed to safeguard legal compliance within the network. This AI-driven compiler scrutinizes smart contracts against pre-established legal frameworks. By doing so, it ensures that every deployed smart contract adheres to the necessary regulatory standards. This safeguard effectively mitigates potential legal and operational risks, fostering a trustworthy and secure environment.</p>
+<h2 id="private-permissioned-enterprise-grade-private-chains">Private-Permissioned Enterprise-Grade Private Chains</h2>
+<p>Enterprise-grade blockchain ecosystems cater to the specific needs of businesses and organizations looking to leverage the power of blockchain technology in a secure and controlled environment. These needs differ from those of public blockchains, where anyone can participate.</p>
+<ul>
+<li><strong>Security and Privacy:</strong> Enterprises deal with sensitive data and require robust security measures. Kalp’s private, permissioned blockchains restrict access and participation, ensuring only authorized parties can interact. Additionally, the high-availability nodes holding ledgers and world state data are unavailable outside the jurisdiction of the enterprises.</li>
+<li><strong>Compliance:</strong> Businesses must adhere to various regulations, depending on their industry. The ecosystem provides tools to help adhere to established legal compliances. This ensures all deployed contracts meet regulatory standards.</li>
+<li><strong>Scalability and Performance:</strong> Public blockchains can struggle with large transaction volumes. Enterprise-grade ecosystems are designed for high throughput and scalability, allowing businesses to handle a significant number of transactions efficiently. Kalp offers faster pluggable consensus choices, such as RAFT for private enterprise chains.</li>
+<li><strong>Interoperability:</strong> The ability for different chains to work together seamlessly is crucial. The Kalp ecosystem facilitates smooth interaction between various chains within and outside the ecosystem.</li>
+</ul>
+<p>Enterprise-grade private chains within the Kalp Network focus on blockchain customization, integration, and security, specifically architected to cater to the unique needs of corporate entities. These chains provide a highly secure, compliant, and adaptable blockchain solution, enabling enterprises to leverage blockchain technology's full potential while aligning with their operational, legal, and technical requirements.</p>
+<h3 id="customization-capabilities">Customization Capabilities</h3>
+<p>The Kalp Network facilitates a remarkable degree of customization for its enterprise-grade private chains, beginning with the "one-click Kalp chain deployment" feature. This streamlined deployment process allows for rapid setup and configuration of private chains, significantly reducing the technical barriers to blockchain adoption. Further customization is available in the form of selectable consensus algorithms, allowing enterprises to choose the mechanism that best fits their use case, be it for efficiency, security, or decentralization.</p>
+<ul>
+<li><strong>Access Control:</strong> Kalp chains are associated with distributed certificate authority that allows the creation of X.509 certificates known for their robust RBAC functionalities. The certificates help in validating the origin of a transaction.</li>
+<li><strong>Solutions for Specific Needs:</strong> Different industries and applications have unique requirements. Customization allows businesses to build blockchain solutions that cater to their specific workflows, data privacy needs, and regulatory compliance. For example, a supply chain management system might require different features compared to a secure voting platform.</li>
+<li><strong>Enhanced Efficiency and Performance:</strong> By customizing the consensus mechanism (how transactions are validated), data structures, and smart contract functionalities, businesses can optimize the blockchain for their specific use cases. This can lead to faster transaction processing, reduced costs, and improved overall efficiency.</li>
+<li><strong>Integration with Existing Systems:</strong> Early adopters who leverage customization to create innovative blockchain solutions can gain a competitive edge. They can streamline operations, improve transparency, and build trust with customers in a way that generic blockchain platforms might not allow.</li>
+<li><strong>Future-proofing the Network:</strong> The ability to customize the blockchain allows for easier adaptation to evolving regulations and industry standards. By building a flexible infrastructure, businesses can ensure their blockchain solution remains relevant and effective in the long run.</li>
+</ul>
+<h3 id="integration-with-enterprise-systems">Integration with Enterprise Systems</h3>
+<p>Integration capabilities are a cornerstone of the Kalp Enterprise Grade Private Chains, featuring REST-based transaction signing through custodian wallets. This approach allows for seamless integration with existing enterprise resource planning (ERP) systems, databases, and other critical software infrastructure. The REST interface facilitates easy integration with a wide range of systems, enabling enterprises to maintain their existing workflows and systems while incorporating blockchain technology's benefits.</p>
+<h3 id="security-and-compliance-protocols">Security and Compliance Protocols</h3>
+<p>Kalp ecosystem provides support for <strong>self-custody wallets</strong> where end users have complete autonomy over their private keys, as well as <strong>third-party key custody wallets</strong> using Hashicorp vault. This ensures that cryptographic keys are managed in a secure manner, reducing the risk of unauthorized access and improving the user experience.</p>
+<p>Support for Hardware Security Module (HSM) integration further enhances security, allowing enterprises to leverage dedicated hardware for key management and cryptographic operations. Fine-grained access control mechanisms are implemented throughout the Kalp Network, enabling precise control over who can access what data and functionalities within the blockchain, ensuring that sensitive operations and data remain secure and compliant with internal policies and regulatory standards.</p>
+<h3 id="the-importance-of-a-third-party-key-custody-vault-in-the-kalp-ecosystem">The Importance of a Third-Party Key Custody Vault in the KALP Ecosystem</h3>
+<ul>
+<li><strong>Policy-based Management:</strong> Vault acts as a central repository, securely storing and managing these keys, eliminating the need to distribute them across various systems or devices. This centralized approach simplifies key management and access control.</li>
+<li><strong>Enhanced Security:</strong> It employs robust encryption techniques to protect keys at rest and in transit. Additionally, it integrates with various authentication methods, ensuring only authorized users can access specific keys. This multi-layered security approach safeguards the network from unauthorized access and potential breaches.</li>
+<li><strong>Fine-grained Access Control:</strong> Permissions can be assigned based on user roles and specific needs. This minimizes the risk of unauthorized key usage and strengthens overall security.</li>
+<li><strong>Improved Operational Efficiency:</strong> Vault automates key rotation and lifecycle management, streamlining operations and reducing the risk of human error. This frees up IT resources to focus on other critical tasks.</li>
+<li><strong>Support for Diverse Key Types:</strong> Vault offers comprehensive support for a wide range of key types, ensuring compatibility with different blockchain platforms and protocols.</li>
+</ul>
+<h1 id="kalps-presence-in-permissionless-chains">🎫 Kalp’s Presence in Permissionless Chains</h1>
+<p>The permissionless facet of the Kalp Network is engineered to embody the essence of decentralization while simultaneously addressing the pivotal need for regulatory compliance and security in blockchain ecosystems. This caters to an expansive user base, emphasizing inclusivity and fostering an environment ripe for community-driven innovation and development.</p>
+<h3 id="kalp-system-chain">Kalp System Chain</h3>
+<p>The Kalp System Chain is a pivotal infrastructure within the Kalp Network, designed to uphold the network's foundational principles of regulatory compliance and seamless interoperability. It functions as the custodian of GDPR-compliant KYC (Know Your Customer) and KYB (Know Your Business) information for all network participants, establishing a trust framework essential for a secure and compliant blockchain ecosystem.</p>
+<h3 id="gdpr-compliant-information-storage">GDPR-Compliant Information Storage</h3>
+<p>At its core, the Kalp System Chain securely stores and manages KYC and KYB information. The Kalp System Chain acts as the secure vault for Know Your Customer (KYC) and Know Your Business (KYB) information, the lifeblood of trust within the network. This robust system prioritizes GDPR compliance at every stage. End-to-end encryption safeguards data in transit and at rest, while sophisticated anonymity techniques hide identities without compromising verification. Furthermore, meticulous access controls ensure only authorized users can access specific information. This multi-layered approach provides the highest standards of privacy and security for participant data.</p>
+<p>The Kalp System Chain empowers participants by incorporating verifiable consent mechanisms; it grants individuals complete control over their individual data. This aligns with the core principles of GDPR, fostering trust and transparency within the ecosystem.</p>
+<h3 id="whitelisting-users-in-permissionless-chains">Whitelisting Users in Permissionless Chains</h3>
+<p>The advent of cross-chain messaging protocols and their integration in Kalp has made it feasible to integrate whitelisting features in other networks, enabling a new layer of control and security for decentralized applications (DApps). Through cross-chain messages, information about whitelisted users can be securely transmitted and verified across different blockchain networks, allowing DApps to restrict access to approved participants. This approach leverages the inherent strengths of permissionless chains—such as Ethereum and Binance Smart Chain—while incorporating a level of regulatory compliance and user validation typically reserved for permissioned systems.</p>
+<h3 id="kalp-cross-chain-liquidity-protocol">Kalp Cross-Chain Liquidity Protocol</h3>
+<p>The Kalp Cross-Chain Liquidity Protocol is engineered to facilitate permissioned liquidity and asset exchanges across different blockchain networks. This protocol leverages smart contracts across chains and decentralized finance (DeFi) mechanisms to create a secure, efficient, and user-friendly environment for cross-chain asset swaps and liquidity provision through cross-chain order fulfillment.</p>
+<h3 id="relay-routers">Relay Routers</h3>
+<p>Relay routers are a critical innovation within the Kalp Network's permissionless space, designed to bridge the communication gap between the Kalp ecosystem and other permissionless blockchains. These routers act as distributed nodes that relay messages and transactions across different blockchain networks, enabling a wide range of interoperability use cases.</p>
+<p>These relay routers seamlessly encode and decode messages and transactions between the Kalp ecosystem and other permissionless blockchains. This unlocks a vast array of interoperability use cases. Data flows freely, fostering collaboration and innovation across diverse blockchain environments. Developers can leverage the unique strengths of different blockchains to build robust, rich, and more powerful applications.</p>
+<h2 id="kalp-ecosystem-node-architecture">🖥️ Kalp Ecosystem Node Architecture</h2>
+<p>The Kalp ecosystem utilizes a diverse set of nodes to maintain its infrastructure, security, and functionality. These nodes provide a robust structure to the Kalp ecosystem to facilitate the groundbreaking functionalities added with diverse and unique roles, from executing smart contracts and facilitating consensus to ensuring interoperability between multiple Kalp chains as well as between Kalp chains and different external blockchain networks that also follow regulatory compliance and provide architectural scalability.</p>
+<h3 id="execution-layer-nodes">Execution Layer Nodes</h3>
+<p>Execution Layer Nodes are responsible for the execution of smart contracts within the Kalp ecosystem. These nodes evaluate the business logic of transactions as dictated by smart contracts and endorse the transactions as valid before they are added to the ledger. In the Kalp ecosystem, this execution layer is a separate entity that is independent and thus minimizes the processing power of the network and creates efficient environments to facilitate smooth communication.</p>
+<h4 id="functionality">Functionality</h4>
+<ul>
+<li><strong>Smart Contract Execution:</strong> They execute the code of smart contracts upon receiving transactions that invoke the contract.</li>
+<li><strong>Transaction Validation:</strong> Post-execution, they validate the transaction against the smart contract's stipulated rules and conditions.</li>
+<li><strong>Endorsement:</strong> Once a transaction is validated, the execution layer node signs it, serving as a proof of execution and validation.</li>
+</ul>
+<h4 id="smart-contract-execution">Smart Contract Execution</h4>
+<ul>
+<li><strong>Triggering by Transactions:</strong> Similar to other blockchains, transactions initiate smart contract execution on KALP. These transactions involve invoking specific functions within the deployed smart contract.</li>
+<li><strong>Execution Environment:</strong> Unlike traditional blockchains that rely on Proof of Work (PoW) for mining, KALP utilizes a different consensus mechanism, Smart-BFT, for transaction validation. This led to a more efficient execution environment optimized for smart contracts.</li>
+</ul>
+<h4 id="transaction-validation">Transaction Validation</h4>
+<ul>
+<li><strong>Pre- and Post-Execution Checks:</strong> Similar to other blockchains, KALP performs pre-execution checks to ensure the transaction adheres to the network's fee structure and has sufficient funds associated with it. Post-execution checks validate the transaction's outcome against the smart contract's logic and state changes.</li>
+<li><strong>Consensus Mechanism:</strong> The chosen consensus mechanism on KALP would play a crucial role in transaction validation. Validators on the network are responsible for verifying the transaction's execution and ensuring it complies with the smart contract's rules, regulatory compliance, and.</li>
+</ul>
+<h4 id="endorsement">Endorsement</h4>
+<ul>
+<li><strong>Validator Roles:</strong> Validators on the KALP network endorse transactions after successful execution and validation. This endorsement serves as proof of the transaction's legitimacy and immutability on the blockchain.</li>
+</ul>
+<h4 id="additional-considerations-for-kalp">Additional Considerations for KALP</h4>
+<ul>
+<li><strong>Scalability:</strong> Since smart contract execution is resource-intensive, KALP's design considers scalability solutions to handle a high volume of transactions.</li>
+<li><strong>Security:</strong> Security is paramount for smart contracts. KALP should implement robust security measures to prevent vulnerabilities and exploits within smart contracts. This could involve formal verification techniques and secure coding practices.</li>
+</ul>
+<p>By incorporating these elements, KALP can create a secure and efficient environment for smart contract execution, transaction validation, and endorsement.</p>
+<h3 id="high-data-availability-nodes">High Data Availability Nodes</h3>
+<p>High Data Availability (HDA) Nodes are pivotal in replicating and storing ledger data across the Kalp ecosystem. They ensure that the network remains robust and that data loss is minimized.</p>
+<h4 id="functionality_1">Functionality</h4>
+<ul>
+<li><strong>Data Replication:</strong> These nodes replicate ledger data to ensure redundancy and high availability.</li>
+<li><strong>Data Retrieval:</strong> They facilitate quick data retrieval for validating transactions or querying ledger history.</li>
+<li><strong>Fault Tolerance:</strong> Through data replication, they contribute to the network's fault tolerance, ensuring its resilience against data loss.</li>
+</ul>
+<h3 id="orderer-nodes">Orderer Nodes</h3>
+<p>Orderer nodes are critical for maintaining the integrity and order of transactions within the Kalp ecosystem. They sequence transactions into blocks and distribute them across the network.</p>
+<h4 id="functionality_2">Functionality</h4>
+<ul>
+<li><strong>Transaction Ordering:</strong> They establish a consistent order for transactions, which is essential for maintaining the ledger's integrity.</li>
+<li><strong>Block Creation:</strong> After ordering, they package transactions into blocks.</li>
+<li><strong>Block Distribution:</strong> These nodes distribute the created blocks to all nodes responsible for maintaining the ledger.</li>
+</ul>
+<h3 id="gateway-nodes">Gateway Nodes</h3>
+<p>Gateway nodes serve as the primary interface between the participants of the Kalp ecosystem and its underlying blockchain infrastructure. These nodes facilitate the secure and efficient submission of transactions to the network, acting as a conduit for communication and data flow.</p>
+<h4 id="functionality_3">Functionality</h4>
+<ul>
+<li><strong>Transaction Submission:</strong> Gateway nodes receive transactions from users or applications, acting as the initial point of entry into the Kalp ecosystem. They perform preliminary checks on the transaction's structure and authenticity.</li>
+<li><strong>Routing:</strong> After initial validation, they route transactions to the appropriate channels within the network, ensuring that each transaction reaches the correct destination for further processing. This includes directing transactions to endorsement nodes for smart contract execution and validation.</li>
+<li><strong>Security and Anonymity:</strong> These nodes enhance the network's security by implementing protocols that protect user privacy and data integrity. They mask the details of transaction originators, providing an additional layer of anonymity and safeguarding against potential network attacks.</li>
+<li><strong>Interface Provision:</strong> Gateway nodes offer a RESTful API interface, enabling developers to interact with the blockchain easily. This interface simplifies the process of sending transactions, querying the state of the blockchain, and listening for events, making development on the Kalp ecosystem accessible and efficient.</li>
+<li><strong>Load Balancing and Scalability:</strong> To manage network traffic and maintain high performance, gateway nodes employ load-balancing techniques. They distribute incoming requests evenly across the network, preventing any single node from becoming a bottleneck. This is crucial for scalability as the ecosystem grows in size and transaction volume.</li>
+</ul>
+<h2 id="tokenomics-and-governance-in-the-kalp-ecosystem">📈 Tokenomics and Governance in the KALP Ecosystem</h2>
+<p>Ginni is the economic instrument or currency designed to underpin the ecosystem's financial stability and incentivize active, meaningful participation. The network participants of the Kalp ecosystem are paid in Gini.</p>
+<h3 id="token-distribution-and-schedule">Token Distribution and Schedule</h3>
+<p>The KALP foundation has instituted a hard cap of $1 billion for Gini tokens, allocated across various stakeholders to ensure balanced ecosystem development. The distribution includes:</p>
+<ul>
+<li><strong>Founders &amp; Team (20%):</strong> Encouraging long-term commitment with a 6-month cliff, followed by a gradual monthly release over four years.</li>
+<li><strong>Foundation/Endowment (15%):</strong> Allocated for foundational growth with no initial cliff and a four-year monthly unlocking schedule.</li>
+<li><strong>Ecosystem Reserve (45%):</strong> To support the ecosystem's expansion and sustainability, distributed monthly over four years without an initial cliff.</li>
+<li><strong>Seed Sale (5%)</strong> and <strong>Private Sale (5%):</strong> Early support is rewarded with tokens unlocking quarterly over two years.</li>
+<li><strong>Airdrop (3%)</strong> and <strong>Public Sale (7%):</strong> Enhancing community engagement with quarterly unlocks for airdrops and instant access for public sale tokens.</li>
+</ul>
+<h3 id="governance-and-economic-resilience">Governance and Economic Resilience</h3>
+<p>Gini's governance is deeply interwoven with a DAO structure, ensuring democratic decision-making and equitable network evolution. The token's design emphasizes long-term network health and value creation, with a governance model that supports transparent, fair decision-making through smart contracts. AI-enhanced systems monitor and adjust incentives, ensuring alignment with ecosystem goals.</p>
+<h3 id="incentives-for-sustainable-growth">Incentives for Sustainable Growth</h3>
+<p>A key feature of Gini's economy is its incentive mechanisms that promote network participation and contribution without centralization risks. It includes merit-based rewards, equitable airdrops to ensure widespread network support, and a performance-based recognition system that aligns rewards with the ecosystem's qualitative contributions. Strategic token burns and lock-up periods are implemented to mitigate speculative behaviors and support token value appreciation over time.</p>
+<h2 id="identity-layer">Identity Layer</h2>
+<p>The Identity Layer in Kalp Network provides a secure and reliable framework for verifying and managing user identities. This layer integrates the power of KYC (know your customer) Oracles with the established trust of third-party KYC providers like Authbridge and Sumsub. By leveraging this combined approach, the Kalp Network ensures that all participants within the ecosystem are thoroughly verified, fostering a high level of security and regulatory compliance.</p>
+<h3 id="kyc-oracles-with-trusted-3rd-party-kyc-providers">KYC Oracles with Trusted 3rd Party KYC Providers</h3>
+<p>KYC Oracles serve as a tool between the Kalp Network and external KYC providers, ensuring that participant verification is both rigorous and streamlined. The oracles automate the verification process, retrieving and validating KYC/KYB data against the providers' databases, thus minimizing fraud risk and enhancing trust within the network.</p>
+<h3 id="public-key-whitelisting-through-kyc-verification">Public Key Whitelisting Through KYC Verification</h3>
+<p>Upon successful KYC verification, the participant's public keys are whitelisted, a process that entails recording the public keys in a dedicated registry on Kalp’s system chain. This whitelisting mechanism ensures that only verified participants can engage in transactions within the Kalp ecosystem, thereby maintaining a secure and compliant environment. The System Chain's universal accessibility across the Kalp ecosystem facilitates the seamless verification of these whitelisted keys across all chains, ensuring integrity and trust in interactions network-wide.</p>
+<h4 id="distributed-certificate-authority">Distributed Certificate Authority</h4>
+<p>The Distributed Certificate Authority within the Kalp Network plays a crucial role in identity management, generating Kalp Identity, and handling the registration of the generated ECDSA public key, specifically using the curve P-256. This mechanism is central to the secure and private management of cryptographic keys within the ecosystem.</p>
+<p>The process of generating the key pair is designed to ensure the utmost security and privacy. Private keys are generated locally on the user's device, ensuring that they never leave the confines of the device, thereby mitigating the risk of exposure. The public key, derived from the private key, is then used to register the user within the Kalp network. This registration is a testament to the user's verified presence and readiness to interact within the ecosystem.</p>
+<h4 id="unified-private-key-interaction">Unified Private Key Interaction</h4>
+<p>A distinguishing feature of the Kalp Network's identity layer is the use of a single private key to interact across all multi-chains within the ecosystem. This approach simplifies the user experience while maintaining high security and privacy standards, allowing for seamless interaction across the diverse landscape of the Kalp Network without compromising the user's control over their private keys.</p>
+<h2 id="execution-layer">⚙️ Execution Layer</h2>
+<p>The execution layer within the Kalp network is segregated from the consensus layer. This separation is strategically designed to optimize the computational efficiency of the network, enabling the parallel execution of smart contracts and transaction validation. Unlike traditional blockchain networks, where the execution and consensus mechanisms are intertwined, leading to potential bottlenecks in transaction finalization, the Kalp Network’s architecture ensures that CPU resources are fully leveraged for execution tasks, thereby enhancing throughput and reducing latency.</p>
+<h3 id="segregation-for-enhanced-parallelization">Segregation for Enhanced Parallelization</h3>
+<p>The execution layer's primary function is to execute smart contracts and validate transactions. This architectural choice of keeping the execution layer separate from other layers addresses one of the significant challenges faced by conventional blockchain systems: the bottleneck associated with linear transaction processing. In comparison to popular public and permissionless chains like Ethereum, where transaction execution can become a throughput bottleneck, the Kalp Network's approach significantly enhances efficiency and scalability.</p>
+<h3 id="peer-nodes-and-world-state-interaction">Peer Nodes and World-State Interaction</h3>
+<p>Peer nodes within the Execution Layer play a pivotal role in interacting with the world state of Kalp chains. This interaction is crucial for ensuring that the state of the blockchain is consistently updated in accordance with the outcomes of executed smart contracts and validated transactions. Kalp’s architectural flexibility further allows for the potential segregation of smart contract execution from peer nodes. This segregation not only enhances the system's capacity for parallel processing but also optimizes the allocation of computational resources, ensuring that smart contract execution and transaction validation can occur simultaneously without interference, thereby further boosting the network's performance capabilities.</p>
+<h3 id="kalp-sdk-facilitating-regulated-smart-contract-development">Kalp SDK: Facilitating Regulated Smart Contract Development</h3>
+<p>The Kalp SDK is a tool for developers within the Kalp ecosystem, designed to foster the writing of regulated smart contracts. This toolkit provides developers with the means to interact seamlessly with the System Chain, facilitating interoperability, identity validation, and the creation of general-purpose smart contracts. By supporting multiple programming languages such as Golang, Node.js, Java, and Python, the Kalp SDK embodies the network’s commitment to decentralization and inclusivity, removing potential barriers to developer engagement that a single-language framework might impose. This approach starkly contrasts with more monolithic blockchain ecosystems, which may limit developer accessibility and innovation due to language constraints.</p>
+<h4 id="kalp-compiler-ensuring-security-and-regulatory-compliance">Kalp Compiler: Ensuring Security and Regulatory Compliance</h4>
+<p>The Kalp Compiler represents a groundbreaking fusion of recursive compilation techniques and AI-driven analysis, aimed at assisting developers in identifying and resolving security and regulatory compliance issues within smart contracts. This tool is not merely a gatekeeper but a facilitator of innovation, allowing for the deployment of smart contracts once semantic checks are satisfied. The Compiler's design philosophy underscores the Kalp Network’s dedication to supporting the creation of smart contracts that can endure rigorous regulatory and legal examination. Unlike traditional compilers, which focus solely on syntactical correctness, the Kalp Compiler integrates components of the Kalp ecosystem to provide developers with a comprehensive toolset for crafting smart contracts capable of meeting the highest standards of security and compliance.</p>
+<h2 id="consensus-layer">🏛️ Consensus Layer</h2>
+<p>The consensus layer achieves transaction ordering and validation, ensuring the integrity and finality of transactions across the network. This layer is engineered to interact with the execution layer, thus facilitating a robust and secure process for transaction verification and block creation.</p>
+<h3 id="interaction-with-execution-layer">Interaction with Execution Layer</h3>
+<p>The Consensus Layer's primary function is to provide a deterministic ordering of transactions, serving as a crucial intermediary between the submission of transactions and their execution. Through this process, the layer ensures that transactions are processed in a consistent manner, thereby preventing conflicts and forks, which ensures the integrity of the blockchain ledger. The deterministic nature of the consensus algorithms employed, such as SMART BFT, guarantees that once a transaction is validated by the Execution Layer, it is considered final and incorruptible.</p>
+<h3 id="deterministic-consensus-algorithms-smart-bft-for-public-chains-in-kalp">Deterministic Consensus Algorithms: SMART BFT for Public Chains in Kalp</h3>
+<p>Kalp Network's Consensus Layer uses the SMART Byzantine Fault Tolerance (BFT) algorithm, a state-of-the-art consensus mechanism designed to provide high resilience against malicious activities while ensuring transaction finality. SMART BFT is characterized by its ability to handle adversarial conditions, making it particularly suited for public chains where the risk of malicious parties is significant. The algorithm's deterministic nature means that any block validated by the Execution Layer is assured of its correctness and finality, eliminating uncertainties and the possibility of forks within the Kalp chain.</p>
+<h3 id="pluggable-consensus-for-enterprises">Pluggable Consensus for Enterprises</h3>
+<p>The Kalp Network adopts a modular approach to its consensus mechanisms, offering pluggable consensus options to cater to the diverse needs of its public and private chains.</p>
+<h4 id="raft-for-private-enterprise-chains">RAFT for Private Enterprise Chains</h4>
+<p>Private enterprise chains within the Kalp Network typically utilize the RAFT consensus algorithm, prized for its efficiency and simplicity in controlled environments. However, enterprises seeking enhanced security features have the flexibility to opt for SMART BFT, benefiting from its advanced fault tolerance and attack resistance capabilities. This flexibility allows enterprise chains to tailor their consensus mechanism to their specific security requirements and operational preferences.</p>
+<h4 id="fork-less-architecture">Fork-less Architecture</h4>
+<p>A distinctive feature of the Kalp Network is its fork-less architecture, a direct consequence of the deterministic consensus algorithms employed. This stability is crucial for maintaining trust and reliability across the network, especially for bringing financial instruments into the chain and ensuring that transactions and smart contracts execute as intended without the risk of chain reorganizations.</p>
+<h2 id="gateway-layer">🎟️ Gateway Layer</h2>
+<p>The Gateway Layer in the Kalp Network is conceived as a distributed architecture layer, pivotal in bolstering the security infrastructure of the network. This layer plays a critical role in safeguarding the identities of nodes, thereby introducing an additional stratum of protection against an array of cyber threats, including distributed denial of service (DDoS) and denial of service (DoS) attacks. By masking node identities and managing access controls, the Gateway Layer effectively mitigates the risk of targeted vulnerabilities, ensuring the integrity and availability of the Kalp Chains.</p>
+<h3 id="enhanced-security-through-anonymity">Enhanced Security Through Anonymity</h3>
+<p>The Gateway Layer operates as a sophisticated cluster of nodes that intelligently routes transactions to appropriate chains within the ecosystem. This routing mechanism not only optimizes transaction flow for efficiency and speed but also enhances security by obfuscating the direct network paths to individual nodes. Such an approach is crucial in the contemporary digital landscape, where DDoS and DoS attacks present significant risks to the continuity and reliability of blockchain networks. The Gateway Layer’s distributed nature further decentralizes the point of entry into the Kalp Network, complicating the efforts of potential attackers.</p>
+<h3 id="developer-friendly-interface">Developer-Friendly Interface</h3>
+<p>A standout feature of the Gateway Layer is its provision of a RESTful interface, designed to streamline the development process by facilitating seamless integration and interaction with the Kalp ecosystem. Developers can leverage this interface to send signed transactions with ease, simplifying the deployment and execution of smart contracts and other blockchain operations.</p>
+<h3 id="privacy-and-security-assurance">Privacy and Security Assurance</h3>
+<p>Importantly, the Gateway Layer is architecturally designed to never access or require users' private keys, ensuring that the custody of cryptographic assets remains squarely in the hands of the user. This design principle not only reinforces the security of the network but also empowers users with full control over their cryptographic credentials, aligning with the broader industry move towards self-sovereign identity and asset management.</p>
+<h4 id="self-custody-wallet">Self-Custody Wallet</h4>
+<p>Integral to the user empowerment strategy of the Kalp Network is the Self-Custody Wallet, a tool that encapsulates the network’s dedication to security, privacy, and user autonomy. This wallet is accompanied by a lightweight JavaScript library, streamlining the process of transaction signing and public-private key generation using the ECDSA P-256 curve. This cryptographic standard is selected for its balance of security and computational efficiency, ensuring robust protection for transactions while maintaining system performance.</p>
+<h4 id="transaction-signing-and-integration">Transaction Signing and Integration</h4>
+<p>The Self-Custody Wallet allows users to sign transactions securely on their devices, after which the signed transactions can be transmitted to the Gateway Layer without exposing the private keys. This mechanism ensures that transactions are authenticated and non-repudiable while preserving the user's absolute control over their private keys. The wallet's integration with the Gateway Layer via its lightweight JS library exemplifies the seamless interplay between user-centric security tools and the broader Kalp Network infrastructure, enhancing the overall usability and security of the ecosystem.</p>
+<h2 id="permissioned-oracle-layer">♊ Permissioned Oracle Layer</h2>
+<p>The Kalp Network introduces a novel Permissioned Oracle Layer, a critical innovation designed to bridge the gap between off-chain data sources and the on-chain environment while rigorously maintaining the integrity and security intrinsic to permissioned blockchain systems. This layer is characterized by its reliance on whitelisted and verified data sources, ensuring that only trustworthy and authenticated information feeds into the Kalp ecosystem. The Permissioned Oracle Layer is engineered to offer flexible integration options, including direct integration with Kalp Chains or through sophisticated messaging systems like Kafka, catering to a variety of reliability and decentralization needs.</p>
+<h3 id="integration-flexibility-and-reliability">Integration: Flexibility and Reliability</h3>
+<p>The layer's architecture permits two primary modes of data integration: through Kafka, which offers a robust and reliable message queue system ensuring data integrity and efficient handling of high-throughput data streams, or via direct blockchain integration for scenarios where real-time data transmission is paramount, albeit with a trade-off in terms of potential reliability due to the absence of a buffering message queue. This direct integration approach, while presenting a leaner architecture, leans more towards decentralization and user ownership, embodying the Kalp Network’s ethos of fostering a user-centric and decentralized ecosystem.</p>
+<h3 id="decentralization-vs-reliability">Decentralization vs. Reliability</h3>
+<p>The choice between Kafka integration and direct blockchain communication offers DApps developers the autonomy to tailor their applications according to specific use-case requirements. For applications where reliability and data integrity are non-negotiable, the Kafka route provides a failsafe mechanism, buffering data inputs and ensuring consistent delivery to the blockchain. Conversely, applications prioritizing decentralization and minimal reliance on intermediary layers may opt for direct blockchain integration, embracing a more distributed model of data ingestion.</p>
+<h4 id="chad-oracle-factory">Chad Oracle Factory</h4>
+<p>Complementing the Permissioned Oracle Layer is the Chad Oracle Factory, an innovative tool designed to democratize Oracle creation, enabling users to generate custom oracles with minimal technical overhead. The factory utilizes a JSON-based Domain-Specific Language (DSL), allowing developers and users alike to define the logic and data sources for their oracles in a structured, intuitive format. This no-code tool significantly lowers the barrier to Oracle development, making it accessible to a broader audience and fostering a rich ecosystem of data feeds and smart contract interactions.</p>
+<h5 id="no-code-oracle-creation">No-Code Oracle Creation</h5>
+<p>The Chad Oracle Factory is engineered to empower developers with varying levels of technical expertise to rapidly prototype and deploy oracles. By abstracting the complexities involved in Oracle development, the factory accelerates the integration of external data into the Kalp ecosystem, enhancing the functionality and versatility of DApps. The use of a JSON-based DSL for Oracle configuration offers a familiar and widely-used format, further easing the learning curve for new developers and non-technical users.</p>
+<h5 id="enhancing-smart-contract-interoperability">Enhancing Smart Contract Interoperability</h5>
+<p>The introduction of the Chad Oracle Factory within the Permissioned Oracle Layer significantly enhances the interoperability and dynamic capabilities of smart contracts on the Kalp Network. By providing a streamlined, flexible tool for oracle creation, the Kalp Network ensures that smart contracts can reliably interact with a vast array of external data sources, opening up a multitude of possibilities for complex, real-world applications on the blockchain.</p>
+<h2 id="kalpify-regulated-tokenization-layer">⚖️ Kalpify: Regulated Tokenization Layer</h2>
+<p>The barriers to entry, illiquidity, opacity, and analog processes involved with real-world asset ownership and trading prevent democratized and efficient wealth creation. This restricts broad-based individual participation, restricts asset liquidity, drives up costs and effort through intermediaries, and creates mistrust due to a lack of transparency.</p>
+<p>Kalp has introduced a new platform called <strong>Kalpify</strong> that uses blockchain technology to solve the above problems. Kalpify facilitates fractional ownership and ensures regulatory adherence in asset trading. Kalpify provides a legally engineered tokenization platform that bridges real-world assets to the digital realm through a trustee model. The trustee legally binds ownership rights, enabling real assets to be fractionally owned and traded through tokens on the blockchain.</p>
+<p>This innovation not only augments liquidity in asset markets but also integrates the immutability of blockchain, ensuring secure and verifiable ownership for investors across the globe. With Kalpify, the investment landscape is redefined, embracing the convergence of asset tangibility and digital agility within a legally robust ecosystem. Kalpify performs critical off-chain work, including the linkage of digital asset tokens to legally binding agreements and compliance oversight. A key feature of Kalpify is its use of a network governance layer to generate and manage public and private key pairs for users, ensuring a high level of security and trust. This could make it possible for more people to invest in real-world assets and potentially make more money. Kalpify acts like a secure storage locker for people's investments and makes sure that all trades follow the law. It also uses special computer programs to link digital tokens to real-world contracts and to make sure that everything is done correctly. Another important feature is a system for managing security keys, which helps to keep people's investments safe.</p>
+<p><img alt="Kalpify" src="https://kalp-network.gitbook.io/~gitbook/image?url=https%3A%2F%2F3744084565-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxGg15nXCjwKpQs1NgVMP%252Fuploads%252FXNyhwbBJp4JXl9PNdoOD%252Fimage%2520%2827%29-20240229-095556.png%3Falt%3Dmedia%26token%3D7a4d7d2e-28ce-4f06-b2e4-c66aac48b111&amp;width=768&amp;dpr=4&amp;quality=100&amp;sign=2648c2d3&amp;sv=1" /></p>
+<h3 id="kalpify-regulated-tokenization-layer_1">Kalpify: Regulated Tokenization Layer</h3>
+<p>Kalpify represents a comprehensive solution for the secure minting and management of digital asset tokens tied to real-world assets, offering a blend of blockchain innovation, rigorous security practices, and adherence to legal and regulatory standards. By integrating advanced cryptographic key management, smart contract automation, and stringent compliance measures, Kalpify ensures a secure, efficient, and compliant platform for digital asset minting and management.</p>
+<p>The trustee structure legally transfers ownership interests from physical assets to digital representations, maintaining compliance with regulations. This bridges the world of atoms and bits, unlocking liquidity while retaining enforceable property rights.</p>
+<h2 id="conclusion">🦾 Conclusion</h2>
+<p>Kalp aims to bridge the gap between traditional finance and the innovative world of Web3 by offering a regulated and user-friendly environment for real-world asset (RWA) tokenization. Built around the Kalp DLT, Kalp's ecosystem empowers businesses and developers to leverage blockchain technology for secure and compliant RWA tokenization, fostering a more inclusive and stable financial future. This user-friendly approach, combined with the stability of RWA tokens and adherence to regulatory requirements, positions Kalp as a strong contender in the rapidly evolving blockchain landscape. While challenges like regulatory clarity and infrastructure interoperability exist, RWA tokenization through Kalp has the potential to unlock a new era of financial innovation and empowerment by democratizing access to investments and mitigating the volatility in conventional investment domains.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../What-is-kalp-studio-wallet/" class="md-footer__link md-footer__link--prev" aria-label="Previous: What is kalp studio wallet">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                What is kalp studio wallet
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../Getting-started/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="md-footer__link md-footer__link--next" aria-label="Next: How to Sign Up and Log In to Kalp Studio Platform">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                How to Sign Up and Log In to Kalp Studio Platform
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright © 2024 Kalp studio. All rights reserved.
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/thekalpstudio/" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/Kalp_Studio" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8l164.9-188.5L26.8 48h145.6l100.5 132.9L389.2 48zm-24.8 373.8h39.1L151.1 88h-42l255.3 333.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.facebook.com/people/Kalp-Studio/61558481045861/" target="_blank" rel="noopener" title="www.facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.instagram.com/kalpstudio.official/" target="_blank" rel="noopener" title="www.instagram.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/company/studio-kalp/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://discord.com/invite/JhD7GFVvfv" target="_blank" rel="noopener" title="discord.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["announce.dismiss", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.code.select", "content.tooltips", "navigation.footer", "navigation.indexes", "navigation.instant", "navigation.instant.progress", "navigation.tabs", "navigation.tabs.sticky", "navigation.leftside", "navigation.tracking", "navigation.instant.progress", "navigation.top", "navigation.tabs", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
