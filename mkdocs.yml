@@ -242,6 +242,7 @@ nav:
           - Kalp Storage API Documentation: 'API-Reference/Kalp-Storage-API-Documentation.md'
           - Kalp Wallet API Documentation: 'API-Reference/Kalp-Wallet-API-Documentation.md'
           - KS Pay API Documentation: 'API-Reference/KS-Pay-API-Documentation.md'
+          - Email and SMS API Documentation: 'API-Reference/Email-and-SMS-API-doc.md'
           - Email Gateway Integration Guide: 'API-Reference/Email-Gateway-Integration-Guide.md'
   - Video Tutorials:
           - Login into Kalp studio: 'Video-Tutorials/Login-into-Kalp-studio.md'
