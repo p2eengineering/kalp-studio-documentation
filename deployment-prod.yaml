@@ -23,11 +23,11 @@ spec:
           imagePullPolicy: IfNotPresent
           resources:
             requests:
-              memory: '1024Mi'
-              cpu: '500m'
+              memory: '400Mi'
+              cpu: '100m'
             limits:
-              memory: '1024Mi'
-              cpu: '500m'
+              memory: '400Mi'
+              cpu: '100m'
           # readinessProbe:
           #     httpGet:
           #       path: /health-check
