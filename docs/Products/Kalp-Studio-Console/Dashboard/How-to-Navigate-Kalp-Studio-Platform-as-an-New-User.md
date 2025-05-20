@@ -57,7 +57,7 @@ On the left side of the screen, you will find the primary navigation menu, as hi
 
 Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
 
--   **Kalp Instant Deployer**: Kalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
+-   **Kalp Instant Deployer**: Kalp Studio's Kalp Instant Deployer lets you effortlessly build and deploy custom smart contracts. Choose from a wide selection of pre-audited templates or upload your own smart contract for secure and efficient deployment. Ideal for developers looking to simplify smart contract creation, Kalp Instant Deployer allows for quick and seamless deployment, with a free trial available to explore its capabilities.
 
 -   **KS Storage**: KS Storage provides a centralized interface for managing multiple storage accounts efficiently. It streamlines the process of organizing and accessing data across various storage solutions, enhancing productivity and simplifying workflows.
 
