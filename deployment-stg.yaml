@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: stg
+  namespace: ks-stg
   name: kalp-studio-doc-stg-deployment
   labels:
     app: kalp-studio-doc-stg
@@ -17,18 +17,18 @@ spec:
     spec:
       hostname: kalp-studio-doc-stg
       nodeSelector:
-        noderole:	generic
+        noderole:	ks-nonprod-node-x 
       containers:
         - name: kalp-studio-doc-stg
-          image: 408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
+          image: 025066284787.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
           imagePullPolicy: IfNotPresent
           resources:
             requests:
-              memory: '300Mi'
-              cpu: '100m'
+              memory: '800Mi'
+              cpu: '200m'
             limits:
-              memory: '300Mi'
-              cpu: '100m'
+              memory: '800Mi'
+              cpu: '200m'
           # readinessProbe:
           #     httpGet:
           #       path: /
@@ -57,7 +57,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  namespace: stg
+  namespace: ks-stg
   name: kalp-studio-doc-stg-svc
   labels:
     svc: kalp-studio-doc-stg
