@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: kalp-studio-prod
+  namespace: ks-prod
   name: kalp-studio-doc-prod-deployment
   labels:
     app: kalp-studio-doc-prod
@@ -19,7 +19,7 @@ spec:
       automountServiceAccountToken: false
       containers:
         - name: kalp-studio-doc-prod
-          image: 408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
+          image: 025066284787.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
           imagePullPolicy: IfNotPresent
           resources:
             requests:
@@ -56,7 +56,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  namespace: kalp-studio-prod
+  namespace: ks-prod
   name: kalp-studio-doc-prod-svc
   labels:
     svc: kalp-studio-doc-prod

@@ -5,7 +5,7 @@ pipeline {
 		timeout(time: 30, unit: 'MINUTES')
     	}
 	environment {
-		STG_ECR_URL = '408153089286.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg'
+		STG_ECR_URL = '025066284787.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg'
 		STG_ENV = 'stg'
 		SLACK_CHANNEL = 'pl-builds-alertss'
     }
@@ -50,7 +50,7 @@ pipeline {
 			}
 			steps {
 				echo "Deploying into '${STG_ENV}' environment"
-				sh "aws eks --region ap-south-1 update-kubeconfig --name p2epro-stg"
+				sh "aws eks --region ap-south-1 update-kubeconfig --name ks-nonprod"
 				sh "sed -i 's/<VERSION>/${BUILD_NUMBER}/g' deployment-'${STG_ENV}'.yaml"
 				sh "kubectl apply -f deployment-'${STG_ENV}'.yaml"
 				echo "'${STG_ENV}' deployment completed: '${env.BUILD_ID}' on '${env.BUILD_URL}'"
@@ -72,7 +72,6 @@ pipeline {
 				}
 				success {
 					slackSend (	color: 'good', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | Job has succeeded : #${env.BUILD_NUMBER} in ${currentBuild.durationString.replace(' and counting', '')} \n For more info, please click (<${env.BUILD_URL}|here>)")
-			        echo "Good to deploy into STG"
 				}
 				failure {
 					slackSend (	color: 'danger', channel: "${SLACK_CHANNEL}", message: "${env.JOB_NAME} | @channel - Job has failed #${env.BUILD_NUMBER}\nPlease check full info, (<${env.BUILD_URL}|here>)")
