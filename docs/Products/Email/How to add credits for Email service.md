@@ -15,7 +15,7 @@ The primary way to add general credits, which can then be utilized for email ser
 On the left-hand navigation sidebar, locate and click on "**Billing**". This will take you to the plans and credit management page.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a1.png)
 
 **Step 2: Locate the "Top up" Option**
 
@@ -23,19 +23,19 @@ Once on the "Billing" page, look towards the top right corner.
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a2.png)
 
 1.  You will see your current credit balance.
     
 2.  Adjacent to your credit balance, you'll find a "**Top up**" button. Click this button to initiate the process of adding more credits.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a3.png)
 
 ### **Step 3: Specify the Amount to Add**
 
 - A modal window titled "**Add Credits**" will appear.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a4.png)
 
 - In the "Amount" field, enter the monetary value you wish to convert into credits. The field shows a currency symbol.
     
@@ -43,13 +43,13 @@ Once on the "Billing" page, look towards the top right corner.
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a5.png)
 
 ### **Step 4: Proceed with Secure Payment**
 
 1.  You will then be redirected to a secure payment gateway. The screenshots indicate Kalp Studio uses **Razorpay** for processing payments. You'll see a loading screen briefly.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a6.png)
 
 2.  The Razorpay payment interface will load, displaying the transaction amount.
     
@@ -64,12 +64,12 @@ Once on the "Billing" page, look towards the top right corner.
     -   Wallet
         
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a7.png)
 
 ### **Step 5: Complete the Transaction**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a8.png)
 
 1.  Select your preferred payment method from the list.
     
@@ -80,7 +80,7 @@ Once on the "Billing" page, look towards the top right corner.
     -   You may need to complete an additional authentication step, such as entering an **OTP (One-Time Password)** sent to your registered mobile number or email associated with your bank/card.
         
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a9.png)
 
 3.  Once all necessary details are provided and authentication is successful, confirm the payment.
     
@@ -90,12 +90,12 @@ Once on the "Billing" page, look towards the top right corner.
 1.  After a successful transaction, you should receive a payment confirmation from Razorpay and be redirected back to the Kalp Studio platform.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a10.png)
 
 2.  Your Kalp Studio account's credit balance will be updated with the newly purchased credits. You can verify this by checking the "My Credits" display in the Billing section or by navigating to the "**Dashboard**" or "**Credit History**" page, where your "Credits for Email Services" should reflect the addition.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/addcreds/a11.png)
 
 ## Conclusion
 

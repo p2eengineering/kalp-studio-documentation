@@ -12,7 +12,7 @@ Navigating the Kalp Studio platform to access the smart contract list is a strai
 
 Upon logging into Kalp Studio, you will land on the **Dashboard**. The dashboard provides an overview of your activities and quick access to essential features.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/8.png)
 
 **Locate the Sidebar Menu:**  
 On the left-hand side, you will find a vertical sidebar menu. This menu contains various options including:
@@ -35,13 +35,13 @@ On the left-hand side, you will find a vertical sidebar menu. This menu contains
 Click on the **Smart Contract** tab in the sidebar. This will redirect you to the section dedicated to managing and deploying smart contracts.
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/9.png)
 
 **Navigate to API Gateway:**
 
 Within the Smart Contract section, look for the **API Gateway** tab. Clicking on this will bring you to the page where you can manage API endpoints related to your smart contracts.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/10.png)
 
 **View Smart Contract List:**
 

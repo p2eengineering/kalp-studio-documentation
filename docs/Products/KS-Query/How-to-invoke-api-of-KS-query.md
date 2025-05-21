@@ -12,7 +12,7 @@ The **KS Query API** provides a suite of endpoints to interact with blockchain d
 
 1. Open the **All APIs** section in the KS Query Console.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
 
 2. Locate the specific endpoint you want to use. For instance:
 
@@ -26,11 +26,11 @@ The **KS Query API** provides a suite of endpoints to interact with blockchain d
 
 1. Click the **Check Params** button next to the endpoint you selected.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
 
 2. Gather the required details:
 - **Params**: Retrieve the headers and query parameters related with API
@@ -46,7 +46,7 @@ The **KS Query API** provides a suite of endpoints to interact with blockchain d
 
 ## Step 3: Use the Endpoint in Postman
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%289%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%289%29.png)
 
 1. Open **Postman** and create a new GET request.
 2. Paste the copied endpoint URL into the request URL field.

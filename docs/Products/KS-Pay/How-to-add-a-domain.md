@@ -14,16 +14,16 @@ Accessing and configuring a domain for your app on KS Pay is a straightforward p
 -   Click on the Explore KS Pay button, as highlighted in the screenshot below, to go to the KS Pay dashboard.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh4.png)
 
 -   On the main dashboard, you'll see a list of all registered apps with details such as App ID, App Name, Email, and Country.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh5.png)
 
 -   Locate the app for which you want to set up domain.
 
 - Click on the app name from the list to open the **App Overview**.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad7.png)
 
 
 
@@ -31,25 +31,25 @@ Accessing and configuring a domain for your app on KS Pay is a straightforward p
 
 In the sidebar menu on the left, click on **Settings**. This section allows you to manage various configurations for your app, including API keys and domain settings.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad8.png)
 
 ### **Step 3: Access Domain Settings**
 
 In the **Settings** section, locate the **Domain** tab next to **Generate API Key** and **Payment Gateway Settings**. Click on **Domain** to open the domain configuration settings.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad9.png)
 
 ### **Step 4: Add Your Domain**
 
 In the **Domain** tab, you’ll see an option to add your domain. Enter the desired domain URL and save the changes.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad10.png)
 
 ### **Step 5: Save and Verify**
 
 After entering your domain, confirm your changes. Ensure that the domain is correctly saved and displayed in the settings. This domain will now be associated with your app on KS Pay.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad11.png)
 
 ### **Step 6: Finalize Settings**
 

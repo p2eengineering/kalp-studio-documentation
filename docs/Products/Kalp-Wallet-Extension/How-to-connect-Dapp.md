@@ -19,7 +19,7 @@ To connect a **DApp (Decentralized Application)** to the Kalp Wallet extension, 
 2.  Ensure that the DApp is compatible with the Kalp Wallet (supports Kalp Chain or Ethereum-compatible networks).
     
 
-![Open image-20241125-094843.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+connect+Dapp/I1.png)
+![Open image-20241125-094843.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+connect+Dapp/I1.png)
 
 
 ### **Step 3: Initiate the Connection**
@@ -67,10 +67,10 @@ To connect a **DApp (Decentralized Application)** to the Kalp Wallet extension, 
 -   Click on Connected Dapps section
     
 
-![Open image-20241125-095000.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+connect+Dapp/I2.png)
+![Open image-20241125-095000.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+connect+Dapp/I2.png)
 
 
-![Open image-20241125-095104.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+connect+Dapp/I3.png)
+![Open image-20241125-095104.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+connect+Dapp/I3.png)
 
 
 ### **Step 7: Interact with the DApp**

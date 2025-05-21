@@ -10,7 +10,7 @@ Kalp Studio offers a flexible and transparent billing system designed to cater t
 
 ## How Kalp Studio Pricing Works
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/9.png)
 
 ### Pay-as-You-Go Model
 

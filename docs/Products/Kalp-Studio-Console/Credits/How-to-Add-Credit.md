@@ -9,7 +9,7 @@ Kalp Studio provides a seamless platform for managing your credits and transacti
 
 ### **Step 1: Logging into Your Kalp Studio Account**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
     
 1.  **Navigate to the Kalp Studio sign-in page:** Enter the [URL](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login") for the Kalp Studio login page
     
@@ -23,39 +23,39 @@ Kalp Studio provides a seamless platform for managing your credits and transacti
 
 1.  **Locate and click the "Kalp Studio Console" Card:** Scroll through the Applications section to find the card labeled "Kalp Studio Console." Click the "Go to console" Button
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c1.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c1.jpg)
 
 
 2.  **Navigate to the Credits Page**: Click the "Credits" option on the left sidebar. This will take you to the Credits management section. 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c2.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c2.jpg)
 
 ### Step 2: Initiate Adding Credits
 
 1.  **Click on "Add Credits"**: On the Credits page, you will see a button labeled "Add Credits". Click on it to proceed.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c4.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c4.jpg)
    
 ### Step 3: Enter Credit Amount
 
 
 1.  **Enter the Desired Amount**: A dialog box will appear asking you to enter the amount you wish to add to your wallet. Enter the amount in the specified field.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c5.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c5.jpg)
     
 2.  **Confirm the Amount**: Double-check the amount to ensure it is correct.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c6.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Credit/c6.jpg)
 
 ### Step 4: Confirm the Transaction
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/6.png)
 
 A pop-up window will open where users can see their entered amount in USD converted to INR. Enter Phone Number and proceed. You can proceed with the payment mode selection and then transfer funds.
 
 ### Step 6: Transaction Successful
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/4.+Credit/7.png)
 
 1.  **View Transaction Confirmation**: Once the transaction is complete, you will see a confirmation message indicating that credits have been added successfully. This screen will display the transaction ID and the amount added.
     

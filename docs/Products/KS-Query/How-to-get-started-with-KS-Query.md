@@ -29,12 +29,12 @@
 
 1. From the **Dashboard**, scroll down to the **Our Products** section.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/1.png)
 
 2.You’ll see a list of Kalp Studio’s products, including **KS Storage**, **KS Query**, and more.
 
 3.Find **KS Query** and click **Get Started** or **Try Now** under KS Query in the **Our Products** section to proceed.  
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/2.png)
 
 ---
 
@@ -44,7 +44,7 @@ From the **Dashboard**, scroll down to the **Our Products** section.
 
 ### **1. Dashboard Overview**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/3.png)
 
 
 -   **Message:** When accessing KS Query for the first time, a message displays: "You have not subscribed to any KS Query."
@@ -54,7 +54,7 @@ From the **Dashboard**, scroll down to the **Our Products** section.
 
 ### **2. All APIs Section**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/14.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/14.png)
 
 
 -   **API Hits Counter:** Displays "0" total API hits since no requests are made without an active subscription.
@@ -64,14 +64,14 @@ From the **Dashboard**, scroll down to the **Our Products** section.
 
 ### **3. API Key Generation**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/15.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/15.png)
 
 -   **Message:** "No API key found. Please create one to proceed."
 -   **Action Prompt:** Click the **Create API Auth Key** button to generate a new API key after activating a subscription. This step is essential for accessing KS Query APIs.
 
 ### **4. Subscription Page**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/4.png)
 
 
 -   **Current Status:** Displays as **Inactive** when no active subscription exists.
@@ -92,13 +92,13 @@ Before subscribing, the KS Query interface provides a clear pathway for users to
 To use KS Query, you’ll need to subscribe to one of the available plans. Follow these steps:
 
 1. Click on **Get Started**  under KS Query in the **Our Products** section.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/5.png)
 
 2. If you don’t already have an active subscription, you’ll be prompted to subscribe.
 
 3. You'll Navigate to the **Billing** section while choosing subscription.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
 
 4.Choose a plan that suits your needs:
 
@@ -106,15 +106,15 @@ To use KS Query, you’ll need to subscribe to one of the available plans. Follo
 - **Developer Plan**: $25.00 per month (20,000 API requests).
 - **Enterprise Plan**: $50.00 per month (50,000 API requests).
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
 
 5.Click **Subscribe** under your desired plan and confirm your subscription. A pop-up will appear asking you to confirm your choice.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%282%29.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/8.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/9.png)
 
 
 ---
@@ -124,7 +124,7 @@ To use KS Query, you’ll need to subscribe to one of the available plans. Follo
 1. After successfully subscribing, return to the **Dashboard**.
 2. Check the **Our Products** section to ensure that **KS Query** is marked as **Active**. This indicates your subscription is active and ready to use.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/10.png)
 
 ---
 

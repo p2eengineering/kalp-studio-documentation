@@ -9,36 +9,36 @@ Navigating to your profile on KS Pay allows you to manage account settings, upda
 
 -   Begin by logging into your Kalp Studio account. Open the [Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio) and log in with your credentials.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n1.png)
     
 
 -   Once logged in, you will be directed to the main dashboard.
     
 -   On the left-hand side of the screen, you'll find a navigation menu. This menu contains various options, including "Personal Info," "Applications," and "Settings”, as shown in the screenshot below.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n2.png)
 
 -   Locate the "Applications" option within this menu. It is highlighted in the screenshot below.
 
- ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n3.png)   
+ ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n3.png)   
 
 
 ### **Step 2: Navigating to KS Pay from the Applications List**
 
 -   Click on the Explore KS Pay button, as highlighted in the screenshot below, to go to the KS Pay dashboard.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
 
 
 ### **Step 3**: **Locating the Profile Icon and Accessing the "My Profile" Option within KS Pay:**
 
 -   Locate the profile icon on the top-right corner of the KS Pay dashboard, as highlighted in the screenshot.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n5.png)
 
 -   Click on the profile icon. It will trigger a dropdown menu with options like ‘My Profile', 'Company’, 'Apps', and 'Logout, as highlighted in the screenshot below.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n6.png)
     
 
 -   Click on "My Profile" to access and manage your profile information within the KS Pay platform.
@@ -50,15 +50,15 @@ After successfully navigating to the profile, you can view and edit both basic i
 
 -   Click on **Edit Personal Info,** as highlighted in the screenshot to start editing.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n7.png)
 
 -   Update fields like your First Name, Last Name, Date of Birth, and Gender by clicking on the Basic Info tab, as shown in the screenshot below.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n8.png)
 
 -   Update fields like your Email Id, Mobile Number, Address, Country, State and City by clicking on the Contact Info tab, as shown in the screenshot below.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n9.png)
     
 
 ## **Conclusion**

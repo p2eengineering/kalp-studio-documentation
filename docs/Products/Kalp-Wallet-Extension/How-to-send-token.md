@@ -19,7 +19,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 2.  Click on the token you wish to send.
     
 
-![Open image-20241122-072413.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I1.png)
+![Open image-20241122-072413.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I1.png)
 
 
 ### **Step 3: Initiate the Transfer**
@@ -29,10 +29,10 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 2.  A transfer form will appear.
     
 
-![Open image-20241122-072644.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I2.png)
+![Open image-20241122-072644.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I2.png)
 
 
-![Open image-20241122-072818.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I3.png)
+![Open image-20241122-072818.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I3.png)
 
 
 ### **Step 4: Enter the Recipient's Address**
@@ -45,7 +45,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 -   Ensure the recipient's wallet is compatible with the token's blockchain network (e.g., Kalp Chain or Ethereum-compatible chain).
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I4.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I4.png)
 
 ### **Step 5: Specify the Amount**
 
@@ -54,7 +54,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 2.  Ensure you have sufficient token balance to cover the transfer and any transaction fees (e.g., GINI tokens on Kalp Chain).
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I5.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I5.png)
 
 ### **Step 6: Review and Confirm**
 
@@ -66,7 +66,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 -   Confirm the estimated gas fees (if applicable).
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I6.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I6.png)
 
 ### **Step 7: Approve the Transaction**
 
@@ -75,7 +75,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 2.  If prompted, enter your **wallet password** or authenticate using your preferred method.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I7.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I7.png)
 
 ### **Step 8: Wait for Transaction Confirmation**
 
@@ -84,7 +84,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 2.  Check the **transaction status** on the wallet dashboard or the blockchain explorer linked to the token's network.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I8.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I8.png)
 
 ### **Step 9: Verify the Transaction**
 
@@ -93,7 +93,7 @@ To send tokens using the **Kalp Wallet extension**, follow these step-by-step in
 2.  Verify that the transaction has been successfully completed.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I9.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+send+tokens/I9.png)
 
 ### **Tips:**
 

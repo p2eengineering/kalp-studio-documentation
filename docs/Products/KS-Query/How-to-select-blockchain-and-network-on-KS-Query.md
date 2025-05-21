@@ -22,7 +22,7 @@ Using **KS Query** effectively begins with selecting the right blockchain and ne
 2. Log in to your account using your credentials. If you don’t have an account, sign up to create one.
 3. From the **Dashboard**, scroll down to the **Our Products** section.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
   
 
 
@@ -32,11 +32,11 @@ Using **KS Query** effectively begins with selecting the right blockchain and ne
 
 ## Step 2: Blockchain & Network Selection
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%283%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%283%29.png)
 
 After clicking **Select Now**, the **Blockchain & Network** selection window will appear:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/18.png)     
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/18.png)     
 
 - The available options are divided into different categories:
   - **KALP Chain**: Currently, the **Kalp DLT Devnet** is available.
@@ -52,9 +52,9 @@ After clicking **Select Now**, the **Blockchain & Network** selection window wil
 ## Step 3: Confirm Your Selection
 1. Upon selecting a network, a confirmation dialog will appear, asking:  
    *"Are you sure you want to connect with [selected network]?"*
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/19.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/19.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/20.png)     
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/20.png)     
 
 2.Click **Yes** to confirm your choice.
 
@@ -63,7 +63,7 @@ After clicking **Select Now**, the **Blockchain & Network** selection window wil
 ## Step 4: Proceed with API Requests
 - Once your blockchain and network are selected, you will be redirected to the Dashboard.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/21.png)     
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/21.png)     
 
 
 - The **API Requests** counter will now be active, showing the number of requests available in your current subscription plan.

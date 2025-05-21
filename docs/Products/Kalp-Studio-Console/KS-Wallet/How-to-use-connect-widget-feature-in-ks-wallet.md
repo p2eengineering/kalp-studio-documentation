@@ -27,21 +27,21 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 2.  **Locate KS Wallet**:
 - From the **Dashboard**, find the **KS Wallet** card.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
 3. On the left-hand menu, select **"Connect Widget"** as shown in the dashboard.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/17.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/17.png)
 ---
 
 ## **3. Configuring the Connect Widget**
 
 ### **Step 1: Choose Wallet Type**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/18.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/18.png)
 
 
 1. Navigate to the **"Wallet Type"** section.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/19.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/19.png)
 
 2. Select the wallets you want to integrate:
    - **Socials** (e.g., Google logins).
@@ -53,7 +53,7 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 ### **Step 2: Enable Social Login**
 
 1. Under **"Social Login"**, enable options such as:
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/20.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/20.png)
 
    - Google Login.
    - Email Login.
@@ -67,7 +67,7 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 ### **Step 3: Select Blockchain Options**
 
 1. In the **"Blockchain Selection"** section, choose supported blockchains such as:
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/21.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/21.png)
 
    - Ethereum.
    - Polygon.
@@ -79,7 +79,7 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 
 ### **Step 4: Network Selection**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/22.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/22.png)
 
 
 1. Under **"Network Selection"**, enable preferred networks for each blockchain:
@@ -91,7 +91,7 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 
 ### **Step 5: Customize Theme Color**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/23.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/23.png)
 
 
 1. In the **"Theme Color"** section:
@@ -102,7 +102,7 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 
 ## **4. Selecting and Testing the Widget**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/24.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/24.png)
 
 
 1. On the right-hand side, preview the widget configuration.
@@ -113,7 +113,7 @@ The widget simplifies the wallet onboarding process for decentralized applicatio
 
 ## **5. Code Configuration**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/34.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/34.png)
 
 
 The **Code** option allows you to embed the Connect Widget into your application using a small script.
@@ -135,7 +135,7 @@ The **Code** option allows you to embed the Connect Widget into your application
 
 ## **6. Customize the Button**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/31.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/31.png)
 
 #### **1. Theme Color:**
 

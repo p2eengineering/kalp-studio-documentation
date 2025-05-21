@@ -30,20 +30,20 @@ To get started:
 1. **Log in to KALP Studio**:  
    - Go to [KALP Studio](https://accounts.kalp.studio/login) and sign in with your credentials.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/1.png)
 
 2. **Locate KS Wallet**:  
    - From the **Dashboard**, find the **KS Wallet** card.  
    - Click **"GET STARTED"** to activate the wallet service.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/2.png)
 
 
 3. **Subscription Pricing**:  
    - KS Wallet starts at **$10.00 credits**.  
    - Click **"Try Now"** for a quick demo.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/3.png)
 
 
 ---
@@ -52,7 +52,7 @@ To get started:
 
 KS Wallet offers flexible pricing plans to cater to different needs:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/3.png)
 
 
 #### **Starter Plan - $10.00/month**  
@@ -74,7 +74,7 @@ KS Wallet offers flexible pricing plans to cater to different needs:
 
 ### **4. Subscribing to KS Wallet**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/4.png)
 
 
 To subscribe to KS Wallet:
@@ -88,14 +88,14 @@ To subscribe to KS Wallet:
 
 3. Click **"Subscribe"** and confirm your selection.  
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/5.png)
 
 4. Your plan will appear as **Active** in the **Billing** dashboard.  
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/.png)
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/7.png)
 
 
 ---
@@ -103,7 +103,7 @@ To subscribe to KS Wallet:
 ### **5. Manage Your Credits**
 
 KALP Studio uses a credit-based system to pay for services like KS Wallet:
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/4.png)
 
 - Check your available balance at the top-right under **"My Credit"**.  
 - To top up:  

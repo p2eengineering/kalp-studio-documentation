@@ -21,10 +21,10 @@ To view your transaction details:
 
 - From the **Dashboard**, find the **KS Wallet** card.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
 
 3. **Navigate to the Transactions Page**:  
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/9.png)
 
    - From the Dashboard; Click On the left-hand sidebar **Transactions**.  
 
@@ -36,7 +36,7 @@ This will take you to the **Transactions** dashboard, where you can view and man
 
 The **Transactions** page provides a table that displays all essential transaction information:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/10.png)
 
 
 - **Transaction ID**: A unique identifier for each transaction.  

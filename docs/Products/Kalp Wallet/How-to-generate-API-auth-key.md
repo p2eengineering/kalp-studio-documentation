@@ -10,7 +10,7 @@ API Keys are essential for securely connecting your applications and services to
 
 
 > Navigate to Kalp Studio Console.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n4.png)
 
 ## **Step-by-Step Guide**
 
@@ -22,7 +22,7 @@ API Keys are essential for securely connecting your applications and services to
     
 -   Clicking this will take you to the API Key Generation page.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/1.png)
 
 ### 3. Creating a New API Auth Key
 
@@ -31,7 +31,7 @@ API Keys are essential for securely connecting your applications and services to
 
 -   Click the "+ Create API Auth Key" button.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/2.png)
 
     
 
@@ -39,7 +39,7 @@ API Keys are essential for securely connecting your applications and services to
 
 A pop-up window labeled "Create API Auth Key" will appear.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/3.png)
 
 
 -   You'll be prompted to fill in the following details:
@@ -53,7 +53,7 @@ A pop-up window labeled "Create API Auth Key" will appear.
 
 -   Once you've entered the Key Name and (optionally) the Key Description, click the "Create Now" button.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/4.png)
 
 ### 6. API Key Generation and Confirmation
 
@@ -61,7 +61,7 @@ A pop-up window labeled "Create API Auth Key" will appear.
     
 -   You'll see a "Success" notification in the top-right corner of the screen, confirming that the key has been created.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Walletbatch2/Navapi/5.png)
 
     
 

@@ -9,20 +9,20 @@ Kalp Studio's **Token Studio** tool provides a easy way to create and manage blo
 
 Once you’ve logged into Kalp Studio and connected your wallet, navigate to the **Dashboard**. Under **Our Products**, locate **Token Studio** and click **Explore** to access the token creation interface.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
 
 ## Step 2: Start the Token Creation Wizard
 
 In the **Kalp Token Studio**, click **Create New Token**. This will take you to the Token Creation Wizard, where you’ll set the details and characteristics of your token.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/7.png)
   
 
 ## Step 3: Define Token Details
 
 The Token Creation Wizard provides fields for you to define the fundamental attributes of your token:
 
- ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/10.png)
+ ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/10.png)
 
 -  **Name**: Enter the name of your token (e.g., “MyToken”).
 
@@ -35,7 +35,7 @@ The Token Creation Wizard provides fields for you to define the fundamental attr
 -  **Icon Image**: Upload an icon to represent your token. Recommended format: JPG/PNG, up to 2MB in size, and a resolution of 700x500 pixels.
 
   
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/13.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/13.png)
 
 -  **Token Initial Supply**: Set the initial supply, which is the number of tokens created when the contract is deployed.
 
@@ -56,15 +56,15 @@ Toggle these options as per your token’s requirements.
 
 Once you have configured all the parameters, double-check your entries. When you are ready, click **Create Token**. The platform will process your token creation request, deploying the token contract on the blockchain.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+13.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+13.png)
 
 ## Step 7: View and Manage Created Tokens
 
 After successfully creating your token, navigate to **List of Token Created** in the sidebar. Here, you can view details of all tokens you've created and manage them as needed.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+14.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+14.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
 
 ## Important Considerations
 

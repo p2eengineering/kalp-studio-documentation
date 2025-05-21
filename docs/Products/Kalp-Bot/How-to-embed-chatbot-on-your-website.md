@@ -25,14 +25,14 @@ This guide will walk you through the simple process of embedding your Kalp Bot o
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec1.png)
 
 -   Click on the **"Chatbots"** option.
     
 
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec2.png)
 
 ### **Step 2: Select Your Chatbot**
 
@@ -45,7 +45,7 @@ This guide will walk you through the simple process of embedding your Kalp Bot o
 
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec3.png)
 
 ### **Step 3: Access the Embedding Options**
 
@@ -56,7 +56,7 @@ This guide will walk you through the simple process of embedding your Kalp Bot o
 
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec4.png)
 
 ### **Step 4: Copy the Embed Script**
 
@@ -68,7 +68,7 @@ This guide will walk you through the simple process of embedding your Kalp Bot o
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec5.png)
 
 ### **Step 5: Paste the Script into Your Website's HTML**
 
@@ -86,7 +86,7 @@ This guide will walk you through the simple process of embedding your Kalp Bot o
 -   Interact with the chatbot to ensure it is functioning correctly, responding as configured, and displaying as expected.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/embedchatbot/ec6.png)
 
 ### Conclusion:
 

@@ -10,7 +10,7 @@ The Kalp Wallet is a crucial component for managing digital assets and interacti
 
 
 > Navigate to Kalp Studio Console.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n4.png)
     
 
 ### **Step 1: Subscribe to KS Wallet**
@@ -18,28 +18,28 @@ The Kalp Wallet is a crucial component for managing digital assets and interacti
 
 1.  **Product Page:** After Successfully Sign-In you will find a product page. In this page you will see different applications like SMS, Kalp Instant Deployer, Email, KS Storage, KS Wallet, KS Query, NFT Creator, Token Studio, API Gateway.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n5.png)
 
 2.  **Select KS Wallet:** You have to Select the KS Wallet for the next steps.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n6.png)
 
 3.  **Select Get Started:** After selecting the KS wallet now, you have to select "Get Started".
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n7.png)
 
 ### **Step 2: Accessing the Wallet Dashboard**
     
 4.  **Navigate to Billing Page:** Now you are in the billing page where you have to select a plan.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n8.png)
 
 5.  **Choose the Plan:** For accessing the Kalp Wallet Dashboard you have to select the one of the plans and then subscribe it.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n10.png)
 
 6.  **Confirm your Subscription:** After selecting your plan a popup will appear. Click the Subscribe option to continue.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n11.png)
 
 Once you have subscribed to the plan,the plan will be added to Your Subscription Section.  You have successfully navigated to your Kalp Wallet dashboard, where you can manage your existing wallets, create new ones, view transactions, and connect to various services.
     

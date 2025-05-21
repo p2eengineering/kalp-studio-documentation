@@ -8,7 +8,7 @@ Registering your app on KS Pay is simple and will help you integrate your applic
 
 ### **Step 1: Log In to your Kalp Studio Account**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg1.png)
 
     
 1.  **Navigate to the Kalp Studio sign-in page:** Enter the [URL](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login") for the Kalp Studio login page
@@ -29,7 +29,7 @@ Registering your app on KS Pay is simple and will help you integrate your applic
 3.  **View Your Services:** In the Applications section, you can see a list of services, products and apps you subscribed to.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg2.png)
 
 
 ## **Step 3: Accessing KS Pay from Kalp Studio Dashboard**
@@ -40,23 +40,23 @@ Registering your app on KS Pay is simple and will help you integrate your applic
 
 - Here, you'll have direct access to all KS Pay features without the need for additional login steps.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
 
 
 ## **Step 4: Access the App Registration Page**
 
 - If you haven’t registered any apps yet, the page will display a prompt saying, "You have not registered any Application yet", as highlighted in the screenshot.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/register-app-step-5.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/register-app-step-5.jpg)
 
 - Click on the "Add App" button to start the app registration process.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc3.png)
 
 ## **Step 5: Fill in App Registration Details**
 
 You will be directed to the Register an App page with the details to fill, as shown in the screenshot below:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc4.png)
 
 Here, fill in the following details:
 
@@ -82,7 +82,7 @@ Here, fill in the following details:
 ## **Step 6: Submit the App Registration**
 After entering all the required information, click on the "Add App" button to register your app.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc5.png)
 
 > Click on cancel button to discontinue the registration process.
 
@@ -91,7 +91,7 @@ After entering all the required information, click on the "Add App" button to re
 A confirmation message will appear on your dashboard indicating that your app has been successfully registered, as shown in the screenshot below.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga7.png)
 
 Once registered, your app will appear on the dashboard with an App ID. You can enable or disable the app, or edit its details as needed.
 

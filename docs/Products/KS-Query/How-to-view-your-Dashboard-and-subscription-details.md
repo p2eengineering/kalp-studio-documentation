@@ -20,7 +20,7 @@ The **KS Query Dashboard** is your centralized hub for managing API requests, mo
 
 The KS Query dashboard is the central hub for monitoring and managing API usage and subscription details. Here's a breakdown of all the key elements available on the dashboard:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/30.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/30.png)
 
 ----------
 
@@ -70,7 +70,7 @@ The KS Query dashboard is the central hub for monitoring and managing API usage 
 Managing your subscription is straightforward in KS Query. Here's a guide to view all your subscription details, including plan type, status, and renewal information.
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/16.png)
 
 ----------
 

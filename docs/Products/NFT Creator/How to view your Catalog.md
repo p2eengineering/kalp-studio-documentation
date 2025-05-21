@@ -15,7 +15,7 @@ Start by logging into your Kalp Studio account. Once logged in, open ‘NFT Crea
 On the left-hand side of the dashboard, you’ll see a navigation menu. Click on the **NFT Portfolio** option to expand it.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc1.png)
 
 ### **Step 3: Access 'My Catalogs'**
 
@@ -23,7 +23,7 @@ Within the NFT Portfolio section, select **My Catalogs**. This opens the catalog
 
 > Catalogs that have at least 1 NFT within them will only be shown on ‘My Catalogs’ screen.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc2.png)
 
 ### **Step 4: Explore Your Catalogs**
 
@@ -45,4 +45,4 @@ Once in the **My Catalogs** section, you’ll see a grid displaying each catalog
     -   Catalog description
         
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+catalog/vc3.png)

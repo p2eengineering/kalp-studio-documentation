@@ -6,7 +6,7 @@
 
 Kalp Studio’s NFT Creator is designed for simplicity and efficiency, enabling users to create and manage NFTs in just a few steps. Below, we break down the process from starting with an empty NFT portfolio to successfully creating a NFT.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft1.png)
 
 ### **Step 1:**  **Accessing the NFT Creator**
 
@@ -47,11 +47,11 @@ Kalp Studio’s NFT Creator is designed for simplicity and efficiency, enabling 
             
         3.  Genre: Classical music
             
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft2.png)
 
 You can add at max 6 properties to your NFT with max character length upto 15 chars.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft3.png)
 
 
 
@@ -67,12 +67,12 @@ You can add at max 6 properties to your NFT with max character length upto 15 ch
 4.  Click on ‘**Create Catalog’** button at last to create. A confirmation message will appear indicating successful catalog creation.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft4.png)
 
 
 A pop will appear informing that the “Catalog creation started! It may take a few minutes to appear in the catalog listing."
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft5.png)
 
 
 ### **Step 4: Minting Confirmation**
@@ -84,7 +84,7 @@ A pop will appear informing that the “Catalog creation started! It may take a 
 3.  Click **Confirm** to proceed. This initiates the blockchain transaction for minting the NFT.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft6.png)
 
 
 ### **Step 5: Approving the Transaction through Wallet**
@@ -98,7 +98,7 @@ A pop will appear informing that the “Catalog creation started! It may take a 
 4.  A success message will appear saying, “Your NFT has been created successfully” with ‘View NFT’ button to view your created NFT.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/how+to+create+nft/cnft7.png)
 
 
 Kalp Studio’s NFT Creator provides a user-friendly platform for creating, categorizing, and managing NFTs. By following the steps above, you can add your media, categorize it, and ensure it’s ready for the digital marketplace. This streamlined process makes it ideal for artists, musicians, and creators looking to establish their digital assets.

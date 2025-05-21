@@ -21,7 +21,7 @@ To change the password in the Kalp Wallet extension, follow these step-by-step i
 2.  Click on **Settings** to open the configuration options.
     
 
-![Open image-20241125-104851.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I1.png)
+![Open image-20241125-104851.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I1.png)
 
 
 ### **Step 3: Navigate to the Change Password Section**
@@ -31,10 +31,10 @@ To change the password in the Kalp Wallet extension, follow these step-by-step i
 2.  Click on it to access the password-related options.
     
 
-![Open image-20241125-105019.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I2.png)
+![Open image-20241125-105019.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I2.png)
 
 
-![Open image-20241125-105108.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I3.png)
+![Open image-20241125-105108.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I3.png)
 
 
 ### **Step 4: Enter the Current Password**
@@ -48,7 +48,7 @@ To change the password in the Kalp Wallet extension, follow these step-by-step i
 4.  Confirm the new password by re-entering it in the confirmation field.
     
 
-![Open image-20241125-105208.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I4.png)
+![Open image-20241125-105208.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I4.png)
 
 ### **Step 5: Save the Changes**
 
@@ -57,7 +57,7 @@ To change the password in the Kalp Wallet extension, follow these step-by-step i
 2.  The wallet will confirm that your password has been updated successfully.
     
 
-![Open image-20241125-111743.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I5.png)
+![Open image-20241125-111743.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I5.png)
 
 
 ### **Step 6: Test the New Password**
@@ -67,10 +67,10 @@ To change the password in the Kalp Wallet extension, follow these step-by-step i
 2.  Reopen the Kalp Wallet and log in using the new password to ensure it works.
     
 
-![Open image-20241125-111535.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I6.png)
+![Open image-20241125-111535.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I6.png)
 
 
-![Open image-20241125-111626.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I7.png)
+![Open image-20241125-111626.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+change+password/I7.png)
 
 
 ### **Tips for Password Security:**

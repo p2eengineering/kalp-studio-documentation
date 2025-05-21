@@ -18,45 +18,45 @@ This guide will walk you through the process of creating your own digital tokens
 
 1.  Log in to your Kalp Studio account. You will be directed to your **Dashboard**.
    
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+1.png)
 
 2.  Locate the **Token Studio** card in the "Our Products" section.
     
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+2.png)
  
 3.  Click the **EXPLORE** button within the Token Studio card. This will direct you to the Token Studio dashboard.
     
 4.  Select your Plan out of the given three options.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+3.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+3.png)
      
 
 5.  Subscribe to the plan.
     
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+4.png)
  
 6.  Your subscriptions will be visible on the billing section. You have an option to upgrade your current subscription is visible on the billing section. You have an option to upgrade your current subscription.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+5.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+5.png)
      
 
 7.  Once subscribed, you can explore the product.
 
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+6.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+6.png)
      
 
 ### **Step 2: Begin Creating a Token**
 
 1.  Within the Token Studio dashboard, you'll see a section labeled **Create a New Token**.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+7.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+7.png)
      
 
 2.  Click on the **+ Create New Token** button.
     
 3.  If your wallet is not connected, the system will prompt you to connect one.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+8.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+8.png)
      
 
 ### **Step 3: Connect Your Wallet**
@@ -65,17 +65,17 @@ This guide will walk you through the process of creating your own digital tokens
     
 2.  Click on the **+ Connect Wallet** button located on the top right corner of the page.
     
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)     
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)     
 
 3.  You will be presented with a list of wallet options.
     
 4.  Select **KALP DLT**. This will ensure your tokens are associated with your specific Kalp DLT wallet.
     
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)     
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)     
 
 5.  Once the wallet is connected, the wallet address will be visible.
     
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+11.png)
  
 ### **Step 4: Enter Token Details**
 
@@ -107,7 +107,7 @@ This guide will walk you through the process of creating your own digital tokens
 
 2.  Once you have filled in all details, click the **Create Token** button.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+12.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+12.png)
      
 
 ### **Step 5: Confirm Token Details**
@@ -118,7 +118,7 @@ This guide will walk you through the process of creating your own digital tokens
     
 3.  Click **Continue** to proceed.
     
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+13.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+13.png)
      
 
 ### **Step 6: Token Creation Confirmation**
@@ -127,7 +127,7 @@ This guide will walk you through the process of creating your own digital tokens
     
 2.  The new token will now be created within your Kalp DLT wallet.
 
-    ![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+14.png)
+    ![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/CTKD+14.png)
      
 
 ### **Step 7: View Created Token**

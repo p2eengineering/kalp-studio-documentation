@@ -19,7 +19,7 @@ This guide will walk you through the simple process of generating a new API key 
 
 Follow these steps to create and retrieve your API key:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a1.png)
 
 **Step 1: Navigate to the API Keys Section**
 
@@ -38,7 +38,7 @@ Follow these steps to create and retrieve your API key:
     
 
     
-    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a2.png)
+    ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a2.png)
     
 
 **Step 3: Provide API Key Details**
@@ -52,7 +52,7 @@ Follow these steps to create and retrieve your API key:
     -   **Description:** Add an optional, more detailed description for the key's use case.
         
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a3.png)
     
 
 **Step 4: Generate and Copy the Key**
@@ -60,7 +60,7 @@ Follow these steps to create and retrieve your API key:
 1.  Once you've filled in the "Key Name" and "Description" (optional), click the **"Create"** button.
     
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a4.png)
     
 2.  A modal window will pop up with the message: **"API Key has been successfully generated."**
     
@@ -69,7 +69,7 @@ Follow these steps to create and retrieve your API key:
 4.  Click the **copy icon** next to the API key to copy it to your clipboard.
     
     
-    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a5.png)
+    ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a5.png)
     
 
 **Important:** Immediately paste this key into a secure location (like a password manager or a secure note). Once you close this modal, you will not be able to retrieve the full key again for security reasons.
@@ -92,7 +92,7 @@ Follow these steps to create and retrieve your API key:
         
 
     
-    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a6.png)
+    ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/api/a6.png)
     
 
 ### Conclusion

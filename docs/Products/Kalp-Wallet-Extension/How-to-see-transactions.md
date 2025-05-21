@@ -11,7 +11,7 @@ To see the transactions in the Kalp Wallet extension, follow these step-by-step 
     
 2.  Enter your **current password** to unlock the wallet.
     
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I1.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I1.png)
 
 ### **Step 2: Access the Transaction section**
 
@@ -21,7 +21,7 @@ To see the transactions in the Kalp Wallet extension, follow these step-by-step 
         
 2.  Click on **timer icon** to open the list of transactions done.
     
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I2.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I2.png)
 
 ### **Step 4: Review the Transaction List**
 
@@ -37,9 +37,9 @@ To see the transactions in the Kalp Wallet extension, follow these step-by-step 
         
     -   **Transaction status** (e.g., pending, confirmed, or failed).
         
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I3.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I3.png)
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I4.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+see+transactions/I4.png)
 
 ### **Tips:**
 

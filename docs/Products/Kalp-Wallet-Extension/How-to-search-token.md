@@ -30,7 +30,7 @@ To search for a token on the **Kalp Wallet extension**, follow these steps:
     -   If the token doesn't appear, proceed to add it manually.
         
 
-![Open image-20241122-062251.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+search+a+token/I1.png)
+![Open image-20241122-062251.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+search+a+token/I1.png)
 
 
 ### **Step 4: Manually Add a Token (If Needed)**
@@ -50,7 +50,7 @@ If the token isn’t listed:
 3.  Click **Add** or **Save** to finalize.
     
 
-![Open image-20241122-062406.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+search+a+token/I2.png)
+![Open image-20241122-062406.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+search+a+token/I2.png)
 
 
 ### **Step 5: Verify the Token**
@@ -60,7 +60,7 @@ If the token isn’t listed:
 2.  Check the balance and details to ensure everything is accurate.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+search+a+token/I3.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+search+a+token/I3.png)
 
 ### **Tips**
 

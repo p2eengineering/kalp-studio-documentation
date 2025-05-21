@@ -8,7 +8,7 @@ Efficient digital asset management is crucial, and Kalp Studio offers a professi
 
 ### **Step-by-Step Guide to Navigate to Kalp studio Wallet**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/1.png)
 
 **Log in to Kalp Studio**:
 
@@ -33,7 +33,7 @@ Efficient digital asset management is crucial, and Kalp Studio offers a professi
 
 ### **Adding a Wallet**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/2.png)
 
 **Connect Wallet**:
 
@@ -44,7 +44,7 @@ Efficient digital asset management is crucial, and Kalp Studio offers a professi
 
 ### **Managing Your Wallet**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/3.png)
 
 Once you have added your wallet, you can view and manage it efficiently. Here's how:
 
@@ -60,7 +60,7 @@ Once you have added your wallet, you can view and manage it efficiently. Here's 
 
 3 . **Transactions**:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/3.png)
 
 -   Below the wallet balance, you will find the "Transactions" section.
     
@@ -69,7 +69,7 @@ Once you have added your wallet, you can view and manage it efficiently. Here's 
 
 4.  **Disconnect Wallet**:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/3.png)
 
 -   If you need to disconnect a wallet, click on the "Disconnect" button at the bottom right of wallet balance widget.
     

@@ -12,14 +12,14 @@ Generating an API key is a crucial step for integrating and utilizing the featur
     
 2.  Navigate to the API Key Generation:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/4.png)
 
 ### Create a New API Key
 
 1.  **Click on the "Create API Auth Key" button**:
 -   If you have not created any API keys yet, the screen will be blank.
 -   Click on the black button that says **+ Create API Auth Key** for the first time.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/2.png)
 
 ### Fill in the API Key Details
 
@@ -28,15 +28,15 @@ Generating an API key is a crucial step for integrating and utilizing the featur
 -   Provide a **Key Name** for easy identification. For example, you can name it "Swaggy M."
 -   Optionally, you can add a **Key Description** to describe the purpose or scope of the key.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/3.png)
 
 **Create the API Key**:
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/4.png)
 
 After filling in the details, click on the **Create Now** button to generate the key.
 
 ### 4. Manage Your API Keys
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/9.+API+Key+generation/5.png)
 
 -   Once created, your API keys will be listed in the API Key Generation section.
     
@@ -47,7 +47,7 @@ After filling in the details, click on the **Create Now** button to generate the
 ### 5. How it works
 The wallet section of the KALP Studio console has been updated to include a "How it works?" link. This addition provides users with access to detailed documentation on API key generation, helping them understand and utilize the feature effectively. 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/4.png)
     
 
 ### Conclusion

@@ -7,12 +7,12 @@ Kalp Studio provides robust tools for developers and businesses to build, manage
 
 In Kalp Studio, services like sending SMS messages operate on a credit-based system. Each SMS sent consumes a certain number of credits from your account.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a1.png)
 
 Running out of credits means your application will no longer be able to send SMS messages, potentially disrupting user verifications, notifications, or marketing campaigns. Regularly topping up your SMS credits ensures continuous service and smooth operation.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a2.png)
 
 ## Step-by-Step: Adding SMS Credits
 
@@ -25,13 +25,13 @@ Follow these steps to easily add more credits for your SMS services:
 2.  This will take you to the page where you can manage your plans and credits.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a3.png)
 
 ### **Step 2: Initiate Credit Top-Up**
 
 -   Once on the Billing page, look towards the upper right corner of the main content area.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a4.png)
 
 -   You will see your "My Credits" balance and a button labeled "**Top up**". Click on the "**Top up**" button to begin the process of adding credits.
     
@@ -41,21 +41,21 @@ Follow these steps to easily add more credits for your SMS services:
 -   After clicking "Top up," a pop-up window titled "**Add Credits**" will appear.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a5.png)
 
 -   In this window, you'll find an "Amount" field. Enter the desired monetary value for the credits you wish to purchase.
     
 -   Once you've entered the amount, click the "**Add Credits**" button within the pop-up.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a6.png)
 
 ### **Step 4: Complete the Payment Process**
 
 -   You will then be redirected to a secure payment gateway.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a7.png)
 
 -   On the payment gateway page, you'll be presented with various payment options, such as:
     
@@ -73,7 +73,7 @@ Follow these steps to easily add more credits for your SMS services:
         
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a8.png)
 
 -   Follow the on-screen instructions for your selected method.
     
@@ -87,21 +87,21 @@ Follow these steps to easily add more credits for your SMS services:
         
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a9.png)
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a10.png)
 
 ### **Step 5: Confirmation and Credit Update**
 
 1.  After successfully completing the payment, you will see a "Payment Successful" confirmation message on the payment gateway page.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a11.png)
 
 2.  Upon redirection to Kalp Studio, your newly purchased credits should be reflected in your account. You can verify this by checking the "Credits for SMS Services" on your Dashboard or the Credit History page.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a12.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/addcred/a12.png)
 
 ## **Conclusion**
 

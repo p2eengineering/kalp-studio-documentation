@@ -15,7 +15,7 @@ Open ‘NFT Creator’ by logging into KALP Studio console.
 2.  **Select “All NFTs”** from the portfolio options. This option displays the entire collection of NFTs available in your account for the selected wallet.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad1.png)
 
 ### **Step 2: Viewing All NFTs**
 
@@ -28,12 +28,12 @@ Once in the “All NFTs” section, you’ll see a grid of NFT assets, each repr
 -   **Catalog ID**: Each asset displays its unique catalog ID, enabling easy identification on the blockchain.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad2.png)
 
 ### **Step 3: Searching and Filtering NFTs**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad3.png)
 
 The search bar at the top allows for easy searching of assets by keywords, such as asset or catalog names. This feature is handy for quickly locating a specific NFT, especially when managing a large collection.
 
@@ -56,10 +56,10 @@ The search bar at the top allows for easy searching of assets by keywords, such 
 
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad4.png)
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/asset+details/ad5.png)
 
 
 
