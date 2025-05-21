@@ -13,7 +13,7 @@ Follow the steps below to reset your password:
 
 Click on the link to visit the [Kalp Studio website](https://console.kalp.studio/).
 On the login screen, click Forgot Password, as shown in the screenshot.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
 
 
 
@@ -22,17 +22,17 @@ On the login screen, click Forgot Password, as shown in the screenshot.
 
 Enter your email ID to receive a link to reset your password. Click on **Submit.** You will receive an OTP.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp3.jpg)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp3.jpg)
 
 **Step 3: Verify OTP**
 
 Enter the received OTP and click on **Verify** button.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp6.jpg)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp6.jpg)
 
 The reset password page is displayed on the screen. Enter your new password. Repeat your new password on the **Confirm Password** input box for confirmation.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/1.+Onboarding/10.png)
 
 **Criteria for selecting a valid password**
 
@@ -48,10 +48,10 @@ The reset password page is displayed on the screen. Enter your new password. Rep
 
 
 Click on **Reset Password**. You have successfully changed your password.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp7.jpg)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp7.jpg)
 
 You will get an email about the successful password change in your registered email ID.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp8.jpg)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit/Forgot+Password/fp8.jpg)
 
 
 Click on **Login Now** to log in to the Kalp Studio application.

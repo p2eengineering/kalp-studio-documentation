@@ -15,24 +15,24 @@ This guide will walk you through the straightforward process of generating a new
     
 -   On the left-hand sidebar menu, locate and click on the **"API Keys"** option. This section manages all your API credentials for different services offered by the platform.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g1.png)
 
 ### **Step 2: Initiate New API Key Creation**
 
 -   Once you are on the "API Keys" page, look towards the top-right corner of the main content area.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g2.png)
 
 -   Click on the **"+ New API Key"** button. This action will trigger the process for generating a new key.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g3.png)
 
 ### **Step 3: Configure API Key Details**
 
 -   A pop-up window titled "New API Key for SMS Service" will appear.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g4.png)
 
 -   You need to provide the following information:
     
@@ -47,7 +47,7 @@ This guide will walk you through the straightforward process of generating a new
 
 -   After filling in the necessary details, click the **"Create"** button within the pop-up window.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g5.png)
 
 **Step 5: Confirmation and Key Access**
 
@@ -58,7 +58,7 @@ This guide will walk you through the straightforward process of generating a new
 -   You will be returned to the "API Keys" page, where your newly generated key will now be listed in the table.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g6.png)
 
 ### **Step 6: View and Manage Your Key**
 
@@ -76,7 +76,7 @@ The table will display your new key's details, including:
 Copy the generated `API Auth Key` immediately and store it securely. For security reasons, the full key might only be displayed once upon creation.
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/genapi/g7.png)
 
 ## Conclusion
 

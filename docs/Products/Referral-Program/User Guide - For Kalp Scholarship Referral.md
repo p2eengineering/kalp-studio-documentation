@@ -7,7 +7,7 @@ Kalp Studio Scholarship Referrals offer users a chance to earn **₹100 cashback
 
 ### **Step 1: Logging into Your Kalp Studio Account**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
     
 1.  **Navigate to the Kalp Studio sign-in page:** Enter the [URL](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login") for the Kalp Studio login page
     
@@ -27,11 +27,11 @@ Kalp Studio Scholarship Referrals offer users a chance to earn **₹100 cashback
 2.  **Click "Access Program":** Now the button label will be changed to "Access Program". Click on this to access the referral program dashboard.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr2.png)
 
 ### **Step 3: Scholarship Referrals Dashboard**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr3.png)
 
 **Access Referral Tab**: Upon clicking the "Access Program" button, the “Referrals” tab gets opened, and it shows the _**Scholarship Referrals**_ section with the following information:
 
@@ -44,18 +44,18 @@ Kalp Studio Scholarship Referrals offer users a chance to earn **₹100 cashback
 -   **Joined Users** Clicking on "Joined Users" tab shows all the users who have successfully joined using the invitation link/referral code.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr4.png)
 
 ### **Step 4: Refer a new user**
 
 * **Locate the "Refer Now" button** on the main Referrals page.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr5.png)
 
 * **Click the "Refer Now" button.** This will open a pop-up window titled "Invite User".
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr6.png)
     
 **Fill in the "Invite User" form:**
     
@@ -69,12 +69,12 @@ Kalp Studio Scholarship Referrals offer users a chance to earn **₹100 cashback
 * **Click the "Invite Now" button** within the "Invite User" pop-up. This will send an invitation to the specified email address.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr7.png)
 
 > You can copy the referral code and share it through your preferred channels.
 
 * An invitation will be sent and a pop-up notifying the same will appear. 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/scholref/sr8.png)
 
 Following these instructions enables effective use of the Scholarship Referral Program. You can now access the dashboard, generate referrals via email or code, monitor user sign-ups, and track earned cashback.

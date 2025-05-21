@@ -17,7 +17,7 @@ Importing tokens into your Kalp Wallet allows you to view and manage additional 
 1.  On the Kalp Wallet dashboard, locate and click the **"Import Tokens"** .
     
 
-![Open image-20241122-052953.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I1.png)
+![Open image-20241122-052953.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I1.png)
 
 
 **Step 3: Search for the Token**
@@ -25,7 +25,7 @@ Importing tokens into your Kalp Wallet allows you to view and manage additional 
 1.  Use the **Search Bar** to find the token by name or symbol if it is a popular token already listed in the Kalp ecosystem.
     
 
-![Open image-20241122-053003.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I2.png)
+![Open image-20241122-053003.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I2.png)
 
 2.  Select the token from the search results and click **Import**.
     
@@ -44,7 +44,7 @@ If the token is not listed, you can manually add it using the following details:
 -   **Decimals of Precision**: The number of decimal places the token uses (e.g., 18).
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I3.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I3.png)
 
 2.  **Input Token Details**:
     
@@ -57,9 +57,9 @@ If the token is not listed, you can manually add it using the following details:
 3.  Click **Add Token** or **Import** to proceed.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I4.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I4.png)
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I5.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I5.png)
 
 **Step 5: Verify the Token**
 
@@ -68,7 +68,7 @@ If the token is not listed, you can manually add it using the following details:
 2.  Confirm the token name, symbol, and balance to ensure everything is correct.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I6.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+token/I6.png)
 
 **Step 6: Manage Your Imported Tokens**
 

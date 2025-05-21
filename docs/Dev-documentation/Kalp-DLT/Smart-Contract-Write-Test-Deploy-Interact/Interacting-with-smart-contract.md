@@ -15,16 +15,16 @@ API endpoints are essential for integrating and automating various processes in 
 
 Navigate to the Kalp Studio login page and enter your credentials to access your dashboard. Click on Build Smart Contract.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/1.png)
 
 ### **Access the API Gateway Section**
 
 On the left-hand menu, select "API Gateway."
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/2.png)
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/3.png)
 
 If you haven't subscribed to any API Gateway, you'll see a message prompting you to subscribe.
 
@@ -36,19 +36,19 @@ If you haven't subscribed to any API Gateway, you'll see a message prompting you
 ### **Create or Select a Smart Contract**
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/4.png)
 
 Once subscribed, you can manage and generate API endpoints for your smart contracts. Select the desired smart contract from the list or create a new one.
 
 ### **Generate Endpoints**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/5.png)
 
 For the selected smart contract, click "Generate Endpoints." This action will create the necessary API endpoints.
 
 ### Endpoint Generated
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/6.png)
 
 Once you select generate endpoint, a pop-up will appear, notifying that the endpoint has been generated.
 
@@ -58,7 +58,7 @@ After generating the endpoints, you can view and manage them. The status of each
 
 #### Check and Use API Parameters
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/7.png)
 
 Click on "Check Params" to view the details and parameters for each API endpoint. This will help you understand how to integrate and use these endpoints in your applications.
 
@@ -72,7 +72,7 @@ Navigating the Kalp Studio platform to access the smart contract list is a strai
 
 Upon logging into Kalp Studio, you will land on the **Dashboard**. The dashboard provides an overview of your activities and quick access to essential features.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/8.png)
 
 **Locate the Sidebar Menu:**  
 On the left-hand side, you will find a vertical sidebar menu. This menu contains various options including:
@@ -95,13 +95,13 @@ On the left-hand side, you will find a vertical sidebar menu. This menu contains
 Click on the **Smart Contract** tab in the sidebar. This will redirect you to the section dedicated to managing and deploying smart contracts.
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/9.png)
 
 **Navigate to API Gateway:**
 
 Within the Smart Contract section, look for the **API Gateway** tab. Clicking on this will bring you to the page where you can manage API endpoints related to your smart contracts.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/7.+API+Gateway/10.png)
 
 **View Smart Contract List:**
 

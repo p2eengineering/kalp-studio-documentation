@@ -76,7 +76,7 @@ Users can search for specific products using the search bar and sort the product
 
 ### Subscription Plans for New Users
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+access+billing/New+User/nu1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Studio+Stage+articles/How+to+access+billing/New+User/nu1.png)
 
 A new user on Kalp Studio starts with a **Personal Plan**. The Personal Plan is designed for individual users or small-scale projects. Users can easily upgrade their plans to suit their growing needs. The available plans include:
 

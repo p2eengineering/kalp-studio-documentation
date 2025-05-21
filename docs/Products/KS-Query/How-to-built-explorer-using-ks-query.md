@@ -37,7 +37,7 @@ To begin, ensure you have the following tools:
 ### a. Access the API Console
 Navigate to the **KS Query API Console** and locate the **All APIs** section. Here, you’ll find a list of available endpoints categorized into:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
 
 - **Smart Contracts**
 - **Blocks**
@@ -52,11 +52,11 @@ Choose the endpoint you wish to use and copy its URL. [For example this is our K
 ### c. Check Parameters
 Click the **Check Params** button to retrieve:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
 
 
 
@@ -67,7 +67,7 @@ Click the **Check Params** button to retrieve:
 
 ### d. Test API Calls in Postman
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%289%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%289%29.png)
 1. Open Postman and create a new GET request.
 2. Paste the copied endpoint into the request URL.
 3. Add the following **Headers**:

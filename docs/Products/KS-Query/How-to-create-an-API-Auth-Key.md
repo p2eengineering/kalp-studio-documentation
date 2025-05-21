@@ -28,7 +28,7 @@ An API authentication key is essential for securely accessing the features and f
 
 4. From the **Dashboard**, scroll down to the **Our Products** section.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
 
 5.Find **KS Query** and click **Explore** under KS Query in the **Our Products** section to proceed.
 
@@ -37,7 +37,7 @@ An API authentication key is essential for securely accessing the features and f
 ## Step 2: Open the API Key Generation Page
 1. From the left-hand side menu, select **API Key Generation**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%283%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%283%29.png)
 
 2.You will be redirected to the API key creation interface, where you can set up a new key.
 
@@ -46,7 +46,7 @@ An API authentication key is essential for securely accessing the features and f
 ## Step 3: Fill in the Key Details
 
 1. In the **Create API Auth Key** dialog box, provide the following details:
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/22.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/22.png)
 
    - **Key Name**: Enter a meaningful name for your key. For example, "tradingbot."
    - **Key Description** *(optional)*: Provide a description for the key to specify its purpose, such as "API key for tradingbot."
@@ -59,7 +59,7 @@ An API authentication key is essential for securely accessing the features and f
 
 - On the API Key Generation page, You can view your generated API key. Once created, your API auth key will be generated and available for use.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/23.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/23.png)
 
 
 ---

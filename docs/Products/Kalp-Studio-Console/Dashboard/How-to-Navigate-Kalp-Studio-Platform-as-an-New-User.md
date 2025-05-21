@@ -12,27 +12,27 @@ Kalp Studio is an all-in-one platform built to simplify blockchain and decentral
 
 Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the below screenshot. The key components of the Dashboard include:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
 
 
 
 -   **Connect Wallet:** A clear "Connect Now" button prompts you to link your wallet and gain access to decentralized apps and services. The section is highlighted in the screenshot below, helping you get started.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
 
 -   **Build Smart Contracts:**  Start building and deploying smart contracts effortlessly using the Kalp Instant Deployer (KID) tool.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/5.png)
 
 -   **Kalp Community:** Explore the vibrant Kalp community, as highlight in the screenshot below and connect with active members who share your passion for blockchain development.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/6.png)
 
 ### **Navigation Menu**
 
 On the left side of the screen, you will find the primary navigation menu, as highlighted in the screenshot below.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
 
 
 
@@ -53,7 +53,7 @@ On the left side of the screen, you will find the primary navigation menu, as hi
 
 ### **Our Products**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
 
 Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
 
@@ -76,7 +76,7 @@ Kalp Studio offers a variety of powerful tools to enhance your blockchain develo
 ### **Accessing Your Kalp Apps**
 
 In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of your subscribed Kalp apps. Since you're a new user, no application is displayed.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/newuser.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/newuser.jpg)
 
 
 ### **Conclusion**

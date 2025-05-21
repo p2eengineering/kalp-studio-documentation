@@ -8,21 +8,21 @@ Kalp Studio is a versatile platform tailored for blockchain and decentralized ap
 
 ### **Dashboard Overview**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/3.png)
 
 Upon logging in, the Dashboard appears as your control center. Here, you’ll find all the key features of Kalp Studio, as shown in the above screenshot.
 
 -   **Connect Wallet:** A clear "Connect Now" button prompts you to link your wallet and gain access to decentralized apps and services. The section is highlighted in the screenshot below, helping you get started.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/4.png)
 
 -   **Build Smart Contracts:** Start building and deploying smart contracts effortlessly using the Kalp Instant Deployer (KID) tool. Click "Get Started" to proceed, as highlighted in the screenshot below. It will direct you to the subscription page for access.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/5.png)
 
 -   **Kalp Community:** Explore the vibrant Kalp community, as highlight in the screenshot below and connect with active members who share your passion for blockchain development.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/6.png)
 
 
 
@@ -30,7 +30,7 @@ Upon logging in, the Dashboard appears as your control center. Here, you’ll fi
 
 On the left side of the screen, you will find the primary navigation menu, as highlighted in the screenshot below.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/7.png)
   
 
 1.  **Dashboard:** This option returns you to the main dashboard view.
@@ -51,7 +51,7 @@ On the left side of the screen, you will find the primary navigation menu, as hi
 
 ### **Our Products**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
 
 Kalp Studio offers a variety of powerful tools to enhance your blockchain development experience. Below are some of our key products:
 
@@ -73,12 +73,12 @@ Kalp Studio offers a variety of powerful tools to enhance your blockchain develo
 
 > In the upper-right corner, there is an "Apps" icon that, when clicked, displays a list of your subscribed Kalp apps.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/9.png)
 
 
 ### **Subscription Expiration**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/5.png)
 
 
 The Kalp Studio console dashboard has been enhanced to notify users about subscription expirations for individual products. A clear message, "Subscription expired. Renew to continue," is displayed along with a "Renew" button, enabling users to promptly renew their subscriptions and maintain uninterrupted access to the services.

@@ -51,46 +51,46 @@ Before beginning the integration process, ensure you have the following prerequi
 -   Begin by logging into your Kalp Studio account. Open the [Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio") and log in with your credentials.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm1.png)
 
 -   Once logged in, you will be directed to the main dashboard.
     
 -   On the left-hand side of the screen, you'll find a navigation menu. This menu contains various options, including "Personal Info," "Applications," and "Settings”, as shown in the screenshot below.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm2.png)
 
 -   Locate the "Applications" option within this menu. It is highlighted in the screenshot below.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm3.png)
 
 ### **Step 2: Navigating to KS Pay from the Applications List**
 
 -   Click on the Explore KS Pay button, as highlighted in the screenshot below, to go to the KS Pay dashboard.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm4.png)
 
 ### **Step 3: Access the KS Pay Dashboard**
 
 -   On the main dashboard, you'll see a list of all registered apps with details such as App ID, App Name, Email, and Country.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm5.png)
 
 - Locate the app for which you want to view transactions. 
 
 - Click on the app name from the list to open the **App Overview**.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh6.png)
     
 
 ### **Step 4: Navigate to the Settings Tab**
 
 On the left sidebar, click on **Settings**.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh7.png)
     
 
 ### **Step 5: Adding a Payment Gateway**
@@ -98,15 +98,15 @@ On the left sidebar, click on **Settings**.
 
 1.  Click on the "+ Add Gateway" button, as highlighted in the screenshot below.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm6.png) 
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm6.png) 
 
 Add Credentials first, then configure webhook.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm7.png)
 
 For Configuring Webhook: Refer [How to Configure Webhook on KS Pay](https://docs.kalp.studio/Products/KS-Pay/How-to-Configure-Webhook-on-KS-Pay/)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm8.png)
 
 ### **Step 6: NPM Installation**
 
@@ -114,18 +114,18 @@ Once you have the prerequisites in place, follow these steps to install the KS-P
 
 1. Click on KS-PAYMENT PACKAGE, as shown in the below screenshot.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm9.png)
 
 2. You will be redirected to NPM portal.
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm10.png)
 
 3. Copy the installation link, as shown in the screenshot below.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm11.png)
 
 4.  Open your terminal and navigate to your React project directory.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm12.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm12.png)
 
 5.  Run the following command to install the KS-PAY package:
     
@@ -146,9 +146,9 @@ To implement the KS-PAY payment gateway in your React application:
 2.  Set up the necessary state and configuration. An example has been provided below.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm13.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm13.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm14.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm14.png)
 
 > **Example Configuration:** Adapt the configuration based on the package documentation and your specific payment requirements. You'll need to provide your API keys, callback URLs, and any other required parameters.
     
@@ -160,7 +160,7 @@ To implement the KS-PAY payment gateway in your React application:
 
 If the NPM integration is unsuccessful, reattempt the integration process.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm15.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/New+folder/inpm15.png)
 
 2.  Move to the next Security section.
     

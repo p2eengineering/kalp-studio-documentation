@@ -17,7 +17,7 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n1.png)
 
 ### **Step 2: Access the Kalp DLT Developer Portal**
 
@@ -28,7 +28,7 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
 3.  Click on the **"Go To Kalp DLT"** button on this card.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n2.png)
 
 ### **Step 3: Locate and Select the SMS Product**
 
@@ -40,19 +40,19 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
     
 4.  Click on the **"Get Started"** or **"Try Now"** button associated with the SMS product.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n3.png)
 
 ### **Step 4: Subscribe to an SMS Plan**
 
  You will be taken to the **"Choose a plan"** page for the SMS service.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n4.png)
 
 1.  Several subscription plans will be displayed (e.g., Developer Plan, Start-up Plan, Enterprise Plan). For initial access or testing, you might opt for a free or low-cost plan.
     
 2.  Select your desired plan. For example, to choose the "Developer Plan" (often priced at $0.00 with a certain number of credits), click the **"Subscribe"** button beneath it.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n5.png)
 
 3.  A confirmation pop-up will appear (e.g., "Subscribe to Developer Plan?"). Click **"Subscribe"** again to confirm.
     
@@ -60,14 +60,14 @@ Kalp Studio is a platform for developers, particularly in the blockchain and Web
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n6.png)
 
 ### **Step 5: Verify Subscription and Access SMS Features**
 
 1. After successful subscription, you might be redirected to the **"Billing"** page.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n7.png)
 
 2.  On the Billing page, under **"Your Subscription,"** you should now see "SMS" listed with an "Active" status and the details of your chosen plan. This confirms your SMS service is active.
     
@@ -92,7 +92,7 @@ Once the SMS service is active, the following sections are accessible through th
             
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n8.png)
 
 2.  **Credit History:**
     
@@ -103,7 +103,7 @@ Once the SMS service is active, the following sections are accessible through th
     -   It also shows a table of "Used Credit history" with details like Transaction ID, Service Name, Time Stamp, and Status.
         
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n9.png)
 
 3.  **API Keys:**
     
@@ -118,7 +118,7 @@ Once the SMS service is active, the following sections are accessible through th
         
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n10.png)
 
 4.  **Logs (Email/SMS) / Log History:**
     
@@ -130,7 +130,7 @@ Once the SMS service is active, the following sections are accessible through th
         
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n11.png)
 
 5.  **Docs:**
     
@@ -138,7 +138,7 @@ Once the SMS service is active, the following sections are accessible through th
 -   Clicking "Docs" in the sidebar will take you to the official Kalp Studio Documentation page. This is an essential resource for detailed information on API usage, integration guides, tutorials, and troubleshooting.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n12.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/sms/navsms/n12.png)
 
 ## **Conclusion**
 

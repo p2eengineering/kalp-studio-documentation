@@ -9,7 +9,7 @@ With Kalp Studio's NFT Creator, you can quickly set up a catalog tailored to you
 ### **Step 1: Accessing the NFT Portfolio**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc1.png)
 
 1.  Open ‘NFT Creator’ by logging into Kalp DLT Developer Portal.
     
@@ -25,7 +25,7 @@ Note: You need to [connect a wallet](https://docs.kalp.studio/Products/NFT%20Cre
 ### **Step 2: Initiating Catalog Creation**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc2.png)
 
 1.  On the Create NFT screen, beside ‘Select Catalog’ field, a "**Create New Catalog**” button is provided.
     
@@ -35,7 +35,7 @@ Note: You need to [connect a wallet](https://docs.kalp.studio/Products/NFT%20Cre
 ### **Step 3: Setting Up Your New Catalog**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc3.png)
 
 1.  **Upload Photo**: Upload a cover image for your new Catalog.  
     (Supported formats for thumbnails are JPG, PNG, GIF and WEBP, with a max size of 5 MB)
@@ -48,6 +48,6 @@ Note: You need to [connect a wallet](https://docs.kalp.studio/Products/NFT%20Cre
 
     - Note: You can create upto 50 NFTs within a custom Catalog.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc4.png)
 
 A pop will appear informing that the “Catalog creation started! It may take a few minutes to appear in the catalog listing."

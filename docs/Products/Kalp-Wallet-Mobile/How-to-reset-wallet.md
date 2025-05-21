@@ -11,31 +11,31 @@ It's crucial to understand that "resetting" your Kalp Wallet doesn't simply mean
 
 Open your Kalp Wallet app. Navigate to the settings menu.
 
-![image-20241122-062011.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+1.png)
+![image-20241122-062011.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+1.png)
 
 **Step 2: Locate the "Remove Wallet" Option**
 
 Within the settings, scroll down to find the "Security & Privacy" section. You'll find an option labelled "Remove Wallet," often accompanied by a trash can icon. Tap this option.
 
-![image-20241122-062124.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+2.png)
+![image-20241122-062124.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+2.png)
 
 ### **Step 3: Confirmation and Seed Phrase Reminder**
 
 The app will present a warning screen explicitly stating that this action will permanently delete your wallet data from the device. A prominent reminder will emphasize the importance of having your seed phrase securely stored. Review this warning carefully.
 
-![image-20241122-062629.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+3.png)
+![image-20241122-062629.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+3.png)
 
 ### **Step 4: Authentication**
 
 Before proceeding, the app requires an additional layer of security. This might involve biometric authentication (fingerprint or face ID) if enabled or, failing that, will prompt you to enter your wallet password. Input the correct credentials to proceed.
 
-![image-20241122-062651.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+4.png)
+![image-20241122-062651.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+4.png)
 
 ### **Step 5: Final Confirmation:**
 
 A final confirmation screen will appear. Once again, you'll be warned about the irreversible nature of this action.
 
-![image-20241122-062849.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+5.png)
+![image-20241122-062849.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/7.How+to+reset+wallet/RW+5.png)
 
 ### **Step 6: Wallet Removal Complete**
 

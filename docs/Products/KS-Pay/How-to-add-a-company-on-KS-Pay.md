@@ -11,37 +11,37 @@ KS Pay offers a streamlined solution for businesses looking to manage their paym
 -   Begin by logging into your Kalp Studio account. Open the [Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio") and log in with your credentials.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh1.png)
 
 -   Once logged in, you will be directed to the main dashboard.
     
 -   On the left-hand side of the screen, you'll find a navigation menu. This menu contains various options, including "Personal Info," "Applications," and "Settings”, as shown in the screenshot below.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh2.png)
 
 -   Locate the "Applications" option within this menu. It is highlighted in the screenshot below.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh3.png)
 
 ### **Step 2: Navigating to KS Pay from the Applications List**
 
 -   Click on the Explore KS Pay button, as highlighted in the screenshot below, to go to the KS Pay dashboard.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh4.png)
 
 ### **Step 3: Access the Company Profile Section**
 
 You'll be directed to KS Pay Dashboard where you can add your company details, as shown in the screenshot below. 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompcomp.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompcomp.jpg)
     
     
 
 ### **Step 4: Enter Company Details**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompdetail.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompdetail.jpg)
 
 Fill out the following fields to complete the company profile setup:
 
@@ -66,7 +66,7 @@ Fill out the following fields to complete the company profile setup:
     
 2.  Click **"Submit"** to save your company's profile.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompsubmit.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/addcompsubmit.jpg)
     
 3.  Upon submission, your company details will be saved in KS Pay.
 

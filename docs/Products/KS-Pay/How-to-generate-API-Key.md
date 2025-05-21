@@ -8,7 +8,7 @@ Generating an API Key is a crucial step for enabling secure access to platform s
 
 ### **Step 1: Log In to your Kalp Studio Account**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg1.png)
 
     
 1.  **Navigate to the Kalp Studio sign-in page:** Enter the [URL](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login") for the Kalp Studio login page
@@ -29,7 +29,7 @@ Generating an API Key is a crucial step for enabling secure access to platform s
 3.  **View Your Services:** In the Applications section, you can see a list of services, products and apps you subscribed to.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/managepg/mpg2.png)
     
 
 ## **Step 3: Accessing KS Pay from Kalp Studio Dashboard**
@@ -40,7 +40,7 @@ Generating an API Key is a crucial step for enabling secure access to platform s
 
 - Here, you'll have direct access to all KS Pay features without the need for additional login steps.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+NAV/n4.png)
 
 ### **Step 4: Access the App Registration Page**
 
@@ -48,14 +48,14 @@ Generating an API Key is a crucial step for enabling secure access to platform s
     
 -   Click on the **"Add App"** button to start the app registration process.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga5.png)
 
 
 ### **Step 5: Fill in App Registration Details**
 
 You will be directed to the Register an App page with the details to fill, as shown in the screenshot below:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KSPAYSTG/Reg+Comp/rc4.png)
 
 Here, fill in the following details:
 
@@ -77,7 +77,7 @@ Here, fill in the following details:
     
 -   **Zip Code/Postal Code***: Mandatory zip/postal code for the application.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga6.png)
     
 
 ### **Step 6: Submit the App Registration**
@@ -86,7 +86,7 @@ Here, fill in the following details:
 
 A confirmation message will appear on your dashboard indicating that your app has been successfully registered, as shown in the screenshot below.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga7.png)
 
 > Click on cancel button to discontinue the registration process.
     
@@ -95,23 +95,23 @@ A confirmation message will appear on your dashboard indicating that your app ha
 
 Click on the app name (e.g., XYZ), as shown in the screenshot, to view the App Overview page. 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga8.png)
 
 App Overview page displays metrics such as the number of transactions, payment status along with some filters. 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/adddomain/ad7.png)
 
 ### **Step 8: Navigate to Settings**
 
 In the left sidebar, select the **Settings** option. This will bring you to the Settings page where you can manage API keys and other settings.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga9.png)
 
 ### **Step 9: Generate API Key**
 
 -   On the Settings page, click the **Generate API Key** button.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/genAPIstep10.jpg)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Screenshot+aud+2/genAPIstep10.jpg)
 
 
 After generating the key, you will see two types of keys:
@@ -120,7 +120,7 @@ After generating the key, you will see two types of keys:
     
 -   **Secret API Key**: This is a private key that should be kept secure and only used in backend configurations.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga10.png)
     
 ### **Step 10: Download or Regenrate API Key**  
 
@@ -129,7 +129,7 @@ You’ll also see an option to **Download** the keys. Download the keys immediat
 
 -   If you need to regenerate the API key, click on **Regenerate Key**. This will create a new set of API keys and disable the old ones.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga11.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/genAPI/ga11.png)
 
 
     

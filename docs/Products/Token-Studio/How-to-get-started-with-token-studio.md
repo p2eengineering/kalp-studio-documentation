@@ -7,11 +7,11 @@ Kalp Studio’s **Token Studio** simplifies the process of creating and managing
 
 ## Step 1: Access the Dashboard 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/21.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/21.png)
 
 Click on the **Try Now** button to explore the app for free, or connect your preferred wallet for full access to token creation.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/1.png)
 
 Log into kalp studio account. Once you’ve logged into Kalp Studio, navigate to the **Dashboard** on the left sidebar. Here, you’ll find various tools and applications available, including **Token Studio**. Click on  **Get Started** under Token studio to explore available plans. 
 
@@ -21,7 +21,7 @@ Log into kalp studio account. Once you’ve logged into Kalp Studio, navigate to
 
 Kalp Studio offers different subscription plans for the Token Studio, based on your needs and usage. The plans available are:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/2.png)
 
 -  **Starter Plan**: $20 per day, with a token creation limit of 100 per day.
 
@@ -33,7 +33,7 @@ Choose a plan that suits your requirements and click **Subscribe** under the cho
 
 ## Step 3: Confirm Subscription
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/3.png)
 
 After selecting a plan, you’ll see a confirmation popup. This popup confirms your chosen plan, subscription type, and cost. If you are certain about your choice, click on **Subscribe** to proceed. 
 
@@ -44,19 +44,19 @@ After selecting a plan, you’ll see a confirmation popup. This popup confirms y
 
 To verify your subscription, go back to the **Billing** section. Here, you’ll see your active subscription plan details, including the start date and renewal date. This ensures your plan is activated and ready to use.
   
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/5.png)
 
 ## Step 5: Start Creating Tokens
 
 Now that you’re subscribed, return to the **Dashboard** and explore **Token Studio**. This tool offers a user-friendly interface to create tokens effortlessly. Simply follow the guided steps to set your token’s attributes, such as its name, symbol, and other specifications depending on the token standard (e.g., ERC20).
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
 
 ## Step 6: Managing Your Tokens
 
 Once created, you can manage your tokens through the same interface. Kalp Studio provides additional functionalities like token distribution, minting, and tracking, making it easy to handle all aspects of token management in one place.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
 
 ## Conclusion
 

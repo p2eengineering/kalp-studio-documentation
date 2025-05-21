@@ -7,7 +7,7 @@ The Kalp Studio Referral Program allows you to invite developers and users to th
 
 ### **Step 1: Logging into Your Kalp Studio Account**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/navikswallet/n2.png)
 
     
 1.  **Navigate to the Kalp Studio sign-in page:**  Enter the [URL](https://accounts.kalp.studio/login "https://accounts.kalp.studio/login") for the Kalp Studio login page
@@ -25,17 +25,17 @@ The Kalp Studio Referral Program allows you to invite developers and users to th
 ### **Step 2: Access Referral Program**
 
 1.  **Locate the "Referral Program" Card:** Scroll through the Applications section to find the card labeled "Referral Program."
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp2.png)
     
 2.  **Click "Access Program":** Now the button label will be changed to "Access Program". Click on this to access the referral program dashboard.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp3.png)   
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp3.png)   
 
 
 
 ### **Step 3: Referral Program Dashboard**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp4.png)
 
 **Access Referral Tab**: Upon clicking the "Access Program" button, the “Referrals” tab gets opened, and it shows the _**Invite and Earn**_ section with the following information:
 
@@ -47,28 +47,28 @@ The Kalp Studio Referral Program allows you to invite developers and users to th
     
 -   **Kalp Karma Points:** This indicates the number of Karma Points you have earned through the referral program. Kalp Karma Points are granted when invited users join using your invitation link/referral code.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp5.png) 
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp5.png) 
 
 **Invited Users** Clicking on "Invited Users" tab shows all the users you have invited.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp4.png)
 
 **Joined Users** Clicking on "Joined Users" tab shows all the users who have successfully joined using the invitation link/referral code.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp6.png)
 
 
 ### **Step 4: Refer a new user**
 
 - **Locate the "Refer Now" button** on the main Referrals page, as shown in the screenshot below.
   
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp7.png)   
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp7.png)   
 
 
 
 - **Click the "Refer Now" button.** This will open a pop-up window titled "Invite User".
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp8.png)
 
     
 **Fill in the "Invite User" form:**
@@ -88,13 +88,13 @@ The Kalp Studio Referral Program allows you to invite developers and users to th
 
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp9.png)
 
 > You can copy the referral code and share it through your preferred channels.
 
 * An invitation will be sent and a pop-up notifying the same will appear. 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+3/refprog/rp10.png)
 
 ## **Kalp Karma Points and Rewards**
 

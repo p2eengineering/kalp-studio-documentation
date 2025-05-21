@@ -15,17 +15,17 @@ This guide will walk you through the straightforward process of generating a new
 1.  On the left-hand navigation sidebar, click on **"Billing"**. This will take you to the billing management page where you can view your subscriptions.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g1.png)
 
 **Step 2: Locate Your Email Subscription**
 
 1.  On the "Billing" page, you'll see a section titled **"Your Subscription"**.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g2.png)
 
 2.  Identify the **"Email"** service listed among your active subscriptions.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g3.png)
 
 ### **Step 3: Access API Key Generation**
 
@@ -45,7 +45,7 @@ This action should navigate you to a page or prompt a dialog for managing API ke
 2.  The prompt will state: "Create new API key to use."
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g4.png)
 
 ### **Step 5: Provide Key Details**
 
@@ -66,7 +66,7 @@ In the modal, you'll need to fill in the following fields:
 
 1.  After filling in the "Key Name" (and optionally, the "Key Description"), click the **"Create"** button.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g5.png)
 
 ### **Step 7: Confirmation and Key Retrieval**
 
@@ -86,7 +86,7 @@ In the modal, you'll need to fill in the following fields:
         
     -   **Status:** An indicator (e.g., a toggle switch) showing if the key is active.
         
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/email/genapi/g6.png)
 
 ## Conclusion
 

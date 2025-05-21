@@ -8,7 +8,7 @@ A knowledge base is the brain of your chatbot. It's where you feed it the inform
 
 ### Step 1: Entering Knowledge Base Details
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat1.png)
 
 Once you initiate the creation process, you'll be guided through a multi-step.
 
@@ -17,13 +17,13 @@ Once you initiate the creation process, you'll be guided through a multi-step.
     -   _Knowledge Base Name :_ Provide a clear and descriptive name for your knowledge base. This is a mandatory field. For example, "Product FAQs," "Company Policies," or "Technical Support Guide."  
           
         
-        ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat2.png)
+        ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat2.png)
         
     -   **Upload Thumbnail:** You can upload an image (JPG, PNG; Max size: 2MB) to serve as a thumbnail for your knowledge base. This is optional but can help in visually organizing multiple knowledge bases.
         
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat3.png)
 
 1.  **Description:** Add a brief description of what this knowledge base contains.
     
@@ -33,7 +33,7 @@ Once you initiate the creation process, you'll be guided through a multi-step.
     
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat4.png)
 
 ### Step 3: Adding Data Sources
 
@@ -45,7 +45,7 @@ This is where you populate your knowledge base with actual information. KALP STU
     -   **A. Adding Files:**  
           
                 
-        ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat5.png)
+        ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat5.png)
         
         -   The **"Files"** tab is usually selected by default.
             
@@ -60,7 +60,7 @@ This is where you populate your knowledge base with actual information. KALP STU
     -   **B. Adding Audio:**  
           
                 
-        ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat6.png)
+        ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat6.png)
         
         -   Click on the **"Audio"** tab.
             
@@ -71,7 +71,7 @@ This is where you populate your knowledge base with actual information. KALP STU
     -   **C. Adding Website Content:**  
           
                 
-        ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat7.png)
+        ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat7.png)
         
         -   Click on the **"Website"** tab.
             
@@ -91,12 +91,12 @@ Once you have added all your desired data sources:
       
     
     
-    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat8.png)
+    ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat8.png)
     
 3.  You should see a notification indicating that the training process has begun, for example, "Training initiated successfully."  
       
         
-    ![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat9.png)
+    ![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat9.png)
     
 
 The system will now process all the information you've provided, indexing it and preparing it for use by your chatbot. The time taken for training can vary depending on the volume and complexity of the data.
@@ -120,7 +120,7 @@ After initiating training:
 3.  Initially, the status shows as **"UnTrained"** or "Training in Progress." Once the process is complete, the status will update accordingly (e.g., "Trained" or "Active").
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat10.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/createchatbot/chat10.png)
 
 You can typically click on the knowledge base name to view its details, add more data, or re-train it later if needed.
 

@@ -18,7 +18,7 @@ Kalp Wallet is a versatile cryptocurrency wallet that enables you to manage digi
 
 ## Wallet Types
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/wallet/Wallet.gif)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/emailsms/wallet/Wallet.gif)
 
 ### Custodial Wallet
 

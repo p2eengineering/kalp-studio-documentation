@@ -9,19 +9,19 @@ Kalp Wallet is a digital wallet for managing your cryptocurrencies. Security is 
 
 Open your Kalp Wallet app. Navigate to the settings menu.
 
-![image-20241121-082242.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+1.png)
+![image-20241121-082242.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+1.png)
 
 ### **Step 2: Locate the Password Change Option**
 
 Within the Settings menu, find the "Security & Privacy" section. Under this, you'll see the option to "Change Password." Tap on this option.
 
-![image-20241121-084416.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+2.png)
+![image-20241121-084416.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+2.png)
 
 ### **Step 3: Enter Your Current Password**
 
 On the next screen, you'll be prompted to enter your current password in the "Current Password" field.
 
-![image-20241121-084638.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+3.png)
+![image-20241121-084638.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+3.png)
 
 ### **Step 4: Create a New Password**
 
@@ -42,12 +42,12 @@ Next, create your new password in the "New Password" field. Kalp Wallet enforces
 
 In the "Confirm Password" field, re-enter your new password to ensure accuracy.
 
-![image-20241121-095954.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+4.png)
+![image-20241121-095954.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+4.png)
 
 ### **Step 6: Change Password Confirmation**
 
 Once you've entered and confirmed your new password, tap the "Change Password" button. The app will then confirm that your password has been successfully changed.
 
-![image-20241121-100017.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+5.png)
+![image-20241121-100017.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/5.+How+to+change+password/CP+5.png)
 
 Regularly changing your Kalp Wallet password is a simple yet highly effective way to improve the security of your holdings. By following the steps, you can easily update your password and maintain the confidentiality of your digital assets.

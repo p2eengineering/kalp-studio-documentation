@@ -22,11 +22,11 @@ To view a seed phrase, follow the steps given below. Ensure you are in a secure 
 3.  Select the option **View Seed Phrase**
     
 
-![Open image-20241125-100131.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I1.png)
+![Open image-20241125-100131.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I1.png)
 
-![Open image-20241125-100119.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I2.png)
+![Open image-20241125-100119.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I2.png)
 
-![Open image-20241125-100254.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I3.png)
+![Open image-20241125-100254.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I3.png)
 
 
 **Step 3: View Seed phrase**
@@ -38,7 +38,7 @@ To view a seed phrase, follow the steps given below. Ensure you are in a secure 
 -   **Write it down carefully** on paper and store it in a safe place. Do not save it digitally to prevent hacking.
     
 
-![Open image-20241125-100857.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I4.png)
+![Open image-20241125-100857.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+view+Seedphrase/I4.png)
 
 
 ### **Step 6: Exit Securely**

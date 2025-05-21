@@ -12,19 +12,19 @@ Kalp Studio provides an easy way to check your subscription details for the Toke
 
 Log into your Kalp Studio account and navigate to the **Dashboard**. Make sure you’re on the main dashboard where all your products and services are listed. Click on explore of **Token Studio**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
 
 ## Step 2: Navigate to the "Subscription" Section
 
 On the left sidebar of the dashboard, locate and click on the **Subscription** tab. This will take you to the page where all your subscription information is stored.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/7.png)
 
 ## Step 3: View Subscription Details
 
 In the **Subscription** section, you will find details related to your Token studio subscription, such as:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image-20241115-112326.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image-20241115-112326.png)
   
 
 -  **Plan Name**: The specific subscription plan you are on (e.g., Starter Plan, Developer Plan).
@@ -42,7 +42,7 @@ In the **Subscription** section, you will find details related to your Token stu
 
 Below the subscription details, you may find a **Purchase History** section. This section provides:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image-20241115-112326.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image-20241115-112326.png)
 
 -  **Order ID**: Unique identifier for each transaction.
 

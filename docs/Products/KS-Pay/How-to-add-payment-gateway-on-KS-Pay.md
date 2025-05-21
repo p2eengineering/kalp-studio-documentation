@@ -14,7 +14,7 @@ Please ensure you have generated your API Key before proceeding. This is a prere
 
 Start by accessing the "Settings" section of your KS Pay dashboard. This is located in the left sidebar menu.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg1.png)
 
 ### Access Payment Gateway Settings
 
@@ -24,7 +24,7 @@ Within the "Settings" section, locate and click the "Payment Gateway Settings" t
 
 You'll see a "Payment Gateway" section and an "+ Add Gateway" button, click this button to start the gateway addition process.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg2.png)
 
 ## **Steps to Add a Payment Gateway:**
 
@@ -32,12 +32,12 @@ You'll see a "Payment Gateway" section and an "+ Add Gateway" button, click this
 
 You will be directed to the first step - "Credentials". This is where you'll need to configure your gateway settings.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg3.png)
 
 -   **Select Currency**: From the dropdown, select the currency that this gateway will handle (USD, Rupees, etc).
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg4.png)
 
 -   **Gateway Selection:** Choose a currency (e.g., USD, Rupees). This displays compatible payment gateways (e.g., PayPal for USD, Cashfree/Razorpay for Rupees).
     
@@ -53,7 +53,7 @@ You will be directed to the first step - "Credentials". This is where you'll nee
 
 Upon submitting the credentials successfully, you will be moved to the next step "Webhook."
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg5.png)
 
 -   The system will generate a webhook URL. This URL is essential for your chosen payment gateway to communicate transaction updates back to your application.
     
@@ -64,22 +64,22 @@ Upon submitting the credentials successfully, you will be moved to the next step
 
 Now you will be on the "NPM Integration" step.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg6.png)
 
 -   To complete this step, you'll need to integrate the provided SDK into your application. You can find more information on the Integration document (in our example, "KS-PAY PAYMENT PACKAGE") by clicking on it. This document contains instructions and the code to install and utilize the package, and also links to the NPM page to further understand the package information.
     
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg7.png)
 
 -   After integrating the SDK and verifying the installation is correct, click "Mark as done".
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg8.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg8.png)
 
 ### Step 4: Security Configuration
 
 After the previous step is marked as done, you will be on the final step, "Security".
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg9.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/addpg/apg9.png)
 
 -   Enter your application's domain name into the input field and then click “Mark as done”.
     

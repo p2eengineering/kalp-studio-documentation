@@ -122,31 +122,31 @@ Workspace in Postman
 
 ### Step 2: Select the “Email-gateway“ folder in the collection list.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/1.png)
 
 ### Step 3: Select “v1 email” folder from the collection list.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/2.png)
 
 ### Step 4: Select “POST sendemail” from the collection list.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/3.png)
 
 ### Step 5: Click on the "Headers" tab and enter your emailauthkey.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/4.png)
 
 ### Step 6: Click on the "Body" tab and enter all the parameter values.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/5.png)
 
 ### Step 7: Click "Send"
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/6.png)
 
 ### Step 8: The response body will receive a success message, and an email will be sent.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/8.png)
 
 ### 2. How to send an email with an attachment
 
@@ -162,33 +162,33 @@ Workspace in Postman
 
 ### Step 2: Select the “Email-gateway“ folder in the collection list.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/9.png)
 
 ### Step 3: Select “v1 email” folder from the collection list.
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/10.png)
 
 ### Step 4: Select “POST attachemail” from the collection list.
 
 Send Email is the route for sending email with an attachment. The body content is in Form Data.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/11.png)
 
 ### Step 5: Click on the "Headers" tab and enter your emailauthkey.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/12.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/12.png)
 
 ### Step 6: Click on the "Body" tab and enter all the parameter values.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/13.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/13.png)
 
 ### Step 7: Click "Send"
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/14.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/14.png)
 
 ### Step 8: The response body will receive a success message and an email with an attachment will be sent.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/15.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/15.png)
 
 ### 3. How to retrieve email logs
 
@@ -204,19 +204,19 @@ Send Email is the route for sending email with an attachment. The body content i
 
 ### Step 2: Select "GET email logs" in “v1 email” folder from the collection list.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/16.png)
 
 ### Step 3: Set the query parameters as per the requirement. "pageNo" ,"pageSize" or other parameters in the "Params" tab.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/17.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/17.png)
 
 ### Step 4: Click on the "Headers" tab and enter your **emailauthkey.**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/18.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/18.png)
 
 ### Step 5: Click "Send"
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/19.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/19.png)
 
 ### Step 6: The response body will receive a success message and all email logs.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/20.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Email+integration+guide/20.png)

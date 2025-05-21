@@ -7,19 +7,19 @@ Connecting your wallet is a necessary step to start creating tokens on Kalp Stud
 
 ## Step 1: Access the Kalp Token Studio Dashboard
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
 
 Once you’re logged in, navigate to the **Dashboard** within Kalp Studio and click on  explore **Token studio**. Here, you’ll see options for **Token Creation Wizard**, **List of Tokens Created**, and **Subscription**. Select the **Create New Token** option to begin the token creation process.
 
 ## Step 2: Trigger the Wallet Connection
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/8.png)
 
 If you haven’t connected a wallet yet, clicking **Create New Token** will prompt a popup message asking you to connect your wallet. This is necessary as the Token studio requires access to your wallet to deploy tokens on the blockchain.
 
 ## Step 3: Select a Wallet Provider
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 In the wallet connection dialog, you’ll see a list of supported wallet providers. Kalp Studio currently supports popular options such as:
 
@@ -35,7 +35,7 @@ Choose the wallet provider you prefer. For this example, we’ll proceed with **
 
 Once you select MetaMask, the MetaMask extension or application (if installed) will open and prompt you to confirm the connection. Follow these steps:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 
 1.  **Open MetaMask**: If prompted, enter your MetaMask password to unlock your wallet.
@@ -48,7 +48,7 @@ Once you select MetaMask, the MetaMask extension or application (if installed) w
 
 After confirming the connection, you’ll see your wallet connected on the Kalp Token Studio interface. Now, you are ready to use the Token studio to create and deploy your tokens.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/13.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/2.+Dashboard/13.png)
 
 ## Step 6: Start Creating Tokens
 

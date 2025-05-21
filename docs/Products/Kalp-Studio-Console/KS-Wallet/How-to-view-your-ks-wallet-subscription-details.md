@@ -22,12 +22,12 @@ To view your subscription details:
 
 - From the **Dashboard**, find the **KS Wallet** card.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
 
 3. **Navigate to Subscription**:  
    - On the left-hand sidebar, click on **Subscription**.  
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/16.png)
 
 
 
@@ -39,7 +39,7 @@ This will open the subscription management page.
 
 The **Subscription** page provides a detailed overview of your KS Wallet plan:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/16.png)
 
 
 - **Active Plan**: Displays your current subscription plan.  
@@ -55,7 +55,7 @@ The **Subscription** page provides a detailed overview of your KS Wallet plan:
 
 Below the subscription overview, you’ll find the **Purchase History** section. This table contains details about your past subscription transactions, including:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/16.png)
 
 - **Order ID**: A unique identifier for each transaction.  
 - **Purchased Plan Name**: The plan you subscribed to (e.g., **Developer Plan**, **Starter Plan**).  

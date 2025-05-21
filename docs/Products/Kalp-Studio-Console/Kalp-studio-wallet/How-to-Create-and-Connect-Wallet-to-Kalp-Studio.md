@@ -11,14 +11,14 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 #### 1. Access the Wallet Section
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/5.png)
 
 -   **Navigate to the Wallet Section**: After logging into Kalp Studio, go to the sidebar menu and click on the 'Wallet' option.
     
 
 #### 2. Add a New Wallet
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/5.png)
 
 **Initiate Wallet Creation**: Click on the "+ Connect Wallet" button. This will open the wallet creation interface.
 
@@ -27,7 +27,7 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 #### 3. Choose Wallet Type
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/image+%284%29.png)
 
 -   **Select Wallet Type**: You will be presented with options to choose the type of wallet. Kalp Studio supports multiple types of wallets such as:
     
@@ -40,13 +40,13 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 ### Self Custody Wallet
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/7.jfif)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/7.jfif)
 
 **Self Custody Wallet**: For this guide, we select 'Self Custody Wallet'. Click 'Continue' to proceed.
 
 #### 1. Configure the Wallet
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/8.jfif)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/8.jfif)
 
 -   **Select Blockchain and Network**: Choose the appropriate blockchain and network for your wallet. This ensures compatibility and proper functionality of your wallet within the ecosystem.
     
@@ -54,7 +54,7 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 #### 2. Generate Seed Phrase
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/9.png)
 
 -   **Secret Recovery Phrase**: You will be provided with a 15-word seed phrase. This phrase is crucial for the security and recovery of your wallet.
     
@@ -73,7 +73,7 @@ Creating or connecting a wallet on Kalp Studio is a straightforward process desi
 
 -   **Verification**: To ensure you have correctly noted the seed phrase, you will need to confirm it by selecting each word in the correct order.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/10.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/10.png)
 
 -   Click 'Continue' after confirmation.
     
@@ -82,7 +82,7 @@ After jotting down the seed phrase, you need to arrange the words accordingly.
 
 #### 4. Wallet Creation Successful
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/11.jfif)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/11.jfif)
 
 -   **Wallet Details**: Once the seed phrase is confirmed, your wallet will be successfully created. You will be provided with your private and public keys.
     
@@ -94,7 +94,7 @@ After jotting down the seed phrase, you need to arrange the words accordingly.
 #### Step 1: Access the Wallet Section
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/12.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/12.png)
 
 -   Begin by logging into your KALP Studio account.
     
@@ -103,7 +103,7 @@ After jotting down the seed phrase, you need to arrange the words accordingly.
 
 #### Step 2: Configure Your Wallet
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/13.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/13.png)
 
 -   After selecting the wallet type, you will be asked to choose the blockchain and network for your wallet.
     
@@ -117,18 +117,18 @@ After jotting down the seed phrase, you need to arrange the words accordingly.
 #### Step 4: Sign In for Verification
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/14.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/14.png)
 
 -   To proceed, you need to sign in or verify your account. You will see a prompt to sign in with Google or enter your email address.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/15.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/15.png)
 
 -   Enter your details, and you may be asked to verify your email by entering a code sent to your inbox.
     
 
 #### Step 5: Wallet Creation Confirmation
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/5.Kalp+studio+wallet/16.png)
 
 -   Upon successful verification, your wallet will be created.
     

@@ -10,7 +10,7 @@ Kalp Studio offers a suite of powerful tools designed to assist users in web3. A
 
 Your first interaction with the Kalp Studio ecosystem will be its **Sign in** page.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n1.png)
 
 You'll find two input fields: "Enter Your Email" and "Enter Password."
 
@@ -27,7 +27,7 @@ To proceed, you'll need to enter your Kalp Studio account details.
 -   Click the **Sign In** button.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n2.png)
 
 ### **Step 3: Reaching the Kalp Studio Applications Hub**
 
@@ -36,7 +36,7 @@ Upon successful authentication, you will be redirected to the main **Application
 -   This page, as seen in the screenshot, serves as a central hub for all the services and products you have access to.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n3.png)
 
 -   You'll notice a left sidebar with options like "Personal Info," "Applications", and "Settings."
     
@@ -54,7 +54,7 @@ Now, you need to find and select the Kalp Bot application.
 -   Within this card, you will find a purple button labeled **"Go To Kalp Bot"**. Click this button.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n4.png)
 
 ### **Step 5: Welcome to the Kalp Bot Dashboard**
 
@@ -67,7 +67,7 @@ You have successfully navigated to Kalp Bot!
 -   The left sidebar within the Kalp Bot interface provides navigation options such as "Dashboard," "Knowledge Base," "Chatbots," "Leads," "API Keys," and "My Activities."
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalpbot/navigatekalpbot/n5.png)
 
 ### **Conclusion**
 
