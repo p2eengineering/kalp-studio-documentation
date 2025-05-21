@@ -200,6 +200,12 @@ nav:
           - How to add credit: 'Products/Kalp-Studio-Console/Credits/How-to-Add-Credit.md'
         - Faucets:
           - How to Get TestNest Gini Tokens Using Kalp Studio Faucet: 'Products/Kalp-Studio-Console/Faucets/How-to-Get-TestNet-Gini-Tokens-Using-Kalp-Studio-Faucet.md'
+    - Kalp Bot:
+        - How to navigate to Kalp Bot: 'Products/Kalp-Bot/How-to-navigate-to-Kalp-Bot.md'
+        - How to create knowledge base on Kalp Bot: 'Products/Kalp-Bot/How-to-create-knowledge-base-on-Kalp-Bot.md'
+        - How to create chatbot on Kalp Bot: 'Products/Kalp-Bot/How-to-create-chatbot-on-Kalp-Bot.md'
+        - How to embed chatbot on website: 'Products/Kalp-Bot/How-to-embed-chatbot-on-website.md'
+        - How to generate API key for Kalp Bot: 'Products/Kalp-Bot/How-to-generate-API-key-for-Kalp-Bot.md'
     - KS Pay:
             - How to Add credentials and get them verified on KS Pay: 'Products/KS-Pay/How-to-Add-Credentials-and-Get-Them-Verified-on-KS-Pay.md'
             - How to change the password on KS Pay: 'Products/KS-Pay/How-to-change-the-password-on-KS-Pay.md'
