@@ -29,20 +29,20 @@ spec:
             limits:
               memory: '800Mi'
               cpu: '200m'
-          # readinessProbe:
-          #     httpGet:
-          #       path: /
-          #       port: 8000
-          #     initialDelaySeconds: 30
-          #     timeoutSeconds: 10
-          # livenessProbe:
-          #     httpGet:
-          #       path: /
-          #       port: 8000
-          #     initialDelaySeconds: 30
-          #     periodSeconds: 5
-          #     timeoutSeconds: 10
-          #     failureThreshold: 4
+          readinessProbe:
+              httpGet:
+                path: /health
+                port: 8000
+              initialDelaySeconds: 120
+              timeoutSeconds: 10
+          livenessProbe:
+              httpGet:
+                path: /health
+                port: 8000
+              initialDelaySeconds: 120
+              periodSeconds: 5
+              timeoutSeconds: 10
+              failureThreshold: 4
           ports:
             - name: http
               containerPort: 8000
