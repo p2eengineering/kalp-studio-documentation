@@ -18,7 +18,7 @@ spec:
       hostname: kalp-studio-doc-prod
       automountServiceAccountToken: false
       nodeSelector:
-        noderole:	ks-nonprod-node-x
+        noderole:	general
       containers:
         - name: kalp-studio-doc-prod
           image: 025066284787.dkr.ecr.ap-south-1.amazonaws.com/kalp-studio-doc-stg:<VERSION>
