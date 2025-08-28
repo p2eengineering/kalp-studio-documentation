@@ -1,5 +1,3 @@
-## Solidity Functions
-
 Solidity Functions in Kalp are automation scripts written directly in Solidity that decide when and how a smart contract action should be executed.
 They run natively on-chain, making them a reliable choice whenever you need trustless, transparent, and immutable automation.
 

@@ -1,5 +1,3 @@
-## Transactions
-
 Automated Transactions allow you to schedule and execute smart contract calls without manual intervention. Instead of waiting for a human or an off-chain bot, Kalp Functions automatically initiate transactions when defined conditions are met.
 This ensures your dApp or protocol runs smoothly, reduces delays, and minimizes the risk of missed operations.
 

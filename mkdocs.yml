@@ -121,7 +121,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -159,6 +159,12 @@ nav:
           - API Gateway:
             - How to generate API endpoints: 'Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints.md'
             - How to navigate to the list of smart contract: 'Products/Kalp-Studio-Console/API-Gateway/How-to-Navigate-to-the-List-of-Smart-Contract.md'
+          - Kalp Functions:
+            - Overview: 'Products/Kalp-Studio-Console/Kalp-Functions/Overview.md'
+            - Solidity Functions: 'Products/Kalp-Studio-Console/Kalp-Functions/Solidity-Functions.md'
+            - Transactions: 'Products/Kalp-Studio-Console/Kalp-Functions/Transactions.md'
+            - Trigger Types: 'Products/Kalp-Studio-Console/Kalp-Functions/Trigger-types.md'
+            - How to use Kalp Functions: 'Products/Kalp-Studio-Console/Kalp-Functions/How-to-use-kalp-functions.md'
           - API Key Generation:
             - How to generate API Key: 'Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key.md'
           - Transaction monitoring:

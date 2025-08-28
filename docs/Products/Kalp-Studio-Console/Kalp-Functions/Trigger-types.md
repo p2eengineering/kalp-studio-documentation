@@ -1,6 +1,3 @@
-## Trigger Types (Kalp Web3 Functions)
-
-
 Kalp Web3 Functions provide multiple ways to decide when and how your automation should run.
 Depending on your use case, you can pick from simple time-based triggers, blockchain-aware events, or external webhooks.
 

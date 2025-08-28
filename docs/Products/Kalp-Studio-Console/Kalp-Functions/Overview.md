@@ -1,5 +1,3 @@
-## Overview
-
 KALP Web3 Functions transform smart contracts from passive logic into **active, autonomous services**.  
 They allow developers to automate execution, schedule transactions, or connect on-chain events with off-chain systems without needing to manage backend infrastructure.
 
