@@ -1,19 +1,14 @@
 <style> body {  font-family: "Source Sans 3", sans-serif!important; }</style>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# KS Pay API Integration Guide
+# KS Pay API Documentation
 
 ## 1. Introduction
 
 ### Purpose
 
-Kalp Studio Payment Engine (PE) API enables businesses to integrate and manage financial transactions. A few of the key API functionalities are user authentication (sign-up, login, and KYB verification), company onboarding, and application management.
+The KS Pay API allows businesses to integrate payment processing capabilities into their applications. It offers  **multi-gateway integration**  for seamless connections with multiple payment gateways supporting multiple currencies and a wide range of  **global payment methods**  to cater to diverse customer preferences, and simplifies  **payment reconciliation**  through automated and manual processes. KS Pay features  **smart routing**, which optimizes transaction processing by selecting the most efficient pathways. This combination enhances operational efficiency, reduces costs, and improves customer satisfaction by providing a streamlined payment experience in multiple currencies.
 
-Multi-step verification processes, including credentials, webhooks, and NPM integration, enable seamless interaction with payment gateways, enabling users to add, verify, and prioritize gateways.
-
-In addition, the API supports tax, product, and customer management. Customers can be created, invoices can be generated, bank accounts can be managed, and withdrawals can be initiated.
-
-Through customizable API keys, developers can automate billing and invoicing processes, track transaction statuses, and access payment analytics. A comprehensive documentation ensures smooth integration and secure financial operations, making Kalp Pay API a robust solution for businesses that manage payments.
 
 ### Audience
 
@@ -25,9 +20,15 @@ This guide is intended for developers, DevOps engineers, and product managers wh
 
 ### Postman Collection 
 
+For ease of use and testing, we provide a Postman collection with pre-configured requests:
+
 [KS Pay API Collection](https://www.postman.com/p2eengineering/workspace/ks-pay-api-documentation/collection/30994788-84410cba-9ca9-4a9e-a75b-a39c34de2767?action=share&creator=30994788)
 
-**Base URL**: https://payment-api.p2epl.io/v1
+**Sandbox URL**: https://pay-open-sandboxapi.kalp.studio
+
+**Live URL**: https://pay-open-liveapi.kalp.studio
+
+It is highly recommended to use the Sandbox environment for testing and development before moving to the Live environment.
 
 ## 2. Prerequisites
 
@@ -700,46 +701,8 @@ This API generates an access token and refresh token for authentication. The acc
 - Returns an `accessToken` and `refreshToken`.
 - The `accessToken` is short-lived and must be refreshed using the `refreshToken`.
 
-#### 2. Generate Signature
-This API generates a signature for secure API requests.
 
-### Request
-**Method:** `POST`
-
-**URL:** `{{baseURL}}/auth/generate-signature/{{appId}}`
-
-**Headers:**
-```json
-{
-  "Content-Type": "application/json"
-}
-```
-
-**Body:**
-```json
-{
-  "accessKey": "{{accesskey}}",
-  "secretKey": "{{secretKey}}"
-}
-```
-
-#### Response
-**Status Code:** `201 Created`
-
-**Body:**
-```json
-{
-  "status": 201,
-  "message": "success",
-  "result": "GENERATED_SIGNATURE"
-}
-```
-
-#### Description
-- Generates a cryptographic signature using `accessKey` and `secretKey`.
-- The signature is used to secure API requests.
-
-#### 3. Generate Refresh Token
+#### 2. Generate Refresh Token
 This API refreshes the access token using the refresh token.
 
 #### Request
@@ -782,7 +745,7 @@ This API refreshes the access token using the refresh token.
 - Refreshes the `accessToken` using the `refreshToken`.
 - Returns a new `accessToken` and `refreshToken`.
 
-#### 4. Fetch Currencies
+#### 3. Fetch Currencies
 This API retrieves a list of supported currencies.
 
 #### Request
@@ -824,7 +787,7 @@ This API retrieves a list of supported currencies.
 #### Description
 - Returns a list of supported currencies, including their codes, symbols, and types.
 
-#### 5. Fetch Payment Methods for Currency
+#### 4. Fetch Payment Methods for Currency
 This API retrieves available payment methods for a specific currency.
 
 ### Request
@@ -858,7 +821,7 @@ This API retrieves available payment methods for a specific currency.
 #### Description
 - Returns a list of available payment methods for a specific currency.
 
-#### 6. Initiate Transaction
+#### 5. Initiate Transaction
 This API initiates a payment transaction.
 
 ### Request
@@ -900,7 +863,7 @@ This API initiates a payment transaction.
 }
 ```
 
-#### 7. Process Transaction
+#### 6. Process Transaction
 **API Name:** Process Transaction
 
 **Description:** Processes the initiated transaction using the generated signature.
@@ -930,7 +893,7 @@ POST - /transaction/process
 #### Description
 - Initiates a payment transaction.
 
-#### 8. Fetch Transaction by ID
+#### 7. Fetch Transaction by ID
 This API retrieves transaction details using its ID.
 
 #### Request
@@ -952,7 +915,7 @@ This API retrieves transaction details using its ID.
 #### Description
 - Retrieves the details of a transaction using its unique ID.
 
-#### 9. Fetch All Transactions
+#### 8. Fetch All Transactions
 This API retrieves all transactions.
 
 #### Request

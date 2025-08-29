@@ -21,16 +21,16 @@ To view your created wallets:
 
 - From the **Dashboard**, find the **KS Wallet** card.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/8.png)
 
 3. **Navigate to the All Wallets Page**:  
    - On the KS Wallet Dashboard click on left-hand sidebar of **All wallets**.  
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/9.png)
 
    - This will open the **All Wallets** page, displaying a list of all the wallets created under your account.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/11.png)
 
 
 ---
@@ -39,7 +39,7 @@ To view your created wallets:
 
 On the **All Wallets** page, you will find the following key details:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/11.png)
 
 
 - **Wallet Created**:  
@@ -54,7 +54,7 @@ On the **All Wallets** page, you will find the following key details:
 
 The **Wallet Created** section provides an overview of your wallet usage:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Wallet/11.png)
 
 
 - **Example**: If your plan allows for 50 wallets, and you have created 10 wallets, it will display **10/50**.  

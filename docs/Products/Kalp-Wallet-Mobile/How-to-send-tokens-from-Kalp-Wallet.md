@@ -15,7 +15,7 @@ To send tokens using the **Kalp Wallet Mobile**, follow these step-by-step instr
 
 1.  Click on the token you wish to send.
 
-![image-20241125-165139.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+1.png)
+![image-20241125-165139.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+1.png)
 
 ### **Step 3: Initiate the Transfer**
 
@@ -23,11 +23,11 @@ To send tokens using the **Kalp Wallet Mobile**, follow these step-by-step instr
     
 2.  A transfer form will appear.
 
-![image-20241125-165204.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+2.png)
+![image-20241125-165204.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+2.png)
 
 
 
-![image-20241125-165416.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+3.png)
+![image-20241125-165416.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+3.png)
 
 ### **Step 4: Enter the Recipient's Address**
 
@@ -50,7 +50,7 @@ Enter Recipient Address, there are 4 ways to enter address
 -   Ensure the recipient's wallet is compatible with the token's blockchain network (e.g., Kalp Chain or Ethereum-compatible chain).
 
 
-![image-20241125-165545.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+4.png)
+![image-20241125-165545.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+4.png)
 
 ### **Step 5: Specify the Amount**
 
@@ -59,7 +59,7 @@ Enter Recipient Address, there are 4 ways to enter address
 2.  Ensure you have sufficient token balance to cover the transfer and any transaction fees (e.g., GINI tokens on Kalp Chain).
 
 
-![image-20241125-165705.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+5.png)
+![image-20241125-165705.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+5.png)
 
 ### **Step 6: Review and Confirm**
 
@@ -70,7 +70,7 @@ Enter Recipient Address, there are 4 ways to enter address
     
 -   Confirm the estimated gas fees (if applicable).
     
-![image-20241125-165727.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+6.png)
+![image-20241125-165727.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+6.png)
 
 ### **Step 7: Approve the Transaction**
 
@@ -79,11 +79,11 @@ Enter Recipient Address, there are 4 ways to enter address
 2.  If prompted, enter your **wallet password** or authenticate using your preferred method.
     
 
-![image-20241125-165811.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+7.png)
+![image-20241125-165811.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+7.png)
 
 
 
-![image-20241125-165852.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+8.png)
+![image-20241125-165852.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+8.png)
 
 ### **Step 8: Wait for Transaction Confirmation**
 
@@ -92,7 +92,7 @@ Enter Recipient Address, there are 4 ways to enter address
 2.  Check the **transaction status** on the wallet dashboard or the blockchain explorer linked to the token's network.
 
 
-![image-20241125-165921.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+9.png)
+![image-20241125-165921.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Kalp+Wallet+Mobile/9.+How+to+send+tokens+from+Kalp+Wallet/ST+9.png)
 
 ### **Step 9: Verify the Transaction**
 

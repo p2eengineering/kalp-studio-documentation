@@ -2,71 +2,104 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Configure Webhook on KS Pay?
+# **How to Configure Webhook on KS Pay?**
 
-Configuring a webhook is essential for enabling real-time updates between your payment gateway and KS Pay. This guide walks you through setting up a webhook, specifically for Razorpay, on the KS Pay platform. By configuring the webhook, you ensure that payment events are instantly communicated to KS Pay, allowing you to track and manage transactions seamlessly.
+Webhooks are a crucial component in integrating KS Pay with external payment gateways, such as Razorpay. They facilitate real-time communication between systems, ensuring immediate updates on key events like successful payments, failed transactions, and disputes. This comprehensive guide outlines the process of configuring webhooks to enable seamless communication between KS Pay and your chosen payment gateway.
 
-### **Step 1: Obtain the Webhook URL and Secret Key from KS Pay**
+### **Step 1: Accessing the Applications Section in Kalp Studio**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw1.png)
-
-1.  **Navigate to the Add Gateway Section**: In the KS Pay dashboard, under **Settings**, click on **Add Gateway**.
-    
-2.  **Select Razorpay**: In the list of gateway options, choose **Razorpay**. Once selected, KS Pay will generate a **Webhook URL** and a **Secret Key** for you.
-    
-3.  **Copy the Webhook Details**: You will need both the **URL** and **Secret Key** to set up the webhook on the Razorpay platform.
+-   Begin by logging into your Kalp Studio account. Open the [Kalp Studio website](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio") and log in with your credentials.
     
 
-### **Step 2: Configure Webhook on Razorpay**
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh1.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw2.png)
-
-
-1.  **Log in to the Razorpay Dashboard**: Go to your Razorpay account and navigate to the **Account & Settings** section, then select **Webhooks**.
+-   Once logged in, you will be directed to the main dashboard.
     
-2.  **Add a New Webhook**:
+-   On the left-hand side of the screen, you'll find a navigation menu. This menu contains various options, including "Personal Info," "Applications," and "Settings”, as shown in the screenshot below.
     
 
--   Click on **Add New Webhook** to start the configuration.
-    
--   Paste the **Webhook URL** from KS Pay into the **Webhook URL** field.
-    
--   Enter the **Secret Key** provided by KS Pay into the **Secret** field. This key helps secure the communication between Razorpay and KS Pay.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh2.png)
+
+-   Locate the "Applications" option within this menu. It is highlighted in the screenshot below.
     
 
-**3. Select Events**:
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh3.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw3.png)
+### **Step 2: Navigating to KS Pay from the Applications List**
 
-
-1.  In the **Active Events** section, check the events you want Razorpay to notify KS Pay about.
+-   Click on the Explore KS Pay button, as highlighted in the screenshot below, to go to the KS Pay dashboard.
     
 
-You can select additional events as needed, depending on the specific notifications you want KS Pay to receive.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh4.png)
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw4.png)
+-   On the main dashboard, you'll see a list of all registered apps with details such as App ID, App Name, Email, and Country.
+    
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh5.png)
 
+-   Locate the app for which you want to view transactions.
 
-2.  **Save the Webhook Configuration**: After you’ve entered all the details and selected the events, click **Create Webhook**. Razorpay will confirm that the webhook has been created and is active.
+- Click on the app name from the list to open the **App Overview**.
+    
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh6.png)
     
 
-### **Step 3: Verification on KS Pay**
+### **Step 3: Navigate to the Settings Tab**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/configure+webhook/cw5.png)
+On the left sidebar, click on **Settings**.
 
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh7.png)
 
-1.  **Return to KS Pay**: Once the webhook is configured on Razorpay, go back to the KS Pay dashboard.
-    
-2.  **Verify Webhook Configuration**: In KS Pay, the webhook status should now reflect as **Pending Verification**. It will automatically update to **Verified** once the connection is established and tested successfully.
-    
-3.  **Mark as Done**: After verification, click on **Mark as Done** to finalize the webhook setup.
-    
+### **Step 4: Accessing Webhook Configuration in KS Pay**
 
-### **Test and Monitor**
+1. Navigate to "Settings" > "Payment Gateway Settings"
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh8.png)
 
-1.  **Test the Webhook**: To ensure everything is set up correctly, you can initiate a test transaction on Razorpay. You should see the corresponding event details reflected in KS Pay.
-    
-2.  **Monitor Webhook Activity**: In the Razorpay dashboard, you can view the webhook's event logs to monitor and troubleshoot any issues.
+2. Access the configuration for your payment gateway (e.g., Razorpay)
     
 
-Configuring a webhook on KS Pay is a straightforward process that enables real-time payment event updates. By setting up a webhook, you enhance the transaction tracking capability on KS Pay, allowing for a seamless, automated, and secure payment experience for your platform.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh9.png)
+
+### **Step 5: Obtain Webhook URL and Secret from KS Pay**
+
+
+Within the "Webhook" configuration step, you will find two critical pieces of information:
+
+
+-   **URL**: The unique endpoint provided by KS Pay for receiving webhook notifications
+    
+-   **SECRET**: A secret key used to verify the authenticity of webhook requests
+    
+
+Carefully copy both the URL and the SECRET for use in the next step.
+
+### **Step 6: Configure the Webhook in Your Payment Gateway (Razopay)**
+
+-   Log in to your Razorpay dashboard.
+
+
+    
+-   Navigate to the Developer Section settings.
+    
+-   Create a new webhook configuration or edit an existing one.
+
+**Enter the Webhook URL:** Paste the Webhook URL copied from KS Pay into the designated "Webhook URL" field within your payment gateway's settings.
+
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh13.png)
+
+**Enter the Webhook Secret:** Paste the SECRET copied from KS Pay into the "Secret" or "Webhook Secret" field in your payment gateway's settings. This is crucial for security.
+
+**Select Active Events:** Choose the specific events for which you want to receive webhook notifications.
+
+Click on **Create webhook** button. After the successful creation, the webhook will be automatically saved. 
+
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh14.png)
+
+
+### **Step 7: Finalizing Configuration in KS Pay**
+
+After  successfully configuring the webhook within your payment gateway and verifying that it's working, return to the KS Pay interface.
+    
+
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/configwebhook/wh15.png)
+
+-   Click the "**Mark as done**" button. This signals to KS Pay that the webhook integration step is complete.

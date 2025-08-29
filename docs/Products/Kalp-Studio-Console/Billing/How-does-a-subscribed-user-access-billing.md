@@ -8,7 +8,7 @@ Kalp Studio offers a comprehensive billing screen that provides subscribed users
 
 ### Layout and Navigation
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/6.png)
 
 Upon accessing the billing screen, users are presented with a well-organized interface. The screen is divided into several sections for ease of navigation and use:
 
@@ -32,7 +32,7 @@ Upon accessing the billing screen, users are presented with a well-organized int
 
 ### Your Subscription
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/7.png)
 
 
 Below the Billing Summary, the "Your Subscription" section provides detailed information about the user's current subscriptions:
@@ -56,14 +56,14 @@ Below the Billing Summary, the "Your Subscription" section provides detailed inf
 
 ### Top-Up the credits
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/New+changes/6.png)
 
 The billing section of the KALP Studio console has been enhanced with a "Top Up" button, allowing users to conveniently add credits to their account balance. Additionally, the interface provides clear plan options, including Starter, Developer, and Enterprise, with respective pricing and features outlined for easy subscription management.
 
 ### Product Listings
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/3.+Billing/8.png)
 
 The billing screen also features a product section where users can browse and subscribe to additional services. Each product listing includes:
 

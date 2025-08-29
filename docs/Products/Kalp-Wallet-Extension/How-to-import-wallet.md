@@ -26,7 +26,7 @@ Importing your Kalp Wallet into the Kalp Wallet Extension is a simple process. F
 -   Import an Existing Wallet
     
 
-![Open image-20241122-052647.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I1.png)
+![Open image-20241122-052647.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I1.png)
 
 
 **Step 3: Select "Import Wallet"**
@@ -34,7 +34,7 @@ Importing your Kalp Wallet into the Kalp Wallet Extension is a simple process. F
 1.  Click on the **Import Wallet** option to start the process.
     
 
-![Open image-20241122-052659.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I2.png)
+![Open image-20241122-052659.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I2.png)
 
 **Step 4: Enter Your Secret Recovery Phrase**
 
@@ -46,21 +46,21 @@ Importing your Kalp Wallet into the Kalp Wallet Extension is a simple process. F
 -   Ensure there are no typos and maintain the correct order of words.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I3.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I3.png)
 
 **Step 5: Set a New Wallet Password**
 
 1.  Create a strong and unique password to secure your wallet on the device.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I4.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I4.png)
 
 2.  Confirm the password by re-entering it.
     
 3.  Click **Continue** or **Import Wallet**.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I5.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I5.png)
 
 **Step 6: Verify the Import**
 
@@ -69,7 +69,7 @@ Importing your Kalp Wallet into the Kalp Wallet Extension is a simple process. F
 2.  Check that everything is correct and accessible.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I6.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+import+wallet/I6.png)
 
 **Step 7: Secure Your Wallet**
 

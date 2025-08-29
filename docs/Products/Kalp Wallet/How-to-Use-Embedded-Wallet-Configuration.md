@@ -1,0 +1,117 @@
+<style>  body { font-family: "Source Sans 3", sans-serif!important; }</style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+# **How to use Embedded wallet configuration?**
+
+Kalp Studio’s Embedded Wallet module lets you add a customizable, user-friendly MPC wallet directly to your dApp. This eliminates the hassle of managing seed phrases or installing browser extensions, making Web3 onboarding faster and simpler for users. In this guide, you’ll learn how to configure and use the Embedded Wallet to enhance your dApp’s wallet integration.
+
+### **Step 1: Sign in to Kalp Studio**
+1.  Go to [Kalp Studio Login](https://accounts.kalp.studio/login).  
+2.  Enter your credentials and click **Log In**.    
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin.jpg)
+
+Once you've entered your email and password, click the "Sign In" button as annotated in the above screenshot. This will initiate the login process.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/SS+Audit+7/signin)
+
+### **Step 2: Access KS Wallet**
+
+
+1.  **Product Page:** After Successfully Sign-In you will find a product page. In this page you will see different applications like SMS, Kalp Instant Deployer, Email, KS Storage, KS Wallet, KS Query, NFT Creator, Token Studio, API Gateway.
+
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc2.png)
+
+2.  **Select KS Wallet:** Spot the KS Wallet option in the Our Products section on the dashboard, as highlighted in the screenshot below, and click on the Get Started button.
+
+> If you have not  yet subscribed to KS Wallet, you can do it to have a seamless experience
+
+
+
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/walletconfig/wc3.png)
+
+    
+
+### **Step 3: Navigate to Embedded Wallet Configuration**
+    
+2.  In the left-hand navigation menu, locate and click on **"Embedded Wallet"** as shown in the screenshot below.
+    
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew4.png)
+
+### **Step 4: Understand the Configuration Interface**
+
+You will land on the "Embedded Wallet Configuration" page, as shown in the screenshot below.
+
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew5.png)
+
+This page has the following:
+
+-   A brief description of the Embedded Wallet module.
+    
+-   Configuration options on the left.
+    
+-   A live preview panel on the right, showing how the wallet widget will appear.
+    
+-   A "View Docs" button for more technical documentation.
+    
+
+### **Step 5: Configure Login Options**
+
+1.  Locate the **Login Option** dropdown menu, as shown in the screenshot below.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew6.png)
+
+2.  Click the dropdown to expand it.
+    
+3.  Select the social login and authentication methods you want to offer your users. Options typically include **Google, Email, and Phone**. Check the boxes next to your desired methods.
+    
+
+### **Step 6: Customize the Theme**
+
+1.  Locate the **Theme Color** dropdown menu below Login Option, as shown in the screenshot below.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew7.png)
+
+2.  Click the dropdown to expand it.  
+3.  You can customize:
+    -   **Background Color:** Click this tab and use the color picker or enter a HEX code to set the desired background color for the wallet modal and button.
+    -   **Text Color:** Click this tab and use the color picker or enter a HEX code to set the text color, ensuring good contrast with the background.     
+4.  The **Preview Panel** consisting of modal, button and code will update instantly, showing you the real-time look and feel.
+    
+### **Step 7: Preview Different Views**
+
+The preview panel has tabs to show how the widget will look in different states:
+
+-   **Modal:** Shows the main login/wallet interface.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew8.png)
+
+-   **Button:** Shows how the primary action button will look based on your theme.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew9.png)
+
+-   **Code:** Provides the necessary code snippets for integration.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew10.png)
+
+### **Step 8: Apply and Save Changes**
+
+1.  Once you are satisfied with your login options and theme customization, click the **"Apply Changes"** button at the bottom left.   
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew11.png)
+2.  A success notification (e.g., "Successfully Updated") should appear, confirming your configuration has been saved.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew12.png)
+
+### **Step 9: Obtain Your API Key**
+
+The integration code requires an API key to link your application to your KLP Studio configuration.
+1.  In the left-hand navigation menu, click on **"Open API"**.   
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew13.png)
+2.  This page lists your generated API keys. Find the relevant key you wish to use for this integration.  
+3.  Click the **copy icon** next to the "API Auth Key" to copy it to your clipboard.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew14.png)
+
+### **Step 10: Integrate into Your Application**
+1.  Access the page in **your application** where you wish to embed the wallet.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew15.png)
+2.  You should now see the Embedded Wallet login modal or button, styled according to your configuration.   
+3.  If your application requires the user to input the API key initially, paste the key and submit.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew16.png)
+4.  Test the login flow using one of the enabled methods.  
+5.  Upon successful login, the embedded wallet should be active within your application, potentially displaying user information or action buttons like "Claim", "Update Balance", or "Disconnect", confirming successful integration.
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Audit+2/embedwallet/ew17.png)
+
+By following these steps, you can effectively configure the Kalp Studio Embedded Wallet's appearance and login methods, obtain the necessary code and API key, and integrate a seamless, branded wallet experience directly into your application. This significantly enhances user onboarding and interaction within the Web3 ecosystem.

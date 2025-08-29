@@ -32,7 +32,7 @@ The KS Query platform allows users to easily access and explore various APIs. He
 
   
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/11.png)
 
   
 
@@ -41,7 +41,7 @@ The KS Query platform allows users to easily access and explore various APIs. He
 -   Navigate to the **Dashboard** section.
 -   The Dashboard provides a summary of your API usage and subscription details.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/24.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query/24.png)
 
 ----------
 
@@ -49,14 +49,14 @@ The KS Query platform allows users to easily access and explore various APIs. He
 
 KS Query allows users to efficiently view and interact with all APIs for blockchain operations, including details about **Smart Contracts**, **Blocks**, **Transactions**, and the **Network List**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/1.png)
 
 
 
 ### 1. Navigate to the "All APIs" Section
 - Open the KS Query dashboard and click on the **All APIs** option from the left sidebar.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/2.png)
 
 
 ### 2. Overview of Total API Hits
@@ -65,22 +65,22 @@ KS Query allows users to efficiently view and interact with all APIs for blockch
 ### 3. Browse API Categories
 - Below the API hits section, you will find tabs for different API categories. Click on the tabs to view APIs for:
   - **Smart Contracts**: APIs related to managing and querying smart contracts.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/3.png)
 
   - **Blocks**: APIs to retrieve block-related data from the blockchain.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/4.png)
 
   - **Transactions**: APIs for fetching transaction details and history.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/5.png)
 
   - **Network List**: APIs that list supported blockchain networks and configurations.
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/6.png)
 
 ### 4. Check Parameters Details of API 
 
 Click on the **Check Params** to view details of  Particular Smart contract, Blocks, Networks or Network List. 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/2.png)
 
 
 ### 5. API Route Details
@@ -89,7 +89,7 @@ Click on the **Check Params** to view details of  Particular Smart contract, Blo
 ####  **Params**
 The `Params` tab provides header and query parameters required for API requests.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/7.png)
 
 
 ##### Header Parameters
@@ -111,7 +111,7 @@ The `Params` tab provides header and query parameters required for API requests.
 ####  **Blockchain & Network**
 The `Blockchain & Network` tab lists available blockchain networks supported by KS Query.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/8.png)
 
 
 ##### Available Networks
@@ -124,7 +124,7 @@ The `Blockchain & Network` tab lists available blockchain networks supported by 
 #### **API Auth Key**
 The `API Auth Key` tab displays the keys created for accessing APIs.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Query+updated+1/9.png)
 
 
 ##### Generated Keys

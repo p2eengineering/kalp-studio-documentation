@@ -3,24 +3,26 @@
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
-# **How to get started with kalp studio storage**
+# **How to get started with Kalp Studio Storage**
 
-Here is a step-by-step user manual guide based on the screenshots provided, illustrating how to use Kalp Studio for KS Storage. Follow these steps in order to navigate through the platform and utilize its features.
+This step-by-step guide, with screenshots, will walk you through how to use Kalp Studio for KS Storage. Follow the instructions to easily navigate the platform and access its features.
 
 ### Step 1: Login to Your Kalp Studio Account
-
-1.  **Go to the Kalp Studio login page.**
     
-    -   Enter your credentials (email and password) to log in.
-        
-    -   Once logged in, you will land on the Kalp studio console  **Dashboard**.
+- Go to the Kalp Studio [login page](https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio "https://accounts.kalp.studio/login?redirect_url=https://console.kalp.studio").
+
+- Enter your email and password to log in.
+
+- Once logged in, you'll be taken to the Kalp Studio Console Dashboard, where various products are listed, including NFT Creator, Token Creator, and KS Storage.
+
+> If you haven't already, [Sign Up](https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/) to Kalp Studio. 
         
 
 ### Step 2: Explore the KS Storage Product
 
-1.  **From the Kalp Studio console Dashboard**, find the product section.
+- Look for the 'KS Storage' product in the Our Products section of the dashboard, highlighted in the screenshot.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/1.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/1.png)
 
 -   You will see various products listed, including NFT Creator, Token Creator, and KS Storage.
     
@@ -28,120 +30,115 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 ### Step 3: Choose a Plan
 
-1.  **Click on Billing** from the left-side navigation menu.
+- **Click on Billing** from the left-side navigation menu.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/2.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/2.png)
 
-2.  -   Here, you will see different subscription plans: **Developer Plan**, **Business Plan**, and **Enterprises Plan**.
+-   Here, you will see different subscription plans: **Developer Plan**, **Business Plan**, and **Enterprises Plan**.
         
-    -    Select the **Free Plan** (Developer plan with 100 MB storage) and click **Subscribe**.
+- Select the **Free Plan** (Developer plan with 100 MB storage) and click **Subscribe**.
         
-3.  **Confirmation**: A pop-up will appear asking you to confirm your subscription to the Developer Plan.
+- **Confirmation**: A pop-up will appear asking you to confirm your subscription to the Developer Plan.
     
-    -   Click **Subscribe** to confirm your selection.
+- Click **Subscribe** to confirm your selection.
 
 ### Step 4: View Your Subscription
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/3.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/3.png)
 
-1.  Once subscribed, go to **Billing** in the left navigation panel.
-    
-    -   Here, you can see your **active subscription** under **Your Subscription**.
+- Once subscribed, go to **Billing** in the left navigation panel.
+-   Here, you can see your **active subscription** under **Your Subscription**.
         
-    -   Confirm that the **KS Storage** plan is active, and your subscription start date is displayed.
+-   Confirm that the **KS Storage** plan is active, and your subscription start date is displayed.
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/4.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/4.png)
 
 ### Step 5: Explore KS Storage Dashboard
 
-1.  Click **Explore** under the KS Storage section in **Your Products**.
+- Click **Explore** under the KS Storage section in **Your Products**.
     
-    -   You will be redirected to the **Storage Dashboard**.
+-   You will be redirected to the **Storage Dashboard**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/5.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/5.png)
 
 ### Step 6: Create a Bucket
 
-1.  From the **Storage Dashboard**, you will see a button labeled **Create a Bucket**.
+- From the **Storage Dashboard**, you will see a button labeled **Create a Bucket**.
     
-    -   Click **Create a Bucket** to begin organizing your storage.
-        
-    -   Buckets are used to store and organize your files.
+- Click **Create a Bucket** to begin organizing your storage.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/6.png)
 
+- Buckets are used to store and organize your files.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/7.png)
 
 ### Step 7: Upload Files
 
-1.  After creating a bucket, you will have the option to  **Upload Files**.
+- After creating a bucket, you will have the option to  **Upload Files**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/8.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/8.png)
 
-2. Click on **Upload** to add files to the created bucket for storage.
+- Click on **Upload** to add files to the created bucket for storage.
 
-3.  You can also create new folder inside the bucket.
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/9.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/9.png)
+- You can also create new folder inside the bucket.
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/10.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/10.png)
+After creating a folder, the folder name will be displayed under the created bucket name.
 
-4.  After creating a folder, the folder name will be displayed under the created bucket name.
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/11.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/11.png)
+- After creating a folder, you can also upload files inside it and add tags for easier identification.
 
-5.  After creating a folder, you can also upload files inside it and add tags for easier identification.
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/12.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/12.png)
+- Click on add to add files inside the folder with tag for identification.
 
-6.  Click on add to add files inside the folder with tag for identification.
-
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/13.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/13.png)
 
 ### Step 8: API Key Generation (Optional)
 
-1.  **Generate API Keys** if you plan to interact with KS Storage through APIs.
+**Generate API Keys** if you plan to interact with KS Storage through APIs.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/14.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/14.png)
 
-2.  -   Go to **API Key Generation** from the left navigation menu.
+-   Go to **API Key Generation** from the left navigation menu.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/15.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/15.png)
 
-2.   Go to **API Key Generation** from the left navigation menu.
+-   Click **Create API Auth Key**, give it a name and description (for example, "Neoblock").
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/16.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/16.png)
 
-3.  -   Click **Create API Auth Key**, give it a name and description (for example, "Neoblock").
-
-4.  -   The API key will be generated and displayed under the list of API keys.
+-   The API key will be generated and displayed under the list of API keys.
         
-5.  **Use your API Key**: You can use the API Auth Key to interact with KS Storage from external applications.
+**Use your API Key**: You can use the API Auth Key to interact with KS Storage from external applications.
 
 ### Step 9: Managing Buckets
 
-1.  Return to the **Storage Buckets** section to view the list of your created buckets.
+- Return to the **Storage Buckets** section to view the list of your created buckets.
     
-    -   You will see information like the bucket name, the number of files, and other details.
+- You will see information like the bucket name, the number of files, and other details.
         
-    -   You can manage the buckets from this section, including adding, deleting, or viewing files.
+- You can manage the buckets from this section, including adding, deleting, or viewing files.
 
 ### Step 10: Subscription Management
 
-1.  Under **Subscriptions**, you can view your active plan, upgrade to a higher plan (such as **Business Plan** or **Enterprises Plan**), and view your **Purchase History**.
+- Under **Subscriptions**, you can view your active plan, upgrade to a higher plan (such as **Business Plan** or **Enterprises Plan**), and view your **Purchase History**.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/17.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/17.png)
 
 -   Purchase history will show details such as order ID, purchased plan, and the amount.
 
-### Step 11 - Other functions related with kalp storage
+### Step 11 - Other functions related with Kalp Storage
 
 #### 1. **Search by Bucket Name**
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/18.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/18.png)
 
 -   **Purpose**: To quickly locate specific storage buckets within your Kalp Studio storage account, especially useful when managing multiple buckets.
     
@@ -158,7 +155,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 #### 2. **Search by Folder Name**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/19.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/19.png)
 
 -   **Purpose**: To specific folders within a selected bucket, making it easier to manage and organize files.
     
@@ -180,7 +177,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 #### 3. **Date Range Filter for Buckets and Folders**
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/20.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/20.png)
 
 -   **Purpose**: To narrow down searches by the date a bucket or folder was created or last used.
     
@@ -198,7 +195,7 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 #### 4. **Deleting a Folder within a Bucket**
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/22.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/22.png)
 
 -   **Purpose**: To remove a specific folder within a bucket along with its contents.
     
@@ -218,39 +215,32 @@ Here is a step-by-step user manual guide based on the screenshots provided, illu
 
 This guide explains the process of deleting a bucket in Kalp Studio Storage and how the platform manages files within the deleted bucket by moving them to a specified parent bucket.
 
-**Steps to Delete a Bucket**
+## **Steps to Delete a Bucket**
+1. **Access the Storage Buckets Section**: 
+Log in to your Kalp Studio Storage account and navigate to the **Storage Buckets** section on the left panel.
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+1.png)
 
-1.  **Access the Storage Buckets Section**:
-    
-    -   Log in to your Kalp Studio Storage account and navigate to the **Storage Buckets** section on the left panel.
+2. **Locate the Bucket to Delete**: 
+* Find the bucket you want to delete from the list.
+* Click on the **Delete (trash can) icon** located to the right of the bucket name.
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+2.png)
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+1.png)
-    
-2.  **Locate the Bucket to Delete**:
-    
-    -   Find the bucket you want to delete from the list.
-    -   Click on the **Delete (trash can) icon** located to the right of the bucket name.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+2.png)
+**Choose a Destination for Files**:   
+   - If the bucket contains files, a prompt will appear asking you to **move the files to a different bucket** before deletion.
+   - You will see a list of available buckets where the files can be relocated.
+   - Select the desired bucket from the list to serve as the new location for the files.
+  
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Ks+3.png)
 
-    
-3.  **Choose a Destination for Files**:
-    
-    -   If the bucket contains files, a prompt will appear asking you to **move the files to a different bucket** before deletion.
-    -   You will see a list of available buckets where the files can be relocated.
-    -   Select the desired bucket from the list to serve as the new location for the files.
+**Confirm Deletion and File Transfer**:
+-  After selecting the destination bucket, a confirmation prompt will appear, stating, “Are you sure you want to move files and delete the folder?”
+* Click **Yes** to confirm both the file transfer and the deletion of the original bucket, or **Back** if you wish to cancel.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Ks+3.png)
+**Completion**:
 
-4.  **Confirm Deletion and File Transfer**:
-    
-    -   After selecting the destination bucket, a confirmation prompt will appear, stating, “Are you sure you want to move files and delete the folder?”
-    -   Click **Yes** to confirm both the file transfer and the deletion of the original bucket, or **Back** if you wish to cancel.
-
-5.  **Completion**:
-    
-    -   The files from the deleted bucket will be moved to the selected parent bucket, and the original bucket will be permanently deleted.
-    -   Verify that the files have been successfully transferred to the destination bucket by checking its contents.
+* The files from the deleted bucket will be moved to the selected parent bucket, and the original bucket will be permanently deleted.
+* Verify that the files have been successfully transferred to the destination bucket by checking its contents.
 
 
 #### 6. **Remove tags**
@@ -267,7 +257,7 @@ Tags are used to categorize and organize files, making them easier to locate. Th
         
     -   Select the bucket and folder containing the file from which you want to remove a tag.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/23.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/23.png)
 
 2.  **Locate the Tag Option**:
     
@@ -282,9 +272,9 @@ Tags are used to categorize and organize files, making them easier to locate. Th
     -   Click on the **“X”** next to the tag you wish to remove.
 
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/24.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Storage/24.png)
 
-2.  -   The tag will be removed from the tag field.
+2.  The tag will be removed from the tag field.
         
 3.  **Save Changes**:
     

@@ -11,21 +11,21 @@ Kalp Studio's **Token Studio** not only enables you to create tokens but also pr
 
 Log into your Kalp Studio account and navigate to the **Dashboard**. Ensure that you have a valid subscription to the Token Studio and have connected your wallet to proceed with token creation and management.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/6.png)
   
 
 ## Step 2: Navigate to the "List of Token Created" Section
 
 On the left sidebar of the dashboard, you’ll see various options such as **Token Creation Wizard**, **List of Token Created**, and **Subscription**. Click on **List of Token Created** to access a detailed list of all tokens you've created using Kalp Studio’s Token Studio.
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/7.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Token+creator/7.png)
   
 
 ## Step 3: Explore the Token Details
 
 In the **List of Token Created** section, you’ll see a list of all tokens, including important information such as:
 
-![enter image description here](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
+![enter image description here](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Deployed+tokens.png)
 
 
 #### **Detailed Information Available**

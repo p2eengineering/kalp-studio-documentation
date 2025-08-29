@@ -4,28 +4,28 @@
 
 # How to Create a Catalog?
 
-Creating a catalog for your NFTs can make managing and organizing multiple assets on DLT chain simple and efficient. With Kalp Studio's NFT Creator, you can quickly set up a catalog tailored to your unique collection. Here’s a step-by-step guide to setting up a catalog within Kalp Studio.
+With Kalp Studio's NFT Creator, you can quickly set up a catalog tailored to your unique collection. Here’s a step-by-step guide to setting up a catalog within Kalp Studio.
 
 ### **Step 1: Accessing the NFT Portfolio**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc1.png)
 
-1.  Open ‘NFT Creator’ by logging into KALP Studio console.
+1.  Open ‘NFT Creator’ by logging into Kalp DLT Developer Portal.
     
-2.  In ‘NFT Creator’, navigate to the NFT Portfolio section located at the left sidebar menu (Fig.1).
+2.  In ‘NFT Creator’, navigate to the NFT Portfolio section located at the left sidebar menu.
     
 3.  On the dashboard, if no NFTs are currently created, a message will appear saying, “No NFT yet!”
     
 4.  Now click the ‘+ Create NFT’ button to start creating a new NFT.
     
 
-Note: You need to connect a wallet first for creating a NFT, if not connected already.
+Note: You need to [connect a wallet](https://docs.kalp.studio/Products/NFT%20Creator/How%20to%20connect%20wallet/) first for creating a NFT, if not connected already.
 
 ### **Step 2: Initiating Catalog Creation**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc2.png)
 
 1.  On the Create NFT screen, beside ‘Select Catalog’ field, a "**Create New Catalog**” button is provided.
     
@@ -35,9 +35,9 @@ Note: You need to connect a wallet first for creating a NFT, if not connected al
 ### **Step 3: Setting Up Your New Catalog**
 
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc3.png)
 
-1.  **Upload Catalog picture**: Upload a cover image for your new Catalog.  
+1.  **Upload Photo**: Upload a cover image for your new Catalog.  
     (Supported formats for thumbnails are JPG, PNG, GIF and WEBP, with a max size of 5 MB)
     
 2.  **Name your Catalog**: Give a name to your new Catalog.
@@ -48,6 +48,6 @@ Note: You need to connect a wallet first for creating a NFT, if not connected al
 
     - Note: You can create upto 50 NFTs within a custom Catalog.
     
-https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc4.png
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/create+catalog/cc4.png)
 
 A pop will appear informing that the “Catalog creation started! It may take a few minutes to appear in the catalog listing."

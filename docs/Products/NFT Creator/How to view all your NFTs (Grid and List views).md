@@ -21,7 +21,7 @@ Make sure to connect your wallet first to see all NFTs created on that network.
 
 The grid layout is the default view for NFTs in Kalp Studio’s NFT Creator, presenting assets visually with easy-to-read thumbnails.
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft1.png)
 
 
 1.  Upon entering the **All NFTs** section, you will see your assets displayed as tiles.
@@ -42,7 +42,7 @@ The grid layout is the default view for NFTs in Kalp Studio’s NFT Creator, pre
 
 ### **Step 3: Switching to List Layout**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft2.png)
 
 If you prefer a detailed, table-based view, switch to the list layout by following these steps:
 
@@ -66,7 +66,7 @@ In the list view, you’ll find:
 
 ### **Step 4: Viewing NFTs on the Blockchain**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/view+NFT/vnft3.png)
 
 For each NFT, the platform provides a direct link to view its blockchain record.
 

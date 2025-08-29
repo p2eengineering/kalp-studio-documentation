@@ -52,6 +52,16 @@ hide:
             align-items: flex-start;
             gap: 10px;
         }
+        .heading-wrapper{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+             margin: 0;
+            font-size: 36px!important;
+            font-style: normal;
+            font-weight: 700!important;
+            color: black;
+        }
         .header h1 {
             margin: 0;
             font-weight: 700;
@@ -440,29 +450,18 @@ hide:
 <body>
     <header class="header-main-wrapper">
         <div class="header">
-         <h1>Welcome to <span class="header-main-text">Kalp Studio</span> Documentation!</h1>
+         <h1>Welcome to <span class="header-main-text">Kalp Studio!</span></h1>
                 <div class="note">
                 <br />
-                Kalp Studio is a decentralized infrastructure platform designed to build, manage, and scale blockchain applications and networks. It serves as a comprehensive ecosystem for developers, offering a wide range of tools and services that simplify the complexities of blockchain technology, making it more accessible and efficient.
-                </div>
+Kalp Studio is a decentralized infrastructure platform that empowers developers to build, manage, and scale blockchain applications and networks. It provides a comprehensive suite of tools, including smart contract development, decentralized storage, and network orchestration, streamlining blockchain implementation and improving efficiency.                </div>
         </div>
-       <img src="images/BannerImage.svg" alt="image-banner" />
+       <img src="Video/hero-banner.gif" alt="image-banner" />
     </header>
+              <h2 class="heading-wrapper">Getting Started with Kalp Studio</h2>
           <div class="second-section">
                 <div class="build-wrapper">
-                  <div class="build-wrapper-header">
-                     <img src="images/setting.svg" alt="setting-img" />
-                      <div class="build-title-sub-wrapper">
-                         <h2>
-                           Build
-                         </h2>
-                         <span>
-                             Getting started with Kalp Studio.
-                          </span>
-                      </div>
-                  </div>
                   <div class="build-description-card-main">
-                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/">
+                      <a href="/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/">
                           <div class="build-description-card">
                           <div class="build-description-card-title">
                               Onboarding
@@ -471,11 +470,10 @@ hide:
                               </svg>
                           </div>
                           <span class="build-description-card-description">
-                          The onboarding process in kalp studio dashboard is designed to be seamless and user-friendly, guiding new users through the necessary steps to set up their accounts and begin using the platform effectively.
-                          </span>
+                            The Kalp Studio onboarding process is seamless, guiding you through the necessary steps to set up your account and use the platform effectively.                          </span>
                           </div>
                      </a>
-                     <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-a-New-User/">
+                     <a href="/Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-an-New-User/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Dashboard
@@ -488,7 +486,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Billing/How-does-a-new-user-access-billing/">
+                     <a  href="/Products/Kalp-Studio-Console/Billing/How-does-a-new-user-access-billing/">
                       <div class="build-description-card">
                          <div class="build-description-card-title">
                              Billing
@@ -501,7 +499,7 @@ hide:
                          </span>
                      </div>
                      </a>
-                     <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Credits/How-to-Add-Credit/">
+                     <a href="/Products/Kalp-Studio-Console/Credits/How-to-Add-Credit/">
                      <div class="build-description-card">
                          <div class="build-description-card-title">
                              Credits
@@ -510,37 +508,11 @@ hide:
                              </svg>
                          </div>
                          <span class="build-description-card-description">
-                         Credits in kalp studio can be used to access various services and features on the platform.
+                            You can use credits in Kalp Studio to access various services and features on the platform.
                          </span>
                      </div>
                      </a>
-                     <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Navigate-To-kalp-studio-Wallet/">
-                     <div class="build-description-card">
-                     <div class="build-description-card-title">
-                         Kalp Studio Wallet
-                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                         <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
-                         </svg>
-                     </div>
-                     <span class="build-description-card-description">
-                     The Kalp studio Wallet is a secure cryptocurrency wallet integrated within kalp studio, supporting kalp blockchain.
-                     </span>
-                    </div>
-                     </a>
-                     <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/">
-                     <div class="build-description-card">
-                         <div class="build-description-card-title">
-                             Kalp Instant Deployer
-                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                             <path d="M12.8923 4.99995L11.0622 11.8301L9.10644 11.3426L10.0581 7.79098L3 11.866L2 10.1339L9.05811 6.05893L5.50644 5.10726L6.06218 3.16982L12.8923 4.99995Z" fill="black"/>
-                             </svg>
-                         </div>
-                         <span class="build-description-card-description">
-                         Kalp Instant Deployer (KID) streamlines the deployment of smart contracts, providing real-time tracking and secure management.
-                         </span>
-                     </div>
-                        </a>
-                          <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints/">
+                      <a  href="/Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints/">
                              <div class="build-description-card">
                                   <div class="build-description-card-title">
                                       API Gateway
@@ -553,7 +525,7 @@ hide:
                                   </span>
                               </div>
                           </a>
-                          <a  href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
+                          <a  href="/Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions/">
                            <div class="build-description-card">
                                 <div class="build-description-card-title">
                                     Transaction Monitoring
@@ -566,7 +538,7 @@ hide:
                                 </span>
                             </div>
                         </a>
-                        <a  href="Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key/">
+                        <a  href="/Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key/">
                          <div class="build-description-card">
                               <div class="build-description-card-title">
                                   API Key Generation
@@ -582,19 +554,8 @@ hide:
               </div>
         </div>
                <div class="build-wrapper">
-                     <div class="build-wrapper-header">
-                        <img src="images/learn.svg" alt="setting-img" />
-                         <div class="build-title-sub-wrapper">
-                            <h2>
-                              Learn
-                            </h2>
-                            <span>
-                                Further your understanding of entire kalp studio ecosystem.
-                             </span>
-                         </div>
-                     </div>
                  <div class="build-description-card-main">
-                 <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-overview/">
+                 <a  href="/Introduction/Kalp-studio-overview/">
                      <div class="build-description-card">
                         <div class="build-description-card-title">
                             Kalp Studio Overview
@@ -603,11 +564,10 @@ hide:
                             </svg>
                         </div>
                         <span class="build-description-card-description">
-                              Kalp studio is the leading blockchain infrastructure platform powering web3 developers worldwide. We are a team of engineers, designers and visionaries who are solving hard problems and creating a superior user experience in the world of blockchains.
-                         </span>
+                        Kalp Studio is a decentralized platform that help developers create, manage, and scale blockchain applications and networks. It provides a suite of powerful tools and services that streamline complex blockchain tasks.                         </span>
                     </div>
                    </a>
-                       <a  href="https://docs.kalp.studio/Introduction/Kalp-studio-ecosystem/">
+                       <a  href="/Introduction/Kalp-studio-ecosystem/">
                        <div class="build-description-card">
                          <div class="build-description-card-title">
                              Kalp Studio Console 
@@ -620,7 +580,7 @@ hide:
                         </span>
                      </div>
                      </a>
-                       <a  href="https://docs.kalp.studio/Introduction/Kalp-DLT/">
+                       <a  href="/Introduction/Kalp-DLT/">
                         <div class="build-description-card">
                              <div class="build-description-card-title">
                                  Kalp DLT
@@ -629,11 +589,10 @@ hide:
                                  </svg>
                              </div>
                               <span class="build-description-card-description">
-                                 The Kalp Decentralized Network (KDN) is a ecosystem for secure tokenization of real-world assets. It uses KYC verification, A distributed certificate authority to enhance liquidity and market reach.
-                            </span>
+                            Kalp DLT is a fully regulated blockchain platform for Real World Asset (RWA) ecosystems. It lets developers build decentralized applications (DApps), tokenize real-world assets, and deploy legally enforceable smart contracts.                            </span>
                          </div>
                      </a>
-                   <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-instant-deployer/">
+                   <a  href="/Introduction/Kalp-instant-deployer/">
                     <div class="build-description-card">
                     <div class="build-description-card-title">
                         Kalp Instant Deployer
@@ -646,7 +605,7 @@ hide:
                    </span>
                     </div>
                     </a>
-                     <a  href="https://docs.kalp.studio/Introduction/What-is-kalp-wallet/">
+                     <a  href="/Introduction/Kalp-wallet/">
                         <div class="build-description-card">
                         <div class="build-description-card-title">
                             What is Kalp Wallet
@@ -674,21 +633,21 @@ hide:
                     <div class="developer-resource-card-wrapper dev-res">
                         <div class="dote-wrapper"></div>
                         <div class="dote-wrapper-green"></div>
-                        <a href="https://docs.kalp.studio/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
+                        <a href="/Dev-documentation/Kalp-DLT/Use-the-kalp-sdk/Kalp-golang-sdk/">
                         <div class="card-wrapper">
                              <img src="images/kalpSdk.svg" alt="sdk" />
                              <h4>Kalp DLT Based Deployments</h4>
                             <span>This guide provides an overview of the essential steps involved in deploying a smart contract on Kalp DLT chain, from setting up the development environment to deploying and verifying your contract on the network and managing your deployment journey on kalp studio.</span>
                         </div>
                         </a>
-                             <a href="https://docs.kalp.studio/API-Reference/Kalp-Storage-API-Documentation/">
+                             <a href="/API-Reference/Kalp-Storage-API-Documentation/">
                                 <div class="card-wrapper">
                                    <img src="images/KRCToken.svg" alt="sdk" />
                                    <h4>API Reference</h4>
-                                  <span>Kalp Studio Varioud products API reference provides a comprehensive suite of tools for building and managing blockchain-based applications. The API ensures secure, scalable, and efficient interactions with KALP DLT blockchain network.</span>
+                                  <span>Kalp Studio's product API references provide a comprehensive suite of tools for building and managing blockchain-based applications. The API ensures secure, scalable, and efficient interactions with KALP DLT blockchain network.</span>
                               </div>
                                 </a>
-                             <a href="https://docs.kalp.studio/Video-Tutorials/Login-into-Kalp-studio">
+                             <a href="/Video-Tutorials/Login-into-Kalp-studio">
                                 <div class="card-wrapper">
                                   <img src="images/interaction.svg" alt="sdk" />
                                   <h4>Video Tutorials</h4>
@@ -703,7 +662,7 @@ hide:
                  Are you ready to start building with kalp studio?
                  </span>
                  <div class="quick-start-wrapper-main-wrapper">
-                      <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-and-Log-In-to-Kalp-Studio-Platform/" class="quick-link">
+                      <a href="/Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                              <div class="kalp-icon">
                              <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -718,7 +677,7 @@ hide:
                              </div>
                          </div>
                          </a>
-                              <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
+                              <a href="/Products/Kalp-Studio-Console/Kalp-studio-wallet/How-to-Create-and-Connect-Wallet-to-Kalp-Studio/" class="quick-link">
                               <div class="quick-start-wrapper-card">
                                   <div class="kalp-icon">
                                   <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -733,7 +692,7 @@ hide:
                                   </div>
                               </div>
                              </a>
-                              <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
+                              <a href="/Products/Kalp-Studio-Console/Kalp-Instant-Deployer/How-to-Deploy-a-Smart-Contract-on-Kalp-Studio/" class="quick-link">
                                  <div class="quick-start-wrapper-card">
                                      <div class="kalp-icon">
                                      <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -748,7 +707,7 @@ hide:
                                      </div>
                                  </div>
                                  </a>
-                          <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
+                          <a href="/Products/Kalp-Studio-Console/API-Gateway/How-to-generate-API-endpoints/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                                  <div class="kalp-icon">
                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -763,7 +722,7 @@ hide:
                                  </div>
                              </div>
                              </a>
-                          <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
+                          <a href="/Products/Kalp-Studio-Console/API-Key-Generation/How-to-generate-API-Key/" class="quick-link">
                              <div class="quick-start-wrapper-card">
                               <div class="kalp-icon">
                               <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -778,7 +737,7 @@ hide:
                               </div>
                          </div>
                         </a>
-                         <a href="https://docs.kalp.studio/Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
+                         <a href="/Products/Kalp-Studio-Console/Transaction-monitoring/How-can-I-monitor-all-my-transactions/" class="quick-link">
                          <div class="quick-start-wrapper-card">
                           <div class="kalp-icon">
                           <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">

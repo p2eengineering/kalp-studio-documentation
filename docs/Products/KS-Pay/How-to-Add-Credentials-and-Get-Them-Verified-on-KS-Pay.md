@@ -2,13 +2,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">    
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# How to Add Credentials and Get Them Verified on KS Pay?
-
+# **How to Add Credentials and Get Them Verified on KS Pay?**
 Integrating a payment gateway with KS Pay requires setting up credentials and verifying them, enabling secure transaction processing for your platform. Follow this step-by-step guide to add and verify credentials on KS Pay.
 
 ### **Step 1: Add a Payment Gateway**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac1.png)
 
 -   **Steps 1-3 (Credentials, Webhook, and NPM Integration)** are initially set up by the merchant.
     
@@ -20,9 +19,7 @@ Integrating a payment gateway with KS Pay requires setting up credentials and ve
     
 
 ### **Step 2: Enter Gateway Credentials**
-
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac2.png)
 
 **Retrieve Credentials**: Get your **Client ID** and **Client Secret** from the respective payment gateway's dashboard:
 
@@ -33,7 +30,7 @@ Integrating a payment gateway with KS Pay requires setting up credentials and ve
 
 **Enter Credentials in KS Pay**:
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac3.png)
 
 -   Input the **Client ID** and **Client Secret** fields in the KS Pay interface.
     
@@ -44,14 +41,14 @@ Integrating a payment gateway with KS Pay requires setting up credentials and ve
 
 ### **Step 3: Configure the Webhook (Razorpay Only)**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac4.png)
 
 1.  **Copy the Webhook URL and Secret Key** from the KS Pay platform.
     
 2.  **Set Up Webhook on Razorpay**:
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac5.png)
 
 -   In the Razorpay dashboard, navigate to **Webhooks** and click on **Add New Webhook**.
     
@@ -66,9 +63,7 @@ This step ensures that Razorpay can communicate with KS Pay, updating you about 
 
 ### **Step 4: NPM Integration**
 
-Open image-20241015-061937.png
-
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac6.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac6.png)
 
 1.  **Click on the NPM Integration Link**: Once on the **NPM Integration** step, click the provided link to access the integration document.
     
@@ -77,7 +72,7 @@ Open image-20241015-061937.png
 
 ### **Step 5: Security and Verification**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac7.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/KS+Pay+articles+stg/add+creds/ac7.png)
 
 1.  After completing the previous steps, proceed to the **Security** section to finalize the integration.
     

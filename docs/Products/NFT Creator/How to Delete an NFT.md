@@ -10,7 +10,7 @@ KALP Studio's NFT Creator makes it easy to delete NFTs directly from your portfo
 
 ### **Step 1: Access the NFT Portfolio**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft1.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft1.png)
 
 1.  Open ‘NFT Creator’ by logging into KALP Studio console.
     
@@ -19,7 +19,7 @@ KALP Studio's NFT Creator makes it easy to delete NFTs directly from your portfo
 
 ### **Step 2: Locate the NFT**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft2.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft2.png)
 
 
 1.  Find the NFT you want to delete from your list.
@@ -29,11 +29,11 @@ KALP Studio's NFT Creator makes it easy to delete NFTs directly from your portfo
 3.  In the options menu, click on **Delete**.
     
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft3.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft3.png)
 
 ### **Step 3: Confirm Deletion**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft4.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft4.png)
 
 
 1.  Review the confirmation message that pops-up when deleting the NFT.
@@ -43,7 +43,7 @@ KALP Studio's NFT Creator makes it easy to delete NFTs directly from your portfo
 
 ### **Step 5: OTP Verification**
 
-![](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft5.png)
+![](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/NFT+Creator+Articles+STG/delete+nft/dnft5.png)
 
 
 1.  For added security, an **OTP (One-Time Password)** will be sent to your registered email ID.

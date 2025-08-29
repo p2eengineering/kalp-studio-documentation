@@ -2,7 +2,7 @@
 
 <link  href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"  rel="stylesheet">  <link  rel="stylesheet"  href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-# Release Notes - Kalp Studio Token Creator - **Version:** 2.8.0  
+# Kalp Studio Release Notes (Token Creator) Version 2.8.0  
 
 Kalp Studio is excited to announce the release of the **Token Creator** feature, designed to creation, deployment, and management of tokens on the blockchain. The Token Creator enables users to create custom tokens with ease, using a guided wizard, while providing a comprehensive dashboard for subscription management and token analytics. Here’s what’s new in this release:
 

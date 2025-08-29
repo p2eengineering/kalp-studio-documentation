@@ -19,10 +19,10 @@ To add user to the **address list** in the Kalp Wallet extension, follow these s
 2.  Select **"Address Book"** from the options.
     
 
-![Open image-20241122-101425.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I1.png)
+![Open image-20241122-101425.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I1.png)
 
 
-![Open image-20241122-101513.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I2.png)
+![Open image-20241122-101513.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I2.png)
 
 ### **Step 3: Add a New Address**
 
@@ -31,7 +31,7 @@ To add user to the **address list** in the Kalp Wallet extension, follow these s
 2.  A form will appear where you can input the user's details.
     
 
-![Open image-20241122-101730.png](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I3.png)
+![Open image-20241122-101730.png](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I3.png)
 
 ### **Step 4: Enter User Details**
 
@@ -46,9 +46,9 @@ To add user to the **address list** in the Kalp Wallet extension, follow these s
 2.  Click on **Add Member.**
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I4.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I4.png)
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I5.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I5.png)
 
 ### **Step 6: Verify the Entry**
 
@@ -57,7 +57,7 @@ To add user to the **address list** in the Kalp Wallet extension, follow these s
 2.  Test the entry by attempting a mock transaction (without confirming) to confirm the wallet recognizes the address.
     
 
-![Open](https://docs-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I6.png)
+![Open](https://doc-images-kalp-studio.s3.ap-south-1.amazonaws.com/Extension+Images/How+to+add+user+to+addresslist/I6.png)
 
 ### **Tips:**
 
