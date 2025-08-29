@@ -166,6 +166,12 @@ nav:
             - How to see all asset details: 'Products/NFT Creator/How to see all asset details.md'
             - How to view all your NFTs: 'Products/NFT Creator/How to view all your NFTs (Grid and List views).md'
             - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
+          - Kalp Functions:
+            - Overview: 'Products/Kalp-Studio-Console/Kalp-Functions/overview.md'
+            - Solidity Functions: 'Products/Kalp-Studio-Console/Kalp-Functions/solidity-functions.md'
+            - Transactions: 'Products/Kalp-Studio-Console/Kalp-Functions/transactions.md'
+            - Trigger Types: 'Products/Kalp-Studio-Console/Kalp-Functions/trigger-types.md'
+            - How to use Kalp Functions: 'Products/Kalp-Studio-Console/Kalp-Functions/how-to-use-kalp-functions.md'
           - Email:
             - How to navigate to email: 'Products/Email/How to navigate to email.md'
             - How to generate API Key for Email: 'Products/Email/How to generate API Key for Email.md'
