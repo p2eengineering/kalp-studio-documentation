@@ -12,7 +12,7 @@ theme:
   font:
     text: Source Sans 3, sans-serif
   name: material
-  logo: images/PNG.png 
+  logo: images/PNG.png
     #- link: Introduction/welcome.md
   favicon: images/PNG.png
   features:
@@ -45,7 +45,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-    - toc.follow  
+    - toc.follow
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -134,7 +134,7 @@ nav:
     - Kalp Studio Overview:
       - What is Kalp Studio: 'Introduction/Kalp-studio-overview.md'
       - What is Kalp DLT: 'Introduction/Kalp-DLT.md'
-      - Getting Started: 
+      - Getting Started:
         - How to Sign Up to Kalp Studio Platform: 'Products/Kalp-Studio-Console/Onboarding/How-to-Sign-Up-to-Kalp-Studio-Platform.md'
         - How to Log In to your Kalp Studio Account: 'Products/Kalp-Studio-Console/Onboarding/How-to-log-in-to-your-Kalp-Studio-Account.md'
         - How to Change your Kalp Studio Password: 'Products/Kalp-Studio-Console/Onboarding/How-to-Change-Kalp-Studio-Password.md'
@@ -142,7 +142,7 @@ nav:
         - How to Navigate Kalp Studio Platform as an Existing User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Dashboard-as-an-Existing-User.md'
         - How to Navigate Kalp Studio Dashboard as an New User: 'Products/Kalp-Studio-Console/Dashboard/How-to-Navigate-Kalp-Studio-Platform-as-an-New-User.md'
     - Kalp Studio Console:
-        - Products: 
+        - Products:
           - Kalp Wallet:
             - What is Kalp Wallet?: 'Introduction/Kalp-wallet.md'
             - How to navigate to kalp wallet: 'Products/Kalp Wallet/How-to-navigate-to-kalp-wallet-dashboard.md'
@@ -168,9 +168,9 @@ nav:
             - How to view your catalog: 'Products/NFT Creator/How to view your Catalog.md'
           - Kalp Functions:
             - Overview: 'Products/Kalp-Studio-Console/Kalp-Functions/overview.md'
+            - Trigger Types: 'Products/Kalp-Studio-Console/Kalp-Functions/trigger-types.md'
             - Solidity Functions: 'Products/Kalp-Studio-Console/Kalp-Functions/solidity-functions.md'
             - Transactions: 'Products/Kalp-Studio-Console/Kalp-Functions/transactions.md'
-            - Trigger Types: 'Products/Kalp-Studio-Console/Kalp-Functions/trigger-types.md'
             - How to use Kalp Functions: 'Products/Kalp-Studio-Console/Kalp-Functions/how-to-use-kalp-functions.md'
           - Email:
             - How to navigate to email: 'Products/Email/How to navigate to email.md'
@@ -227,7 +227,7 @@ nav:
             - How to add Payment Gateway on KS Pay: 'Products/KS-Pay/How-to-add-payment-gateway-on-KS-Pay.md'
     - Referral Program:
             - Kalp Studio Referral Program: 'Products/Referral-Program/User Guide - For Kalp Studio Referral Program.md'
-            - Kalp Studio Scholarship Referral: 'Products/Referral-Program/User Guide - For Kalp Scholarship Referral.md'    
+            - Kalp Studio Scholarship Referral: 'Products/Referral-Program/User Guide - For Kalp Scholarship Referral.md'
   - Dev Documentation:
       - Kalp DLT:
           - Use the kalp SDK:
@@ -265,7 +265,7 @@ nav:
           - Generate API endpoints on kalp studio: 'Video-Tutorials/How-to-generate-API-endpoints.md'
           - How to send transaction on kalp studio: 'Video-Tutorials/How-to-send-transactions-on-kalp-studio.md'
   - Release notes:
-  
+
           - Release notes version 2.9.0: 'Release-notes/release-version-2.9.0/release-notes-version-2.9.0.md'
           - Release notes version 2.8.0: 'Release-notes/release-version-2.8.0/release-notes-version-2.8.0.md'
           - Release notes version 2.7.0: 'Release-notes/release-version-2.7.0/release-notes-version-2.7.0.md'
@@ -279,20 +279,20 @@ extra:
 
     - icon: fontawesome/brands/github
       link: https://github.com/thekalpstudio/
-  
-    - icon: fontawesome/brands/x-twitter 
+
+    - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/Kalp_Studio
 
-    - icon: fontawesome/brands/facebook 
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/people/Kalp-Studio/61558481045861/
 
-    - icon: fontawesome/brands/instagram 
+    - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/kalpstudio.official/
 
-    - icon: fontawesome/brands/linkedin 
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/studio-kalp/
 
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/JhD7GFVvfv
 
-generator: false`                                                                       
+generator: false`
